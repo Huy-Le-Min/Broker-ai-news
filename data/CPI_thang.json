@@ -1,0 +1,19 @@
+{
+  "key": "CPI_thang",
+  "title": "CPI VIỆT NAM — CẬP NHẬT THÁNG (mới nhất)",
+  "source": "Tổng cục Thống kê (nso.gov.vn) qua tổng hợp Vietstock/SGGP — WebSearch (Claude)",
+  "as_of": "Tháng 5/2026",
+  "table": [
+    ["Chỉ tiêu", "Giá trị"],
+    ["CPI tháng 5/2026 so tháng trước (MoM)", "+0,29%"],
+    ["CPI tháng 5/2026 so cùng kỳ (YoY)", "+5,6%"],
+    ["CPI bình quân 5 tháng đầu 2026 (so cùng kỳ)", "+4,31%"],
+    ["Lạm phát cơ bản 5 tháng (so cùng kỳ)", "+4,04%"]
+  ],
+  "bullets": [
+    "CPI tháng 5/2026 tăng 0,29% so tháng 4, chủ yếu do giá điện, nước (nắng nóng), vật liệu xây dựng, nhà ở thuê và xăng dầu.",
+    "So cùng kỳ năm trước, CPI tháng 5 tăng khoảng 5,6% — mức tương đối cao.",
+    "Bình quân 5 tháng đầu năm, CPI tăng 4,31% so cùng kỳ; nhóm nhà ở & vật liệu xây dựng (+6,6%) đóng góp lớn nhất (~1,5 điểm % vào CPI chung).",
+    "Lưu ý: số THÁNG lấy qua tổng hợp tin (nso.gov.vn & FRED không vào được từ Python local máy bạn). Số liệu THEO NĂM dài hạn xem file CPI_macro (World Bank)."
+  ]
+}

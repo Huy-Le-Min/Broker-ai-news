@@ -1,0 +1,78 @@
+name: ban-tin
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # 07:00 giờ VN (00:00 UTC) — bản tin sáng
+    - cron: "30 13 * * *"   # 20:30 giờ VN (13:30 UTC) — bản tin tối
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: "morning hoặc evening (chạy tay)"
+        default: "morning"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ban-tin
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Ho_Chi_Minh
+      PYTHONUTF8: "1"
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cài thư viện
+        run: pip install -r requirements.txt
+
+      - name: Xác định ấn bản (sáng/tối)
+        id: ed
+        run: |
+          if [ "${{ github.event.schedule }}" = "30 13 * * *" ]; then
+            echo "edition=evening" >> "$GITHUB_OUTPUT"
+          elif [ -n "${{ github.event.inputs.edition }}" ]; then
+            echo "edition=${{ github.event.inputs.edition }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "edition=morning" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Tuyển tin (Claude API + web search)
+        run: python scripts/cloud_curate.py ${{ steps.ed.outputs.edition }}
+
+      - name: Dựng ảnh bản tin
+        run: |
+          if [ "${{ steps.ed.outputs.edition }}" = "evening" ]; then
+            python scripts/evening_brief.py
+          else
+            python scripts/morning_brief.py
+          fi
+
+      - name: Dựng gallery
+        run: python scripts/build_gallery.py
+
+      - name: Lưu kết quả về repo (giữ lịch sử)
+        run: |
+          git config user.name "ban-tin-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add output/brief data/*.json site || true
+          git commit -m "ban tin ${{ steps.ed.outputs.edition }} $(date +%d-%m-%Y)" || echo "khong co thay doi"
+          git push || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy GitHub Pages
+        uses: actions/deploy-pages@v4

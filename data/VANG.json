@@ -1,0 +1,19 @@
+{
+  "key": "VANG",
+  "title": "GIÁ VÀNG SJC",
+  "source": "Tổng hợp CafeF/SJC qua WebSearch (Claude)",
+  "as_of": "10/06/2026",
+  "table": [
+    ["Chỉ tiêu", "Giá trị"],
+    ["SJC vàng miếng - Mua vào", "144,50 triệu đ/lượng"],
+    ["SJC vàng miếng - Bán ra", "148,50 triệu đ/lượng"],
+    ["Chênh mua-bán", "~4,0 triệu đ/lượng"],
+    ["Đỉnh gần nhất (cuối T1/2026)", "192,20 triệu đ/lượng"]
+  ],
+  "bullets": [
+    "Giá vàng miếng SJC quanh 144,5 (mua) – 148,5 (bán) triệu đ/lượng tại thời điểm cập nhật.",
+    "Đã giảm rất mạnh từ đỉnh 192,2 triệu đ/lượng (cuối tháng 1/2026), tương đương mất hơn 45 triệu đ/lượng.",
+    "Tuần 1–7/6/2026 được mô tả là tuần 'lao dốc' với cả vàng miếng và vàng nhẫn.",
+    "Lưu ý: giá vàng SJC fetch trực tiếp bị chặn (HTTP 403) nên số liệu lấy gián tiếp qua tổng hợp tin — cần Claude/cloud agent fetch lúc chạy, không tự động từ Python local."
+  ]
+}

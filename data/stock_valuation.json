@@ -1,0 +1,25 @@
+{
+  "_note": "Định giá ƯỚC TÍNH do Claude fetch (Tầng B) từ báo cáo CTCK/Simplize/CafeF. CẦN broker kiểm chứng trước khi gửi khách. Mã nào chưa có số đáng tin thì để trống (không bịa).",
+  "_refreshed": "10/06/2026",
+  "_market": "P/E thị trường ~14,0x (dự phóng 2026 ~12,3x); VN30 P/E thường 15–25x",
+  "VCB": {
+    "valuation": "P/B > 2,0x (cao hơn TB ngành ngân hàng ~1,5x); P/E ngành NH ~10,8x",
+    "source": "DNSE / CafeF",
+    "as_of": "Q1/2026"
+  },
+  "HPG": {
+    "valuation": "P/B ~2,1x (cơ sở định giá MBS, vùng hồi phục ngành thép)",
+    "source": "MBS",
+    "as_of": "2026"
+  },
+  "MWG": {
+    "valuation": "P/E dự phóng 2026 ~10–11x (thấp hơn trung bình quá khứ)",
+    "source": "CTCK (tổng hợp)",
+    "as_of": "dự phóng 2026"
+  },
+  "VHM": {
+    "valuation": "P/B ~1,5x (thấp hơn trung bình 5 năm gần nhất)",
+    "source": "MBS",
+    "as_of": "2026"
+  }
+}

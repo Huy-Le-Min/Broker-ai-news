@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vietcap Hub</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: -apple-system, 'Segoe UI', sans-serif; }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+    .slide { display: none; }
+    .slide.active { display: block; }
+  </style>
+</head>
+<body class="bg-slate-50 min-h-screen">
+
+<!-- HEADER -->
+<header class="shadow-md sticky top-0 z-10" style="background:#0F2850">
+  <div class="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div class="w-9 h-9 rounded-lg flex items-center justify-center font-black text-lg text-white" style="background:#B48A1E">V</div>
+      <div>
+        <div class="font-bold text-white leading-tight">Vietcap Hub</div>
+        <div class="text-xs" style="color:#93B4D8">Automation Dashboard</div>
+      </div>
+    </div>
+    <nav class="flex gap-1">
+      <button onclick="showTab('dashboard')" id="tbtn-dashboard"
+        class="px-4 py-1.5 rounded-lg text-sm font-medium text-white transition-all" style="background:rgba(255,255,255,0.18)">
+        📰 Bản tin
+      </button>
+      <button onclick="showTab('keyword')" id="tbtn-keyword"
+        class="px-4 py-1.5 rounded-lg text-sm font-medium text-white/70 hover:text-white transition-all hover:bg-white/10">
+        🔍 Keyword
+      </button>
+      <button onclick="showTab('history')" id="tbtn-history"
+        class="px-4 py-1.5 rounded-lg text-sm font-medium text-white/70 hover:text-white transition-all hover:bg-white/10">
+        📅 Lịch sử
+      </button>
+    </nav>
+  </div>
+</header>
+
+<!-- ═══════════════ DASHBOARD ═══════════════ -->
+<div id="panel-dashboard" class="tab-panel active max-w-6xl mx-auto px-6 py-6">
+  <div class="grid grid-cols-2 gap-6">
+
+    <!-- MORNING -->
+    <div class="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden flex flex-col">
+      <div class="px-5 py-3 flex items-center justify-between" style="background:#185FA5">
+        <span class="text-white font-bold text-sm">🌅 Bản tin sáng</span>
+        <span class="text-xs" style="color:#BDD6F5">{{ today }}</span>
+      </div>
+      <div class="p-4 flex-1 flex flex-col">
+        {% if morning %}
+          {% for img in morning %}
+          <img src="{{ img }}" data-type="morning" data-idx="{{ loop.index0 }}"
+            class="slide{% if loop.first %} active{% endif %} w-full rounded-xl object-contain"
+            style="max-height:500px" />
+          {% endfor %}
+          <div class="flex items-center justify-between mt-3">
+            <button onclick="nav('morning',-1)" class="px-3 py-1 bg-slate-100 hover:bg-slate-200 rounded-lg text-sm">←</button>
+            <span id="morning-counter" class="text-xs text-slate-400">1 / {{ morning|length }}</span>
+            <button onclick="nav('morning',+1)" class="px-3 py-1 bg-slate-100 hover:bg-slate-200 rounded-lg text-sm">→</button>
+          </div>
+        {% else %}
+          <div class="flex-1 flex flex-col items-center justify-center py-12 text-slate-300">
+            <div class="text-5xl mb-3">📰</div>
+            <div class="text-sm">Chưa có bản tin sáng hôm nay</div>
+          </div>
+        {% endif %}
+        <button onclick="runAuto('morning')" id="btn-morning"
+          class="mt-4 w-full py-2 rounded-xl text-sm font-medium text-white"
+          style="background:#185FA5">
+          ▶ Tạo lại từ dữ liệu hiện có
+        </button>
+        <div id="msg-morning" class="mt-2 text-xs rounded-lg px-3 py-2 hidden"></div>
+      </div>
+    </div>
+
+    <!-- EVENING -->
+    <div class="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden flex flex-col">
+      <div class="px-5 py-3 flex items-center justify-between" style="background:#0F2850">
+        <span class="text-white font-bold text-sm">🌙 Bản tin tối</span>
+        <span class="text-xs" style="color:#93B4D8">{{ today }}</span>
+      </div>
+      <div class="p-4 flex-1 flex flex-col">
+        {% if evening %}
+          {% for img in evening %}
+          <img src="{{ img }}" data-type="evening" data-idx="{{ loop.index0 }}"
+            class="slide{% if loop.first %} active{% endif %} w-full rounded-xl object-contain"
+            style="max-height:500px" />
+          {% endfor %}
+          <div class="flex items-center justify-between mt-3">
+            <button onclick="nav('evening',-1)" class="px-3 py-1 bg-slate-100 hover:bg-slate-200 rounded-lg text-sm">←</button>
+            <span id="evening-counter" class="text-xs text-slate-400">1 / {{ evening|length }}</span>
+            <button onclick="nav('evening',+1)" class="px-3 py-1 bg-slate-100 hover:bg-slate-200 rounded-lg text-sm">→</button>
+          </div>
+        {% else %}
+          <div class="flex-1 flex flex-col items-center justify-center py-12 text-slate-300">
+            <div class="text-5xl mb-3">🌙</div>
+            <div class="text-sm">Chưa có bản tin tối hôm nay</div>
+          </div>
+        {% endif %}
+        <button onclick="runAuto('evening')" id="btn-evening"
+          class="mt-4 w-full py-2 rounded-xl text-sm font-medium text-white"
+          style="background:#0F2850">
+          ▶ Tạo lại từ dữ liệu hiện có
+        </button>
+        <div id="msg-evening" class="mt-2 text-xs rounded-lg px-3 py-2 hidden"></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ KEYWORD ═══════════════ -->
+<div id="panel-keyword" class="tab-panel max-w-6xl mx-auto px-6 py-6">
+  <div class="max-w-lg">
+    <div class="bg-white rounded-2xl shadow-sm border border-slate-100 p-6">
+      <h2 class="font-bold text-slate-800 mb-1">🔍 Keyword → Excel</h2>
+      <p class="text-xs text-slate-400 mb-5">
+        Mã cổ phiếu hoặc từ khoá vĩ mô, cách nhau bằng dấu cách.<br>
+        Ví dụ: <code class="bg-slate-100 px-1.5 py-0.5 rounded font-mono">HPG VCB CPI GDP</code>
+      </p>
+      <div class="flex gap-2 mb-1">
+        <input id="kw-input" type="text" placeholder="HPG VCB CPI..."
+          class="flex-1 border border-slate-200 rounded-xl px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-300" />
+        <button onclick="runKeyword()" id="btn-kw"
+          class="px-5 py-2.5 rounded-xl text-sm font-semibold text-white shrink-0"
+          style="background:#185FA5">
+          ▶ Chạy
+        </button>
+      </div>
+      <p class="text-xs text-slate-400 mb-4">Thời gian: ~30–90 giây tuỳ số keyword.</p>
+      <div id="kw-result" class="hidden"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════ HISTORY ═══════════════ -->
+<div id="panel-history" class="tab-panel max-w-6xl mx-auto px-6 py-6">
+  <h2 class="font-bold text-slate-800 mb-4">📅 Lịch sử bản tin</h2>
+  <div class="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden">
+    <table class="w-full text-sm">
+      <thead class="bg-slate-50 border-b border-slate-100">
+        <tr>
+          <th class="px-6 py-3 text-left font-semibold text-slate-500">Ngày</th>
+          <th class="px-6 py-3 text-center font-semibold text-slate-500">🌅 Bản tin sáng</th>
+          <th class="px-6 py-3 text-center font-semibold text-slate-500">🌙 Bản tin tối</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for b in briefs %}
+        <tr class="border-t border-slate-50 hover:bg-slate-50 transition">
+          <td class="px-6 py-3 font-medium text-slate-700">{{ b.date }}</td>
+          <td class="px-6 py-3 text-center">
+            {% if b.morning %}
+            <div class="flex items-center justify-center gap-3">
+              <a href="{{ b.morning[0] }}" target="_blank"
+                class="text-blue-600 hover:underline text-xs">Trang bìa ↗</a>
+              <span class="text-slate-200 text-xs">{{ b.morning|length }} trang</span>
+            </div>
+            {% else %}
+            <span class="text-slate-200">—</span>
+            {% endif %}
+          </td>
+          <td class="px-6 py-3 text-center">
+            {% if b.evening %}
+            <div class="flex items-center justify-center gap-3">
+              <a href="{{ b.evening[0] }}" target="_blank"
+                class="text-blue-600 hover:underline text-xs">Trang bìa ↗</a>
+              <span class="text-slate-200 text-xs">{{ b.evening|length }} trang</span>
+            </div>
+            {% else %}
+            <span class="text-slate-200">—</span>
+            {% endif %}
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="3" class="px-6 py-12 text-center text-slate-300 text-sm">
+            Chưa có bản tin nào trong lịch sử.
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+// ── Tab switching ──────────────────────────────────────────────────
+const TABS = ['dashboard', 'keyword', 'history'];
+function showTab(name) {
+  TABS.forEach(t => {
+    document.getElementById('panel-' + t).classList.toggle('active', t === name);
+    const btn = document.getElementById('tbtn-' + t);
+    if (t === name) {
+      btn.style.background = 'rgba(255,255,255,0.18)';
+      btn.style.opacity = '1';
+    } else {
+      btn.style.background = '';
+      btn.style.opacity = '0.7';
+    }
+  });
+}
+
+// ── Carousel ───────────────────────────────────────────────────────
+const cur = { morning: 0, evening: 0 };
+function getSlides(type) {
+  return [...document.querySelectorAll(`[data-type="${type}"]`)];
+}
+function nav(type, dir) {
+  const slides = getSlides(type);
+  if (!slides.length) return;
+  slides[cur[type]].classList.remove('active');
+  cur[type] = ((cur[type] + dir) + slides.length) % slides.length;
+  slides[cur[type]].classList.add('active');
+  document.getElementById(type + '-counter').textContent =
+    `${cur[type] + 1} / ${slides.length}`;
+}
+document.addEventListener('keydown', e => {
+  if (document.activeElement.tagName === 'INPUT') return;
+  if (e.key === 'ArrowRight') nav('morning', 1);
+  if (e.key === 'ArrowLeft') nav('morning', -1);
+});
+
+// ── Run brief automation ──────────────────────────────────────────
+async function runAuto(type) {
+  const btn = document.getElementById('btn-' + type);
+  const msg = document.getElementById('msg-' + type);
+  const orig = btn.textContent;
+  btn.textContent = '⏳ Đang tạo ảnh...';
+  btn.disabled = true;
+  msg.className = 'mt-2 text-xs rounded-lg px-3 py-2 bg-amber-50 text-amber-700';
+  msg.textContent = 'Đang xử lý, vui lòng chờ...';
+  msg.classList.remove('hidden');
+  try {
+    const r = await fetch('/api/run/' + type, { method: 'POST' });
+    const d = await r.json();
+    if (d.ok) {
+      msg.className = 'mt-2 text-xs rounded-lg px-3 py-2 bg-green-50 text-green-700';
+      msg.textContent = '✓ Tạo xong! Đang tải lại trang...';
+      setTimeout(() => location.reload(), 1200);
+    } else {
+      msg.className = 'mt-2 text-xs rounded-lg px-3 py-2 bg-red-50 text-red-600';
+      msg.textContent = '✗ Lỗi: ' + (d.stderr || d.stdout || '').split('\n').find(Boolean);
+    }
+  } catch (e) {
+    msg.className = 'mt-2 text-xs rounded-lg px-3 py-2 bg-red-50 text-red-600';
+    msg.textContent = '✗ ' + e.message;
+  }
+  btn.textContent = orig;
+  btn.disabled = false;
+}
+
+// ── Keyword tool ──────────────────────────────────────────────────
+async function runKeyword() {
+  const input = document.getElementById('kw-input');
+  const kws = input.value.trim().split(/\s+/).filter(Boolean);
+  if (!kws.length) { input.focus(); return; }
+  const btn = document.getElementById('btn-kw');
+  const res = document.getElementById('kw-result');
+  btn.textContent = '⏳ Đang chạy...';
+  btn.disabled = true;
+  res.innerHTML = '<div class="text-xs text-slate-400 bg-slate-50 rounded-xl p-3">Đang xử lý — vnstock cần 30–90 giây cho nhiều keyword...</div>';
+  res.classList.remove('hidden');
+  try {
+    const r = await fetch('/api/run/keyword', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ keywords: kws }),
+    });
+    const d = await r.json();
+    if (d.ok) {
+      let html = '<div class="bg-green-50 rounded-xl p-4 mb-3">';
+      html += '<div class="font-semibold text-green-700 text-xs mb-2">✓ Hoàn thành!</div>';
+      if (d.files && d.files.length) {
+        html += '<div class="text-xs text-slate-500 mb-2">File Excel:</div>';
+        d.files.forEach(f => {
+          const name = f.split('/').pop();
+          html += `<a href="${f}" download class="flex items-center gap-1.5 text-blue-600 hover:text-blue-800 text-xs py-0.5">📊 ${name}</a>`;
+        });
+      }
+      html += '</div>';
+      html += `<pre class="text-xs text-slate-500 bg-slate-50 rounded-xl p-3 max-h-40 overflow-auto whitespace-pre-wrap">${d.stdout}</pre>`;
+      res.innerHTML = html;
+    } else {
+      res.innerHTML = `<div class="bg-red-50 rounded-xl p-4 text-red-600 text-xs">
+        <div class="font-semibold mb-1">✗ Lỗi</div>
+        <pre class="whitespace-pre-wrap max-h-40 overflow-auto">${d.stderr || d.stdout}</pre>
+      </div>`;
+    }
+  } catch (e) {
+    res.innerHTML = `<div class="bg-red-50 rounded-xl p-4 text-red-600 text-xs">✗ ${e.message}</div>`;
+  }
+  btn.textContent = '▶ Chạy';
+  btn.disabled = false;
+}
+document.getElementById('kw-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter') runKeyword();
+});
+</script>
+</body>
+</html>

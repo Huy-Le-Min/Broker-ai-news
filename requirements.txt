@@ -1,0 +1,6 @@
+anthropic
+pillow
+requests
+pandas
+openpyxl
+vnstock

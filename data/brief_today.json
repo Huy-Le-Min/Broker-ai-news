@@ -1,0 +1,69 @@
+{
+  "date": "19/6/2026",
+  "title": "5 tin cần biết sáng nay",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "snapshot": [
+    {"label": "Tỷ giá USD/VND", "value": "26.420", "change": "+0,1%", "dir": "up"},
+    {"label": "Vàng SJC", "value": "≈151,5tr", "change": "+0,3%", "dir": "up"},
+    {"label": "Dầu Brent", "value": "≈83,8$", "change": "-4,0%", "dir": "down"}
+  ],
+  "today_watch": "Hôm nay 19/6: Mỹ–Iran ký chính thức thỏa thuận hòa bình tại Thụy Sĩ (tác động giá dầu); thị trường tiếp tục tiêu hóa FOMC 'diều hâu' — theo dõi tỷ giá USD/VND và dòng vốn khối ngoại.",
+  "items": [
+    {
+      "cat": "Trong nước",
+      "headline": "VN-Index bứt phá +1,34% lên 1.830,47 điểm, vượt xa mốc 1.800",
+      "bullets": [
+        "VN-Index tăng 24,27 điểm (+1,34%); HNX-Index tăng 1,80% lên 336,16 điểm.",
+        "Đà tăng chủ yếu nhờ nhóm cổ phiếu trụ kéo chỉ số ('phiên kéo trụ').",
+        "Thanh khoản sụt giảm trở lại — CTCK lưu ý chưa đủ yếu tố xác nhận hồi phục bền vững."
+      ],
+      "insight": "Chỉ số vượt 1.800 là tín hiệu kỹ thuật tốt, nhưng tăng nhờ kéo trụ + thanh khoản thấp khiến độ tin cậy chưa cao; cần dòng tiền lan tỏa để xác nhận xu hướng.",
+      "source": "VnEconomy"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Khối ngoại bán ròng gần 1.900 tỷ nhưng ngược dòng gom VIC, PC1",
+      "bullets": [
+        "Bán ròng 1.867,8 tỷ đồng toàn thị trường (khớp lệnh 1.897,7 tỷ), tập trung trên HSX.",
+        "Mua ròng nhẹ ở hai sàn còn lại; mua ròng đáng chú ý hai mã VIC và PC1.",
+        "Áp lực bán ròng ngoại kéo dài là điểm trừ dù chỉ số tăng mạnh."
+      ],
+      "insight": "Khối ngoại bán mạnh phần lớn nhưng chọn lọc gom VIC/PC1 cho thấy dòng tiền ngoại không rút đồng loạt mà tái cơ cấu — VIC tiếp tục là tâm điểm.",
+      "source": "VnEconomy"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "NHNN định hướng tăng trưởng tín dụng 2026 khoảng 15%, siết về chất",
+      "bullets": [
+        "Thấp hơn mức 19% của 2025 dù mục tiêu GDP đặt tối thiểu 10% — ưu tiên chất lượng tín dụng.",
+        "Vốn hướng vào sản xuất – kinh doanh, công nghiệp – xây dựng, công nghệ cao; kiểm soát lĩnh vực rủi ro."
+      ],
+      "insight": "Tín dụng chậm nhưng 'thực chất' có thể ghìm lợi nhuận ngân hàng, đổi lại giảm rủi ro nợ xấu — ưu tiên ngân hàng có chất lượng tài sản tốt.",
+      "source": "VnEconomy"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "Mỹ–Iran ký thỏa thuận hòa bình, chứng khoán châu Á bùng nổ",
+      "bullets": [
+        "Thỏa thuận được ký chính thức tại Thụy Sĩ ngày 19/6, kết thúc gần 4 tháng xung đột.",
+        "Chứng khoán châu Á rally mạnh: Kospi (Hàn) +5,1%, Nikkei (Nhật) +3,6%, Topix +2,6%, ASX (Úc) +1,3%.",
+        "Tâm lý risk-on lan rộng nhờ kỳ vọng eo Hormuz mở lại và nguồn cung năng lượng ổn định."
+      ],
+      "insight": "Sóng risk-on khu vực hỗ trợ tâm lý TTCK VN, nhưng dòng vốn ngoại vẫn thận trọng (đang bán ròng) do lo ngại FOMC 'diều hâu'.",
+      "source": "CNBC · Reuters"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "Dầu giảm ~4% sau thỏa thuận; vàng thế giới vẫn neo cao quanh 4.300 USD",
+      "bullets": [
+        "Dầu WTI giảm 4,77% về 80,83 USD/thùng; Brent giảm ~4% còn ~83,8 USD/thùng.",
+        "Vàng giao ngay tăng gần 2% lên ~4.302 USD/oz — thị trường vẫn chưa hoàn toàn tin vào độ bền của thỏa thuận.",
+        "Áp lực giảm giá dầu đến từ kỳ vọng nguồn cung Trung Đông hồi phục."
+      ],
+      "insight": "Dầu hạ nhiệt giảm áp lực lạm phát & chi phí đầu vào (lợi vận tải/nhựa/thép, bất lợi dầu khí); vàng neo cao phản ánh nhu cầu trú ẩn còn lớn.",
+      "source": "Trading Economics · CNBC"
+    }
+  ],
+  "hashtags": ["#BảnTinSáng", "#VNIndex", "#KhốiNgoại", "#MỹIran", "#GiáDầu", "#ChứngKhoán", "#Vietcap"],
+  "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
+}

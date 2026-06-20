@@ -1,0 +1,78 @@
+{
+  "date": "18/6/2026",
+  "title": "Điểm lại phiên · tin cuối ngày",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "session": {
+    "vnindex_close": "1.807,9",
+    "vnindex_change": "+0,5%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng",
+    "foreign_dir": "sell",
+    "volume": "16.650 tỷ",
+    "top_gainer": "CK & Bán lẻ"
+  },
+  "snapshot": [
+    {"label": "Tỷ giá USD/VND", "value": "26.420", "change": "+0,1%", "dir": "up"},
+    {"label": "Vàng SJC", "value": "151,2tr", "change": "+0,2%", "dir": "up"},
+    {"label": "Dầu Brent", "value": "≈80,9$", "change": "-2,5%", "dir": "down"}
+  ],
+  "tomorrow_watch": "Mai 19/6: lễ ký thỏa thuận Mỹ–Iran (tác động giá dầu); thị trường tiêu hóa FOMC 'diều hâu' — theo dõi tỷ giá USD/VND và động thái khối ngoại.",
+  "items": [
+    {
+      "cat": "Trong nước",
+      "headline": "VN-Index đóng cửa 1.807,9 điểm (+0,5%), giữ vững mốc 1.800",
+      "bullets": [
+        "Tăng 8,6 điểm nhờ nhóm Chứng khoán và Bán lẻ dẫn dắt; VIC, VHM và dầu khí là lực cản chính.",
+        "Độ rộng cải thiện nhưng lực mua chưa thực sự mạnh — chỉ số tăng đều từ sáng đến cuối phiên.",
+        "Mốc 1.800 được bảo toàn, là phép thử tâm lý quan trọng của tuần."
+      ],
+      "insight": "Giữ 1.800 với dòng tiền lan sang CK/bán lẻ là tín hiệu tích cực, song cần thanh khoản xác nhận để hướng lên vùng 1.840.",
+      "source": "CafeF"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Thanh khoản giảm còn ~16.650 tỷ, khối ngoại tiếp tục bán ròng",
+      "bullets": [
+        "Giá trị khớp lệnh HoSE giảm mạnh — nhà đầu tư thận trọng chờ kết quả FOMC rạng sáng.",
+        "Khối ngoại bán ròng trên HSX và HNX, chỉ mua ròng nhẹ ở UPCOM.",
+        "Dòng tiền phân hóa và chọn lọc theo nhóm ngành."
+      ],
+      "insight": "Thanh khoản thấp + khối ngoại bán ròng cho thấy thị trường còn dè dặt, chờ chất xúc tác rõ ràng từ chính sách.",
+      "source": "Vietstock"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "NHNN định hướng tăng trưởng tín dụng 2026 khoảng 15%",
+      "bullets": [
+        "Thấp hơn mức 19% của 2025 dù mục tiêu GDP đặt tối thiểu 10% — ưu tiên chất lượng tín dụng.",
+        "Vốn hướng vào sản xuất – kinh doanh, công nghiệp – xây dựng, công nghệ cao; kiểm soát lĩnh vực rủi ro."
+      ],
+      "insight": "Tín dụng chậm nhưng 'thực chất' có thể ghìm lợi nhuận ngân hàng, đổi lại giảm rủi ro nợ xấu — ưu tiên ngân hàng chất lượng tài sản tốt.",
+      "source": "VnEconomy"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "FOMC giữ lãi suất nhưng dot plot báo hiệu 1 đợt TĂNG trong 2026",
+      "bullets": [
+        "Fed giữ vùng 3,50–3,75% trong cuộc họp đầu của Chủ tịch Kevin Warsh; bỏ định hướng nghiêng về cắt giảm.",
+        "Trung vị dự báo lãi suất cuối 2026 nâng lên 3,8% (từ 3,4% hồi tháng 3) — hàm ý 1 đợt tăng.",
+        "CPI Mỹ tháng 5 ở 4,2% YoY, thất nghiệp 4,3% — củng cố quan điểm thận trọng."
+      ],
+      "insight": "Tông 'diều hâu' đẩy USD mạnh lên → áp lực lên tỷ giá USD/VND (~26.400) và dòng vốn ngoại; nhóm vay nợ USD và BĐS đòn bẩy chịu sức ép.",
+      "source": "CNBC · NPR"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "Dầu Brent mất mốc 81 USD; vàng SJC áp sát 152 triệu/lượng",
+      "bullets": [
+        "Dầu WTI giảm hơn 3,5% xuống dưới 78 USD do kỳ vọng nguồn cung Trung Đông hồi phục sau thỏa thuận Mỹ–Iran.",
+        "Vàng trong nước tăng trở lại, nhẫn loại 1–5 chỉ niêm yết 148,7–151,2 triệu đồng/lượng.",
+        "Lễ ký Mỹ–Iran dự kiến 19/6; chuỗi cung ứng dầu cần nhiều tháng để bình thường hóa."
+      ],
+      "insight": "Dầu hạ nhiệt giảm áp lực lạm phát & chi phí đầu vào (lợi vận tải/nhựa/thép), bất lợi dầu khí; vàng tăng phản ánh nhu cầu trú ẩn.",
+      "source": "Reuters · VietNamNet"
+    }
+  ],
+  "hashtags": ["#BảnTinTối", "#ChứngKhoán", "#Vietcap", "#VNIndex", "#FOMC", "#GiáDầu"],
+  "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
+}

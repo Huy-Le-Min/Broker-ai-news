@@ -1,0 +1,46 @@
+{
+  "_note": "Số vĩ mô MỚI NHẤT do Claude fetch (Tầng B) từ báo cáo KT-XH của Cục Thống kê (nso.gov.vn) + SBV. Claude/cloud agent refresh định kỳ. Bổ sung cho World Bank (theo năm, trễ).",
+  "_refreshed": "10/06/2026",
+  "CPI": {
+    "latest": "Tháng 5/2026: CPI +0,29% so tháng trước, +5,6% so cùng kỳ; bình quân 5 tháng +4,31% YoY (lạm phát cơ bản +4,04%)",
+    "as_of": "Tháng 5/2026",
+    "source": "Cục Thống kê (nso.gov.vn) qua Vietstock/SGGP",
+    "url": "https://vietstock.vn/2026/06/5-thang-dau-nam-2026-cpi-tang-431-lam-phat-co-ban-tang-404so-voi-cung-ky-nam-truoc-761-1449937.htm"
+  },
+  "GDP": {
+    "latest": "Quý I/2026: GDP +7,83% YoY (CN-XD +8,92%, dịch vụ +8,18%, NLN-TS +3,58%); cùng kỳ Q1/2025 +7,07%",
+    "as_of": "Quý I/2026",
+    "source": "Cục Thống kê (Bộ Tài chính), công bố 04/4/2026",
+    "url": "https://www.nso.gov.vn/en/data-and-statistics/2026/04/report-on-socio-economic-situation-in-quarter-i-in-2026/"
+  },
+  "FX": {
+    "latest": "10/6/2026: tỷ giá trung tâm SBV 25.153 VND/USD; Vietcombank mua CK 26.130 – bán 26.410; biên độ trần/sàn 23.891–26.402",
+    "as_of": "10/6/2026",
+    "source": "Ngân hàng Nhà nước / Vietcombank",
+    "url": "https://www.vietcombank.com.vn/vi-VN/KHCN/Cong-cu-Tien-ich/Ty-gia"
+  },
+  "IIP": {
+    "latest": "Tháng 5/2026: IIP +8,8% YoY; tính chung 5 tháng +9,1% (cao nhất 4 năm); chế biến chế tạo +9,5%, đóng góp 7,4 điểm % vào tăng chung",
+    "as_of": "Tháng 5 & 5 tháng 2026",
+    "source": "Cục Thống kê (nso.gov.vn) qua VietnamPlus",
+    "url": "https://www.vietnamplus.vn/kinh-te-5-thang-khoi-sac-tang-toc-cho-muc-tieu-hai-con-so-post1114379.vnp"
+  },
+  "BANLE": {
+    "latest": "5 tháng 2026: tổng mức bán lẻ hàng hóa & doanh thu dịch vụ tiêu dùng +11% (cao nhất kể từ 2024); khách quốc tế ~11 triệu lượt (+15%, kỷ lục)",
+    "as_of": "5 tháng 2026",
+    "source": "Cục Thống kê (nso.gov.vn) qua VietnamPlus",
+    "url": "https://www.vietnamplus.vn/kinh-te-5-thang-khoi-sac-tang-toc-cho-muc-tieu-hai-con-so-post1114379.vnp"
+  },
+  "FDI": {
+    "latest": "5 tháng 2026: vốn FDI đăng ký 24,81 tỷ USD (+34,9%); vốn thực hiện 9,75 tỷ USD (+9,6%, cao nhất 5 năm)",
+    "as_of": "5 tháng 2026",
+    "source": "Cục Thống kê (nso.gov.vn) qua VnEconomy/Thời báo Tài chính",
+    "url": "https://thoibaotaichinhvietnam.vn/infographics-5-thang-dau-nam-2026-von-dau-tu-nuoc-ngoai-dang-ky-vao-viet-nam-dat-2481-ty-usd-198684.html"
+  },
+  "XNK": {
+    "latest": "5 tháng 2026: tổng kim ngạch 445,12 tỷ USD (+25%); xuất khẩu 215,66 (+19,5%); nhập khẩu 229,46 (+30,8%); NHẬP SIÊU 13,8 tỷ USD (cùng kỳ 2025 xuất siêu 5,1 tỷ)",
+    "as_of": "5 tháng 2026",
+    "source": "Cục Thống kê (nso.gov.vn) qua Báo Tin Tức/Đại Đoàn Kết",
+    "url": "https://daidoanket.vn/5-thang-dau-nam-2026-cong-nghiep-xuat-nhap-khau-lap-nhieu-ky-luc-tang-truong.html"
+  }
+}
