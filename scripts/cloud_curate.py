@@ -30,7 +30,7 @@ PLAYBOOK = read("context/brief_playbook.md")
 SOURCES = read("context/sources.md")
 
 MORNING_SCHEMA = """{
-  "date": "%s",
+  "date": "__DATE__",
   "title": "5 tin cần biết sáng nay",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
   "snapshot": [
@@ -51,7 +51,7 @@ MORNING_SCHEMA = """{
 }"""
 
 EVENING_SCHEMA = """{
-  "date": "%s",
+  "date": "__DATE__",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {"vnindex_close":"1.8xx,x","vnindex_change":"±x,x%","vnindex_dir":"up|down","foreign_net":"Bán ròng N tỷ | Mua ròng N tỷ","foreign_dir":"buy|sell","volume":"N tỷ","top_gainer":"nhóm/mã dẫn dắt"},
@@ -77,10 +77,10 @@ def build_prompt(edition):
     if edition == "evening":
         kind = ("BẢN TIN TỐI (tổng kết phiên giao dịch hôm nay + tin tối). Thêm thống kê phiên: "
                 "VN-Index đóng cửa, khối ngoại mua/bán ròng, thanh khoản, nhóm dẫn dắt.")
-        schema = EVENING_SCHEMA % TODAY
+        schema = EVENING_SCHEMA.replace("__DATE__", TODAY)
     else:
         kind = "BẢN TIN SÁNG (5 tin cần biết quan trọng nhất qua đêm & sáng nay)."
-        schema = MORNING_SCHEMA % TODAY
+        schema = MORNING_SCHEMA.replace("__DATE__", TODAY)
     return f"""Hôm nay là {TODAY} (giờ Việt Nam). Bạn tạo dữ liệu cho {kind}
 
 Áp dụng PHƯƠNG PHÁP trong playbook dưới đây: quét rộng → chấm điểm tác động → lọc TOP 5 tin
