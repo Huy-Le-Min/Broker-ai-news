@@ -17,6 +17,7 @@ os.makedirs(OUT, exist_ok=True)
 
 W, H = 1080, 1350
 PAD = 80
+FOOTER_TOP = H - 158
 INK = (17, 17, 17)
 NAVY = (15, 40, 90)
 GOLD = (180, 138, 30)
@@ -93,15 +94,22 @@ def session_row(d, y, sess):
         return y
     gap = 18
     cw = (W - 2 * PAD - gap * (len(items) - 1)) / len(items)
-    fl, fv = font(22), font(30, True)
+    iw = cw - 28
     for i, (lbl, val, chg, col) in enumerate(items):
         x = PAD + i * (cw + gap)
         d.rounded_rectangle([x, y, x + cw, y + 108], 14, fill=(228, 234, 248))
-        d.text((x + 14, y + 12), lbl, font=fl, fill=MUTED)
-        d.text((x + 14, y + 40), val, font=fv, fill=col)
+        d.text((x + 14, y + 12), lbl, font=fit(d, lbl, 22, iw, False, 13), fill=MUTED)
+        d.text((x + 14, y + 42), str(val), font=fit(d, str(val), 30, iw, True, 14), fill=col)
         if chg:
-            d.text((x + 14, y + 76), chg, font=font(24, True), fill=col)
+            d.text((x + 14, y + 78), str(chg), font=fit(d, str(chg), 24, iw, True, 13), fill=col)
     return y + 108 + 20
+
+
+def fit(d, text, base, maxw, bold=False, mins=14):
+    s = base
+    while s > mins and d.textlength(text, font=font(s, bold)) > maxw:
+        s -= 2
+    return font(s, bold)
 
 
 def snapshot_row(d, y, snaps):
@@ -110,14 +118,15 @@ def snapshot_row(d, y, snaps):
         return y
     gap = 18
     cw = (W - 2 * PAD - gap * (len(snaps) - 1)) / len(snaps)
-    fl, fv, fc = font(22), font(34, True), font(24, True)
+    iw = cw - 28
     for i, s in enumerate(snaps):
         x = PAD + i * (cw + gap)
         d.rounded_rectangle([x, y, x + cw, y + 120], 14, fill=LIGHT)
-        d.text((x + 18, y + 16), s["label"], font=fl, fill=MUTED)
-        d.text((x + 18, y + 46), str(s["value"]), font=fv, fill=INK)
+        d.text((x + 14, y + 14), str(s["label"]), font=fit(d, str(s["label"]), 22, iw, False, 13), fill=MUTED)
+        d.text((x + 14, y + 46), str(s["value"]), font=fit(d, str(s["value"]), 32, iw, True, 15), fill=INK)
         col = (15, 110, 86) if s.get("dir") == "up" else (163, 45, 45) if s.get("dir") == "down" else MUTED
-        d.text((x + 18, y + 88), str(s.get("change", "")), font=fc, fill=col)
+        ch = str(s.get("change", ""))
+        d.text((x + 14, y + 88), ch, font=fit(d, ch, 22, iw, True, 13), fill=col)
     return y + 120 + 24
 
 
@@ -175,16 +184,25 @@ def cover(data):
             y += 12
         y += 12
     tw = data.get("tomorrow_watch")
-    if tw:
-        tb = font(26)
-        lines = wrap(d, tw, tb, W - 2 * PAD - 36)
-        box_h = 56 + len(lines) * 36
+    if tw and y < FOOTER_TOP - 60:
+        avail = FOOTER_TOP - y
+        sz = 26
+        while sz >= 20:
+            lines = wrap(d, tw, font(sz), W - 2 * PAD - 36)
+            if 44 + len(lines) * (sz + 8) <= avail:
+                break
+            sz -= 2
+        maxl = max(1, (avail - 44) // (sz + 8))
+        if len(lines) > maxl:
+            lines = lines[:maxl]
+            lines[-1] = lines[-1][:58].rstrip() + "…"
+        box_h = 44 + len(lines) * (sz + 8)
         d.rounded_rectangle([PAD, y, W - PAD, y + box_h], 14, fill=(255, 247, 220))
-        d.text((PAD + 18, y + 14), "NGÀY MAI CHÚ Ý", font=font(24, True), fill=GOLD)
-        yy = y + 50
+        d.text((PAD + 18, y + 12), "NGÀY MAI CHÚ Ý", font=font(22, True), fill=GOLD)
+        yy = y + 44
         for ln in lines:
-            d.text((PAD + 18, yy), ln, font=tb, fill=INK)
-            yy += 36
+            d.text((PAD + 18, yy), ln, font=font(sz), fill=INK)
+            yy += sz + 8
     d.text((PAD, H - 200), "Vuốt xem chi tiết từng tin →", font=font(26, True), fill=NAVY)
     footer(d, data)
     return img
@@ -213,15 +231,25 @@ def detail(data, idx):
             y += 46
         y += 18
     ins = it.get("insight")
-    if ins:
-        fi = font(30)
-        lines = wrap(d, ins, fi, W - 2 * PAD - 36)
-        bh = 24 + len(lines) * 40
-        d.rounded_rectangle([PAD, y + 8, W - PAD, y + 8 + bh], 14, fill=(255, 247, 220))
-        yy = y + 20
+    if ins and y < FOOTER_TOP - 50:
+        top = y + 8
+        avail = FOOTER_TOP - top
+        sz = 30
+        while sz >= 22:
+            lines = wrap(d, ins, font(sz), W - 2 * PAD - 40)
+            if 24 + len(lines) * (sz + 8) <= avail:
+                break
+            sz -= 2
+        maxl = max(1, (avail - 24) // (sz + 8))
+        if len(lines) > maxl:
+            lines = lines[:maxl]
+            lines[-1] = lines[-1][:64].rstrip() + "…"
+        bh = 24 + len(lines) * (sz + 8)
+        d.rounded_rectangle([PAD, top, W - PAD, top + bh], 14, fill=(255, 247, 220))
+        yy = top + 16
         for ln in lines:
-            d.text((PAD + 20, yy), ln, font=fi, fill=INK)
-            yy += 40
+            d.text((PAD + 20, yy), ln, font=font(sz), fill=INK)
+            yy += sz + 8
     footer(d, data, page_hint=f"{idx + 2}/{len(data['items']) + 1}")
     return img
 

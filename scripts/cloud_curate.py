@@ -88,6 +88,14 @@ def build_prompt(edition):
 (3 "Trong nước" + 2 "Quốc tế"); mọi CON SỐ quan trọng đối chiếu ≥2 nguồn, KHÔNG bịa;
 "insight" là 1 câu góc nhìn tác động, KHÔNG phải khuyến nghị mua/bán.
 
+GIỚI HẠN ĐỘ DÀI (bắt buộc, vì hiển thị trên thẻ ảnh):
+- headline: ≤ 14 từ.
+- mỗi bullet: ≤ 28 từ, súc tích; TUYỆT ĐỐI KHÔNG nhét "(nguồn: ...)" trong bullet (đã có field "source").
+- insight: ≤ 28 từ, 1 câu.
+- today_watch / tomorrow_watch: ≤ 26 từ.
+- snapshot.value: CHỈ 1 con số ngắn (vd "26.440", "≈148,7tr", "80,6$") — KHÔNG liệt kê nhiều mức.
+- snapshot.change: ngắn gọn dạng "±X%" (vd "-8,5%"), không thêm chữ.
+
 Dùng web search để lấy tin & số liệu MỚI NHẤT (snapshot tỷ giá USD/VND, vàng SJC, dầu Brent).
 
 === PLAYBOOK ===
