@@ -1,33 +1,38 @@
 📌 5 TIN CẦN BIẾT SÁNG NAY (22/6/2026)
-📈 Tỷ giá USD/VND TT: 25.183 | NH: ~26.440 | Tự do: ~26.780 (+0,01%)  |  Vàng SJC 145,7 – 148,7 triệu đ/lượng (+1,5 triệu đ/lượng so với cuối tuần)  |  Dầu Brent ~80,57 $ (-8,5% tuần trước)
+📈 Tỷ giá USD/VND 26.440 (+0,1%)  |  Vàng SJC ≈148,7tr (+1,7%)  |  Dầu Brent 80,6$ (+0,9%)
 
 🇻🇳 TRONG NƯỚC:
-1. MSCI ghi nhận cải cách nhưng 'giữ nguyên điểm' — chờ kết quả phân loại 24/6
-   • Rạng sáng 19/6, MSCI công bố Global Market Accessibility Review 2026: ghi nhận Việt Nam tiếp tục cải cách (global broker, CCP, room ngoại, tiếng Anh) nhưng giữ nguyên toàn bộ 18 tiêu chí, trong đó 8 tiêu chí vẫn ở mức '-' (cần cải thiện) — chưa có 'điểm cộng' mới so với kỳ trước (nguồn: Sputnik VN, VietnamBiz).
-   • Báo cáo quan trọng hơn — Annual Market Classification Review 2026 (quyết định Watchlist) — dự kiến công bố rạng sáng 24/6 giờ VN. SSI Research đánh giá Việt Nam có khả năng cao được vào Watchlist nhờ đáp ứng tiệm cận 17/18 tiêu chí MSCI; rào cản còn lại là tự do hóa ngoại hối (FX). FTSE Russell đã xác nhận nâng hạng VN lên Secondary Emerging Market hiệu lực 21/9/2026.
-   → Kết quả ngày 24/6 là sự kiện trọng đại nhất của TTCK VN trong tháng 6 — nếu được đưa vào Watchlist, kỳ vọng dòng vốn ngoại tỷ USD sẽ được định giá lại toàn thị trường, đặc biệt nhóm bluechip có room ngoại cao; nếu không, rủi ro điều chỉnh tâm lý ngắn hạn gia tăng.
-2. VN-Index kết phiên 19/6 tại 1.824,53 điểm — khối ngoại bán ròng gần 2.900 tỷ đồng trong tuần
-   • Phiên 19/6: VN-Index giảm gần 6 điểm xuống 1.824,53 điểm; 15/18 ngành giảm điểm; khối ngoại bán ròng ~1.900 tỷ đồng phiên đó, lũy kế cả tuần 15–19/6 bán ròng gần 2.860–2.900 tỷ đồng toàn thị trường; VHM, FPT, TCB, VPB bị xả mạnh (nguồn: VietnamBiz, CafeF).
-   • Thị trường chứng quyền và CTCK nhận định tuần 22–26/6 VN-Index có thể tiếp tục giằng co vùng 1.820–1.850 điểm; thanh khoản duy trì dưới trung bình 20 phiên; dòng tiền MFI yếu (chỉ báo 33); rủi ro điều chỉnh về 1.800 nếu không giữ được vùng kháng cự (nguồn: Vietstock, Tinnhanhchungkhoan).
-   → Áp lực bán ròng của khối ngoại kéo dài sang tuần mới cho thấy tâm lý thận trọng vẫn bao trùm trước hai sự kiện lớn trong tuần (kết quả MSCI + dữ liệu vĩ mô Mỹ), khiến thanh khoản nội địa khó cải thiện đột biến.
-3. USD tự do vọt lên 26.780 đ — DXY vượt 100 điểm, áp lực tỷ giá mở đầu tuần
-   • Sáng 22/6, tỷ giá trung tâm NHNN: 25.183 đồng/USD (tăng 2 đồng so với phiên trước). Tỷ giá ngân hàng thương mại (Vietcombank): mua 26.090 – bán 26.440 đồng/USD. Tỷ giá tự do bật tăng mạnh 170–180 đồng lên 26.750–26.780 đồng/USD, vượt xa mặt bằng niêm yết ngân hàng (nguồn: Thời báo Tài chính VN, Investing.com).
-   • Chỉ số DXY tăng lên 100,77 điểm sáng 22/6, được thúc đẩy bởi lập trường 'diều hâu' của Fed và nguy cơ đổ vỡ đàm phán Mỹ–Iran tại Thụy Sĩ. UOB dự báo NHNN giữ nguyên lãi suất điều hành 4,5% đến hết 2026; VND có thể chịu áp lực ngắn hạn trong Q3/2026 (nguồn: Thời báo Tài chính VN).
-   → USD tự do vọt khỏi vùng ngân hàng thương mại là tín hiệu căng thẳng tỷ giá đầu tuần — ảnh hưởng trực tiếp đến chi phí nhập khẩu nguyên liệu, biên lợi nhuận doanh nghiệp sản xuất và tâm lý giải ngân của khối ngoại trên TTCK.
+1. MSCI ghi nhận cải cách VN nhưng chưa nâng hạng tháng 6
+   • MSCI công bố báo cáo tiếp cận thị trường 19/6: ghi nhận Global Broker, CCP thành lập, room ngoại mở rộng; 17/18 tiêu chí đã tiệm cận đáp ứng.
+   • Maybank MSVN và Mirae Asset đánh giá Việt Nam chưa được cộng điểm; rào cản còn lại là tự do hóa FX và tỷ lệ free-float thấp.
+   • Báo cáo phân loại thị trường chính thức — quyết định Watchlist — công bố rạng sáng 24/6 theo giờ Việt Nam.
+   → Kết quả 24/6 là cú hích hoặc lực cản ngắn hạn lớn nhất với dòng vốn ngoại và nhóm cổ phiếu vốn hóa lớn tuần này.
+2. FDI 5 tháng đạt 24,81 tỷ USD, tăng 34,9% — kỷ lục mới
+   • Tổng vốn FDI đăng ký 5 tháng đầu năm 2026 đạt 24,81 tỷ USD, tăng 34,9% so với cùng kỳ; vốn thực hiện đạt mức cao nhất 5 năm.
+   • Singapore và Hàn Quốc dẫn đầu; dòng vốn tập trung vào chế biến chế tạo chiếm 82,7%; Thái Nguyên hút hơn 5,75 tỷ USD vốn cấp mới.
+   • IIP 5 tháng tăng 9,1% — mức tăng cùng kỳ cao nhất 4 năm; xuất khẩu máy tính/điện tử sang Mỹ đạt 22,54 tỷ USD trong 5 tháng.
+   → Dòng FDI kỷ lục củng cố nền tảng vĩ mô và hỗ trợ định giá nhóm BĐS khu công nghiệp, ngân hàng phục vụ doanh nghiệp nước ngoài.
+3. Tỷ giá trung tâm 25.183 đồng; USD tự do vọt lên 26.780
+   • NHNN công bố tỷ giá trung tâm sáng 22/6 ở mức 25.183 VND/USD, tăng 2 đồng so với phiên trước; trần giao dịch ngân hàng là 26.442 đồng.
+   • USD tự do tăng mạnh 170–180 đồng hai chiều lên 26.750–26.780 đồng/USD; DXY vọt lên 100,77 điểm sau tín hiệu 'diều hâu' từ Fed Warsh.
+   • UOB dự báo NHNN giữ lãi suất điều hành 4,5% đến hết 2026; VND chịu áp lực ngắn hạn quý III nhưng triển vọng trung hạn tích cực.
+   → Tỷ giá tự do vượt xa trần ngân hàng là tín hiệu cảnh báo áp lực nhập khẩu lạm phát và chi phí vốn ngoại tệ cho doanh nghiệp.
 
 🌏 QUỐC TẾ:
-4. Fed 'diều hâu' lần đầu dưới Warsh: giữ lãi suất 3,5–3,75%, Dot Plot xoay sang khả năng tăng lãi
-   • Cuộc họp FOMC 17/6 (đầu tiên do Chủ tịch Kevin Warsh điều hành): giữ nguyên lãi suất 3,50–3,75% (12-0); nhưng Dot Plot đảo chiều — 9/18 quan chức kỳ vọng ít nhất 1 lần tăng lãi trước cuối 2026 (6 người dự báo 2 lần tăng). Dự báo PCE 2026 nâng mạnh lên 3,6% (từ mức 2,7% tháng 3); CPI tháng 5 đạt 4,2% — mức cao nhất kể từ tháng 4/2023 (nguồn: CNBC, Fox Business, Trading Economics).
-   • Warsh không nộp 'dot' cá nhân, tuyên bố loại bỏ forward guidance, lập 5 task force cải tổ Fed. Thị trường futures định giá ~77% xác suất Fed tăng lãi trước tháng 12/2026. Đồng USD và lợi suất trái phiếu 2 năm tăng mạnh ngay sau quyết định (nguồn: NPR, CNBC, Trading Economics).
-   → Dot Plot xoay từ 'cắt giảm' sang 'có thể tăng' là cú sốc chính sách quan trọng nhất tuần qua — kéo DXY lên, gây áp lực kép lên tỷ giá VND và định giá cổ phiếu, đặc biệt nhóm vay nợ ngoại tệ và BĐS.
-5. Dầu Brent ~80,57 USD/thùng — đàm phán Mỹ–Iran gián đoạn, Goldman hạ dự báo xuống 80 USD Q4
-   • Brent chốt tuần 19/6 ở 80,57 USD/thùng (+0,9% phiên thứ Sáu), sau khi đàm phán Mỹ–Iran tại Thụy Sĩ bị hủy đột ngột, nhưng vẫn giảm ~8,5% cả tuần nhờ Eo biển Hormuz dần tái thông quan — giá dầu đã xóa gần hết đà tăng từ khi xung đột bắt đầu cuối tháng 2/2026 (nguồn: CNBC, Trading Economics). Sáng 22/6 dầu tăng trở lại >1,5% lên trên 78 USD khi Iran lại chặn eo biển và Iran yêu cầu ngừng chiến tại Lebanon trước khi tiếp tục đàm phán.
-   • Goldman Sachs hạ dự báo Brent Q4/2026 từ 90 USD xuống 80 USD/thùng, dự kiến xuất khẩu vùng Vịnh Ba Tư trở về mức trước chiến tranh vào cuối tháng 7. IEA ước tính xung đột Iran gây thiếu hụt 14 triệu thùng/ngày toàn cầu trong giai đoạn đỉnh điểm (nguồn: Barchart, Al Jazeera).
-   → Biến động dầu Brent theo từng tuyên bố đàm phán Mỹ–Iran là rủi ro hai chiều cho chi phí sản xuất và giá năng lượng tại VN — đặc biệt ảnh hưởng nhóm dầu khí (BSR, PVD, PVS) và doanh nghiệp phụ thuộc giá xăng dầu đầu vào.
+4. Fed Warsh giữ lãi 3,5–3,75%, dot plot báo có thể tăng thêm
+   • FOMC 17/6 giữ nguyên lãi suất 3,5–3,75% (lần 4 liên tiếp); tân Chủ tịch Kevin Warsh nhấn mạnh 'kiên quyết và nhất quán' chống lạm phát.
+   • 9/18 quan chức dự báo ít nhất 1 lần tăng lãi trong 2026; dự báo PCE 2026 nâng mạnh lên 3,6% từ 2,7%; GDP 2026 hạ về 2,2%.
+   • S&P 500 đóng cửa 17/6 ở 7.420 điểm gần đỉnh lịch sử; lợi suất TPCP 10 năm Mỹ ở 4,48%; thị trường định giá lại kịch bản không cắt lãi 2026.
+   → Lập trường 'higher-for-longer' của Fed Warsh đẩy DXY tăng, siết thanh khoản USD toàn cầu và tạo thêm áp lực tỷ giá cho VND.
+5. Dầu Brent vượt 80$/thùng khi đàm phán Mỹ–Iran bất ổn trở lại
+   • Dầu Brent mở tuần tăng hơn 1,5% lên trên 80 $/thùng khi Iran tuyên bố lại dừng tàu qua eo Hormuz; Mỹ–Iran tiếp tục đàm phán tại Thụy Sĩ nhưng căng thẳng chưa dứt.
+   • Trump đe dọa tấn công nếu Iran không kiềm chế lực lượng ủy nhiệm tại Lebanon; Tehran đòi ngừng bắn Lebanon là điều kiện đàm phán thực chất.
+   • Goldman Sachs cắt dự báo Brent Q4/2026 xuống 80 $/thùng từ 90 $; dầu đã giảm ~8,5% trong tuần trước song vẫn cao hơn đầu năm ~13%.
+   → Giá dầu neo cao kéo theo rủi ro lạm phát chi phí đẩy, ảnh hưởng biên lợi nhuận nhóm sản xuất và vận tải niêm yết trên sàn.
 
-⏰ Hôm nay chú ý: MSCI công bố Báo cáo Rà soát Phân loại Thị trường Thường niên 2026 (Annual Market Classification Review) vào rạng sáng 24/6 (03h30 giờ VN) — quyết định liệu Việt Nam có vào Watchlist nâng hạng không; VN-Index mở cửa phiên 22/6 trong bối cảnh USD tự do tăng vọt ~180 đồng, vàng bật tăng, dầu biến động theo đàm phán Mỹ–Iran.
+⏰ Hôm nay chú ý: Rạng sáng 24/6 MSCI công bố Báo cáo Phân loại thị trường thường niên 2026 — kết quả quyết định Việt Nam có vào EM Watchlist không.
 
-#BảnTinSáng #ChứngKhoán #VNIndex #MSCI #NângHạng #Fed #Warsh #TỷGiá #DầuBrent #VàngSJC #MỹIran
+#BảnTinSáng #ChứngKhoánViệtNam #VNIndex #MSCI #NângHạng #Fed #Dầu #TỷGiá #Vàng #Vietcap
 
-Nguồn: VnExpress · CafeF · Vietstock · VietnamBiz · Thời báo Tài chính VN · Reuters · CNBC · Trading Economics · Investing.com
+Nguồn: VnExpress · CafeF · Vietstock · Thời báo Tài chính VN · Reuters · CNBC · Trading Economics · U.S. Bank
 Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán.
