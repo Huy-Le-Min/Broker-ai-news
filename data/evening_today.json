@@ -1,78 +1,98 @@
 {
-  "date": "18/6/2026",
+  "date": "23/6/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "Vietstock · CafeF · Reuters · CNBC · Baoquocte",
   "session": {
-    "vnindex_close": "1.807,9",
-    "vnindex_change": "+0,5%",
+    "vnindex_close": "1.857,91",
+    "vnindex_change": "+1,83%",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng",
+    "foreign_net": "Bán ròng ≈207 tỷ (HOSE+HNX)",
     "foreign_dir": "sell",
-    "volume": "16.650 tỷ",
-    "top_gainer": "CK & Bán lẻ"
+    "volume": "≈443 tr cp (HOSE)",
+    "top_gainer": "Vingroup (VIC, VHM) đóng góp 34/38,5 điểm tăng"
   },
   "snapshot": [
-    {"label": "Tỷ giá USD/VND", "value": "26.420", "change": "+0,1%", "dir": "up"},
-    {"label": "Vàng SJC", "value": "151,2tr", "change": "+0,2%", "dir": "up"},
-    {"label": "Dầu Brent", "value": "≈80,9$", "change": "-2,5%", "dir": "down"}
+    {
+      "label": "Tỷ giá USD/VND",
+      "value": "26.290",
+      "change": "+0,2%",
+      "dir": "up"
+    },
+    {
+      "label": "Vàng SJC",
+      "value": "≈148,6tr",
+      "change": "+1,0%",
+      "dir": "up"
+    },
+    {
+      "label": "Dầu Brent",
+      "value": "≈80$",
+      "change": "-1,0%",
+      "dir": "down"
+    }
   ],
-  "tomorrow_watch": "Mai 19/6: lễ ký thỏa thuận Mỹ–Iran (tác động giá dầu); thị trường tiêu hóa FOMC 'diều hâu' — theo dõi tỷ giá USD/VND và động thái khối ngoại.",
+  "tomorrow_watch": "Dữ liệu PMI tháng 6 VN; kết quả kinh doanh Q2 các nhóm ngân hàng, thép; diễn biến đàm phán Mỹ–Iran.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index đóng cửa 1.807,9 điểm (+0,5%), giữ vững mốc 1.800",
+      "headline": "VN-Index tăng 33 điểm, Vingroup kéo cả thị trường",
       "bullets": [
-        "Tăng 8,6 điểm nhờ nhóm Chứng khoán và Bán lẻ dẫn dắt; VIC, VHM và dầu khí là lực cản chính.",
-        "Độ rộng cải thiện nhưng lực mua chưa thực sự mạnh — chỉ số tăng đều từ sáng đến cuối phiên.",
-        "Mốc 1.800 được bảo toàn, là phép thử tâm lý quan trọng của tuần."
+        "VN-Index đóng cửa 1.857,91 điểm (+1,83%), vượt SMA 50 ngày; HNX-Index ngược chiều giảm 1,16% xuống 321,06 điểm.",
+        "VIC và VHM đồng loạt tăng ~7%, đóng góp 34 trong tổng 38,5 điểm tăng; thanh khoản HOSE 443 triệu cp, dưới trung bình 20 phiên."
       ],
-      "insight": "Giữ 1.800 với dòng tiền lan sang CK/bán lẻ là tín hiệu tích cực, song cần thanh khoản xác nhận để hướng lên vùng 1.840.",
-      "source": "CafeF"
+      "insight": "Đà tăng tập trung quá mức vào Vingroup trong khi độ rộng thị trường vẫn hẹp — cần xác nhận từ dòng tiền rộng hơn.",
+      "source": "Vietstock · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thanh khoản giảm còn ~16.650 tỷ, khối ngoại tiếp tục bán ròng",
+      "headline": "NHNN đề xuất nới room vốn ngắn hạn cho vay trung-dài hạn",
       "bullets": [
-        "Giá trị khớp lệnh HoSE giảm mạnh — nhà đầu tư thận trọng chờ kết quả FOMC rạng sáng.",
-        "Khối ngoại bán ròng trên HSX và HNX, chỉ mua ròng nhẹ ở UPCOM.",
-        "Dòng tiền phân hóa và chọn lọc theo nhóm ngành."
+        "NHNN đề xuất nâng tỷ lệ tối đa vốn ngắn hạn dùng cho vay trung–dài hạn, tín hiệu nới lỏng tín dụng cho BĐS và hạ tầng.",
+        "Áp lực thanh khoản, tỷ giá và lạm phát đang thu hẹp dư địa điều hành lãi suất năm 2026, theo đánh giá Tinnhanhchungkhoan."
       ],
-      "insight": "Thanh khoản thấp + khối ngoại bán ròng cho thấy thị trường còn dè dặt, chờ chất xúc tác rõ ràng từ chính sách.",
-      "source": "Vietstock"
+      "insight": "Nếu được thông qua, nhóm ngân hàng và BĐS sẽ được hưởng lợi trực tiếp từ nguồn vốn trung-dài hạn dồi dào hơn.",
+      "source": "Vietstock · Tinnhanhchungkhoan"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN định hướng tăng trưởng tín dụng 2026 khoảng 15%",
+      "headline": "Vàng SJC bật lên 148,6 tr/lượng, dầu Brent hạ nhiệt 79–80$/thùng",
       "bullets": [
-        "Thấp hơn mức 19% của 2025 dù mục tiêu GDP đặt tối thiểu 10% — ưu tiên chất lượng tín dụng.",
-        "Vốn hướng vào sản xuất – kinh doanh, công nghiệp – xây dựng, công nghệ cao; kiểm soát lĩnh vực rủi ro."
+        "SJC, PNJ, DOJI cùng niêm yết bán ra 148,6 triệu đồng/lượng ngày 23/6, tăng ~1,4 tr so phiên trước; vàng nhẫn vượt 148 triệu.",
+        "Brent hạ nhiệt về quanh 79,5–80,2$/thùng sau tín hiệu đàm phán Mỹ–Iran tiến triển; chênh lệch vàng trong nước–thế giới vẫn trên 15 triệu đồng."
       ],
-      "insight": "Tín dụng chậm nhưng 'thực chất' có thể ghìm lợi nhuận ngân hàng, đổi lại giảm rủi ro nợ xấu — ưu tiên ngân hàng chất lượng tài sản tốt.",
-      "source": "VnEconomy"
+      "insight": "Giá dầu giảm hỗ trợ vàng phục hồi kỹ thuật, song chênh lệch nội–ngoại còn lớn phản ánh rủi ro điều chỉnh nếu thỏa thuận Mỹ–Iran được ký.",
+      "source": "Baoquocte · Vietnam.vn · Xaluan"
     },
     {
       "cat": "Quốc tế",
-      "headline": "FOMC giữ lãi suất nhưng dot plot báo hiệu 1 đợt TĂNG trong 2026",
+      "headline": "Fed giữ nguyên lãi suất, Chủ tịch Warsh cứng rắn về lạm phát",
       "bullets": [
-        "Fed giữ vùng 3,50–3,75% trong cuộc họp đầu của Chủ tịch Kevin Warsh; bỏ định hướng nghiêng về cắt giảm.",
-        "Trung vị dự báo lãi suất cuối 2026 nâng lên 3,8% (từ 3,4% hồi tháng 3) — hàm ý 1 đợt tăng.",
-        "CPI Mỹ tháng 5 ở 4,2% YoY, thất nghiệp 4,3% — củng cố quan điểm thận trọng."
+        "Cuộc họp đầu tiên dưới thời tân Chủ tịch Kevin Warsh: Fed giữ lãi suất, phát tín hiệu có thể tăng 1–2 đợt trước cuối 2026 nếu lạm phát chưa hạ.",
+        "DXY bật lên cao nhất từ tháng 5/2025; lợi suất TPCP Mỹ kỳ hạn 10 năm áp sát 4,4–4,5%; thị trường đặt xác suất tăng lãi tháng 12 lên 89%."
       ],
-      "insight": "Tông 'diều hâu' đẩy USD mạnh lên → áp lực lên tỷ giá USD/VND (~26.400) và dòng vốn ngoại; nhóm vay nợ USD và BĐS đòn bẩy chịu sức ép.",
-      "source": "CNBC · NPR"
+      "insight": "Lãi suất Mỹ duy trì cao kéo USD mạnh — áp lực tỷ giá VND và dòng vốn ngoại tiếp tục là rủi ro cần theo dõi.",
+      "source": "Vietstock · Xaluan · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent mất mốc 81 USD; vàng SJC áp sát 152 triệu/lượng",
+      "headline": "MSCI đánh giá cao cải cách VN nhưng chưa đưa vào Watchlist",
       "bullets": [
-        "Dầu WTI giảm hơn 3,5% xuống dưới 78 USD do kỳ vọng nguồn cung Trung Đông hồi phục sau thỏa thuận Mỹ–Iran.",
-        "Vàng trong nước tăng trở lại, nhẫn loại 1–5 chỉ niêm yết 148,7–151,2 triệu đồng/lượng.",
-        "Lễ ký Mỹ–Iran dự kiến 19/6; chuỗi cung ứng dầu cần nhiều tháng để bình thường hóa."
+        "Báo cáo MSCI (19/6) ghi nhận tích cực mô hình giao dịch qua nhà môi giới và các cải cách hạ tầng, nhưng chưa đưa Việt Nam vào Watchlist nâng hạng.",
+        "Chuyên gia dẫn bài học Thái Lan về cơ chế NVDR hỗ trợ NĐT nước ngoài tiếp cận cổ phiếu kín room — đây là điều kiện cần để đủ chuẩn MSCI EM."
       ],
-      "insight": "Dầu hạ nhiệt giảm áp lực lạm phát & chi phí đầu vào (lợi vận tải/nhựa/thép), bất lợi dầu khí; vàng tăng phản ánh nhu cầu trú ẩn.",
-      "source": "Reuters · VietNamNet"
+      "insight": "MSCI chưa vào Watchlist là tín hiệu trung hạn — dòng vốn thụ động lớn chỉ đến sau khi room ngoại và cơ chế tiếp cận được giải quyết triệt để.",
+      "source": "Vietstock · CafeF · MSCI"
     }
   ],
-  "hashtags": ["#BảnTinTối", "#ChứngKhoán", "#Vietcap", "#VNIndex", "#FOMC", "#GiáDầu"],
+  "hashtags": [
+    "#BảnTinTối",
+    "#ChứngKhoán",
+    "#VNIndex",
+    "#Vingroup",
+    "#KhốiNgoại",
+    "#Fed",
+    "#MSCI",
+    "#NângHạng"
+  ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
