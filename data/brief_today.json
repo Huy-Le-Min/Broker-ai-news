@@ -1,69 +1,92 @@
 {
-  "date": "19/6/2026",
+  "date": "22/6/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · VietnamBiz · Thời báo Tài chính VN · Reuters · CNBC · Trading Economics · Investing.com",
   "snapshot": [
-    {"label": "Tỷ giá USD/VND", "value": "26.420", "change": "+0,1%", "dir": "up"},
-    {"label": "Vàng SJC", "value": "≈151,5tr", "change": "+0,3%", "dir": "up"},
-    {"label": "Dầu Brent", "value": "≈83,8$", "change": "-4,0%", "dir": "down"}
+    {
+      "label": "Tỷ giá USD/VND",
+      "value": "TT: 25.183 | NH: ~26.440 | Tự do: ~26.780",
+      "change": "+0,01%",
+      "dir": "up"
+    },
+    {
+      "label": "Vàng SJC",
+      "value": "145,7 – 148,7 triệu đ/lượng",
+      "change": "+1,5 triệu đ/lượng so với cuối tuần",
+      "dir": "up"
+    },
+    {
+      "label": "Dầu Brent",
+      "value": "~80,57 $",
+      "change": "-8,5% tuần trước",
+      "dir": "down"
+    }
   ],
-  "today_watch": "Hôm nay 19/6: Mỹ–Iran ký chính thức thỏa thuận hòa bình tại Thụy Sĩ (tác động giá dầu); thị trường tiếp tục tiêu hóa FOMC 'diều hâu' — theo dõi tỷ giá USD/VND và dòng vốn khối ngoại.",
+  "today_watch": "MSCI công bố Báo cáo Rà soát Phân loại Thị trường Thường niên 2026 (Annual Market Classification Review) vào rạng sáng 24/6 (03h30 giờ VN) — quyết định liệu Việt Nam có vào Watchlist nâng hạng không; VN-Index mở cửa phiên 22/6 trong bối cảnh USD tự do tăng vọt ~180 đồng, vàng bật tăng, dầu biến động theo đàm phán Mỹ–Iran.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index bứt phá +1,34% lên 1.830,47 điểm, vượt xa mốc 1.800",
+      "headline": "MSCI ghi nhận cải cách nhưng 'giữ nguyên điểm' — chờ kết quả phân loại 24/6",
       "bullets": [
-        "VN-Index tăng 24,27 điểm (+1,34%); HNX-Index tăng 1,80% lên 336,16 điểm.",
-        "Đà tăng chủ yếu nhờ nhóm cổ phiếu trụ kéo chỉ số ('phiên kéo trụ').",
-        "Thanh khoản sụt giảm trở lại — CTCK lưu ý chưa đủ yếu tố xác nhận hồi phục bền vững."
+        "Rạng sáng 19/6, MSCI công bố Global Market Accessibility Review 2026: ghi nhận Việt Nam tiếp tục cải cách (global broker, CCP, room ngoại, tiếng Anh) nhưng giữ nguyên toàn bộ 18 tiêu chí, trong đó 8 tiêu chí vẫn ở mức '-' (cần cải thiện) — chưa có 'điểm cộng' mới so với kỳ trước (nguồn: Sputnik VN, VietnamBiz).",
+        "Báo cáo quan trọng hơn — Annual Market Classification Review 2026 (quyết định Watchlist) — dự kiến công bố rạng sáng 24/6 giờ VN. SSI Research đánh giá Việt Nam có khả năng cao được vào Watchlist nhờ đáp ứng tiệm cận 17/18 tiêu chí MSCI; rào cản còn lại là tự do hóa ngoại hối (FX). FTSE Russell đã xác nhận nâng hạng VN lên Secondary Emerging Market hiệu lực 21/9/2026."
       ],
-      "insight": "Chỉ số vượt 1.800 là tín hiệu kỹ thuật tốt, nhưng tăng nhờ kéo trụ + thanh khoản thấp khiến độ tin cậy chưa cao; cần dòng tiền lan tỏa để xác nhận xu hướng.",
-      "source": "VnEconomy"
+      "insight": "Kết quả ngày 24/6 là sự kiện trọng đại nhất của TTCK VN trong tháng 6 — nếu được đưa vào Watchlist, kỳ vọng dòng vốn ngoại tỷ USD sẽ được định giá lại toàn thị trường, đặc biệt nhóm bluechip có room ngoại cao; nếu không, rủi ro điều chỉnh tâm lý ngắn hạn gia tăng.",
+      "source": "VietnamBiz · Sputnik VN · SSI Research · MSCI (19/6/2026)"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng gần 1.900 tỷ nhưng ngược dòng gom VIC, PC1",
+      "headline": "VN-Index kết phiên 19/6 tại 1.824,53 điểm — khối ngoại bán ròng gần 2.900 tỷ đồng trong tuần",
       "bullets": [
-        "Bán ròng 1.867,8 tỷ đồng toàn thị trường (khớp lệnh 1.897,7 tỷ), tập trung trên HSX.",
-        "Mua ròng nhẹ ở hai sàn còn lại; mua ròng đáng chú ý hai mã VIC và PC1.",
-        "Áp lực bán ròng ngoại kéo dài là điểm trừ dù chỉ số tăng mạnh."
+        "Phiên 19/6: VN-Index giảm gần 6 điểm xuống 1.824,53 điểm; 15/18 ngành giảm điểm; khối ngoại bán ròng ~1.900 tỷ đồng phiên đó, lũy kế cả tuần 15–19/6 bán ròng gần 2.860–2.900 tỷ đồng toàn thị trường; VHM, FPT, TCB, VPB bị xả mạnh (nguồn: VietnamBiz, CafeF).",
+        "Thị trường chứng quyền và CTCK nhận định tuần 22–26/6 VN-Index có thể tiếp tục giằng co vùng 1.820–1.850 điểm; thanh khoản duy trì dưới trung bình 20 phiên; dòng tiền MFI yếu (chỉ báo 33); rủi ro điều chỉnh về 1.800 nếu không giữ được vùng kháng cự (nguồn: Vietstock, Tinnhanhchungkhoan)."
       ],
-      "insight": "Khối ngoại bán mạnh phần lớn nhưng chọn lọc gom VIC/PC1 cho thấy dòng tiền ngoại không rút đồng loạt mà tái cơ cấu — VIC tiếp tục là tâm điểm.",
-      "source": "VnEconomy"
+      "insight": "Áp lực bán ròng của khối ngoại kéo dài sang tuần mới cho thấy tâm lý thận trọng vẫn bao trùm trước hai sự kiện lớn trong tuần (kết quả MSCI + dữ liệu vĩ mô Mỹ), khiến thanh khoản nội địa khó cải thiện đột biến.",
+      "source": "VietnamBiz · CafeF · Vietstock (19–22/6/2026)"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN định hướng tăng trưởng tín dụng 2026 khoảng 15%, siết về chất",
+      "headline": "USD tự do vọt lên 26.780 đ — DXY vượt 100 điểm, áp lực tỷ giá mở đầu tuần",
       "bullets": [
-        "Thấp hơn mức 19% của 2025 dù mục tiêu GDP đặt tối thiểu 10% — ưu tiên chất lượng tín dụng.",
-        "Vốn hướng vào sản xuất – kinh doanh, công nghiệp – xây dựng, công nghệ cao; kiểm soát lĩnh vực rủi ro."
+        "Sáng 22/6, tỷ giá trung tâm NHNN: 25.183 đồng/USD (tăng 2 đồng so với phiên trước). Tỷ giá ngân hàng thương mại (Vietcombank): mua 26.090 – bán 26.440 đồng/USD. Tỷ giá tự do bật tăng mạnh 170–180 đồng lên 26.750–26.780 đồng/USD, vượt xa mặt bằng niêm yết ngân hàng (nguồn: Thời báo Tài chính VN, Investing.com).",
+        "Chỉ số DXY tăng lên 100,77 điểm sáng 22/6, được thúc đẩy bởi lập trường 'diều hâu' của Fed và nguy cơ đổ vỡ đàm phán Mỹ–Iran tại Thụy Sĩ. UOB dự báo NHNN giữ nguyên lãi suất điều hành 4,5% đến hết 2026; VND có thể chịu áp lực ngắn hạn trong Q3/2026 (nguồn: Thời báo Tài chính VN)."
       ],
-      "insight": "Tín dụng chậm nhưng 'thực chất' có thể ghìm lợi nhuận ngân hàng, đổi lại giảm rủi ro nợ xấu — ưu tiên ngân hàng có chất lượng tài sản tốt.",
-      "source": "VnEconomy"
+      "insight": "USD tự do vọt khỏi vùng ngân hàng thương mại là tín hiệu căng thẳng tỷ giá đầu tuần — ảnh hưởng trực tiếp đến chi phí nhập khẩu nguyên liệu, biên lợi nhuận doanh nghiệp sản xuất và tâm lý giải ngân của khối ngoại trên TTCK.",
+      "source": "Thời báo Tài chính VN · Investing.com · UOB Research (22/6/2026)"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ–Iran ký thỏa thuận hòa bình, chứng khoán châu Á bùng nổ",
+      "headline": "Fed 'diều hâu' lần đầu dưới Warsh: giữ lãi suất 3,5–3,75%, Dot Plot xoay sang khả năng tăng lãi",
       "bullets": [
-        "Thỏa thuận được ký chính thức tại Thụy Sĩ ngày 19/6, kết thúc gần 4 tháng xung đột.",
-        "Chứng khoán châu Á rally mạnh: Kospi (Hàn) +5,1%, Nikkei (Nhật) +3,6%, Topix +2,6%, ASX (Úc) +1,3%.",
-        "Tâm lý risk-on lan rộng nhờ kỳ vọng eo Hormuz mở lại và nguồn cung năng lượng ổn định."
+        "Cuộc họp FOMC 17/6 (đầu tiên do Chủ tịch Kevin Warsh điều hành): giữ nguyên lãi suất 3,50–3,75% (12-0); nhưng Dot Plot đảo chiều — 9/18 quan chức kỳ vọng ít nhất 1 lần tăng lãi trước cuối 2026 (6 người dự báo 2 lần tăng). Dự báo PCE 2026 nâng mạnh lên 3,6% (từ mức 2,7% tháng 3); CPI tháng 5 đạt 4,2% — mức cao nhất kể từ tháng 4/2023 (nguồn: CNBC, Fox Business, Trading Economics).",
+        "Warsh không nộp 'dot' cá nhân, tuyên bố loại bỏ forward guidance, lập 5 task force cải tổ Fed. Thị trường futures định giá ~77% xác suất Fed tăng lãi trước tháng 12/2026. Đồng USD và lợi suất trái phiếu 2 năm tăng mạnh ngay sau quyết định (nguồn: NPR, CNBC, Trading Economics)."
       ],
-      "insight": "Sóng risk-on khu vực hỗ trợ tâm lý TTCK VN, nhưng dòng vốn ngoại vẫn thận trọng (đang bán ròng) do lo ngại FOMC 'diều hâu'.",
-      "source": "CNBC · Reuters"
+      "insight": "Dot Plot xoay từ 'cắt giảm' sang 'có thể tăng' là cú sốc chính sách quan trọng nhất tuần qua — kéo DXY lên, gây áp lực kép lên tỷ giá VND và định giá cổ phiếu, đặc biệt nhóm vay nợ ngoại tệ và BĐS.",
+      "source": "CNBC · Fox Business · NPR · Trading Economics (17/6/2026)"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu giảm ~4% sau thỏa thuận; vàng thế giới vẫn neo cao quanh 4.300 USD",
+      "headline": "Dầu Brent ~80,57 USD/thùng — đàm phán Mỹ–Iran gián đoạn, Goldman hạ dự báo xuống 80 USD Q4",
       "bullets": [
-        "Dầu WTI giảm 4,77% về 80,83 USD/thùng; Brent giảm ~4% còn ~83,8 USD/thùng.",
-        "Vàng giao ngay tăng gần 2% lên ~4.302 USD/oz — thị trường vẫn chưa hoàn toàn tin vào độ bền của thỏa thuận.",
-        "Áp lực giảm giá dầu đến từ kỳ vọng nguồn cung Trung Đông hồi phục."
+        "Brent chốt tuần 19/6 ở 80,57 USD/thùng (+0,9% phiên thứ Sáu), sau khi đàm phán Mỹ–Iran tại Thụy Sĩ bị hủy đột ngột, nhưng vẫn giảm ~8,5% cả tuần nhờ Eo biển Hormuz dần tái thông quan — giá dầu đã xóa gần hết đà tăng từ khi xung đột bắt đầu cuối tháng 2/2026 (nguồn: CNBC, Trading Economics). Sáng 22/6 dầu tăng trở lại >1,5% lên trên 78 USD khi Iran lại chặn eo biển và Iran yêu cầu ngừng chiến tại Lebanon trước khi tiếp tục đàm phán.",
+        "Goldman Sachs hạ dự báo Brent Q4/2026 từ 90 USD xuống 80 USD/thùng, dự kiến xuất khẩu vùng Vịnh Ba Tư trở về mức trước chiến tranh vào cuối tháng 7. IEA ước tính xung đột Iran gây thiếu hụt 14 triệu thùng/ngày toàn cầu trong giai đoạn đỉnh điểm (nguồn: Barchart, Al Jazeera)."
       ],
-      "insight": "Dầu hạ nhiệt giảm áp lực lạm phát & chi phí đầu vào (lợi vận tải/nhựa/thép, bất lợi dầu khí); vàng neo cao phản ánh nhu cầu trú ẩn còn lớn.",
-      "source": "Trading Economics · CNBC"
+      "insight": "Biến động dầu Brent theo từng tuyên bố đàm phán Mỹ–Iran là rủi ro hai chiều cho chi phí sản xuất và giá năng lượng tại VN — đặc biệt ảnh hưởng nhóm dầu khí (BSR, PVD, PVS) và doanh nghiệp phụ thuộc giá xăng dầu đầu vào.",
+      "source": "CNBC · Trading Economics · Barchart · Al Jazeera (19–22/6/2026)"
     }
   ],
-  "hashtags": ["#BảnTinSáng", "#VNIndex", "#KhốiNgoại", "#MỹIran", "#GiáDầu", "#ChứngKhoán", "#Vietcap"],
+  "hashtags": [
+    "#BảnTinSáng",
+    "#ChứngKhoán",
+    "#VNIndex",
+    "#MSCI",
+    "#NângHạng",
+    "#Fed",
+    "#Warsh",
+    "#TỷGiá",
+    "#DầuBrent",
+    "#VàngSJC",
+    "#MỹIran"
+  ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
