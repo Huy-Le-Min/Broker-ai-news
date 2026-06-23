@@ -1,96 +1,90 @@
 {
-  "date": "22/6/2026",
+  "date": "23/6/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Thời báo Tài chính VN · Reuters · CNBC · Trading Economics · U.S. Bank",
+  "sources": "VnExpress · CafeF · Vietstock · VTCNews · Reuters · Trading Economics · Oilprice.com · 24HMoney · SSI Research",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.440",
-      "change": "+0,1%",
+      "value": "26.448",
+      "change": "+0,02%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "≈148,7tr",
-      "change": "+1,7%",
+      "value": "≈148,6tr",
+      "change": "+1,0%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "80,6$",
-      "change": "+0,9%",
-      "dir": "up"
+      "value": "77,9$",
+      "change": "-3,4%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Rạng sáng 24/6 MSCI công bố Báo cáo Phân loại thị trường thường niên 2026 — kết quả quyết định Việt Nam có vào EM Watchlist không.",
+  "today_watch": "Phiên HOSE mở cửa trong bối cảnh dầu giảm, vàng tăng mạnh; nhà đầu tư theo dõi thanh khoản khối ngoại và diễn biến tỷ giá sau PCE Mỹ (25/6).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "MSCI ghi nhận cải cách VN nhưng chưa nâng hạng tháng 6",
+      "headline": "TP.HCM miễn 7.170 tỷ phí cảng biển 3 năm",
       "bullets": [
-        "MSCI công bố báo cáo tiếp cận thị trường 19/6: ghi nhận Global Broker, CCP thành lập, room ngoại mở rộng; 17/18 tiêu chí đã tiệm cận đáp ứng.",
-        "Maybank MSVN và Mirae Asset đánh giá Việt Nam chưa được cộng điểm; rào cản còn lại là tự do hóa FX và tỷ lệ free-float thấp.",
-        "Báo cáo phân loại thị trường chính thức — quyết định Watchlist — công bố rạng sáng 24/6 theo giờ Việt Nam."
+        "HĐND TP.HCM thông qua miễn toàn bộ phí hạ tầng cảng biển từ tháng 6/2026 đến 31/5/2029, hỗ trợ ~94.000 doanh nghiệp xuất nhập khẩu.",
+        "Ngân sách thành phố dự kiến giảm thu ~2.390 tỷ đồng/năm; mục tiêu giảm chi phí logistics, nâng năng lực cạnh tranh hàng xuất khẩu."
       ],
-      "insight": "Kết quả 24/6 là cú hích hoặc lực cản ngắn hạn lớn nhất với dòng vốn ngoại và nhóm cổ phiếu vốn hóa lớn tuần này.",
-      "source": "Tinnhanhchungkhoan · Vietstock · Thời báo Tài chính VN"
+      "insight": "Chính sách giảm chi phí logistics trực tiếp hỗ trợ nhóm cảng biển, vận tải và doanh nghiệp xuất nhập khẩu niêm yết.",
+      "source": "VTCNews · Xaluan News"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI 5 tháng đạt 24,81 tỷ USD, tăng 34,9% — kỷ lục mới",
+      "headline": "MSCI chưa đưa VN vào Watchlist; FTSE nâng hạng tháng 9",
       "bullets": [
-        "Tổng vốn FDI đăng ký 5 tháng đầu năm 2026 đạt 24,81 tỷ USD, tăng 34,9% so với cùng kỳ; vốn thực hiện đạt mức cao nhất 5 năm.",
-        "Singapore và Hàn Quốc dẫn đầu; dòng vốn tập trung vào chế biến chế tạo chiếm 82,7%; Thái Nguyên hút hơn 5,75 tỷ USD vốn cấp mới.",
-        "IIP 5 tháng tăng 9,1% — mức tăng cùng kỳ cao nhất 4 năm; xuất khẩu máy tính/điện tử sang Mỹ đạt 22,54 tỷ USD trong 5 tháng."
+        "MSCI tháng 6/2026 ghi nhận cải cách tích cực nhưng chưa nâng điểm tiêu chí cốt lõi; FOL và tự do hóa ngoại hối vẫn là nút thắt.",
+        "FTSE Russell đã xác nhận nâng hạng Việt Nam lên EM Secondary từ tháng 9/2026; 17/18 tiêu chí MSCI tiệm cận đáp ứng cơ bản."
       ],
-      "insight": "Dòng FDI kỷ lục củng cố nền tảng vĩ mô và hỗ trợ định giá nhóm BĐS khu công nghiệp, ngân hàng phục vụ doanh nghiệp nước ngoài.",
-      "source": "Baomoi · Bộ Tài chính (nief.mof.gov.vn)"
+      "insight": "Việc lỡ MSCI Watchlist làm câu chuyện dòng vốn ngoại lớn lui về trung hạn, song FTSE tháng 9 vẫn là chất xúc tác ngắn hạn.",
+      "source": "CafeF · Maybank Securities · SSI Research"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá trung tâm 25.183 đồng; USD tự do vọt lên 26.780",
+      "headline": "Khối ngoại bán ròng kéo dài; dòng tiền nội giữ VN-Index",
       "bullets": [
-        "NHNN công bố tỷ giá trung tâm sáng 22/6 ở mức 25.183 VND/USD, tăng 2 đồng so với phiên trước; trần giao dịch ngân hàng là 26.442 đồng.",
-        "USD tự do tăng mạnh 170–180 đồng hai chiều lên 26.750–26.780 đồng/USD; DXY vọt lên 100,77 điểm sau tín hiệu 'diều hâu' từ Fed Warsh.",
-        "UOB dự báo NHNN giữ lãi suất điều hành 4,5% đến hết 2026; VND chịu áp lực ngắn hạn quý III nhưng triển vọng trung hạn tích cực."
+        "Phiên 19/6, khối ngoại bán ròng hơn 1.486 tỷ đồng trên HOSE; lũy kế từ đầu năm vượt 44.000 tỷ đồng.",
+        "Dòng tiền nội chọn lọc, tập trung vào nhóm VIC, VHM; phần lớn cổ phiếu VN30 chưa hồi phục rộng, thanh khoản duy trì thấp."
       ],
-      "insight": "Tỷ giá tự do vượt xa trần ngân hàng là tín hiệu cảnh báo áp lực nhập khẩu lạm phát và chi phí vốn ngoại tệ cho doanh nghiệp.",
-      "source": "Thời báo Tài chính VN · Investing.com"
+      "insight": "Áp lực bán ròng ngoại phản ánh lợi suất trái phiếu Mỹ cao, đặt gánh nặng lên dòng tiền nội duy trì mặt bằng điểm số.",
+      "source": "Vietstock · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed Warsh giữ lãi 3,5–3,75%, dot plot báo có thể tăng thêm",
+      "headline": "Dầu Brent rơi ~78$ nhờ đàm phán Mỹ-Iran tiến triển",
       "bullets": [
-        "FOMC 17/6 giữ nguyên lãi suất 3,5–3,75% (lần 4 liên tiếp); tân Chủ tịch Kevin Warsh nhấn mạnh 'kiên quyết và nhất quán' chống lạm phát.",
-        "9/18 quan chức dự báo ít nhất 1 lần tăng lãi trong 2026; dự báo PCE 2026 nâng mạnh lên 3,6% từ 2,7%; GDP 2026 hạ về 2,2%.",
-        "S&P 500 đóng cửa 17/6 ở 7.420 điểm gần đỉnh lịch sử; lợi suất TPCP 10 năm Mỹ ở 4,48%; thị trường định giá lại kịch bản không cắt lãi 2026."
+        "Brent giảm về ~77,9$/thùng sáng 23/6, gần thấp nhất 3 tháng; Mỹ-Iran đồng ý lộ trình 60 ngày, Hormuz dự kiến mở lại sau 25/6.",
+        "Goldman Sachs hạ dự báo Brent Q4/2026 từ 90$ xuống 80$/thùng; Gulf producers chuẩn bị tăng sản lượng trở lại."
       ],
-      "insight": "Lập trường 'higher-for-longer' của Fed Warsh đẩy DXY tăng, siết thanh khoản USD toàn cầu và tạo thêm áp lực tỷ giá cho VND.",
-      "source": "CNBC · U.S. Bank · Trading Economics"
+      "insight": "Dầu giảm làm hạ áp lực lạm phát nhập khẩu và chi phí sản xuất cho Việt Nam, hỗ trợ tâm lý tích cực nhóm logistics và tiêu dùng.",
+      "source": "Trading Economics · VTCNews · Oilprice.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 80$/thùng khi đàm phán Mỹ–Iran bất ổn trở lại",
+      "headline": "Fed giữ lãi suất 3,5–3,75%; Dot Plot nghiêng diều hâu mạnh",
       "bullets": [
-        "Dầu Brent mở tuần tăng hơn 1,5% lên trên 80 $/thùng khi Iran tuyên bố lại dừng tàu qua eo Hormuz; Mỹ–Iran tiếp tục đàm phán tại Thụy Sĩ nhưng căng thẳng chưa dứt.",
-        "Trump đe dọa tấn công nếu Iran không kiềm chế lực lượng ủy nhiệm tại Lebanon; Tehran đòi ngừng bắn Lebanon là điều kiện đàm phán thực chất.",
-        "Goldman Sachs cắt dự báo Brent Q4/2026 xuống 80 $/thùng từ 90 $; dầu đã giảm ~8,5% trong tuần trước song vẫn cao hơn đầu năm ~13%."
+        "Họp FOMC tháng 6 dưới tân Chủ tịch Warsh: giữ nguyên lãi suất 3,5–3,75%; 9/12 thành viên dự báo cần tăng ít nhất 1 lần trong 2026.",
+        "CME FedWatch: xác suất tăng lãi suất tháng 12/2026 lên 89%; PCE tháng 5 dự kiến công bố 25/6 là số liệu then chốt tiếp theo."
       ],
-      "insight": "Giá dầu neo cao kéo theo rủi ro lạm phát chi phí đẩy, ảnh hưởng biên lợi nhuận nhóm sản xuất và vận tải niêm yết trên sàn.",
-      "source": "Reuters · Trading Economics · Barchart"
+      "insight": "Lập trường diều hâu của Fed duy trì sức ép lên tỷ giá VND và dòng vốn ngoại rút khỏi thị trường mới nổi trong ngắn hạn.",
+      "source": "24HMoney · TradingKey · Nhadautu.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoánViệtNam",
+    "#ChứngKhoán",
     "#VNIndex",
+    "#FTSEnângHạng",
     "#MSCI",
-    "#NângHạng",
     "#Fed",
-    "#Dầu",
-    "#TỷGiá",
-    "#Vàng",
-    "#Vietcap"
+    "#DầuBrent",
+    "#VàngSJC",
+    "#TỷGiá"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
