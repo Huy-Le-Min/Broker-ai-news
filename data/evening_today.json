@@ -1,98 +1,104 @@
 {
-  "date": "23/6/2026",
+  "date": "24/6/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Tin nhanh CK · Vietnambiz",
   "session": {
-    "vnindex_close": "1.869,04",
-    "vnindex_change": "+0,60%",
+    "vnindex_close": "1.878,02",
+    "vnindex_change": "+0,48%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng ≈1.641 tỷ",
-    "foreign_dir": "buy",
-    "volume": "≈30.989 tỷ",
-    "top_gainer": "VIC +4,2% · LPB tăng trần +6,9%"
+    "foreign_net": "Bán ròng ≈621 tỷ (HOSE)",
+    "foreign_dir": "sell",
+    "volume": "≈18.167 tỷ",
+    "top_gainer": "Vingroup (VIC, VHM) + LPB dẫn dắt hơn 7 điểm"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.448",
-      "change": "+0,02%",
+      "value": "26.451",
+      "change": "+0,01%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147tr/lượng",
-      "change": "-1,1%",
-      "dir": "down"
+      "value": "147 tr/lượng",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "77,42$",
-      "change": "-0,6%",
+      "value": "77,1$",
+      "change": "-0,9%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "MSCI công bố Báo cáo Rà soát Phân loại Thị trường 2026 (rạng sáng 24/6 giờ VN) — tín hiệu watchlist nâng hạng.",
+  "tomorrow_watch": "Số liệu PCE (lạm phát ưa thích của Fed) của Mỹ công bố tối 26/6; phiên ATC đầu tuần tới với áp lực vùng kháng cự 1.880–1.900 điểm",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Phạm Nhật Vượng lộ diện tại LPBank: LPB tăng trần",
+      "headline": "NHNN mở room: Thông tư 25 nâng trần vốn ngắn hạn lên 40%",
       "bullets": [
-        "Ông Phạm Nhật Vượng sở hữu 146,2 triệu cổ phiếu LPB, tương đương 4,89% vốn điều lệ LPBank — đầu tư tài chính cá nhân.",
-        "LPB tăng kịch trần +6,91% lên 52.600 đồng; xuất hiện giao dịch thỏa thuận >6.700 tỷ, chiếm ≈1/2 thanh khoản toàn thị trường."
+        "NHNN ban hành Thông tư 25 (22/6/2026) nâng trần tỷ lệ vốn ngắn hạn cho vay trung-dài hạn từ 30% lên 40%, hiệu lực từ 1/7/2026.",
+        "Đồng thời, dư nợ 18 dự án (tổng ~752.000 tỷ đồng) của Vingroup, Sun Group, Masterise được loại trừ khỏi room tín dụng hằng năm của ngân hàng cho vay.",
+        "Chuyên gia ước tính Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm ~1 triệu tỷ đồng vốn trung-dài hạn vào nền kinh tế."
       ],
-      "insight": "Sự xuất hiện của tỷ phú lớn nhất Việt Nam tại một ngân hàng tầm trung làm bùng nổ kỳ vọng tái cơ cấu và hút dòng tiền vào nhóm ngân hàng.",
-      "source": "Vietstock · Thời báo Tài chính VN · Tiền Phong"
+      "insight": "Chính sách nới room đôi (tỷ lệ vốn + miễn room dự án trọng điểm) mở dư địa tín dụng lớn, tác động tích cực trực tiếp nhóm ngân hàng và bất động sản.",
+      "source": "Vietnambiz · CafeF · Znews"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới trần vốn ngắn hạn cho vay TDH lên 40% từ 1/7",
+      "headline": "MSCI 2026: Việt Nam tiếp tục lỡ hẹn Watch List",
       "bullets": [
-        "Thông tư 25 ban hành 22/6 chính thức nâng tỷ lệ vốn ngắn hạn cho vay trung-dài hạn từ 30% lên 40%, hiệu lực từ 01/7/2026.",
-        "NHNN đồng ý loại trừ dư nợ 18 dự án của Vingroup, Sungroup, Masterise khỏi cách tính room tín dụng — dự án APEC, PPP, đường sắt tốc độ cao."
+        "Rạng sáng 24/6, MSCI công bố Annual Market Classification Review 2026 — không đề cập Việt Nam ở bất kỳ nội dung thay đổi nào; Việt Nam vẫn ở nhóm Frontier Market.",
+        "MSCI giữ nguyên 8/18 tiêu chí 'cần cải thiện', gồm room ngoại, CCP, ngoại hối, bán khống; CCP dự kiến vận hành 2027, MSCI Watch List kỳ vọng sớm nhất tháng 6/2027.",
+        "Thị trường đã định giá kết quả này trước — VN-Index vẫn tăng 0,48% phiên hôm nay, cho thấy tâm lý không bị sốc."
       ],
-      "insight": "Nới room vốn ngắn hạn giúp ngân hàng tăng năng lực cho vay dài hạn, trực tiếp hỗ trợ tín dụng BĐS và hạ tầng lớn trong nửa cuối 2026.",
-      "source": "Vietnambiz · Vietstock"
+      "insight": "Lỡ hẹn MSCI năm nay không làm xáo trộn thị trường, nhưng tiến độ triển khai CCP và room ngoại thực chất sẽ là thước đo giới quỹ nước ngoài theo dõi sát nhất.",
+      "source": "VnExpress · Vietnambiz · Dantri"
     },
     {
       "cat": "Trong nước",
-      "headline": "MSCI giữ nguyên đánh giá — kỳ review rạng sáng 24/6",
+      "headline": "LPB tăng 5,5% nhờ Phạm Nhật Vượng sở hữu 4,89% vốn",
       "bullets": [
-        "MSCI giữ nguyên 18 tiêu chí, vẫn còn 8 tiêu chí cần cải thiện; phần lớn CTCK dự báo xác suất vào Watchlist kỳ tháng 6/2026 là thấp.",
-        "FTSE Russell xác nhận nâng hạng VN từ 9/2026 — dòng vốn thụ động ước +742 triệu USD vào tháng 9/2026."
+        "LPBank (LPB) có thời điểm chạm trần rồi chốt phiên +5,5% lên 55.500 đồng/cp, trở thành cổ phiếu đóng góp điểm nhiều nhất nhóm ngân hàng cho VN-Index.",
+        "Động lực đến từ thông tin ông Phạm Nhật Vượng sở hữu 4,89% vốn LPB; khối ngoại mua ròng +33 tỷ đồng, tự doanh đảo chiều mua ròng 62 tỷ đồng toàn thị trường.",
+        "VN30 tăng 15 điểm (+0,75%), vượt lại mốc 2.000 điểm nhờ bộ ba VIC, VHM, LPB đóng góp hơn 7 điểm chỉ số."
       ],
-      "insight": "Kết quả MSCI rạng sáng 24/6 sẽ là phép thử tâm lý ngắn hạn: bất ngờ vào Watchlist có thể tạo sóng dòng tiền ngoại đột biến.",
-      "source": "CafeF · Vietnambiz · Người Quan Sát"
+      "insight": "Câu chuyện Phạm Nhật Vượng vào LPB tạo đà ngắn hạn, nhưng thanh khoản giảm 40% cho thấy dòng tiền chưa mở rộng ra phần còn lại của thị trường.",
+      "source": "Thoibaotaichinhvietnam · Vietstock · Tinnhanhchungkhoan"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Phố Wall phân hóa: Nasdaq -1,3% vì Big Tech sụt mạnh",
+      "headline": "Fed diều hâu: Xác suất tăng lãi tháng 9 vọt lên 69%",
       "bullets": [
-        "Nasdaq Composite giảm 1,32% xuống 26.167 điểm ngày 22/6; Alphabet -5%, Amazon -4,8%, Microsoft -3%, SpaceX -16%.",
-        "Dow Jones tăng nhẹ +0,29%; S&P 500 giảm 0,37% — thị trường phân hóa theo nhóm ngành."
+        "Sau kỳ họp đầu tiên của tân Chủ tịch Fed Kevin Warsh, công cụ CME FedWatch ghi nhận xác suất tăng lãi suất tháng 9 nhảy từ 29% lên 69% chỉ trong một tuần.",
+        "Xác suất tăng lãi tháng 12 cũng leo lên 89%; trong số 19 quan chức Fed, 9 người ủng hộ tăng lãi trong năm nay.",
+        "Phố Wall phản ứng tiêu cực: S&P 500 giảm 1,44%, Nasdaq mất 2,2% trong phiên 23/6 — sức ép lan sang tâm lý khối ngoại tại các thị trường mới nổi."
       ],
-      "insight": "Sell-off công nghệ toàn cầu tạo áp lực tâm lý lên nhóm FPT và chứng khoán công nghệ VN, nhưng không lây lan sang nhóm ngân hàng-Vingroup hôm nay.",
-      "source": "CNBC · Vietnambiz"
+      "insight": "Lộ trình Fed diều hâu kéo dài sức mạnh USD, làm giảm sức hấp dẫn của dòng vốn vào thị trường cận biên như Việt Nam và tiếp tục gây áp lực bán ròng khối ngoại.",
+      "source": "CafeF · Danviet · CNBC"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent thủng 78$: Mỹ-Iran đàm phán, nguồn cung Iran hồi",
+      "headline": "Đàm phán Mỹ-Iran: Hormuz thông, dầu Brent về 77$",
       "bullets": [
-        "Brent đóng cửa 22/6 ở 77,90 USD/thùng, mất gần 20% trong 1 tháng; Mỹ cấp giấy phép 60 ngày cho Iran bán dầu quốc tế.",
-        "OPEC+ tăng sản lượng 188.000 thùng/ngày trong tháng 6 và dự kiến thêm 188.000 thùng/ngày tháng 7."
+        "Mỹ miễn trừ một số lệnh trừng phạt Iran trong 60 ngày; vận chuyển dầu qua eo biển Hormuz tăng trở lại, kéo giá Brent giảm hơn 1% về 77,07 USD/thùng.",
+        "Vàng thế giới lao dốc ~1,4% còn 4.131 USD/ounce do USD chạm đỉnh hơn một năm; Goldman Sachs hạ dự báo vàng cuối năm xuống 4.900 USD/ounce.",
+        "Vàng SJC trong nước giữ nguyên 144–147 triệu đồng/lượng, duy trì chênh lệch với thế giới ~17 triệu đồng/lượng."
       ],
-      "insight": "Dầu giảm sâu kéo lạm phát toàn cầu hạ nhiệt — hỗ trợ kỳ vọng Fed trì hoãn tăng lãi suất và tích cực gián tiếp với tỷ giá USD/VND.",
-      "source": "Reuters · TradingEconomics · TradingKey"
+      "insight": "Giá dầu hạ nhiệt giảm áp lực lạm phát nhập khẩu cho Việt Nam, hỗ trợ gián tiếp dư địa chính sách tiền tệ; nhưng USD mạnh vẫn là rủi ro tỷ giá cần theo dõi.",
+      "source": "Vietnamnet · Nguoiduatin · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#LPBank",
-    "#PhamNhatVuong",
     "#MSCI",
-    "#NângHạng",
     "#NHNN",
+    "#LPB",
+    "#Vingroup",
+    "#Fed",
+    "#Vàng",
     "#DầuBrent"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
