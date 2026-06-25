@@ -1,105 +1,98 @@
 {
-  "date": "24/6/2026",
+  "date": "25/6/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Tin nhanh CK · Vietnambiz",
+  "sources": "VnExpress · CafeF · Vietstock · Thời báo Tài chính · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.878,02",
-    "vnindex_change": "+0,48%",
-    "vnindex_dir": "up",
-    "foreign_net": "Bán ròng ≈621 tỷ (HOSE)",
+    "vnindex_close": "1.863,07",
+    "vnindex_change": "-0,8%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng ≈1.099 tỷ",
     "foreign_dir": "sell",
-    "volume": "≈18.167 tỷ",
-    "top_gainer": "Vingroup (VIC, VHM) + LPB dẫn dắt hơn 7 điểm"
+    "volume": "≈16.113 tỷ",
+    "top_gainer": "Chăm sóc sức khoẻ · Xây dựng - Vật liệu · Du lịch"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.451",
+      "value": "26.456",
       "change": "+0,01%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147 tr/lượng",
-      "change": "0%",
-      "dir": "flat"
+      "value": "146,2tr",
+      "change": "-0,5%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "77,1$",
-      "change": "-0,9%",
+      "value": "73,74$",
+      "change": "-4,3%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Số liệu PCE (lạm phát ưa thích của Fed) của Mỹ công bố tối 26/6; phiên ATC đầu tuần tới với áp lực vùng kháng cự 1.880–1.900 điểm",
+  "tomorrow_watch": "Số liệu PCE tháng 5 Mỹ công bố tối nay (giờ VN) — nếu cao hơn 3,5% sẽ gia tăng kỳ vọng Fed tăng lãi suất tháng 9.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN mở room: Thông tư 25 nâng trần vốn ngắn hạn lên 40%",
+      "headline": "NHNN nới trần vốn ngắn hạn cho vay dài hạn lên 40%",
       "bullets": [
-        "NHNN ban hành Thông tư 25 (22/6/2026) nâng trần tỷ lệ vốn ngắn hạn cho vay trung-dài hạn từ 30% lên 40%, hiệu lực từ 1/7/2026.",
-        "Đồng thời, dư nợ 18 dự án (tổng ~752.000 tỷ đồng) của Vingroup, Sun Group, Masterise được loại trừ khỏi room tín dụng hằng năm của ngân hàng cho vay.",
-        "Chuyên gia ước tính Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm ~1 triệu tỷ đồng vốn trung-dài hạn vào nền kinh tế."
+        "Thông tư 25/2026/TT-NHNN (hiệu lực 1/7): nâng tỷ lệ vốn ngắn hạn cho vay trung-dài hạn từ 30% lên 40% — đảo ngược lộ trình siết chặt kể từ 2019.",
+        "VCBS ước dư địa tín dụng mở thêm ~1 triệu tỷ đồng; ngân hàng quốc doanh (BIDV, VietinBank, Vietcombank) và Techcombank, VPBank, MB là nhóm hưởng lợi rõ nhất."
       ],
-      "insight": "Chính sách nới room đôi (tỷ lệ vốn + miễn room dự án trọng điểm) mở dư địa tín dụng lớn, tác động tích cực trực tiếp nhóm ngân hàng và bất động sản.",
-      "source": "Vietnambiz · CafeF · Znews"
+      "insight": "Chính sách nới room thanh khoản ngân hàng là tín hiệu hỗ trợ tăng trưởng tín dụng và NIM nửa cuối 2026, đặc biệt tích cực cho nhóm cổ phiếu ngân hàng lớn.",
+      "source": "Thời báo Tài chính VN · Luatvietnam · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "MSCI 2026: Việt Nam tiếp tục lỡ hẹn Watch List",
+      "headline": "VinFast tách công ty, CEO mảng sản xuất VN đổi người",
       "bullets": [
-        "Rạng sáng 24/6, MSCI công bố Annual Market Classification Review 2026 — không đề cập Việt Nam ở bất kỳ nội dung thay đổi nào; Việt Nam vẫn ở nhóm Frontier Market.",
-        "MSCI giữ nguyên 8/18 tiêu chí 'cần cải thiện', gồm room ngoại, CCP, ngoại hối, bán khống; CCP dự kiến vận hành 2027, MSCI Watch List kỳ vọng sớm nhất tháng 6/2027.",
-        "Thị trường đã định giá kết quả này trước — VN-Index vẫn tăng 0,48% phiên hôm nay, cho thấy tâm lý không bị sốc."
+        "Từ 22/6/2026, ông Phạm Nhật Vượng thôi chức TGĐ VFTP; ông Trịnh Văn Ngân kế nhiệm; ông Vượng vẫn làm TGĐ VinFast toàn cầu.",
+        "Thương vụ chuyển nhượng VFTP cho nhóm nhà đầu tư mới trị giá ~530 triệu USD; ban lãnh đạo cho biết có thể ghi nhận lãi một lần trên báo cáo tài chính."
       ],
-      "insight": "Lỡ hẹn MSCI năm nay không làm xáo trộn thị trường, nhưng tiến độ triển khai CCP và room ngoại thực chất sẽ là thước đo giới quỹ nước ngoài theo dõi sát nhất.",
-      "source": "VnExpress · Vietnambiz · Dantri"
+      "insight": "Tái cấu trúc VinFast làm rõ hơn câu chuyện lành mạnh hoá tài chính của hệ sinh thái Vingroup, là yếu tố nhà đầu tư theo dõi sát với nhóm cổ phiếu VIC, VHM, VRE.",
+      "source": "VnExpress · Tuổi Trẻ · Nhadautu.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "LPB tăng 5,5% nhờ Phạm Nhật Vượng sở hữu 4,89% vốn",
+      "headline": "VN-Index mất ~15 điểm do nhóm Vingroup điều chỉnh mạnh",
       "bullets": [
-        "LPBank (LPB) có thời điểm chạm trần rồi chốt phiên +5,5% lên 55.500 đồng/cp, trở thành cổ phiếu đóng góp điểm nhiều nhất nhóm ngân hàng cho VN-Index.",
-        "Động lực đến từ thông tin ông Phạm Nhật Vượng sở hữu 4,89% vốn LPB; khối ngoại mua ròng +33 tỷ đồng, tự doanh đảo chiều mua ròng 62 tỷ đồng toàn thị trường.",
-        "VN30 tăng 15 điểm (+0,75%), vượt lại mốc 2.000 điểm nhờ bộ ba VIC, VHM, LPB đóng góp hơn 7 điểm chỉ số."
+        "VIC (-2,39%), VHM (-1,94%) kéo chỉ số giảm gần 12 điểm; nhóm dầu khí (BSR -3,72%, PVC -4,48%) và BĐS cùng giảm trên 1%.",
+        "Khối ngoại bán ròng ≈1.099 tỷ đồng toàn thị trường, tập trung VHM (180 tỷ), CTG (160 tỷ), FPT (137 tỷ); thanh khoản HOSE chỉ đạt ~16.113 tỷ — dưới mức TB 20 phiên."
       ],
-      "insight": "Câu chuyện Phạm Nhật Vượng vào LPB tạo đà ngắn hạn, nhưng thanh khoản giảm 40% cho thấy dòng tiền chưa mở rộng ra phần còn lại của thị trường.",
-      "source": "Thoibaotaichinhvietnam · Vietstock · Tinnhanhchungkhoan"
+      "insight": "Mức điều chỉnh mạnh nhất hơn 2 tuần nhưng áp lực bán chưa lan rộng; chỉ số vẫn trên Bollinger Band Middle, rủi ro kỹ thuật chưa đáng ngại nếu thanh khoản cải thiện.",
+      "source": "Vietstock · VnExpress · Thời báo Tài chính VN"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed diều hâu: Xác suất tăng lãi tháng 9 vọt lên 69%",
+      "headline": "BofA dự báo Fed tăng lãi suất 3 lần năm 2026, PCE chờ kết quả",
       "bullets": [
-        "Sau kỳ họp đầu tiên của tân Chủ tịch Fed Kevin Warsh, công cụ CME FedWatch ghi nhận xác suất tăng lãi suất tháng 9 nhảy từ 29% lên 69% chỉ trong một tuần.",
-        "Xác suất tăng lãi tháng 12 cũng leo lên 89%; trong số 19 quan chức Fed, 9 người ủng hộ tăng lãi trong năm nay.",
-        "Phố Wall phản ứng tiêu cực: S&P 500 giảm 1,44%, Nasdaq mất 2,2% trong phiên 23/6 — sức ép lan sang tâm lý khối ngoại tại các thị trường mới nổi."
+        "Bank of America (22/6) đảo ngược dự báo: Fed sẽ tăng lãi suất 3 lần năm nay; PCE lõi tháng 5 dự báo tăng 3,5% so với cùng kỳ — dữ liệu công bố tối 25/6 (giờ VN).",
+        "USD Index lên đỉnh 13 tháng (~101,6 điểm); xác suất Fed tăng tháng 9 theo CME FedWatch vượt 50%; lợi suất TPKB Mỹ 10 năm ở mức ~4,41%."
       ],
-      "insight": "Lộ trình Fed diều hâu kéo dài sức mạnh USD, làm giảm sức hấp dẫn của dòng vốn vào thị trường cận biên như Việt Nam và tiếp tục gây áp lực bán ròng khối ngoại.",
-      "source": "CafeF · Danviet · CNBC"
+      "insight": "Kỳ vọng Fed diều hâu đẩy USD tăng, gây áp lực kép lên tỷ giá USD/VND và dòng vốn ngoại tại các thị trường mới nổi như Việt Nam.",
+      "source": "CafeF · Vietnamplus · VnInvesting · CNBC"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Đàm phán Mỹ-Iran: Hormuz thông, dầu Brent về 77$",
+      "headline": "Dầu Brent giảm hơn 4%, vàng thế giới thủng ngưỡng 4.000 USD",
       "bullets": [
-        "Mỹ miễn trừ một số lệnh trừng phạt Iran trong 60 ngày; vận chuyển dầu qua eo biển Hormuz tăng trở lại, kéo giá Brent giảm hơn 1% về 77,07 USD/thùng.",
-        "Vàng thế giới lao dốc ~1,4% còn 4.131 USD/ounce do USD chạm đỉnh hơn một năm; Goldman Sachs hạ dự báo vàng cuối năm xuống 4.900 USD/ounce.",
-        "Vàng SJC trong nước giữ nguyên 144–147 triệu đồng/lượng, duy trì chênh lệch với thế giới ~17 triệu đồng/lượng."
+        "Dầu Brent xuống ~73,74 USD/thùng (sáng 25/6), giảm ~4,7% khi eo biển Hormuz dần bình thường hoá; vàng giao ngay chạm đáy 7 tháng tại ~3.974 USD/ounce.",
+        "ING hạ dự báo vàng Q3/2026 xuống 4.300 USD (từ 4.850 USD); vàng SJC trong nước bán ra ở mức 146,2 triệu đồng/lượng, giảm ~800.000 đồng so với phiên trước."
       ],
-      "insight": "Giá dầu hạ nhiệt giảm áp lực lạm phát nhập khẩu cho Việt Nam, hỗ trợ gián tiếp dư địa chính sách tiền tệ; nhưng USD mạnh vẫn là rủi ro tỷ giá cần theo dõi.",
-      "source": "Vietnamnet · Nguoiduatin · Reuters"
+      "insight": "Giá dầu giảm mạnh giảm bớt áp lực lạm phát nhập khẩu, song kéo theo cổ phiếu dầu khí lao dốc — rủi ro ngắn hạn với BSR, PVS, PVD trên HOSE.",
+      "source": "VietnamNet · VietnamPlus · Nhân Dân · VTCNews"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#MSCI",
     "#NHNN",
-    "#LPB",
-    "#Vingroup",
+    "#VinFast",
     "#Fed",
-    "#Vàng",
-    "#DầuBrent"
+    "#DầuBrent",
+    "#VàngSJC"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
