@@ -1,91 +1,96 @@
 {
-  "date": "25/6/2026",
+  "date": "26/6/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Dantri · VietnamBiz · Reuters · Trading Economics · FXStreet · BEA",
+  "sources": "VnExpress · CafeF · Vietstock · Nguoiquansat · Reuters · Trading Economics · Oilprice.com · Webgia",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.262",
-      "change": "+0,05%",
-      "dir": "up"
+      "value": "26.263",
+      "change": "-0,09%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "≈146tr",
-      "change": "-0,5%",
+      "value": "146,2 tr",
+      "change": "-0,55%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "76,73$",
-      "change": "-5%",
+      "value": "74,4$",
+      "change": "-1,11%",
       "dir": "down"
     }
   ],
-  "today_watch": "Dữ liệu PCE tháng 5 của Mỹ công bố tối nay (19h30 giờ VN) — kết quả sẽ định hình kỳ vọng tăng lãi suất Fed và tác động trực tiếp đến USD, vàng, dòng vốn ngoại.",
+  "today_watch": "Chỉ số tâm lý tiêu dùng Michigan (final) Mỹ công bố tối nay; phiên giao dịch VN-Index test vùng kháng cự 1.900–1.930 điểm.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "MSCI lỡ hẹn: VN chưa vào Watch List nâng hạng 2026",
+      "headline": "MSCI lỡ hẹn: Việt Nam vắng mặt trong Watch List 2026",
       "bullets": [
-        "Rạng sáng 24/6, MSCI công bố kỳ đánh giá thường niên 2026 — toàn bộ 18 tiêu chí của Việt Nam giữ nguyên, 8 tiêu chí vẫn 'cần cải thiện'.",
-        "FTSE Russell đã nâng hạng VN lên Thị trường Mới nổi Thứ cấp từ 21/9/2026; vốn thụ động ước thêm 742 triệu USD theo 4 đợt đến 9/2027."
+        "Rạng sáng 24/6, MSCI công bố Annual Market Classification Review 2026 — Việt Nam không được đề cập, tiếp tục ở nhóm Frontier Market.",
+        "8/18 tiêu chí vẫn 'cần cải thiện': room ngoại, ngoại hối, thanh toán-bù trừ, bán khống; CCP dự kiến vận hành đầu 2027.",
+        "Điểm tựa: FTSE Russell đã xác nhận nâng hạng Việt Nam, lộ trình 4 đợt bắt đầu từ 21/9/2026, ước ~742 triệu USD vốn thụ động."
       ],
-      "insight": "Lỡ hẹn MSCI không thay đổi lộ trình FTSE, nhưng mốc Watch List khả dĩ dịch sang 6/2027 làm giảm kỳ vọng dòng vốn ngoại ngắn hạn.",
-      "source": "Dantri · VietnamBiz · Vietstock"
+      "insight": "Kết quả MSCI không bất ngờ nhưng loại bỏ chất xúc tác ngắn hạn; dòng vốn ngoại thụ động vẫn phụ thuộc vào lộ trình FTSE tháng 9.",
+      "source": "CafeF · VnExpress · Dantri · Vietnamfinance"
     },
     {
       "cat": "Trong nước",
-      "headline": "USD/VND chạm đỉnh 13 tháng, tỷ giá ngân hàng áp trần biên độ",
+      "headline": "Khối ngoại bán ròng hơn 1.099 tỷ, VN-Index điều chỉnh",
       "bullets": [
-        "Vietcombank niêm yết 26.101–26.451 đồng/USD sáng 25/6; nhiều ngân hàng bán sát mức trần biên độ ±5% của NHNN.",
-        "DXY tăng lên 101,63–101,7 điểm sau khi Fed (họp 17/6) nâng dự báo lãi suất cuối 2026 lên 3,8% và PCE 2026 lên 3,6%."
+        "Phiên 25/6: toàn thị trường 63 mã tăng, 132 mã giảm; khối ngoại bán ròng ~1.099 tỷ đồng cổ phiếu.",
+        "VN30-Index giảm nhẹ, khối lượng dưới trung bình 20 phiên — tâm lý thận trọng; tự doanh mua ròng ngược chiều.",
+        "VN-Index đang tích lũy dưới vùng kháng cự lịch sử 1.900–1.930 điểm theo SHS."
       ],
-      "insight": "Tỷ giá áp trần tạo áp lực chi phí nhập khẩu và có thể thúc đẩy NHNN bơm ngoại tệ hoặc điều chỉnh tỷ giá trung tâm, ảnh hưởng thanh khoản ngân hàng.",
-      "source": "VietBao · Webgia · Vietnamnet"
+      "insight": "Áp lực bán ròng kéo dài của khối ngoại cùng thanh khoản suy yếu cho thấy thị trường cần chất xúc tác mới để vượt vùng kháng cự.",
+      "source": "Vietstock · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Trái phiếu DN 73 nghìn tỷ đồng đáo hạn Q3/2026, BĐS chiếm chủ yếu",
+      "headline": "Vinhomes huy động 21.000 tỷ trái phiếu từ đầu năm 2026",
       "bullets": [
-        "Áp lực đáo hạn trái phiếu doanh nghiệp lên tới 73,3 nghìn tỷ đồng trong Q3/2026, tập trung ở lĩnh vực bất động sản.",
-        "FDI giải ngân 5 tháng đầu 2026 đạt 9,75 tỷ USD, tăng 9,6% so cùng kỳ — mức cao nhất 5 năm, hỗ trợ một phần thanh khoản nền kinh tế."
+        "Vinhomes hoàn tất phát hành 4 lô trái phiếu riêng lẻ, tổng 6.000 tỷ đồng để cơ cấu nợ trong đợt mới nhất.",
+        "Lũy kế từ đầu năm, tổng giá trị trái phiếu Vinhomes huy động đạt 21.000 tỷ đồng.",
+        "Xăng dầu giảm giá từ 15h ngày 25/6; đầu tư công giải ngân 264.224 tỷ, đạt 25,7% kế hoạch tính đến 18/6."
       ],
-      "insight": "Sóng đáo hạn trái phiếu BĐS Q3 là rủi ro tín dụng trọng yếu cho nhóm ngân hàng có exposure lớn vào trái phiếu doanh nghiệp địa ốc.",
-      "source": "Stockbiz · SSI Research"
+      "insight": "Vinhomes tích cực tái cơ cấu nợ qua kênh trái phiếu — tín hiệu tích cực cho thanh khoản BĐS nhưng cần theo dõi rủi ro tập trung trái phiếu.",
+      "source": "CafeF · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed hawkish, PCE tháng 5 công bố tối nay — USD lên đỉnh 1 năm",
+      "headline": "PCE Mỹ tháng 5 chạm cao nhất kể từ T10/2023, Fed giữ lãi suất",
       "bullets": [
-        "FOMC 17/6 giữ lãi suất 3,5–3,75%; 9/18 quan chức dự báo ít nhất 1 lần tăng lãi 2026; PCE 2026 được nâng lên 3,6% từ mức 2,7%.",
-        "Core PCE tháng 5 dự báo tăng lên 3,4% YoY; dữ liệu thực công bố 19h30 tối nay sẽ quyết định USD và kỳ vọng tăng lãi."
+        "PCE lõi tháng 5 tăng +3,4% yoy (phù hợp dự báo); PCE toàn phần +4,1% yoy — cao nhất kể từ tháng 10/2023.",
+        "Fed giữ lãi suất 3,50–3,75% lần thứ 4 liên tiếp; CME FedWatch: xác suất tăng lãi suất tháng 9/2026 đạt ~67%.",
+        "USD tiệm cận đỉnh 13 tháng; thị trường định giá khả năng Fed tăng lãi suất 3 lần trong năm 2026."
       ],
-      "insight": "Nếu PCE tháng 5 vượt dự báo, DXY tiếp tục mạnh, tỷ giá VND chịu thêm áp lực và khối ngoại có thể đẩy mạnh rút vốn khỏi thị trường mới nổi.",
-      "source": "Trading Economics · FXStreet · US Bank"
+      "insight": "Lạm phát Mỹ dai dẳng và USD mạnh tạo áp lực kép lên tỷ giá và dòng vốn vào thị trường mới nổi như Việt Nam.",
+      "source": "Vietstock · Nguoiquansat · Kiplinger · US Bank"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent rớt về mức tiền chiến tranh, Goldman hạ dự báo Q4",
+      "headline": "Brent giảm tuần thứ 3, tàu hàng bị tấn công tại eo Hormuz",
       "bullets": [
-        "Brent giảm ~5% xuống còn 76,73 USD/thùng — mức thấp nhất kể từ trước xung đột Mỹ–Iran; giá dầu đã giảm 40% so với đỉnh thời chiến.",
-        "Goldman Sachs hạ dự báo Brent Q4/2026 xuống 80 USD/thùng (từ 90 USD); xuất khẩu UAE phục hồi ~85% mức trước chiến tranh theo IEA."
+        "Brent đứng ở ~74,4 USD/thùng sáng 26/6, giảm tuần thứ 3 liên tiếp; mất ~19% trong 1 tháng qua.",
+        "Một tàu hàng bị tấn công bởi vật thể không xác định ngoài khơi Oman — UKMTO xác nhận, một số tàu đổi hướng.",
+        "Saudi Arabia nối lại xuất khẩu qua Ras Tanura lần đầu kể từ tháng 3; Goldman Sachs hạ dự báo Brent Q4 xuống 80 USD/thùng."
       ],
-      "insight": "Dầu lao dốc giảm áp lực lạm phát nhập khẩu cho Việt Nam nhưng có thể kéo giảm giá cổ phiếu nhóm năng lượng và hóa chất niêm yết.",
-      "source": "Trading Economics · Goldman Sachs · IEA"
+      "insight": "Dầu rẻ hỗ trợ chi phí sản xuất và lạm phát VN, nhưng rủi ro địa chính trị tại Hormuz có thể đảo ngược đà giảm bất ngờ.",
+      "source": "Trading Economics · Oilprice.com · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoán",
+    "#ChứngKhoánVN",
     "#VNIndex",
     "#MSCI",
-    "#FTSENângHạng",
+    "#FTSERussell",
+    "#PCE",
     "#Fed",
-    "#USD",
     "#DầuBrent",
     "#VàngSJC",
-    "#TráiPhiếu"
+    "#Vinhomes"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
