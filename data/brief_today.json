@@ -1,7 +1,7 @@
 {
-  "date": "27/6/2026",
+  "date": "28/6/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Investing.com · VietnamBiz · Nguoi Quan Sat",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
@@ -11,80 +11,79 @@
     },
     {
       "label": "Vàng SJC",
-      "value": "≈147tr₫",
-      "change": "+0,7%",
+      "value": "≈148,5tr",
+      "change": "+1,0%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "72,0$",
-      "change": "-4,3%",
+      "value": "72,6$",
+      "change": "-3,9%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường CK mở cửa tuần mới sau chuỗi phiên phân hóa; theo dõi dòng tiền ngân hàng & BĐS sau Thông tư 25 có hiệu lực 1/7; dữ liệu NFP Mỹ dự kiến công bố 2/7.",
+  "today_watch": "30/6: Ngày đăng ký cuối cùng nhận cổ tức tiền mặt VHM (6.000đ/cp); phiên đầu tuần mới sau tuần VN-Index giữ 1.870 điểm.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%",
+      "headline": "VHM chốt quyền cổ tức 6.000đ/cp, Vingroup nhận về ~18.000 tỷ",
       "bullets": [
-        "Thông tư 25/2026/TT-NHNN ban hành 22/6, có hiệu lực từ 1/7/2026: nâng SFL từ 30% lên 40%, mở rộng dư địa tín dụng trung–dài hạn cho toàn hệ thống ngân hàng.",
-        "Ngay sau tin, cổ phiếu ngân hàng (LPB +2,85%, BID +1,3%, TCB +1,13%) và BĐS (VIC, VHM tăng trần) bứt phá mạnh phiên 22–23/6."
+        "Ngày 30/6 là chốt danh sách nhận cổ tức tiền mặt tỷ lệ 60% (6.000đ/cp); Vinhomes dự chi ~24.645 tỷ đồng, thanh toán quý III/2026.",
+        "Đồng thời VHM phát hành cổ phiếu thưởng tỷ lệ 1:1, nâng cổ phiếu lưu hành lên ~8,2 tỷ đơn vị sau hoàn tất."
       ],
-      "insight": "Thông tư có hiệu lực ngày 1/7 là chất xúc tác gần, giữ nhóm ngân hàng và BĐS dưới ánh đèn dòng tiền trong tuần tới.",
-      "source": "Vietstock · CafeF · Tinnhanhchungkhoan"
+      "insight": "Sự kiện chốt quyền ngày mai tạo áp lực pha loãng và điều chỉnh giá kỹ thuật cho VHM, cổ phiếu trụ cột của VN-Index.",
+      "source": "VietnamBiz · DNSE · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "MSCI không đưa Việt Nam vào danh sách theo dõi nâng hạng 2026",
+      "headline": "Khối ngoại bán ròng ~2.900 tỷ/tuần nhưng đảo chiều phiên 26/6",
       "bullets": [
-        "MSCI công bố Báo cáo Rà soát Phân loại Thị trường ngày 23/6: Việt Nam tiếp tục vắng mặt trong danh sách theo dõi nâng hạng (watch list) lên Emerging Market.",
-        "Khối ngoại bán ròng ~1.099 tỷ đồng phiên 25/6; tổng bán ròng 5 tháng đầu năm gần 65.000 tỷ đồng, tiếp tục là áp lực lớn với VN-Index."
+        "Tuần 23–27/6, khối ngoại bán ròng khoảng 2.900 tỷ đồng toàn thị trường; đây là tuần bán ròng thứ tư liên tiếp trong tháng 6.",
+        "Phiên 26/6 đảo chiều mua ròng ~330 tỷ đồng, tập trung VHM (+380 tỷ) và VIC (+119 tỷ); VN-Index khép tuần tại 1.870 điểm."
       ],
-      "insight": "Thất bại nâng hạng MSCI 2026 kéo dài áp lực bán ròng ngoại, làm giảm kỳ vọng dòng vốn thụ động quay lại trong ngắn hạn.",
-      "source": "CafeF · Nguoiquansat · Vietstock"
+      "insight": "Tín hiệu đảo chiều cuối tuần của khối ngoại chưa đủ để phá vỡ xu hướng rút ròng, thị trường cần thanh khoản cải thiện rõ hơn.",
+      "source": "Nguoi Quan Sat · VietnamBiz · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vinhomes & Techcombank chiếm 65,6% trái phiếu phát hành tháng 6",
+      "headline": "Vinhomes phát hành 21.000 tỷ trái phiếu từ đầu năm, lãi suất 12,5%",
       "bullets": [
-        "HNX ghi nhận 29 đợt phát hành trái phiếu riêng lẻ đến 25/6, tổng 27.295 tỷ đồng — giảm gần nửa so với 52.000 tỷ tháng 5.",
-        "Hệ sinh thái Vingroup (Vinhomes, Vinpearl) huy động 11.907 tỷ lãi suất 12–12,5%/năm; Techcombank huy động 9.000 tỷ — chiếm 65,6% tổng lượng."
+        "Vinhomes hoàn tất 4 lô trái phiếu riêng lẻ trị giá 6.000 tỷ ngày 20/6, nâng tổng phát hành 2026 lên 21.000 tỷ đồng mục đích tái cơ cấu nợ.",
+        "Lãi suất cố định 12,5%/năm, kỳ hạn 30–36 tháng; nhóm Vingroup chiếm hơn 91% trái phiếu BĐS phát hành tháng 6."
       ],
-      "insight": "Thị trường trái phiếu tiếp tục phân hóa mạnh: dòng vốn tập trung vào tổ chức đầu ngành, doanh nghiệp vừa–nhỏ vẫn khó tiếp cận vốn.",
-      "source": "vietnam.vn · HNX · CafeF"
+      "insight": "Mức lãi suất 12,5%/năm phản ánh chi phí vốn cao của BĐS lớn, gây áp lực lên biên lợi nhuận ngành và mặt bằng lãi suất trái phiếu thị trường.",
+      "source": "NhipSongKinhDoanh · Vietnam.vn · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PCE Mỹ tháng 5 tăng 4,1% — cao nhất 3 năm, Fed siết chặt tín hiệu",
+      "headline": "Dầu Brent giảm 10% trong tuần, thấp nhất từ cuối tháng 2",
       "bullets": [
-        "PCE tháng 5/2026 tăng 4,1% so với cùng kỳ (cao nhất từ tháng 4/2023); lạm phát lõi 3,3% — gấp hơn 1,5 lần mục tiêu 2% của Fed.",
-        "Fed họp 16–17/6 giữ lãi suất 3,5–3,75%; 9/18 quan chức dự báo ít nhất 1 lần tăng lãi suất trong 2026; CME FedWatch: ~62% xác suất tăng tháng 9."
+        "Brent rơi về ~72$/thùng cuối tuần — mức thấp nhất kể từ 27/2 — khi Eo biển Hormuz tái thông, xuất khẩu vùng Vịnh phục hồi về ~75% mức trước chiến tranh.",
+        "Goldman Sachs hạ dự báo Brent Q4 từ 90$ xuống 80$; Trung Quốc nhập khẩu dầu ở mức thấp nhất từ 2018, gia tăng áp lực dư cung toàn cầu."
       ],
-      "insight": "PCE neo cao đẩy kỳ vọng Fed tăng lãi, củng cố USD mạnh và áp lực bán ròng ngoại tại các thị trường mới nổi như Việt Nam.",
-      "source": "VietnamPlus · CafeF · Bnews · Trading Economics"
+      "insight": "Dầu rẻ kéo giảm áp lực lạm phát đầu vào cho sản xuất Việt Nam nhưng đồng thời ảnh hưởng tiêu cực cổ phiếu dầu khí như PVD, PVS.",
+      "source": "Trading Economics · Investing.com · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent giảm >3% về 72$/thùng, tuần giảm thứ ba liên tiếp",
+      "headline": "DXY lập đỉnh 13 tháng, Fed còn khả năng tăng lãi suất năm 2026",
       "bullets": [
-        "Brent về ~72,0 USD/thùng sáng 27/6, mất hơn 3,2 USD so với phiên trước; đã xóa toàn bộ mức tăng sau chiến tranh Mỹ–Iran, về vùng trước xung đột (cuối tháng 2).",
-        "Nguyên nhân: eo biển Hormuz tái thông luồng nhanh hơn dự báo, Saudi Arabia nối lại xuất khẩu qua Ras Tanura, OPEC+ đối mặt nguy cơ thặng dư nguồn cung 2026."
+        "Chỉ số USD Index vượt 101 điểm — cao nhất hơn 1 năm — sau đà tăng cả tuần nhờ kỳ vọng Fed tiếp tục thắt chặt; Goldman Sachs cảnh báo Fed có thể tăng lãi suất từ tháng 9.",
+        "Lợi suất TPCP Mỹ kỳ hạn 10 năm duy trì ~4,4%; DXY mạnh tạo áp lực tỷ giá USD/VND và dòng vốn rút khỏi thị trường mới nổi."
       ],
-      "insight": "Dầu rẻ giảm áp lực lạm phát nhập khẩu và chi phí sản xuất, hỗ trợ biên lợi nhuận nhóm công nghiệp–vận tải niêm yết trên sàn Việt Nam.",
-      "source": "Reuters · Trading Economics · VTC News · investing.com"
+      "insight": "USD mạnh kéo dài nén dư địa nới lỏng của NHNN và duy trì áp lực bán ròng của khối ngoại trên TTCK Việt Nam.",
+      "source": "DanViet · VietnamNet · CNBC · Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#VNIndex",
-    "#Ngânhàng",
-    "#BĐS",
-    "#Fed",
+    "#VHM",
+    "#Vinhomes",
     "#DầuBrent",
-    "#VàngSJC",
-    "#MSCI",
+    "#USD",
+    "#FTSE",
     "#NângHạng"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
