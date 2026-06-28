@@ -1,105 +1,98 @@
 {
-  "date": "27/6/2026",
+  "date": "28/6/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Tinnhanhchungkhoan · Thoibaotaichinhvietnam · Reuters · TradingEconomics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính VN",
   "session": {
-    "vnindex_close": "1.871,91",
+    "vnindex_close": "≈1.871,9",
     "vnindex_change": "+0,47%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng ≈316 tỷ (3 sàn, phiên 26/6)",
+    "foreign_net": "Mua ròng ≈316 tỷ",
     "foreign_dir": "buy",
-    "volume": "≈12.200 tỷ (HOSE, khớp lệnh)",
-    "top_gainer": "BĐS & Vingroup (VIC, VHM)"
+    "volume": "≈18.000 tỷ",
+    "top_gainer": "BĐS (VIC, VHM)"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.454",
-      "change": "+0,1%",
+      "change": "+0,2%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
       "value": "≈148,5tr",
-      "change": "+1,0%",
-      "dir": "up"
+      "change": "-0,1%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "≈74,5$",
-      "change": "-8,1%",
+      "value": "71,99$",
+      "change": "-4,3%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Khai trương sàn giao dịch carbon Việt Nam (29/6); FTSE Russell công bố danh sách chính thức cổ phiếu nâng hạng (tháng 8).",
+  "tomorrow_watch": "Ngày 29/6: Khai trương Sàn giao dịch Carbon VN (HNX); số liệu vĩ mô tháng 6 dự kiến công bố đầu tuần.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại đảo chiều mua ròng 316 tỷ, VIC–VHM dẫn đầu",
+      "headline": "Sàn Carbon VN khai trương 29/6: Dấu mốc xanh lịch sử",
       "bullets": [
-        "Phiên 26/6 khối ngoại mua ròng ~316 tỷ đồng trên 3 sàn, kết thúc chuỗi bán ròng liên tiếp nhiều phiên.",
-        "VHM được gom ròng 379 tỷ đồng, VIC thêm 120 tỷ; cả tuần 22–26/6 ngoại chỉ bán ròng ~213 tỷ, giảm 92,5% so tuần trước.",
-        "VN-Index đóng cửa 1.871,91 điểm (+0,47%), VN30 giữ vững trên 2.000 điểm; thanh khoản khớp lệnh HOSE đạt hơn 12.200 tỷ đồng."
+        "Bộ Tài chính & Bộ NN-MT khai trương sàn giao dịch carbon ngày 29/6/2026; HNX vận hành giao dịch, VSDC lưu ký thanh toán.",
+        "110 cơ sở được phân bổ hạn ngạch thí điểm 2025–2026; tiềm năng thu 1,9 tỷ USD/năm nếu tham gia thị trường quốc tế."
       ],
-      "insight": "Dòng vốn ngoại hạ nhiệt bán ròng cho thấy áp lực phân phối đang giảm dần khi VN-Index tiếp cận vùng cản lịch sử 1.900–1.930 điểm.",
-      "source": "Tinnhanhchungkhoan · Vietstock · Vietbao"
+      "insight": "Sàn carbon mở cửa tạo thêm công cụ tài chính mới, các mã năng lượng & công nghệ xanh có thể hưởng lợi trung hạn.",
+      "source": "Vietstock · Thời báo Ngân hàng · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sàn giao dịch carbon khai trương 29/6, mã VN2025 ra mắt",
+      "headline": "Khối ngoại đảo chiều mua ròng 316 tỷ, VIC–VHM dẫn dắt",
       "bullets": [
-        "Bộ Tài chính tổ chức khai trương sàn carbon trong nước ngày 29/6/2026; sản phẩm đầu tiên là hạn ngạch phát thải VN2025, khối lượng 511,5 triệu tấn CO₂.",
-        "Giao dịch chính thức từ 29/6/2026 đến 24/12/2027; DNSE là một trong những CTCK đầu tiên hoàn tất hạ tầng lưu ký và thanh toán.",
-        "Theo VNDIRECT, thị trường carbon gắn với tiêu chí ESG của các quỹ ngoại – nhóm sẽ tăng giải ngân sau khi FTSE nâng hạng tháng 9/2026."
+        "Sau chuỗi bán ròng kéo dài, khối ngoại mua ròng 316 tỷ đồng toàn sàn phiên 26/6; VIC và VHM đứng đầu chiều mua.",
+        "Vinpearl hoàn tất phát hành riêng lẻ 84,15 triệu CP ưu đãi cho 2 NĐT ngoại (Temasek/VIAC), huy động 6.732 tỷ đồng."
       ],
-      "insight": "Sàn carbon tạo lớp sản phẩm mới thu hút dòng vốn ESG quốc tế, bổ trợ cho câu chuyện nâng hạng FTSE đang dần tới gần.",
-      "source": "Vietstock · Thoibaotaichinhvietnam · Investing.com"
+      "insight": "Tín hiệu đảo chiều mua ròng còn khiêm tốn nhưng tập trung vào bluechip Vingroup — cho thấy NĐT ngoại chọn lọc, chưa giải ngân diện rộng.",
+      "source": "Thời báo Tài chính VN · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá trung tâm 7 tuần tăng liên tiếp, HSBC hạ dự báo CA",
+      "headline": "Standard Chartered: GDP H1/2026 ~6,5%, CPI vượt 5% — lãi suất giữ nguyên",
       "bullets": [
-        "Tỷ giá trung tâm SBV sáng 27/6 ở mức 25.197 đồng, tăng 14 đồng trong tuần – đánh dấu 7 tuần tăng liên tiếp; tính từ đầu năm mới tăng 0,3%.",
-        "HSBC hạ dự báo thặng dư tài khoản vãng lai 2026 xuống 2,2% GDP, nhận định áp lực lên VND có thể gia tăng trong H2.",
-        "Tỷ giá bán Vietcombank duy trì 26.454 đồng/USD; tự do giảm mạnh về 26.490 đồng, thu hẹp chênh lệch với ngân hàng."
+        "Standard Chartered dự báo GDP Việt Nam nửa đầu 2026 đạt ~6,5% nhưng thâm hụt thương mại lên 13 tỷ USD (5 tháng đầu năm).",
+        "CPI Q2/2026 ước vượt 5% YoY; lãi suất chính sách dự báo giữ 4,5% đến cuối năm; tăng trưởng xuất khẩu tháng 6 hạ về 16,2%."
       ],
-      "insight": "Tỷ giá trung tâm tăng đều nhưng VND chưa mất giá đáng kể nhờ dự trữ ngoại hối gần 87,6 tỷ USD hỗ trợ can thiệp kịp thời.",
-      "source": "Thoibaotaichinhvietnam · Danviet · SBV"
+      "insight": "Lãi suất ổn định hỗ trợ định giá cổ phiếu, song CPI cao hơn mục tiêu 4,5% giới hạn dư địa nới lỏng thêm của SBV.",
+      "source": "Standard Chartered · Tin nhanh Chứng khoán"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent giảm 10% trong tuần do eo Hormuz tái mở cửa",
+      "headline": "Dầu Brent -4,3% xuống 71,99 USD: Hormuz thông, nguồn cung ào về",
       "bullets": [
-        "Brent chốt tuần quanh 74,5 USD/thùng – mức thấp nhất từ tháng 2/2026; tuần giảm hơn 10%, lớn nhất trong tháng.",
-        "Eo Hormuz tái thông: xuất khẩu Vùng Vịnh phục hồi ~75% mức trước chiến tranh; Saudi Arabia bắt đầu nạp dầu tại cảng Ras Tanura.",
-        "Goldman Sachs hạ dự báo Brent Q4/2026 xuống 80 USD/thùng (từ 90 USD); Iraq đòi tăng hạn ngạch OPEC để bù lại lượng dầu mất trong chiến tranh."
+        "Brent giảm 3,27 USD (-4,34%) xuống 71,99 USD/thùng — thấp nhất kể từ cuối tháng 2; cả tuần dầu mất ~8%.",
+        "Saudi Aramco nối lại bốc dỡ dầu tại cảng Ras Tanura sau 4 tháng; Goldman Sachs hạ dự báo Brent Q4/2026 về 80 USD/thùng."
       ],
-      "insight": "Dầu giảm mạnh giúp kiểm soát lạm phát nhập khẩu tại Việt Nam, nhưng tạo áp lực lên nhóm cổ phiếu dầu khí như GAS, BSR, PVS.",
-      "source": "TradingEconomics · Reuters · Oilprice.com"
+      "insight": "Dầu giảm sâu hỗ trợ lạm phát VN và chi phí đầu vào ngành sản xuất, nhưng gây áp lực lên cổ phiếu dầu khí (GAS, BSR, PVD).",
+      "source": "Reuters · VOV · Báo Quân Đội Nhân Dân"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PCE Mỹ tháng 5 tăng 4,1% – Fed chưa có lý do nới lỏng",
+      "headline": "DXY chạm đỉnh 13 tháng tại 101 điểm, USD mạnh gây sức ép tỷ giá",
       "bullets": [
-        "Chỉ số PCE tháng 5 của Mỹ tăng 4,1% so cùng kỳ; thu nhập và chi tiêu cá nhân đều tăng 0,7%, cho thấy sức cầu vẫn dai dẳng.",
-        "Thị trường giảm kỳ vọng Fed cắt lãi suất tại họp FOMC 28–29/7; DXY neo trên 101 điểm, gây sức ép lên tỷ giá các EMFX.",
-        "Vàng thế giới hồi phục lên ~4.090 USD/oz sau khi dữ liệu PCE không gây bất ngờ quá lớn so với dự báo thị trường."
+        "Chỉ số DXY vượt 101 điểm — mức cao nhất 13 tháng; tỷ giá trung tâm SBV ngày 28/6 tăng 12 đồng lên 25.195 VND/USD.",
+        "USD tăng do kỳ vọng đàm phán Mỹ–Iran tiến triển, giảm lo ngại địa chính trị; Vietcombank bán USD 26.454 VND."
       ],
-      "insight": "Fed giữ lãi suất cao kéo dài củng cố USD mạnh, làm chi phí vốn toàn cầu duy trì cao – gián tiếp hạn chế dòng vốn ngoại quay lại các TTCK mới nổi như Việt Nam.",
-      "source": "VnExpress · TradingEconomics · CNBC"
+      "insight": "DXY mạnh đẩy tỷ giá VND chịu áp lực, ảnh hưởng chi phí nhập khẩu nguyên liệu và lợi nhuận các doanh nghiệp vay ngoại tệ lớn.",
+      "source": "Dân Việt · CafeF · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#KhốiNgoại",
     "#SànCarbon",
-    "#FTSE",
     "#DầuBrent",
-    "#Fed",
+    "#TỷGiá",
     "#VàngSJC",
-    "#TỷGiá"
+    "#KhốiNgoại"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
