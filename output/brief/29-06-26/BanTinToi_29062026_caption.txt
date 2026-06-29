@@ -1,0 +1,39 @@
+📊 BẢN TIN TỐI · 29/6/2026
+📈 Phiên hôm nay: VN-Index 1.854,97 (-0,90%)  |  Khối ngoại Bán ròng ≈787 tỷ
+🌐 Tỷ giá USD/VND 26.461 (+0,03%)  |  Vàng SJC ≈148tr (-0,34%)  |  Dầu Brent 73,4$ (+1,0%)
+
+🇻🇳 TRONG NƯỚC:
+1. NHNN nới trần vốn ngắn hạn cho vay TDH lên 40% từ 1/7
+   • Thông tư 25/2026/TT-NHNN có hiệu lực 1/7, nâng tỷ lệ tối đa vốn ngắn hạn dùng cho vay trung-dài hạn từ 30% lên 40% — mức cao nhất kể từ 2021.
+   • Mirae Asset ước tính thay đổi mở thêm 1,3–1,5 triệu tỷ đồng dư địa cho vay; nhóm ngân hàng hôm nay dẫn đầu tăng điểm, LPB +3,2%, STB +1,6%.
+   • NHNN đồng thời loại trừ dư nợ 18 dự án hạ tầng trọng điểm (Vingroup, Sun Group, Masterise) khỏi room tín dụng thông thường.
+   → Nới trần vốn ngắn hạn đảo chiều lộ trình siết 3 năm, mở dư địa tín dụng cho BĐS và hạ tầng nhưng cũng làm tăng rủi ro thanh khoản kỳ hạn toàn hệ thống.
+2. Nhóm Vingroup bán tháo, VN-Index mất 17 điểm về 1.854
+   • VIC giảm 4,74% còn 217.200đ, VHM giảm 3,65% còn 150.300đ — hai mã này 'thổi bay' ~26 điểm VN-Index sau chuỗi tăng lên đỉnh lịch sử tháng 5.
+   • Thanh khoản HOSE đạt ~17.400 tỷ đồng (+8,1%), breadth tích cực với 192 mã tăng/134 mã giảm — thị trường 'đỏ vỏ xanh lòng'.
+   • Khối ngoại bán ròng ≈787 tỷ đồng toàn sàn, tập trung xả VHM (-419 tỷ), VIC (-81 tỷ), FPT (-73 tỷ).
+   → Áp lực chốt lời tại nhóm Vingroup sau sóng tăng mạnh gây méo chỉ số, nhưng breadth tích cực cho thấy dòng tiền chưa rút khỏi thị trường.
+3. Việt Nam khai trương sàn giao dịch carbon đầu tiên
+   • Sáng 29/6, Bộ Tài chính & Bộ NN-MT khai trương sàn carbon tại HNX; sản phẩm đầu tiên là mã VN2025, tổng hạn ngạch >511 triệu tấn CO₂e.
+   • Giai đoạn đầu có 6 CTCK thành viên và hơn 100 cơ sở phát thải; VNX/HNX/VSDC miễn phí dịch vụ đến hết 2028 theo Nghị định 29/2026.
+   • Sàn carbon giúp doanh nghiệp chuẩn bị đáp ứng cơ chế CBAM của EU và cam kết phát thải ròng bằng 0 vào năm 2050.
+   → Sàn carbon mở ra kênh huy động vốn xanh mới, nhưng tính thanh khoản và hiệu quả định giá thực tế mới là thước đo thành công dài hạn.
+
+🌏 QUỐC TẾ:
+4. Nasdaq giảm phiên thứ 5, BofA dự báo Fed tăng lãi 3 lần năm 2026
+   • Nasdaq mất 5 phiên liên tiếp, thấp hơn >6% so với đỉnh 2/6; S&P 500 cũng giảm tuần thứ 3 liên tiếp khi chip bán dẫn bị bán tháo.
+   • BofA dự báo Fed tăng lãi 3 lần (9, 10, 12/2026) đưa lãi suất về 4,25–4,5%; CME FedWatch đặt cược ~80% khả năng tăng lãi vào tháng 12.
+   • Lợi suất TPCP Mỹ 10 năm duy trì quanh 4,38%; DXY ≈101,3 — tuần tăng thứ 2 liên tiếp, ảnh hưởng tỷ giá EM.
+   → Kỳ vọng Fed tăng lãi cuối năm củng cố xu hướng USD mạnh, gây áp lực tỷ giá và gia tăng chi phí vốn cho thị trường mới nổi như Việt Nam.
+5. Giá dầu Brent tăng trên 73$ do căng thẳng Mỹ–Iran tái diễn
+   • Iran bắn drone vào tàu hàng ở eo biển Hormuz cuối tuần qua; Trump tuyên bố Iran vi phạm thỏa thuận ngừng bắn, dầu Brent bật lên ~73,4$/thùng.
+   • Vàng thế giới giảm ~0,8% còn khoảng 4.057$/oz — tuần giảm thứ 4 liên tiếp do áp lực lãi suất Fed; vàng SJC trong nước giảm 500.000đ/lượng.
+   • Giới phân tích lo ngại dầu cao kéo lạm phát Mỹ (+4,2% annualized) khó hạ, hỗ trợ kịch bản Fed diều hâu kéo dài.
+   → Giá dầu cao cùng rủi ro địa chính trị Trung Đông kéo dài tạo áp lực kép lên lạm phát toàn cầu và chi phí nhiên liệu doanh nghiệp vận tải, hàng không Việt Nam.
+
+⏰ Ngày mai chú ý: Số liệu NFP & ADP việc làm Mỹ tháng 6 công bố tuần này; NHNN chính thức áp Thông tư 25 từ 1/7 — theo dõi tác động room tín dụng ngân hàng
+
+#BảnTinTối #ChứngKhoán #VNIndex #Ngânhàng #CarbonMarket #Fed #DầuBrent #VàngSJC
+
+Nguồn: VnExpress · CafeF · Tuổi Trẻ · Thời Báo Tài Chính · CNBC · CNN Business
+Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán.
