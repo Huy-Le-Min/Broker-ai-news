@@ -1,89 +1,90 @@
 {
-  "date": "29/6/2026",
+  "date": "30/6/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Thanh Niên · VietnamBiz · Reuters · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · VnEconomy · Reuters · Trading Economics · Fortune",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.461",
-      "change": "+0,03%",
+      "value": "26.466",
+      "change": "+0,05%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "≈148,5tr",
-      "change": "-0,3%",
+      "value": "≈148tr",
+      "change": "-0,34%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "72,99$",
-      "change": "+0,5%",
-      "dir": "up"
+      "value": "72,0$",
+      "change": "-10%/tuần",
+      "dir": "down"
     }
   ],
-  "today_watch": "Diễn đàn ECB tại Sintra (Bồ Đào Nha) khai mạc: phát biểu của lãnh đạo Fed & ECB sẽ định hướng lãi suất toàn cầu nửa cuối năm.",
+  "today_watch": "Phiên cuối tháng 6 & quý II/2026: chốt NAV quỹ, số liệu GDP H1 và xuất khẩu 6 tháng dự kiến công bố; báo cáo việc làm phi nông nghiệp Mỹ (NFP) ra tuần này tác động trực tiếp lên USD và tỷ giá.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tiến sát 1.900 điểm, khối ngoại bán ròng thu hẹp mạnh",
+      "headline": "Khối ngoại bán ròng ~2,5 tỷ USD dù FTSE nâng hạng tháng 9",
       "bullets": [
-        "Tuần 22–26/6, VN-Index tăng 2,6% lên 1.871,91 điểm — tuần tăng tốt nhất kể từ khi xung đột Trung Đông nổ ra.",
-        "Khối ngoại bán ròng chỉ 213 tỷ đồng (giảm 92% tuần trước); VIC được mua ròng 1.173 tỷ đồng, mạnh nhất thị trường."
+        "Chỉ 5 tháng đầu 2026, khối ngoại bán ròng gần 2,5 tỷ USD; áp lực bán chưa đảo chiều dù FTSE Russell xác nhận nâng hạng lên Thị trường Mới nổi Thứ cấp hiệu lực 21/9/2026.",
+        "Dòng vốn thụ động đợt đầu (tháng 9) ước ~150–171 triệu USD, tổng lộ trình 4 đợt tới tháng 9/2027 có thể đạt 1,7 tỷ USD; danh sách 32 cổ phiếu tham khảo chờ xác nhận chính thức 21/8/2026."
       ],
-      "insight": "Lực bán ngoại thu hẹp là tín hiệu tích cực, nhưng đà tăng vẫn phụ thuộc vào nhóm Vingroup — phân hóa rõ rệt giữa trụ và sàn.",
-      "source": "Thời báo TCVN · Vietbao · Investing.com VN"
+      "insight": "Bán ròng ngắn hạn phản ánh tâm lý 'risk-off' toàn cầu, không phải từ chối câu chuyện nâng hạng — dòng vốn thực mới giải ngân từ tháng 9, VN30 và nhóm bluechip hưởng lợi trước.",
+      "source": "VnEconomy · VnExpress · Vietstock · SSI Research"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng 5 tháng tăng 5,71% nhưng huy động vốn chỉ đạt 2,98%",
+      "headline": "Xuất khẩu VN tăng >20% nửa đầu 2026, nhập siêu ~7,5 tỷ USD",
       "bullets": [
-        "Đến cuối tháng 5/2026, tăng trưởng tín dụng đạt 5,71% — vượt xa huy động 2,98%, chênh lệch hơn 2,5 triệu tỷ đồng theo ước tính VDSC.",
-        "NHNN bơm ròng trở lại tuần cuối tháng 5 sau ba tuần hút ròng; lãi suất huy động có thể nhích tăng theo dự báo ABS."
+        "Kim ngạch xuất khẩu 6 tháng đầu 2026 tăng hơn 20% so cùng kỳ 2025; FDI giải ngân 5 tháng đạt 9,75 tỷ USD, tăng 9,6% — cao nhất 5 năm.",
+        "Nhập siêu gần 7,5 tỷ USD do nhập máy móc, linh kiện tăng mạnh; FDI giải ngân bù đắp phần lớn, hỗ trợ ổn định tỷ giá."
       ],
-      "insight": "Khoảng cách tín dụng–huy động nới rộng nhanh đặt áp lực lên thanh khoản ngân hàng, có thể ảnh hưởng biên lãi ròng nhóm cổ phiếu bank.",
-      "source": "CafeF · VietnamFinance · ABS Research"
+      "insight": "Xuất khẩu mạnh củng cố triển vọng GDP đạt 8,5–9% cả năm, hỗ trợ nhóm cổ phiếu xuất khẩu (dệt may, thủy sản, điện tử) trong nửa cuối 2026.",
+      "source": "Vietnambiz · VTV · SSI Research · PSI"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá USD/VND tăng nhẹ đầu tuần, DXY đứng trên 101 điểm",
+      "headline": "USD/VND tăng nhẹ lên 26.466, tỷ giá chịu áp lực từ Fed diều hâu",
       "bullets": [
-        "NHNN công bố tỷ giá trung tâm 25.201 đồng sáng 29/6, tăng 6 đồng; Vietcombank bán ra 26.461 đồng — tăng 7 đồng so với cuối tuần.",
-        "DXY giảm nhẹ còn 101,33 điểm nhưng vẫn ở mức cao nhất một năm, duy trì áp lực lên tỷ giá và dòng vốn ngoại tại thị trường mới nổi."
+        "Vietcombank & BIDV niêm yết giá bán USD sáng 30/6 ở mức 26.466 VND, tăng 5 đồng so hôm qua; tỷ giá trung tâm NHNN tiếp tục xu hướng tăng trong tuần.",
+        "Phân tích MBS: Fed duy trì lãi suất 3,5–3,75% và dot plot nghiêng về nâng thêm, đẩy DXY và tạo áp lực dai dẳng lên VND."
       ],
-      "insight": "USD mạnh dai dẳng dù giảm nhẹ hôm nay — NHNN cần cân bằng giữa ổn định tỷ giá và hỗ trợ tăng trưởng tín dụng trong nửa cuối năm.",
-      "source": "Thanh Niên · NHNN · tygiausd.org"
+      "insight": "Tỷ giá neo cao ép chi phí nhập khẩu nguyên liệu và gây áp lực lên biên lợi nhuận nhóm sản xuất phụ thuộc đầu vào USD, cần theo dõi NFP tuần này.",
+      "source": "Vietnam.vn · Vietnambiz · Trading Economics"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed phát tín hiệu tăng lãi suất cuối 2026, thị trường định giá lại toàn diện",
+      "headline": "Fed giữ lãi 3,5–3,75%, 9/18 quan chức muốn nâng thêm 2026",
       "bullets": [
-        "Họp 17/6, Fed giữ nguyên 3,5–3,75%; dot-plot trung vị cuối năm 2026 nhảy lên 3,8% — 9/18 quan chức ủng hộ tăng ít nhất một lần.",
-        "CME FedWatch: xác suất tăng lãi suất tháng 12 là 87,9%; Goldman Sachs lùi kỳ vọng cắt giảm sang 2027; lạm phát PCE dự báo 3,6% năm nay."
+        "Tại họp FOMC tháng 6 (đầu tiên dưới tân Chủ tịch Kevin Warsh), Fed giữ nguyên lãi suất 3,5–3,75% lần thứ tư liên tiếp; PCE lạm phát dự báo tăng lên 3,6% trong 2026.",
+        "9/18 thành viên dự báo ít nhất 1 lần tăng lãi trong năm; J.P. Morgan kỳ vọng Fed giữ nguyên hết 2026, thị trường chờ NFP tuần này để định hướng."
       ],
-      "insight": "Kịch bản 'higher for longer' của Fed củng cố USD mạnh và kéo dòng vốn rời thị trường mới nổi — áp lực tỷ giá và lợi suất trái phiếu VN tăng theo.",
-      "source": "VnExpress · CafeF · Vietstock · EBC Financial"
+      "insight": "Lập trường diều hâu của Fed duy trì USD mạnh và lợi suất trái phiếu cao, gây áp lực kép lên tỷ giá VND và dòng vốn ngoại khỏi các thị trường mới nổi kể cả Việt Nam.",
+      "source": "Trading Economics · J.P. Morgan · Forbes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ–Iran đánh trả lẫn nhau; dầu Brent tăng nhẹ sau khi giảm 8% tuần trước",
+      "headline": "Dầu Brent ~72 USD, giảm >10%/tuần nhờ Hormuz hạ nhiệt",
       "bullets": [
-        "Cuối tuần, Iran tấn công căn cứ Mỹ tại Bahrain và Kuwait; Mỹ–Iran đồng ý tạm dừng quân sự và gặp tại Qatar ngày 30/6 để giải quyết tranh chấp Hormuz.",
-        "Brent tăng 0,5% lên gần 73 USD sáng nay sau tuần giảm ~8%; JPMorgan hạ dự báo Brent nửa cuối 2026 do nhu cầu Trung Quốc yếu và nguồn cung nới lỏng."
+        "Dầu Brent còn ~72 USD/thùng (29/6), giảm hơn 10% trong tuần — tuần giảm thứ ba liên tiếp; Saudi Arabia nối lại bơm dầu tại Ras Tanura, luồng vận chuyển qua Hormuz phục hồi ~75% mức trước chiến tranh.",
+        "Mỹ–Iran dự kiến họp ở Doha đầu tuần để đàm phán về Hormuz; căng thẳng vẫn chưa dứt khi tàu chở dầu Qatar bị tấn công cuối tuần qua."
       ],
-      "insight": "Căng thẳng Hormuz còn dễ leo thang trở lại — giá dầu thấp hơn sẽ giảm áp lực lạm phát toàn cầu nhưng bất ổn địa chính trị vẫn là rủi ro hai chiều với TTCK.",
-      "source": "Thanh Niên · VTC News · VOV · Reuters"
+      "insight": "Dầu giảm sâu hạ áp lực lạm phát nhập khẩu và có lợi cho nhóm hóa chất, vận tải, hàng không; nhưng rủi ro địa chính trị Trung Đông vẫn là biến số bất định cần theo dõi.",
+      "source": "Trading Economics · Reuters · Fortune"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoán",
+    "#ChứngKhoánViệtNam",
     "#VNIndex",
+    "#FTSENângHạng",
     "#Fed",
-    "#Hormuz",
+    "#DầuBrent",
+    "#VàngSJC",
     "#TỷGiá",
-    "#Vàng",
-    "#Dầu"
+    "#30thang6"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
