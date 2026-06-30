@@ -1,103 +1,100 @@
 {
-  "date": "29/6/2026",
+  "date": "30/6/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Tuổi Trẻ · Thời Báo Tài Chính · CNBC · CNN Business",
+  "sources": "VnExpress · CafeF · Vietstock · Baomoi · Thanh Niên · Reuters · CNBC · VTV",
   "session": {
-    "vnindex_close": "1.854,97",
-    "vnindex_change": "-0,90%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng ≈787 tỷ",
+    "vnindex_close": "1.860,01",
+    "vnindex_change": "+0,27%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng ≈1.000 tỷ",
     "foreign_dir": "sell",
-    "volume": "≈17.400 tỷ",
-    "top_gainer": "Ngân hàng (LPB +3,2%; VIB +2,5%; STB +1,6%)"
+    "volume": "≈20.000 tỷ",
+    "top_gainer": "VIC (+1,3%), VHM (+1%) dẫn dắt; BĐS & tài chính xanh nhạt"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.461",
-      "change": "+0,03%",
+      "value": "26.300",
+      "change": "+0,2%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "≈148tr",
-      "change": "-0,34%",
+      "value": "147tr/lượng",
+      "change": "-1,4%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "73,4$",
-      "change": "+1,0%",
+      "value": "73,15$",
+      "change": "+1,6%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Số liệu NFP & ADP việc làm Mỹ tháng 6 công bố tuần này; NHNN chính thức áp Thông tư 25 từ 1/7 — theo dõi tác động room tín dụng ngân hàng",
+  "tomorrow_watch": "Báo cáo việc làm phi nông nghiệp Mỹ (Nonfarm Payrolls) tháng 6 dự kiến công bố 3/7 — định hướng lãi suất Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới trần vốn ngắn hạn cho vay TDH lên 40% từ 1/7",
+      "headline": "VIC, VHM 'gánh' VN-Index: phiên 'xanh vỏ đỏ lòng'",
       "bullets": [
-        "Thông tư 25/2026/TT-NHNN có hiệu lực 1/7, nâng tỷ lệ tối đa vốn ngắn hạn dùng cho vay trung-dài hạn từ 30% lên 40% — mức cao nhất kể từ 2021.",
-        "Mirae Asset ước tính thay đổi mở thêm 1,3–1,5 triệu tỷ đồng dư địa cho vay; nhóm ngân hàng hôm nay dẫn đầu tăng điểm, LPB +3,2%, STB +1,6%.",
-        "NHNN đồng thời loại trừ dư nợ 18 dự án hạ tầng trọng điểm (Vingroup, Sun Group, Masterise) khỏi room tín dụng thông thường."
+        "VN-Index đóng cửa 1.860,01 điểm (+0,27%); nếu loại VIC (+1,3%) và VHM (+1%), thị trường thực chất đóng cửa trong sắc đỏ.",
+        "Thanh khoản ≈20.000 tỷ đồng (gồm thỏa thuận >6.000 tỷ); khối ngoại bán ròng ≈1.000 tỷ đồng trên HoSE — phiên bán ròng liên tiếp."
       ],
-      "insight": "Nới trần vốn ngắn hạn đảo chiều lộ trình siết 3 năm, mở dư địa tín dụng cho BĐS và hạ tầng nhưng cũng làm tăng rủi ro thanh khoản kỳ hạn toàn hệ thống.",
-      "source": "Tuổi Trẻ · Thời Báo Tài Chính · VietnamPlus"
+      "insight": "Thị trường 'xanh vỏ đỏ lòng' phản ánh dòng tiền thiếu đồng thuận — chỉ số giữ được nhờ trụ vốn hóa lớn, chứ không phải nền tảng diện rộng.",
+      "source": "Vietstock · Baomoi (Thời Báo Ngân Hàng)"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhóm Vingroup bán tháo, VN-Index mất 17 điểm về 1.854",
+      "headline": "Bộ Chính trị ban hành Nghị quyết FDI thế hệ mới",
       "bullets": [
-        "VIC giảm 4,74% còn 217.200đ, VHM giảm 3,65% còn 150.300đ — hai mã này 'thổi bay' ~26 điểm VN-Index sau chuỗi tăng lên đỉnh lịch sử tháng 5.",
-        "Thanh khoản HOSE đạt ~17.400 tỷ đồng (+8,1%), breadth tích cực với 192 mã tăng/134 mã giảm — thị trường 'đỏ vỏ xanh lòng'.",
-        "Khối ngoại bán ròng ≈787 tỷ đồng toàn sàn, tập trung xả VHM (-419 tỷ), VIC (-81 tỷ), FPT (-73 tỷ)."
+        "Nghị quyết số 10/BPT ngày 8/6/2026 được quán triệt toàn quốc sáng 30/6; mục tiêu thu hút 200–300 tỷ USD FDI đăng ký đến 2030.",
+        "Nghị quyết gắn mục tiêu nâng tỷ lệ nội địa hóa lên 40–50% và nâng hạng TTCK lên thị trường mới nổi vào lộ trình triển khai."
       ],
-      "insight": "Áp lực chốt lời tại nhóm Vingroup sau sóng tăng mạnh gây méo chỉ số, nhưng breadth tích cực cho thấy dòng tiền chưa rút khỏi thị trường.",
-      "source": "VnExpress · CafeF · Japan Securities · Tin Nhanh Chứng Khoán"
+      "insight": "Tín hiệu chính sách dài hạn tích cực cho dòng vốn FDI chất lượng cao, hỗ trợ nhóm BĐS khu công nghiệp và kỳ vọng nâng hạng FTSE tháng 9/2026.",
+      "source": "VTV · Tinnhanhchungkhoan"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam khai trương sàn giao dịch carbon đầu tiên",
+      "headline": "Vàng SJC giảm 2 triệu/lượng, thế giới rơi dưới 4.000 USD",
       "bullets": [
-        "Sáng 29/6, Bộ Tài chính & Bộ NN-MT khai trương sàn carbon tại HNX; sản phẩm đầu tiên là mã VN2025, tổng hạn ngạch >511 triệu tấn CO₂e.",
-        "Giai đoạn đầu có 6 CTCK thành viên và hơn 100 cơ sở phát thải; VNX/HNX/VSDC miễn phí dịch vụ đến hết 2028 theo Nghị định 29/2026.",
-        "Sàn carbon giúp doanh nghiệp chuẩn bị đáp ứng cơ chế CBAM của EU và cam kết phát thải ròng bằng 0 vào năm 2050."
+        "Vàng miếng SJC mở cửa giảm 2 triệu đồng/lượng xuống 143–146 triệu; chốt chiều phục hồi lên 144–147 triệu đồng/lượng.",
+        "Giá vàng thế giới lao xuống vùng 3.969 USD/ounce sáng 30/6, rời xa mốc 4.000 USD lần đầu; áp lực từ Fed giữ lãi suất 3,5–3,75% và kỳ vọng thắt chặt tiếp."
       ],
-      "insight": "Sàn carbon mở ra kênh huy động vốn xanh mới, nhưng tính thanh khoản và hiệu quả định giá thực tế mới là thước đo thành công dài hạn.",
-      "source": "VietnamPlus · Vietstock · Thời Báo Ngân Hàng"
+      "insight": "Vàng SJC giảm mạnh theo thế giới thu hẹp khoảng cách nội–ngoại, giảm áp lực tâm lý phòng thủ nhưng cũng phản ánh lo ngại lạm phát USD tái trỗi dậy.",
+      "source": "VietnamNet · Thanh Niên · vietnam.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Nasdaq giảm phiên thứ 5, BofA dự báo Fed tăng lãi 3 lần năm 2026",
+      "headline": "Phố Wall lập kỷ lục: Dow vượt 52.000 lần đầu lịch sử",
       "bullets": [
-        "Nasdaq mất 5 phiên liên tiếp, thấp hơn >6% so với đỉnh 2/6; S&P 500 cũng giảm tuần thứ 3 liên tiếp khi chip bán dẫn bị bán tháo.",
-        "BofA dự báo Fed tăng lãi 3 lần (9, 10, 12/2026) đưa lãi suất về 4,25–4,5%; CME FedWatch đặt cược ~80% khả năng tăng lãi vào tháng 12.",
-        "Lợi suất TPCP Mỹ 10 năm duy trì quanh 4,38%; DXY ≈101,3 — tuần tăng thứ 2 liên tiếp, ảnh hưởng tỷ giá EM."
+        "Phiên 29/6 (sáng 30/6 giờ VN): Dow Jones tăng 0,59% lên 52.182 điểm — lần đầu đóng cửa trên 52.000; S&P 500 tăng 1,18%; Nasdaq tăng 2,07%.",
+        "Thị trường được hỗ trợ bởi kỳ vọng tiến triển đàm phán Mỹ–Iran tại Doha và hiệu ứng 'window dressing' cuối quý II; tuần giao dịch rút ngắn (nghỉ 3/7)."
       ],
-      "insight": "Kỳ vọng Fed tăng lãi cuối năm củng cố xu hướng USD mạnh, gây áp lực tỷ giá và gia tăng chi phí vốn cho thị trường mới nổi như Việt Nam.",
-      "source": "CNBC · CNN Business · TechTimes"
+      "insight": "Phố Wall lạc quan cuối quý có thể hỗ trợ tâm lý mở cửa phiên 1/7 của TTCK VN, nhưng báo cáo việc làm 3/7 là rủi ro lớn ngay sau đó.",
+      "source": "Thanh Niên · Reuters · Schwab Market Update"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng trên 73$ do căng thẳng Mỹ–Iran tái diễn",
+      "headline": "Dầu Brent tăng 1,6% vì thỏa thuận Mỹ–Iran vẫn mong manh",
       "bullets": [
-        "Iran bắn drone vào tàu hàng ở eo biển Hormuz cuối tuần qua; Trump tuyên bố Iran vi phạm thỏa thuận ngừng bắn, dầu Brent bật lên ~73,4$/thùng.",
-        "Vàng thế giới giảm ~0,8% còn khoảng 4.057$/oz — tuần giảm thứ 4 liên tiếp do áp lực lãi suất Fed; vàng SJC trong nước giảm 500.000đ/lượng.",
-        "Giới phân tích lo ngại dầu cao kéo lạm phát Mỹ (+4,2% annualized) khó hạ, hỗ trợ kịch bản Fed diều hâu kéo dài."
+        "Dầu Brent đóng phiên 29/6 ở 73,15 USD/thùng (+1,61%); lưu lượng tàu qua eo biển Hormuz chỉ phục hồi ≈75% mức trước xung đột theo Gelber & Associates.",
+        "Tuần trước Brent giảm 10,6% (tuần thứ ba liên tiếp); đà hồi phục yếu khi Mỹ–Iran vẫn đàm phán kỹ thuật tại Doha và thủy lôi còn hiện diện trên tuyến đường."
       ],
-      "insight": "Giá dầu cao cùng rủi ro địa chính trị Trung Đông kéo dài tạo áp lực kép lên lạm phát toàn cầu và chi phí nhiên liệu doanh nghiệp vận tải, hàng không Việt Nam.",
-      "source": "Reuters · CNBC · Vietnam.vn · VTCNews"
+      "insight": "Dầu tăng trở lại tạo rủi ro kép: đẩy chi phí đầu vào nhóm sản xuất VN và củng cố kỳ vọng Fed duy trì lãi suất cao — bất lợi cho dòng vốn vào thị trường mới nổi.",
+      "source": "Reuters · Thanh Niên · Quân Đội Nhân Dân"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#Ngânhàng",
-    "#CarbonMarket",
-    "#Fed",
+    "#Vietcap",
+    "#KhốiNgoại",
+    "#FDI",
     "#DầuBrent",
-    "#VàngSJC"
+    "#VàngSJC",
+    "#MỹIran",
+    "#PhốWall"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
