@@ -1,92 +1,87 @@
 {
-  "date": "01/7/2026",
+  "date": "02/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Thời báo Tài chính VN · Reuters · VietnamBiz",
+  "sources": "VnExpress · CafeF · Vietstock · Vietnambiz · Reuters · FXStreet",
   "session": {
-    "vnindex_close": "1.867,21",
-    "vnindex_change": "+0,39%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng ≈330 tỷ (HOSE)",
-    "foreign_dir": "buy",
-    "volume": "≈13.200 tỷ",
-    "top_gainer": "Năng lượng (+3,64%), Công nghệ (+1,93%), FPT +3,85%"
+    "vnindex_close": "1.866,3",
+    "vnindex_change": "-0,05%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng ≈440 tỷ",
+    "foreign_dir": "sell",
+    "volume": "≈17.200 tỷ",
+    "top_gainer": "BĐS (VIC +1,47%, VHM +1,14%), Truyền thông (VNZ)"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.466",
-      "change": "+0,0%",
-      "dir": "flat"
+      "change": "+0,2%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,4tr",
-      "change": "-0,4%",
-      "dir": "down"
+      "value": "148,4tr",
+      "change": "+1,4%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "72,95$",
-      "change": "-1,3%",
+      "value": "71,75$",
+      "change": "-1,9%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Báo cáo việc làm ADP & phát biểu Chủ tịch Fed Kevin Warsh (tối 2/7 giờ VN); KQKD Q2 doanh nghiệp niêm yết bắt đầu công bố.",
+  "tomorrow_watch": "Số liệu NFP chính thức tháng 6 của Mỹ (57K, thấp hơn dự báo 110K) — thị trường theo dõi phản ứng Fed và tác động lên USD/vàng phiên 3/7.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Hàng loạt chính sách lớn có hiệu lực từ 1/7",
+      "headline": "NHNN: Tín dụng 6 tháng tăng 7,41%, LDR vọt 112%",
       "bullets": [
-        "Lương cơ sở tăng từ 2,34 lên 2,53 triệu đồng/tháng; lương hưu tăng 8% theo Nghị định 161-162/2026.",
-        "Luật Thuế TNCN 2025 hiệu lực: giảm trừ gia cảnh tăng lên 15,5 triệu/tháng, biểu thuế rút gọn còn 5 bậc, áp thuế 0,1% chuyển nhượng vàng miếng.",
-        "Cơ cấu tổ chức NHNN cũng được kiện toàn theo Nghị định 198/2026, có hiệu lực cùng ngày."
+        "Đến 26/6, dư nợ tín dụng toàn hệ thống đạt 19,97 triệu tỷ đồng, tăng 7,41% so với cuối 2025 và tăng 18,1% so cùng kỳ.",
+        "NHNN giữ nguyên lãi suất điều hành; LDR toàn hệ thống ở mức 111–112%, tín dụng tăng nhanh hơn huy động ≈2 điểm %."
       ],
-      "insight": "Lương tăng hỗ trợ tiêu dùng nội địa, nhưng chi phí lao động tăng có thể tạo áp lực nhẹ lên biên lợi nhuận nhóm doanh nghiệp thâm dụng lao động.",
-      "source": "VnExpress · Baomoi-TTXVN · VietnamPlus"
+      "insight": "LDR áp sát ngưỡng an toàn gây áp lực lên NIM ngân hàng, đặt rủi ro lên cổ phiếu ngành trong nửa cuối năm.",
+      "source": "NHNN họp báo 2/7 · VnExpress · Vietnambiz · Thanh Niên"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại đảo chiều mua ròng 330 tỷ, VPB dẫn đầu",
+      "headline": "VN-Index đảo chiều, khối ngoại bán ròng 440 tỷ phiên 2/7",
       "bullets": [
-        "Sau 13 quý bán ròng liên tiếp, khối ngoại mua ròng 330,3 tỷ đồng trên HOSE trong phiên đầu quý III.",
-        "VPB được mua ròng 302,8 tỷ đồng — chiếm phần lớn, chủ yếu qua 5 lệnh thỏa thuận lớn; HDB mua ròng 87,9 tỷ.",
-        "Tự doanh CTCK cũng mua ròng phiên thứ 6 liên tiếp, củng cố thêm lực cầu nội."
+        "VN-Index đóng cửa tại 1.866,3 điểm, giảm 0,9 điểm sau 2 phiên tăng liên tiếp; 162 mã giảm so với 117 mã tăng trên HoSE.",
+        "Khối ngoại bán ròng ≈440 tỷ đồng, tập trung TCB, HPG, MSN, ACB; ngược lại mua ròng VIC hơn 298 tỷ."
       ],
-      "insight": "Phiên mua ròng đầu quý III giảm áp lực tâm lý bán ròng, song cần theo dõi tính bền vững khi phần lớn giá trị tập trung vào giao dịch thỏa thuận VPB.",
-      "source": "Thời báo Tài chính VN · Tinnhanhchungkhoan · Vietstock"
+      "insight": "Khối ngoại đảo chiều bán sau phiên mua ròng 354 tỷ ngày 1/7, cho thấy dòng tiền ngoại chưa bền vững và thanh khoản thấp hơn 25% so bình quân quý.",
+      "source": "VnExpress · Vietstock · Baomoi/Mekong Asean"
     },
     {
       "cat": "Trong nước",
-      "headline": "VN-Index mở quý III tích cực, năng lượng & công nghệ dẫn sóng",
+      "headline": "Vàng SJC tăng 2 triệu/lượng, bám sát 4.064 USD thế giới",
       "bullets": [
-        "VN-Index đóng cửa 1.867,21 điểm (+0,39%); 16/21 nhóm ngành tăng, 195 mã xanh vs 121 mã đỏ trên HOSE.",
-        "Năng lượng dẫn đầu (+3,64%): BSR +5,38%, PVC +2,36%; FPT bứt phá +3,85% đưa công nghệ tăng 1,93%.",
-        "Bất động sản phân hóa: VIC -1,32%, VHM -1,71% tạo áp lực nhóm Vingroup dù NVL, NLG, NRC tăng."
+        "SJC bán ra 148,4 triệu đồng/lượng chiều 2/7, tăng 2 triệu đồng so đầu phiên; vàng thế giới đạt 4.064 USD/ounce tăng 33,9 USD.",
+        "Chênh lệch giá trong nước và quốc tế còn ≈18,7 triệu đồng/lượng; NHNN xác nhận tiếp tục theo dõi và ổn định thị trường vàng."
       ],
-      "insight": "Sức mạnh lan tỏa sang năng lượng, công nghệ cho thấy dòng tiền bắt đầu đa dạng hóa khỏi nhóm vốn hóa lớn, tín hiệu tích cực cho chất lượng thị trường quý III.",
-      "source": "Vietstock · Baomoi · CafeF"
+      "insight": "Vàng SJC phục hồi theo thế giới sau nhiều phiên giảm; mức chênh lệch lớn vẫn đặt câu hỏi về hiệu quả bình ổn dài hạn.",
+      "source": "Vietnamnet · Baolamdong · Baomoi/TTXVN"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent ghi nhận quý giảm mạnh nhất kể từ COVID-19",
+      "headline": "NFP tháng 6 của Mỹ chỉ 57K — tệ hơn nhiều so dự báo 110K",
       "bullets": [
-        "Dầu Brent đóng cửa 30/6 ở 72,95 USD/thùng; trong quý II giảm ~38% — quý giảm mạnh nhất từ tháng 3/2020.",
-        "Tàu chở dầu rời Vịnh Ba Tư trở lại, Morgan Stanley dự báo thị trường dư cung 4,8 triệu thùng/ngày năm 2027.",
-        "Đàm phán Mỹ–Iran tại Doha không có cuộc gặp cấp cao, giữ rủi ro địa chính trị eo biển Hormuz còn lơ lửng."
+        "Bộ Lao động Mỹ công bố NFP tháng 6 tăng 57.000 việc làm, thấp hơn kỳ vọng 110.000; tháng 5 cũng bị điều chỉnh xuống còn 129K từ mức 172K.",
+        "Thất nghiệp xuống 4,2%; thị trường đang định giá 34% xác suất Fed tăng lãi suất trong tháng 7, song số liệu yếu có thể kéo giảm kỳ vọng này."
       ],
-      "insight": "Dầu rẻ hỗ trợ kiểm soát lạm phát và chi phí đầu vào cho doanh nghiệp sản xuất Việt Nam, nhưng bất lợi nhóm cổ phiếu dầu khí nếu đà giảm kéo dài.",
-      "source": "Reuters · VietnamBiz · VTCnews"
+      "insight": "NFP yếu hơn dự báo hỗ trợ vàng và có thể giảm áp lực tỷ giá USD/VND, tạo thuận lợi ngắn hạn cho thị trường chứng khoán Việt Nam.",
+      "source": "FXStreet · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Vàng thế giới thủng 4.000 USD, SJC giảm ngày thứ 3 liên tiếp",
+      "headline": "Dầu Brent giảm 1,9% xuống 71,75 USD nhờ tiến triển đàm phán Mỹ–Iran",
       "bullets": [
-        "Vàng giao ngay giảm về ~3.965–3.972 USD/oz ngày 1/7, gần mức thấp nhất 7 tháng; quý II giảm 11,2% — quý tệ nhất 13 năm.",
-        "Vàng SJC bán ra 146,4 triệu đồng/lượng, giảm 600.000 đồng; vẫn cao hơn giá thế giới quy đổi khoảng 19,7 triệu đồng/lượng.",
-        "Áp lực từ lợi suất trái phiếu Mỹ tăng và kỳ vọng Fed có thể tăng lãi suất thêm vào tháng 9–12/2026."
+        "Brent chốt phiên 1/7 ở 71,57 USD/thùng, giảm 1,38 USD (−1,89%), thấp nhất 4 tháng; WTI về 68,58 USD; sáng 2/7 Brent dao động 71–72 USD.",
+        "Tín hiệu tích cực từ đàm phán tại Qatar làm dịu lo ngại nguồn cung; Iran tăng xuất khẩu qua eo biển Hormuz, Nga xuất khẩu dầu ở mức cao kỷ lục."
       ],
-      "insight": "Vàng giảm sâu phản ánh kỳ vọng Fed cứng rắn hơn, tạo thêm áp lực lên tỷ giá VND và dòng vốn vào các thị trường mới nổi như Việt Nam.",
-      "source": "VietnamNet · VnExpress · Baomoi"
+      "insight": "Dầu rẻ hơn giảm áp lực chi phí đầu vào cho doanh nghiệp sản xuất, song kéo theo rủi ro giảm biên lợi nhuận nhóm dầu khí (GAS, PVD, BSR) trong ngắn hạn.",
+      "source": "Reuters · VTCNews · Doanhnghiepkinhtexanh · Thuonghieucongluan"
     }
   ],
   "hashtags": [
@@ -94,11 +89,12 @@
     "#ChứngKhoán",
     "#VNIndex",
     "#KhốiNgoại",
-    "#QuýIII2026",
-    "#VPBank",
-    "#Năng lượng",
-    "#Vàng",
-    "#DầuBrent"
+    "#NHNN",
+    "#TínDụng",
+    "#VàngSJC",
+    "#DầuBrent",
+    "#NFP",
+    "#FedWatch"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
