@@ -1,90 +1,89 @@
 {
-  "date": "01/7/2026",
+  "date": "02/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · BNews · Vietnam.vn",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.297",
-      "change": "+0,26%",
-      "dir": "up"
+      "value": "26.465",
+      "change": "-0,0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "147tr₫/lg",
-      "change": "-0,67%",
+      "value": "146,4tr",
+      "change": "-0,4%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "73,6$",
-      "change": "-1,2%",
+      "value": "73,5$",
+      "change": "-2,3%",
       "dir": "down"
     }
   ],
-  "today_watch": "Tối nay công bố báo cáo việc làm ADP tháng 6 (Mỹ); thứ Sáu 2/7: Nonfarm Payrolls tháng 6 — hai số liệu quyết định kỳ vọng lãi suất Fed và hướng USD.",
+  "today_watch": "Báo cáo NFP tháng 6/2026 của Mỹ công bố tối nay (giờ VN) — kết quả quyết định kỳ vọng lãi suất Fed, tác động trực tiếp tỷ giá và dòng vốn ngoại.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "GDP quý II tăng 8,3% — cao nhất lịch sử quý II",
+      "headline": "MBB chốt quyền cổ tức 10%: 8.055 tỷ đồng về tay cổ đông",
       "bullets": [
-        "GDP quý II/2026 ước tăng 8,3%, cao nhất từ trước đến nay; GDP 6 tháng ước tăng ~8%, theo Bộ Tài chính.",
-        "CPI bình quân 6 tháng ước tăng 4,4–4,5%, vẫn trong biên mục tiêu; FDI đăng ký 6 tháng đạt ~32 tỷ USD, tăng 49%."
+        "Ngày đăng ký cuối cùng 10/7, thanh toán 17/7; tỷ lệ 10% tiền mặt + 15% cổ phiếu, tổng giá trị ~20.137 tỷ đồng.",
+        "MB còn kế hoạch nâng vốn điều lệ lên tối đa 102.687 tỷ đồng trong năm 2026, mục tiêu lợi nhuận tăng 15%."
       ],
-      "insight": "Tăng trưởng nửa đầu năm vượt kỳ vọng củng cố nền tảng cho kết quả kinh doanh Q2 của cổ phiếu ngành ngân hàng, bán lẻ và sản xuất.",
-      "source": "Bộ Tài chính · CafeF · Tiền Phong"
+      "insight": "Ngày GDKHQ 9/7 gần kề, cổ đông lớn như Viettel nhận hơn 1.180 tỷ đồng; dòng tiền hoàn trả có thể tái giải ngân vào thị trường.",
+      "source": "Vietstock · Báo Pháp luật VN"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ ban Nghị quyết 168: GDP nửa cuối cần 11,9%",
+      "headline": "VNDIRECT: VN-Index hướng tới 2.014 điểm nửa cuối 2026",
       "bullets": [
-        "NQ 168/NQ-CP ngày 27/6/2026 đặt mục tiêu GDP H2/2026 tăng 11,9% để đạt cả năm ≥10%; tài chính-ngân hàng-bảo hiểm được giao tăng 14%.",
-        "FTSE Russell tiếp tục giữ nguyên lộ trình nâng hạng TTCK Việt Nam; huy động vốn qua cổ phiếu & trái phiếu DN 5 tháng tăng 18,6%."
+        "LNST doanh nghiệp niêm yết HOSE tăng ~50% trong Q1/2026; VNDIRECT nâng dự báo tăng trưởng lợi nhuận cả năm lên 21%.",
+        "VN-Index đang giằng co vùng 1.860–1.870, khối ngoại phiên 1/7 quay lại mua ròng nhẹ 1,1 tỷ đồng trên thị trường chứng quyền."
       ],
-      "insight": "Nghị quyết tạo kỳ vọng đẩy nhanh giải ngân đầu tư công và tín dụng — yếu tố trực tiếp hỗ trợ nhóm ngân hàng, xây dựng, vật liệu trên TTCK.",
-      "source": "CafeF · Tiền Phong · Bộ Tài chính"
+      "insight": "Lợi nhuận doanh nghiệp tăng mạnh là nền tảng thực chất hơn kỳ vọng nâng hạng để hỗ trợ VN-Index vượt kháng cự 1.900.",
+      "source": "Vietstock · Tinnhanhchungkhoan"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vàng SJC về 147 triệu/lượng, thấp hơn đầu năm ~7 triệu",
+      "headline": "TP.HCM khởi công 8 dự án trọng điểm dịp kỷ niệm 50 năm",
       "bullets": [
-        "Giá vàng SJC sáng 1/7 niêm yết 144–147 triệu đồng/lượng (mua–bán), giảm 1 triệu so với phiên 30/6; nhẫn 9999 ở mức 143,9–146,9 triệu.",
-        "Vàng thế giới phục hồi nhẹ ~4.029 USD/oz nhờ lực bắt đáy; chênh lệch SJC so thế giới vẫn còn ~18–19 triệu đồng/lượng."
+        "Lễ kỷ niệm 50 năm đặt tên TP.HCM (2/7/1976–2/7/2026) gắn với khởi công đồng loạt 8 dự án hạ tầng & đô thị trọng điểm.",
+        "Sun Group đầu tư hơn 29.000 tỷ đồng mở rộng đường Nguyễn Tất Thành từ 4 lên 10 làn; UBND TP thúc đẩy giải ngân đầu tư công."
       ],
-      "insight": "Vàng trong nước hạ nhiệt giảm áp lực rút vốn khỏi kênh chứng khoán, song rủi ro Fed tăng lãi suất vẫn là yếu tố cần theo dõi.",
-      "source": "VTCNews · BaoLaoCai · Techz.vn"
+      "insight": "Loạt khởi công quy mô lớn tại TP.HCM là xúc tác gần cho nhóm cổ phiếu xây dựng, vật liệu và bất động sản khu vực phía Nam.",
+      "source": "Vietstock · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed sắp tăng lãi: 65% xác suất nâng lãi tháng 9/2026",
+      "headline": "NFP tháng 6 công bố tối nay: Fed tăng lãi suất hay giữ nguyên?",
       "bullets": [
-        "CME FedWatch: ~65% khả năng Fed tăng lãi suất tháng 9/2026; Chủ tịch Warsh cam kết 'rõ ràng và nhất trí' chống lạm phát tại họp tháng 6.",
-        "Core PCE tháng 4 tăng 3,3% — cao hơn mục tiêu 2%; hầu hết ngân hàng lớn Phố Wall đã bỏ kịch bản cắt giảm lãi suất năm 2026."
+        "ADP tháng 6 tạo 98.000 việc làm, thấp hơn dự báo 118.000; vàng thế giới bật tăng hơn 2% lên ~4.095 USD/oz nhờ kỳ vọng Fed bớt diều hâu.",
+        "Thị trường đồng thuận NFP ~100.000 việc làm, thất nghiệp 4,3%; Fed đang giữ lãi suất 3,50–3,75%, 9/19 quan chức ủng hộ ít nhất 1 lần tăng trong 2026."
       ],
-      "insight": "Kịch bản Fed tăng lãi sẽ đẩy USD mạnh hơn, gây áp lực tỷ giá USD/VND và hạn chế dư địa nới lỏng tiền tệ của NHNN trong nửa cuối năm.",
-      "source": "Yahoo Finance · U.S. Bank · Trading Economics"
+      "insight": "NFP yếu có thể làm giảm kỳ vọng tăng lãi, hỗ trợ dòng vốn quay lại EM và hạ nhiệt USD — tích cực cho VND và TTCK Việt Nam.",
+      "source": "CNBC · Trading Economics · BNews"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent ~73,6 USD — quý tệ nhất từ 2020, Hormuz vẫn bất ổn",
+      "headline": "Dầu Brent ổn định trên 73 USD sau mức giảm mạnh nhất từ 2020",
       "bullets": [
-        "Brent đóng quý II với mức giảm gần 23% — quý tệ nhất từ năm 2020; giá về ~73 USD/thùng khi đàm phán Mỹ-Iran tại Doha không đạt kết quả.",
-        "Eo biển Hormuz vẫn tiềm ẩn rủi ro gián đoạn; cuộc gặp Mỹ-Iran bị hoãn, khiến triển vọng nguồn cung dầu từ vùng Vịnh còn khó lường."
+        "Brent đứng ~73,5 USD/thùng, giảm hơn 23% trong quý II/2026 — mức giảm theo quý lớn nhất kể từ 2020 — do Iran xuất khẩu hơn 40 triệu thùng sau khi Mỹ dỡ phong tỏa.",
+        "Đàm phán Mỹ–Iran tại Doha tiếp tục; WTI ~70 USD/thùng; nguy cơ dư cung kéo dài khi xuất khẩu Nga cũng đạt kỷ lục."
       ],
-      "insight": "Dầu rẻ hỗ trợ kiểm soát lạm phát chi phí đẩy tại Việt Nam, song leo thang địa chính trị Trung Đông có thể đảo chiều nhanh và gây sốc nhập khẩu.",
-      "source": "Trading Economics · Vietnamnet · Investing.com"
+      "insight": "Dầu rẻ hạ chi phí đầu vào cho ngành sản xuất và vận tải Việt Nam, song gây áp lực lên cổ phiếu dầu khí như GAS, PVD, BSR.",
+      "source": "Trading Economics · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoán",
+    "#ChứngKhoánVN",
     "#VNIndex",
-    "#GDP",
-    "#Fed",
-    "#Vàng",
+    "#MBB",
+    "#FTSE",
+    "#NFP",
     "#DầuBrent",
-    "#KinhTếViệtNam",
-    "#FTSE"
+    "#VàngSJC"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
