@@ -1,87 +1,88 @@
 {
-  "date": "02/7/2026",
+  "date": "03/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · BNews · Vietnam.vn",
+  "sources": "VnExpress · CafeF · Vietstock · VietnamBiz · Reuters · CNBC · BLS · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.465",
-      "change": "-0,0%",
-      "dir": "flat"
+      "value": "26.315",
+      "change": "+0,2%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,4tr",
-      "change": "-0,4%",
-      "dir": "down"
+      "value": "≈148,4tr",
+      "change": "+1,4%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "73,5$",
-      "change": "-2,3%",
+      "value": "70,75$",
+      "change": "-0,8%",
       "dir": "down"
     }
   ],
-  "today_watch": "Báo cáo NFP tháng 6/2026 của Mỹ công bố tối nay (giờ VN) — kết quả quyết định kỳ vọng lãi suất Fed, tác động trực tiếp tỷ giá và dòng vốn ngoại.",
+  "today_watch": "Báo cáo KQKD Q2/2026 các bluechip bắt đầu mùa công bố; PMI tháng 6 của Việt Nam dự kiến công bố trong tháng 7; lạm phát CPI Mỹ ngày 14/7 là mốc tiếp theo thị trường dõi theo.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "MBB chốt quyền cổ tức 10%: 8.055 tỷ đồng về tay cổ đông",
+      "headline": "NHNN: Tín dụng nửa đầu năm tăng 7,41%, nới room 18 dự án lớn",
       "bullets": [
-        "Ngày đăng ký cuối cùng 10/7, thanh toán 17/7; tỷ lệ 10% tiền mặt + 15% cổ phiếu, tổng giá trị ~20.137 tỷ đồng.",
-        "MB còn kế hoạch nâng vốn điều lệ lên tối đa 102.687 tỷ đồng trong năm 2026, mục tiêu lợi nhuận tăng 15%."
+        "Đến 26/6/2026, dư nợ tín dụng toàn hệ thống vượt 19,97 triệu tỷ đồng, tăng 7,41% so với cuối 2025 và tăng 18,1% so cùng kỳ.",
+        "NHNN loại trừ dư nợ 18 dự án trọng điểm của Vingroup, Masterise, Sun Group (tổng nhu cầu >752.000 tỷ) khỏi room tín dụng hàng năm."
       ],
-      "insight": "Ngày GDKHQ 9/7 gần kề, cổ đông lớn như Viettel nhận hơn 1.180 tỷ đồng; dòng tiền hoàn trả có thể tái giải ngân vào thị trường.",
-      "source": "Vietstock · Báo Pháp luật VN"
+      "insight": "Nới room cho 18 dự án lớn mở ra dư địa vốn đáng kể cho BĐS công nghiệp và nhà ở xã hội — tác động tích cực tới cổ phiếu ngân hàng và nhóm BĐS khu công nghiệp.",
+      "source": "NHNN · VietnamBiz · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "VNDIRECT: VN-Index hướng tới 2.014 điểm nửa cuối 2026",
+      "headline": "Khối ngoại mua ròng phiên đầu tháng 7, tự doanh CTCK mua ròng 6 phiên liên tiếp",
       "bullets": [
-        "LNST doanh nghiệp niêm yết HOSE tăng ~50% trong Q1/2026; VNDIRECT nâng dự báo tăng trưởng lợi nhuận cả năm lên 21%.",
-        "VN-Index đang giằng co vùng 1.860–1.870, khối ngoại phiên 1/7 quay lại mua ròng nhẹ 1,1 tỷ đồng trên thị trường chứng quyền."
+        "Phiên 1/7, khối ngoại chào tháng 7 bằng phiên mua ròng nhẹ sau chuỗi bán ròng kéo dài trước đó.",
+        "Tự doanh công ty chứng khoán ghi nhận phiên mua ròng liên tiếp thứ 6, cho thấy dòng tiền nội địa đang chống đỡ thị trường."
       ],
-      "insight": "Lợi nhuận doanh nghiệp tăng mạnh là nền tảng thực chất hơn kỳ vọng nâng hạng để hỗ trợ VN-Index vượt kháng cự 1.900.",
-      "source": "Vietstock · Tinnhanhchungkhoan"
+      "insight": "Tín hiệu đảo chiều của khối ngoại, dù giá trị nhỏ, kết hợp với lực đỡ từ tự doanh có thể tạo đà hồi phục ngắn hạn cho VN-Index.",
+      "source": "Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "TP.HCM khởi công 8 dự án trọng điểm dịp kỷ niệm 50 năm",
+      "headline": "NHNN giữ nguyên lãi suất điều hành, tỷ giá chỉ tăng 0,07% từ đầu năm",
       "bullets": [
-        "Lễ kỷ niệm 50 năm đặt tên TP.HCM (2/7/1976–2/7/2026) gắn với khởi công đồng loạt 8 dự án hạ tầng & đô thị trọng điểm.",
-        "Sun Group đầu tư hơn 29.000 tỷ đồng mở rộng đường Nguyễn Tất Thành từ 4 lên 10 làn; UBND TP thúc đẩy giải ngân đầu tư công."
+        "6 tháng đầu 2026, NHNN giữ nguyên lãi suất điều hành, chỉ đạo các ngân hàng ổn định mặt bằng lãi suất hỗ trợ nền kinh tế.",
+        "Tỷ giá USD/VND chỉ tăng 0,07% từ đầu năm — tích cực hơn nhiều so với mức biến động 2–7% của đồng tiền các nước láng giềng."
       ],
-      "insight": "Loạt khởi công quy mô lớn tại TP.HCM là xúc tác gần cho nhóm cổ phiếu xây dựng, vật liệu và bất động sản khu vực phía Nam.",
-      "source": "Vietstock · CafeF"
+      "insight": "Lãi suất ổn định và tỷ giá neo vững là bệ đỡ vĩ mô quan trọng, duy trì định giá thị trường và giảm áp lực lạm phát nhập khẩu trong nửa cuối năm.",
+      "source": "NHNN · Vietstock · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "NFP tháng 6 công bố tối nay: Fed tăng lãi suất hay giữ nguyên?",
+      "headline": "NFP tháng 6 chỉ tăng 57K — Fed khó tăng lãi suất mùa hè",
       "bullets": [
-        "ADP tháng 6 tạo 98.000 việc làm, thấp hơn dự báo 118.000; vàng thế giới bật tăng hơn 2% lên ~4.095 USD/oz nhờ kỳ vọng Fed bớt diều hâu.",
-        "Thị trường đồng thuận NFP ~100.000 việc làm, thất nghiệp 4,3%; Fed đang giữ lãi suất 3,50–3,75%, 9/19 quan chức ủng hộ ít nhất 1 lần tăng trong 2026."
+        "Bảng lương phi nông nghiệp Mỹ tháng 6 chỉ tăng 57.000 việc, thấp hơn nhiều so với dự báo 110–115K; tháng 4 và 5 bị điều chỉnh giảm tổng cộng 74.000 việc.",
+        "Lợi suất trái phiếu kho bạc Mỹ 10 năm giảm xuống ~4,46%; xác suất Fed tăng lãi suất tháng 7 về gần 0%, mắt thị trường chuyển sang CPI ngày 14/7."
       ],
-      "insight": "NFP yếu có thể làm giảm kỳ vọng tăng lãi, hỗ trợ dòng vốn quay lại EM và hạ nhiệt USD — tích cực cho VND và TTCK Việt Nam.",
-      "source": "CNBC · Trading Economics · BNews"
+      "insight": "Dữ liệu việc làm yếu hạ áp lực tăng lãi suất của Fed, hỗ trợ gián tiếp dòng vốn vào thị trường mới nổi — tích cực cho tỷ giá VND và tâm lý khối ngoại.",
+      "source": "BLS · CNBC · TD Economics · FXStreet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent ổn định trên 73 USD sau mức giảm mạnh nhất từ 2020",
+      "headline": "Dầu Brent dưới 71$, mức thấp nhất từ tháng 2 do Hormuz phục hồi",
       "bullets": [
-        "Brent đứng ~73,5 USD/thùng, giảm hơn 23% trong quý II/2026 — mức giảm theo quý lớn nhất kể từ 2020 — do Iran xuất khẩu hơn 40 triệu thùng sau khi Mỹ dỡ phong tỏa.",
-        "Đàm phán Mỹ–Iran tại Doha tiếp tục; WTI ~70 USD/thùng; nguy cơ dư cung kéo dài khi xuất khẩu Nga cũng đạt kỷ lục."
+        "Dầu Brent rơi dưới 71$/thùng — thấp nhất từ cuối tháng 2/2026 — khi UAE khôi phục xuất khẩu 3,9 triệu thùng/ngày qua Eo Hormuz, Iran xuất khẩu vượt 40 triệu thùng sau khi lệnh phong tỏa được dỡ bỏ.",
+        "Đàm phán hòa bình Mỹ–Iran tại Qatar tiến triển tích cực; dầu giảm hơn 26% trong một tháng — mức giảm tháng lớn nhất từ 2020."
       ],
-      "insight": "Dầu rẻ hạ chi phí đầu vào cho ngành sản xuất và vận tải Việt Nam, song gây áp lực lên cổ phiếu dầu khí như GAS, PVD, BSR.",
-      "source": "Trading Economics · Reuters"
+      "insight": "Dầu rẻ hạn chế áp lực lạm phát nhập khẩu cho Việt Nam và có lợi cho các ngành sản xuất, vận tải — nhưng cũng gây rủi ro giảm doanh thu cho cổ phiếu ngành dầu khí.",
+      "source": "Trading Economics · CNBC · Reuters · Oilprice.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoánVN",
+    "#ChứngKhoán",
     "#VNIndex",
-    "#MBB",
-    "#FTSE",
+    "#NHNN",
+    "#TínDụng",
     "#NFP",
+    "#Fed",
     "#DầuBrent",
     "#VàngSJC"
   ],
