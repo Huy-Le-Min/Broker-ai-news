@@ -1,7 +1,7 @@
 {
-  "date": "03/7/2026",
+  "date": "04/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · VietnamBiz · Reuters · CNBC · BLS · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · NSO · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
@@ -11,80 +11,85 @@
     },
     {
       "label": "Vàng SJC",
-      "value": "≈148,4tr",
-      "change": "+1,4%",
+      "value": "≈151,4tr",
+      "change": "+2,0%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "70,75$",
-      "change": "-0,8%",
+      "value": "71,0$",
+      "change": "-1,5%",
       "dir": "down"
     }
   ],
-  "today_watch": "Báo cáo KQKD Q2/2026 các bluechip bắt đầu mùa công bố; PMI tháng 6 của Việt Nam dự kiến công bố trong tháng 7; lạm phát CPI Mỹ ngày 14/7 là mốc tiếp theo thị trường dõi theo.",
+  "today_watch": "Thị trường mở cửa đầu tuần tháng 7 — theo dõi phản ứng của VN-Index trước GDP 8,39% và CPI 4,69% công bố hôm qua; chú ý diễn biến nhóm ngân hàng & cổ phiếu nâng hạng.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN: Tín dụng nửa đầu năm tăng 7,41%, nới room 18 dự án lớn",
+      "headline": "GDP quý II đạt 8,39%; 6 tháng vượt 8%",
       "bullets": [
-        "Đến 26/6/2026, dư nợ tín dụng toàn hệ thống vượt 19,97 triệu tỷ đồng, tăng 7,41% so với cuối 2025 và tăng 18,1% so cùng kỳ.",
-        "NHNN loại trừ dư nợ 18 dự án trọng điểm của Vingroup, Masterise, Sun Group (tổng nhu cầu >752.000 tỷ) khỏi room tín dụng hàng năm."
+        "Cục Thống kê (3/7): GDP quý II/2026 tăng 8,39% so cùng kỳ; 6 tháng đạt 8,18% — cao hơn 7,63% của cùng kỳ 2025.",
+        "Công nghiệp & xây dựng tăng 10,51%; FDI thực hiện 6 tháng đạt 13,03 tỷ USD, cao nhất 5 năm. Để đạt 10% cả năm, H2 cần tăng 11,7%.",
+        "CPI tháng 6 tăng 4,69% so cùng kỳ; bình quân 6 tháng CPI +4,38%, gần sát trần mục tiêu 4,5%."
       ],
-      "insight": "Nới room cho 18 dự án lớn mở ra dư địa vốn đáng kể cho BĐS công nghiệp và nhà ở xã hội — tác động tích cực tới cổ phiếu ngân hàng và nhóm BĐS khu công nghiệp.",
-      "source": "NHNN · VietnamBiz · Vietstock"
+      "insight": "GDP vượt kỳ vọng tạo nền tảng lợi nhuận cho nhóm ngân hàng, bán lẻ, hạ tầng — nhưng CPI tiệm cận trần mục tiêu thu hẹp dư địa nới lỏng tiền tệ.",
+      "source": "NSO (Cục Thống kê), TTXVN, VnEconomy, Tiền Phong"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại mua ròng phiên đầu tháng 7, tự doanh CTCK mua ròng 6 phiên liên tiếp",
+      "headline": "Tín dụng 7,41%; NHNN loại 18 dự án khỏi room",
       "bullets": [
-        "Phiên 1/7, khối ngoại chào tháng 7 bằng phiên mua ròng nhẹ sau chuỗi bán ròng kéo dài trước đó.",
-        "Tự doanh công ty chứng khoán ghi nhận phiên mua ròng liên tiếp thứ 6, cho thấy dòng tiền nội địa đang chống đỡ thị trường."
+        "Đến 26/6, dư nợ toàn hệ thống đạt ~19,97 triệu tỷ đồng, tăng 7,41% so cuối 2025 và +18,1% so cùng kỳ — theo NHNN.",
+        "NHNN không tính dư nợ phát sinh của 18 dự án trọng điểm vào room tín dụng nhằm tạo thêm dư địa vốn cho nền kinh tế.",
+        "Huy động vốn toàn hệ thống chỉ tăng 5,02% — thấp hơn tín dụng, khiến LDR có xu hướng vượt ngưỡng 110%."
       ],
-      "insight": "Tín hiệu đảo chiều của khối ngoại, dù giá trị nhỏ, kết hợp với lực đỡ từ tự doanh có thể tạo đà hồi phục ngắn hạn cho VN-Index.",
-      "source": "Vietstock"
+      "insight": "Chênh lệch tín dụng - huy động nới rộng gây áp lực lên NIM ngân hàng; ngân hàng có CASA cao sẽ phân hóa mạnh hơn trong mùa KQKD Q2.",
+      "source": "NHNN, NSO, Diễn đàn Doanh nghiệp"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN giữ nguyên lãi suất điều hành, tỷ giá chỉ tăng 0,07% từ đầu năm",
+      "headline": "Vàng SJC bứt phá lên 151,4 tr/lượng, thế giới vượt 4.174 USD",
       "bullets": [
-        "6 tháng đầu 2026, NHNN giữ nguyên lãi suất điều hành, chỉ đạo các ngân hàng ổn định mặt bằng lãi suất hỗ trợ nền kinh tế.",
-        "Tỷ giá USD/VND chỉ tăng 0,07% từ đầu năm — tích cực hơn nhiều so với mức biến động 2–7% của đồng tiền các nước láng giềng."
+        "Sáng 4/7: SJC bán ra 151,4 triệu đồng/lượng — tăng 3 triệu đồng/lượng chỉ trong một phiên, theo SJC, DOJI, PNJ.",
+        "Vàng thế giới lúc 4h sáng 4/7 đạt 4.174,1 USD/oz — tăng 52,2 USD/oz so phiên trước; chênh lệch trong nước so quốc tế vẫn ~18 triệu đồng/lượng.",
+        "Động lực từ số liệu việc làm Mỹ kém hơn kỳ vọng (NFP +57.000) và nhu cầu tích lũy từ Trung Quốc cải thiện."
       ],
-      "insight": "Lãi suất ổn định và tỷ giá neo vững là bệ đỡ vĩ mô quan trọng, duy trì định giá thị trường và giảm áp lực lạm phát nhập khẩu trong nửa cuối năm.",
-      "source": "NHNN · Vietstock · VietnamBiz"
+      "insight": "Vàng tăng mạnh phản ánh kỳ vọng Fed tạm dừng thắt chặt; chênh lệch SJC-thế giới còn lớn là tín hiệu cần thận trọng với rủi ro điều chỉnh ngắn hạn.",
+      "source": "Báo Nghệ An, Techz, SJC, DOJI, PNJ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "NFP tháng 6 chỉ tăng 57K — Fed khó tăng lãi suất mùa hè",
+      "headline": "NFP Mỹ tháng 6 chỉ +57.000; Dow lập kỷ lục 52.900",
       "bullets": [
-        "Bảng lương phi nông nghiệp Mỹ tháng 6 chỉ tăng 57.000 việc, thấp hơn nhiều so với dự báo 110–115K; tháng 4 và 5 bị điều chỉnh giảm tổng cộng 74.000 việc.",
-        "Lợi suất trái phiếu kho bạc Mỹ 10 năm giảm xuống ~4,46%; xác suất Fed tăng lãi suất tháng 7 về gần 0%, mắt thị trường chuyển sang CPI ngày 14/7."
+        "NFP tháng 6/2026 tăng 57.000 việc làm — thấp hơn nhiều so dự báo 115.000 của Dow Jones; tỷ lệ thất nghiệp giảm nhẹ xuống 4,2%.",
+        "Dow Jones lập kỷ lục 52.900,07 điểm (+1,14%); S&P 500 gần như đi ngang; Nasdaq giảm 0,8% do chip bán dẫn bị chốt lời mạnh (-6,7% SOX).",
+        "Lãi suất trái phiếu 2 năm Mỹ giảm 4 bps xuống 4,14%; thị trường giảm xác suất Fed tăng lãi suất tháng 9 từ 62,8% xuống 50,7%."
       ],
-      "insight": "Dữ liệu việc làm yếu hạ áp lực tăng lãi suất của Fed, hỗ trợ gián tiếp dòng vốn vào thị trường mới nổi — tích cực cho tỷ giá VND và tâm lý khối ngoại.",
-      "source": "BLS · CNBC · TD Economics · FXStreet"
+      "insight": "NFP yếu giảm rủi ro Fed tăng lãi suất — tích cực cho dòng vốn vào thị trường mới nổi, nhưng chênh lệch giữa Dow và Nasdaq cảnh báo rủi ro đảo chiều công nghệ.",
+      "source": "CNBC, Schwab, FinancialJuice"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent dưới 71$, mức thấp nhất từ tháng 2 do Hormuz phục hồi",
+      "headline": "Dầu Brent sát 71$/thùng: Hormuz hồi phục, nguồn cung dư thừa",
       "bullets": [
-        "Dầu Brent rơi dưới 71$/thùng — thấp nhất từ cuối tháng 2/2026 — khi UAE khôi phục xuất khẩu 3,9 triệu thùng/ngày qua Eo Hormuz, Iran xuất khẩu vượt 40 triệu thùng sau khi lệnh phong tỏa được dỡ bỏ.",
-        "Đàm phán hòa bình Mỹ–Iran tại Qatar tiến triển tích cực; dầu giảm hơn 26% trong một tháng — mức giảm tháng lớn nhất từ 2020."
+        "Brent về vùng 70,57–71,30 USD/thùng — mức thấp nhất kể từ cuối tháng 2; dòng chảy qua Hormuz vượt 10 triệu thùng/ngày nhờ hỗ trợ quân sự Mỹ.",
+        "Xuất khẩu Iran tăng vọt lên trên 40 triệu thùng sau khi Mỹ dỡ phong tỏa hải quân; Saudi Arabia tăng xuất sang châu Á, tạo dư thừa nguồn cung.",
+        "Lễ tang cố Lãnh tụ Tối cao Iran Khamenei (4/7) có thể trì hoãn vòng đàm phán Qatar; WTI đứng quanh 68–69 USD/thùng."
       ],
-      "insight": "Dầu rẻ hạn chế áp lực lạm phát nhập khẩu cho Việt Nam và có lợi cho các ngành sản xuất, vận tải — nhưng cũng gây rủi ro giảm doanh thu cho cổ phiếu ngành dầu khí.",
-      "source": "Trading Economics · CNBC · Reuters · Oilprice.com"
+      "insight": "Dầu rẻ hơn giảm áp lực lạm phát chi phí đẩy cho VN; nhưng cổ phiếu dầu khí nội địa (GAS, PVS, PVD) sẽ chịu áp lực điều chỉnh giá.",
+      "source": "Trading Economics, Forbes Advisor, Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoán",
+    "#ChứngKhoánViệtNam",
     "#VNIndex",
-    "#NHNN",
-    "#TínDụng",
-    "#NFP",
-    "#Fed",
+    "#GDP2026",
+    "#NângHạngFTSE",
+    "#Vàng",
     "#DầuBrent",
-    "#VàngSJC"
+    "#Fed",
+    "#NFP"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
