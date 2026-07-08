@@ -1,103 +1,98 @@
 {
-  "date": "03/7/2026",
+  "date": "08/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Tinnhanhchungkhoan · Baomoi · Thanhnien · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thanh Niên · VOV · Báo Mới · VietnamPlus · VietnamBiz · Báo Bảo vệ Pháp luật · Thời báo Tài chính Việt Nam · News Channel Nebraska",
   "session": {
-    "vnindex_close": "1.862,08",
-    "vnindex_change": "-0,23%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng ≈803 tỷ (HOSE)",
+    "vnindex_close": "1.853,70",
+    "vnindex_change": "+0,29%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng gần 600 tỷ",
     "foreign_dir": "sell",
-    "volume": "≈15.657 tỷ (HOSE)",
-    "top_gainer": "BĐS (VIC, VHM giữ xanh); Chứng khoán (SHS, MBS được mua ròng)"
+    "volume": "17.187 tỷ",
+    "top_gainer": "Năng lượng, Phân bón, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.463",
-      "change": "+0,1%",
+      "value": "26.466",
+      "change": "+4 đồng",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "≈151,4tr",
-      "change": "+2,1%",
-      "dir": "up"
+      "value": "149,50 triệu",
+      "change": "-1 triệu",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "70,91$",
-      "change": "-0,9%",
-      "dir": "down"
+      "value": "75,54$",
+      "change": "+1,9%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Thị trường Mỹ nghỉ lễ 4/7; tuần tới dõi CPI Mỹ (14/7) và mùa KQKD Q2/2026 khởi động.",
+  "tomorrow_watch": "Diễn biến căng thẳng Trung Đông và phản ứng thị trường toàn cầu.",
   "items": [
     {
-      "cat": "Trong nước",
-      "headline": "PNJ giảm sàn 6,97% vụ giám đốc P-Lab buôn lậu kim cương",
+      "cat": "Quốc tế",
+      "headline": "Căng thẳng Trung Đông đẩy giá dầu Brent tăng vọt gần 2%",
       "bullets": [
-        "Công an Thanh Hóa khởi tố 22 bị can, thu 1.100 viên kim cương; đường dây đưa >28.000 viên vào VN từ 2024, doanh thu ước ~280 tỷ đồng.",
-        "PNJ giảm kịch biên về 58.700đ, dư bán sàn >12 triệu cp; thị giá mất >30% từ đầu năm 2026.",
-        "PNJ khẳng định vụ việc là trách nhiệm cá nhân, hệ thống bán lẻ hoạt động bình thường."
+        "Mỹ không kích Iran và tái áp đặt lệnh trừng phạt bán dầu thô.",
+        "Lo ngại gián đoạn nguồn cung tại eo biển Hormuz, tuyến đường vận chuyển dầu quan trọng."
       ],
-      "insight": "Rủi ro pháp lý tại công ty con có thể kéo dài áp lực lên PNJ cho đến khi cơ quan điều tra kết luận rõ phạm vi trách nhiệm của công ty mẹ.",
-      "source": "Baomoi · Vietstock · Dantri · Tiền Phong"
+      "insight": "Xung đột địa chính trị làm tăng rủi ro nguồn cung, tác động trực tiếp đến chi phí năng lượng toàn cầu.",
+      "source": "Reuters · VOV · Thanh Niên"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng ≈803 tỷ, nửa năm rút gần 80.000 tỷ",
+      "headline": "Vốn FDI vào Việt Nam 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD",
       "bullets": [
-        "Phiên 3/7: khối ngoại bán ròng 802–805 tỷ đồng trên HOSE; TCB dẫn đầu bán (~90 tỷ), VCK dẫn đầu mua (~66 tỷ).",
-        "Tự doanh CTCK mua ròng mạnh 551 tỷ, riêng EIB được gom đột biến 300 tỷ, bù đắp một phần áp lực.",
-        "Lũy kế H1/2026 khối ngoại bán ròng gần 79.800 tỷ trên HOSE; tỷ trọng giao dịch giảm còn 11,9% toàn thị trường."
+        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ.",
+        "Vốn giải ngân cũng xác lập mức cao nhất trong 5 năm qua."
       ],
-      "insight": "Tự doanh tiếp sức nhưng chưa đủ để đảo chiều xu hướng rút vốn ngoại; dòng tiền nội địa vẫn là lực đỡ chính cho thị trường.",
-      "source": "Vietstock · Tinnhanhchungkhoan · CafeF · Thoibaotaichinhvietnam"
+      "insight": "Dòng vốn ngoại mạnh mẽ khẳng định niềm tin nhà đầu tư vào triển vọng kinh tế Việt Nam.",
+      "source": "Cục Thống kê · Báo Mới · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xăng E10 giảm còn 20.415đ/lít sau kỳ điều hành 2/7",
+      "headline": "Giải ngân đầu tư công 6 tháng đạt 35,5% kế hoạch, còn vướng mắc",
       "bullets": [
-        "Liên Bộ Công Thương – Tài chính điều chỉnh từ 16h ngày 2/7: xăng E10 RON 95-III giảm 788–790đ/lít, E5 RON 92 giảm 1.055đ/lít.",
-        "Nguyên nhân: dầu Brent giảm ~2% về ~70–71 USD/thùng, thấp nhất 4 tháng do Mỹ–Iran đàm phán tích cực qua trung gian Qatar."
+        "Giải ngân đạt gần 357 nghìn tỷ đồng, bằng 35,5% kế hoạch Thủ tướng giao.",
+        "Tiến độ chậm do vướng mắc giải phóng mặt bằng, nguồn vật liệu."
       ],
-      "insight": "Giá xăng giảm liên tiếp hỗ trợ kiểm soát CPI tháng 7, giảm chi phí đầu vào cho doanh nghiệp sản xuất và vận tải niêm yết.",
-      "source": "Thanhnien · VOV · Baonghean"
+      "insight": "Cần đẩy nhanh tiến độ để thúc đẩy tăng trưởng kinh tế và hỗ trợ doanh nghiệp liên quan.",
+      "source": "Bộ Tài chính · Báo Bảo vệ Pháp luật · VietnamPlus"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "CPI tháng 6 giảm 0,39% nhưng lạm phát 6 tháng tăng 4,38%",
+      "bullets": [
+        "CPI tháng 6 giảm do giá xăng dầu hạ nhiệt theo thế giới.",
+        "Bình quân 6 tháng đầu năm, CPI tăng 4,38%, tạo áp lực kiểm soát lạm phát."
+      ],
+      "insight": "Lạm phát vẫn là thách thức, có thể ảnh hưởng đến chính sách tiền tệ và lãi suất.",
+      "source": "Cục Thống kê · VietnamPlus · VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "NFP Mỹ tháng 6 chỉ +57.000, vàng vọt lên 4.176$/oz",
+      "headline": "Chứng khoán Mỹ giảm điểm, lo ngại 'cơn sốt' AI hạ nhiệt",
       "bullets": [
-        "Việc làm phi nông nghiệp Mỹ tháng 6 tăng 57.000, thấp hơn nửa so dự báo 114.000; hai tháng trước điều chỉnh giảm thêm 74.000.",
-        "Vàng thế giới tăng >2% lên 4.126–4.179 USD/oz; lợi suất TPKB Mỹ 10 năm lùi về ~4,46%; xác suất Fed tăng lãi suất tháng 9 giảm từ 66% xuống ~51%.",
-        "Fed hiện giữ lãi suất 3,5%–3,75%; thị trường chờ CPI Mỹ ngày 14/7 để định hướng chính sách tiếp theo."
+        "Dow Jones giảm 0,3%, S&P 500 giảm 0,5%, Nasdaq giảm 1,2% phiên 7/7.",
+        "Giới đầu tư bán tháo cổ phiếu công nghệ do định giá cao và rủi ro AI."
       ],
-      "insight": "Dữ liệu lao động Mỹ yếu hơn kỳ vọng giảm áp lực Fed tăng lãi suất, hỗ trợ tích cực cho dòng vốn vào thị trường mới nổi kể cả Việt Nam.",
-      "source": "Investing.com · Vietnamnet · Motthegioi · Baonghean"
-    },
-    {
-      "cat": "Quốc tế",
-      "headline": "Dầu Brent về đáy 4 tháng, OPEC+ có thể tăng sản lượng tháng 8",
-      "bullets": [
-        "Dầu Brent đóng cửa ngày 2/7 ở 71,80 USD/thùng; sáng 3/7 lùi tiếp về 70,84–70,91 USD; WTI mức thấp nhất từ 27/2.",
-        "Qatar xác nhận Mỹ–Iran đạt 'tiến triển tích cực' trong đàm phán Doha; lưu thông dầu qua eo Hormuz cải thiện rõ rệt.",
-        "OPEC+ được cho là có thể đồng thuận tăng mục tiêu sản lượng từ tháng 8; UBS hạ dự báo Brent Q3 xuống 80 USD/thùng, giảm 25 USD."
-      ],
-      "insight": "Dầu hạ nhiệt là dao hai lưỡi: giảm chi phí cho nhóm doanh nghiệp sản xuất–tiêu dùng VN, nhưng tạo áp lực giảm lợi nhuận cho cổ phiếu dầu khí (BSR, PVD, PLX).",
-      "source": "VOV · Thanhnien · Vietbao · Reuters"
+      "insight": "Tâm lý thận trọng trên thị trường toàn cầu có thể ảnh hưởng gián tiếp đến dòng vốn.",
+      "source": "VietnamPlus · Thanh Niên · News Channel Nebraska"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#PNJ",
-    "#KhốiNgoại",
-    "#NFP",
-    "#DầuBrent",
-    "#VàngSJC",
-    "#TTCKVN"
+    "#FDI",
+    "#ĐầuTưCông",
+    "#LạmPhát",
+    "#GiáDầu",
+    "#ThịTrườngMỹ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
