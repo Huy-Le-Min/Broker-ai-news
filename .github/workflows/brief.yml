@@ -2,8 +2,9 @@ name: ban-tin
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # 07:00 giờ VN (00:00 UTC) — bản tin sáng
-    - cron: "30 13 * * *"   # 20:30 giờ VN (13:30 UTC) — bản tin tối
+    # Giờ UTC. Tránh mốc 00:00/:30 (nghẽn hàng đợi GitHub) + đặt sớm để bù độ trễ best-effort.
+    - cron: "38 23 * * *"   # ~06:38 giờ VN (23:38 UTC) — bản tin sáng (thường fire ~7h sau độ trễ)
+    - cron: "9 13 * * *"    # ~20:09 giờ VN (13:09 UTC) — bản tin tối
   workflow_dispatch:
     inputs:
       edition:
@@ -40,7 +41,7 @@ jobs:
       - name: Xác định ấn bản (sáng/tối)
         id: ed
         run: |
-          if [ "${{ github.event.schedule }}" = "30 13 * * *" ]; then
+          if [ "${{ github.event.schedule }}" = "9 13 * * *" ]; then
             echo "edition=evening" >> "$GITHUB_OUTPUT"
           elif [ -n "${{ github.event.inputs.edition }}" ]; then
             echo "edition=${{ github.event.inputs.edition }}" >> "$GITHUB_OUTPUT"
