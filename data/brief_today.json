@@ -1,95 +1,87 @@
 {
-  "date": "04/7/2026",
+  "date": "08/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · NSO · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Thanh Niên · VOV · Báo Mới · Tuổi Trẻ · VnEconomy · Báo Chính phủ",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.315",
-      "change": "+0,2%",
+      "value": "26.466",
+      "change": "+0.02%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "≈151,4tr",
-      "change": "+2,0%",
-      "dir": "up"
+      "value": "150 triệu",
+      "change": "-0.33%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "71,0$",
-      "change": "-1,5%",
-      "dir": "down"
+      "value": "75.54$",
+      "change": "+1.9%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Thị trường mở cửa đầu tuần tháng 7 — theo dõi phản ứng của VN-Index trước GDP 8,39% và CPI 4,69% công bố hôm qua; chú ý diễn biến nhóm ngân hàng & cổ phiếu nâng hạng.",
+  "today_watch": "Tiếp tục theo dõi diễn biến địa chính trị Trung Đông và phản ứng thị trường.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "GDP quý II đạt 8,39%; 6 tháng vượt 8%",
+      "headline": "FDI 6 tháng đầu năm 2026 đạt kỷ lục 34,65 tỷ USD.",
       "bullets": [
-        "Cục Thống kê (3/7): GDP quý II/2026 tăng 8,39% so cùng kỳ; 6 tháng đạt 8,18% — cao hơn 7,63% của cùng kỳ 2025.",
-        "Công nghiệp & xây dựng tăng 10,51%; FDI thực hiện 6 tháng đạt 13,03 tỷ USD, cao nhất 5 năm. Để đạt 10% cả năm, H2 cần tăng 11,7%.",
-        "CPI tháng 6 tăng 4,69% so cùng kỳ; bình quân 6 tháng CPI +4,38%, gần sát trần mục tiêu 4,5%."
+        "Tổng vốn FDI đăng ký vào Việt Nam đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
+        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, tăng 11,2%, mức cao nhất từ năm 2022."
       ],
-      "insight": "GDP vượt kỳ vọng tạo nền tảng lợi nhuận cho nhóm ngân hàng, bán lẻ, hạ tầng — nhưng CPI tiệm cận trần mục tiêu thu hẹp dư địa nới lỏng tiền tệ.",
-      "source": "NSO (Cục Thống kê), TTXVN, VnEconomy, Tiền Phong"
+      "insight": "Dòng vốn ngoại mạnh mẽ khẳng định niềm tin vào môi trường đầu tư Việt Nam, hỗ trợ tăng trưởng kinh tế.",
+      "source": "Cục Thống kê, Tuổi Trẻ, VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng 7,41%; NHNN loại 18 dự án khỏi room",
+      "headline": "Khối ngoại bán ròng 81,81 nghìn tỷ đồng 6 tháng đầu năm.",
       "bullets": [
-        "Đến 26/6, dư nợ toàn hệ thống đạt ~19,97 triệu tỷ đồng, tăng 7,41% so cuối 2025 và +18,1% so cùng kỳ — theo NHNN.",
-        "NHNN không tính dư nợ phát sinh của 18 dự án trọng điểm vào room tín dụng nhằm tạo thêm dư địa vốn cho nền kinh tế.",
-        "Huy động vốn toàn hệ thống chỉ tăng 5,02% — thấp hơn tín dụng, khiến LDR có xu hướng vượt ngưỡng 110%."
+        "Tháng 6/2026, khối ngoại bán ròng 18,96 nghìn tỷ đồng trên toàn thị trường.",
+        "Lũy kế 6 tháng đầu năm, tổng giá trị bán ròng đạt 81,81 nghìn tỷ đồng, gần gấp đôi cùng kỳ 2025."
       ],
-      "insight": "Chênh lệch tín dụng - huy động nới rộng gây áp lực lên NIM ngân hàng; ngân hàng có CASA cao sẽ phân hóa mạnh hơn trong mùa KQKD Q2.",
-      "source": "NHNN, NSO, Diễn đàn Doanh nghiệp"
+      "insight": "Xu hướng rút vốn kéo dài gây áp lực lên thanh khoản thị trường, đòi hỏi chính sách hấp dẫn hơn.",
+      "source": "Vietstock, VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vàng SJC bứt phá lên 151,4 tr/lượng, thế giới vượt 4.174 USD",
+      "headline": "Tín dụng 6 tháng đầu năm tăng 7,73%, đạt 20,03 triệu tỷ.",
       "bullets": [
-        "Sáng 4/7: SJC bán ra 151,4 triệu đồng/lượng — tăng 3 triệu đồng/lượng chỉ trong một phiên, theo SJC, DOJI, PNJ.",
-        "Vàng thế giới lúc 4h sáng 4/7 đạt 4.174,1 USD/oz — tăng 52,2 USD/oz so phiên trước; chênh lệch trong nước so quốc tế vẫn ~18 triệu đồng/lượng.",
-        "Động lực từ số liệu việc làm Mỹ kém hơn kỳ vọng (NFP +57.000) và nhu cầu tích lũy từ Trung Quốc cải thiện."
+        "Đến 29/6/2026, dư nợ tín dụng toàn hệ thống tăng 7,73% so với cuối năm 2025.",
+        "Tổng dư nợ đạt 20,03 triệu tỷ đồng, NHNN đặt mục tiêu tăng trưởng 15% cả năm."
       ],
-      "insight": "Vàng tăng mạnh phản ánh kỳ vọng Fed tạm dừng thắt chặt; chênh lệch SJC-thế giới còn lớn là tín hiệu cần thận trọng với rủi ro điều chỉnh ngắn hạn.",
-      "source": "Báo Nghệ An, Techz, SJC, DOJI, PNJ"
+      "insight": "Tăng trưởng tín dụng ổn định hỗ trợ nền kinh tế, nhưng cần đẩy mạnh hơn để đạt mục tiêu cả năm.",
+      "source": "NHNN, Báo Chính phủ, VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "NFP Mỹ tháng 6 chỉ +57.000; Dow lập kỷ lục 52.900",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng vọt.",
       "bullets": [
-        "NFP tháng 6/2026 tăng 57.000 việc làm — thấp hơn nhiều so dự báo 115.000 của Dow Jones; tỷ lệ thất nghiệp giảm nhẹ xuống 4,2%.",
-        "Dow Jones lập kỷ lục 52.900,07 điểm (+1,14%); S&P 500 gần như đi ngang; Nasdaq giảm 0,8% do chip bán dẫn bị chốt lời mạnh (-6,7% SOX).",
-        "Lãi suất trái phiếu 2 năm Mỹ giảm 4 bps xuống 4,14%; thị trường giảm xác suất Fed tăng lãi suất tháng 9 từ 62,8% xuống 50,7%."
+        "Mỹ không kích Iran, tái áp đặt trừng phạt dầu mỏ sau tấn công tàu ở eo biển Hormuz.",
+        "Giá dầu Brent sáng 8/7 tăng 1,9% lên 75,54 USD/thùng, lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "NFP yếu giảm rủi ro Fed tăng lãi suất — tích cực cho dòng vốn vào thị trường mới nổi, nhưng chênh lệch giữa Dow và Nasdaq cảnh báo rủi ro đảo chiều công nghệ.",
-      "source": "CNBC, Schwab, FinancialJuice"
+      "insight": "Rủi ro địa chính trị đẩy giá năng lượng tăng, gây áp lực lạm phát toàn cầu và chi phí doanh nghiệp.",
+      "source": "Reuters, VOV, Thanh Niên"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent sát 71$/thùng: Hormuz hồi phục, nguồn cung dư thừa",
+      "headline": "Fed và ECB dự kiến giữ nguyên lãi suất trong tháng 7.",
       "bullets": [
-        "Brent về vùng 70,57–71,30 USD/thùng — mức thấp nhất kể từ cuối tháng 2; dòng chảy qua Hormuz vượt 10 triệu thùng/ngày nhờ hỗ trợ quân sự Mỹ.",
-        "Xuất khẩu Iran tăng vọt lên trên 40 triệu thùng sau khi Mỹ dỡ phong tỏa hải quân; Saudi Arabia tăng xuất sang châu Á, tạo dư thừa nguồn cung.",
-        "Lễ tang cố Lãnh tụ Tối cao Iran Khamenei (4/7) có thể trì hoãn vòng đàm phán Qatar; WTI đứng quanh 68–69 USD/thùng."
+        "Fed dự kiến giữ nguyên lãi suất tại cuộc họp 29/7, với 25-30% khả năng tăng lãi suất.",
+        "ECB dự kiến duy trì lãi suất 2,25% tại cuộc họp 22/7 với xác suất 96%."
       ],
-      "insight": "Dầu rẻ hơn giảm áp lực lạm phát chi phí đẩy cho VN; nhưng cổ phiếu dầu khí nội địa (GAS, PVS, PVD) sẽ chịu áp lực điều chỉnh giá.",
-      "source": "Trading Economics, Forbes Advisor, Reuters"
+      "insight": "Các ngân hàng trung ương lớn giữ lập trường thận trọng, thị trường chờ đợi tín hiệu rõ ràng hơn về chính sách tiền tệ.",
+      "source": "Forbes, Intellectia AI, ECB, Central Bank of Ireland"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoánViệtNam",
-    "#VNIndex",
-    "#GDP2026",
-    "#NângHạngFTSE",
-    "#Vàng",
-    "#DầuBrent",
-    "#Fed",
-    "#NFP"
+    "#ChứngKhoán",
+    "#KinhTếViệtNam",
+    "#ThịTrườngQuốcTế",
+    "#FDI",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
