@@ -1,92 +1,95 @@
 {
-  "date": "22/6/2026",
+  "date": "04/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · VietnamBiz · Thời báo Tài chính VN · Reuters · CNBC · Trading Economics · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · NSO · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "TT: 25.183 | NH: ~26.440 | Tự do: ~26.780",
-      "change": "+0,01%",
+      "value": "26.315",
+      "change": "+0,2%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "145,7 – 148,7 triệu đ/lượng",
-      "change": "+1,5 triệu đ/lượng so với cuối tuần",
+      "value": "≈151,4tr",
+      "change": "+2,0%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "~80,57 $",
-      "change": "-8,5% tuần trước",
+      "value": "71,0$",
+      "change": "-1,5%",
       "dir": "down"
     }
   ],
-  "today_watch": "MSCI công bố Báo cáo Rà soát Phân loại Thị trường Thường niên 2026 (Annual Market Classification Review) vào rạng sáng 24/6 (03h30 giờ VN) — quyết định liệu Việt Nam có vào Watchlist nâng hạng không; VN-Index mở cửa phiên 22/6 trong bối cảnh USD tự do tăng vọt ~180 đồng, vàng bật tăng, dầu biến động theo đàm phán Mỹ–Iran.",
+  "today_watch": "Thị trường mở cửa đầu tuần tháng 7 — theo dõi phản ứng của VN-Index trước GDP 8,39% và CPI 4,69% công bố hôm qua; chú ý diễn biến nhóm ngân hàng & cổ phiếu nâng hạng.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "MSCI ghi nhận cải cách nhưng 'giữ nguyên điểm' — chờ kết quả phân loại 24/6",
+      "headline": "GDP quý II đạt 8,39%; 6 tháng vượt 8%",
       "bullets": [
-        "Rạng sáng 19/6, MSCI công bố Global Market Accessibility Review 2026: ghi nhận Việt Nam tiếp tục cải cách (global broker, CCP, room ngoại, tiếng Anh) nhưng giữ nguyên toàn bộ 18 tiêu chí, trong đó 8 tiêu chí vẫn ở mức '-' (cần cải thiện) — chưa có 'điểm cộng' mới so với kỳ trước (nguồn: Sputnik VN, VietnamBiz).",
-        "Báo cáo quan trọng hơn — Annual Market Classification Review 2026 (quyết định Watchlist) — dự kiến công bố rạng sáng 24/6 giờ VN. SSI Research đánh giá Việt Nam có khả năng cao được vào Watchlist nhờ đáp ứng tiệm cận 17/18 tiêu chí MSCI; rào cản còn lại là tự do hóa ngoại hối (FX). FTSE Russell đã xác nhận nâng hạng VN lên Secondary Emerging Market hiệu lực 21/9/2026."
+        "Cục Thống kê (3/7): GDP quý II/2026 tăng 8,39% so cùng kỳ; 6 tháng đạt 8,18% — cao hơn 7,63% của cùng kỳ 2025.",
+        "Công nghiệp & xây dựng tăng 10,51%; FDI thực hiện 6 tháng đạt 13,03 tỷ USD, cao nhất 5 năm. Để đạt 10% cả năm, H2 cần tăng 11,7%.",
+        "CPI tháng 6 tăng 4,69% so cùng kỳ; bình quân 6 tháng CPI +4,38%, gần sát trần mục tiêu 4,5%."
       ],
-      "insight": "Kết quả ngày 24/6 là sự kiện trọng đại nhất của TTCK VN trong tháng 6 — nếu được đưa vào Watchlist, kỳ vọng dòng vốn ngoại tỷ USD sẽ được định giá lại toàn thị trường, đặc biệt nhóm bluechip có room ngoại cao; nếu không, rủi ro điều chỉnh tâm lý ngắn hạn gia tăng.",
-      "source": "VietnamBiz · Sputnik VN · SSI Research · MSCI (19/6/2026)"
+      "insight": "GDP vượt kỳ vọng tạo nền tảng lợi nhuận cho nhóm ngân hàng, bán lẻ, hạ tầng — nhưng CPI tiệm cận trần mục tiêu thu hẹp dư địa nới lỏng tiền tệ.",
+      "source": "NSO (Cục Thống kê), TTXVN, VnEconomy, Tiền Phong"
     },
     {
       "cat": "Trong nước",
-      "headline": "VN-Index kết phiên 19/6 tại 1.824,53 điểm — khối ngoại bán ròng gần 2.900 tỷ đồng trong tuần",
+      "headline": "Tín dụng 7,41%; NHNN loại 18 dự án khỏi room",
       "bullets": [
-        "Phiên 19/6: VN-Index giảm gần 6 điểm xuống 1.824,53 điểm; 15/18 ngành giảm điểm; khối ngoại bán ròng ~1.900 tỷ đồng phiên đó, lũy kế cả tuần 15–19/6 bán ròng gần 2.860–2.900 tỷ đồng toàn thị trường; VHM, FPT, TCB, VPB bị xả mạnh (nguồn: VietnamBiz, CafeF).",
-        "Thị trường chứng quyền và CTCK nhận định tuần 22–26/6 VN-Index có thể tiếp tục giằng co vùng 1.820–1.850 điểm; thanh khoản duy trì dưới trung bình 20 phiên; dòng tiền MFI yếu (chỉ báo 33); rủi ro điều chỉnh về 1.800 nếu không giữ được vùng kháng cự (nguồn: Vietstock, Tinnhanhchungkhoan)."
+        "Đến 26/6, dư nợ toàn hệ thống đạt ~19,97 triệu tỷ đồng, tăng 7,41% so cuối 2025 và +18,1% so cùng kỳ — theo NHNN.",
+        "NHNN không tính dư nợ phát sinh của 18 dự án trọng điểm vào room tín dụng nhằm tạo thêm dư địa vốn cho nền kinh tế.",
+        "Huy động vốn toàn hệ thống chỉ tăng 5,02% — thấp hơn tín dụng, khiến LDR có xu hướng vượt ngưỡng 110%."
       ],
-      "insight": "Áp lực bán ròng của khối ngoại kéo dài sang tuần mới cho thấy tâm lý thận trọng vẫn bao trùm trước hai sự kiện lớn trong tuần (kết quả MSCI + dữ liệu vĩ mô Mỹ), khiến thanh khoản nội địa khó cải thiện đột biến.",
-      "source": "VietnamBiz · CafeF · Vietstock (19–22/6/2026)"
+      "insight": "Chênh lệch tín dụng - huy động nới rộng gây áp lực lên NIM ngân hàng; ngân hàng có CASA cao sẽ phân hóa mạnh hơn trong mùa KQKD Q2.",
+      "source": "NHNN, NSO, Diễn đàn Doanh nghiệp"
     },
     {
       "cat": "Trong nước",
-      "headline": "USD tự do vọt lên 26.780 đ — DXY vượt 100 điểm, áp lực tỷ giá mở đầu tuần",
+      "headline": "Vàng SJC bứt phá lên 151,4 tr/lượng, thế giới vượt 4.174 USD",
       "bullets": [
-        "Sáng 22/6, tỷ giá trung tâm NHNN: 25.183 đồng/USD (tăng 2 đồng so với phiên trước). Tỷ giá ngân hàng thương mại (Vietcombank): mua 26.090 – bán 26.440 đồng/USD. Tỷ giá tự do bật tăng mạnh 170–180 đồng lên 26.750–26.780 đồng/USD, vượt xa mặt bằng niêm yết ngân hàng (nguồn: Thời báo Tài chính VN, Investing.com).",
-        "Chỉ số DXY tăng lên 100,77 điểm sáng 22/6, được thúc đẩy bởi lập trường 'diều hâu' của Fed và nguy cơ đổ vỡ đàm phán Mỹ–Iran tại Thụy Sĩ. UOB dự báo NHNN giữ nguyên lãi suất điều hành 4,5% đến hết 2026; VND có thể chịu áp lực ngắn hạn trong Q3/2026 (nguồn: Thời báo Tài chính VN)."
+        "Sáng 4/7: SJC bán ra 151,4 triệu đồng/lượng — tăng 3 triệu đồng/lượng chỉ trong một phiên, theo SJC, DOJI, PNJ.",
+        "Vàng thế giới lúc 4h sáng 4/7 đạt 4.174,1 USD/oz — tăng 52,2 USD/oz so phiên trước; chênh lệch trong nước so quốc tế vẫn ~18 triệu đồng/lượng.",
+        "Động lực từ số liệu việc làm Mỹ kém hơn kỳ vọng (NFP +57.000) và nhu cầu tích lũy từ Trung Quốc cải thiện."
       ],
-      "insight": "USD tự do vọt khỏi vùng ngân hàng thương mại là tín hiệu căng thẳng tỷ giá đầu tuần — ảnh hưởng trực tiếp đến chi phí nhập khẩu nguyên liệu, biên lợi nhuận doanh nghiệp sản xuất và tâm lý giải ngân của khối ngoại trên TTCK.",
-      "source": "Thời báo Tài chính VN · Investing.com · UOB Research (22/6/2026)"
+      "insight": "Vàng tăng mạnh phản ánh kỳ vọng Fed tạm dừng thắt chặt; chênh lệch SJC-thế giới còn lớn là tín hiệu cần thận trọng với rủi ro điều chỉnh ngắn hạn.",
+      "source": "Báo Nghệ An, Techz, SJC, DOJI, PNJ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed 'diều hâu' lần đầu dưới Warsh: giữ lãi suất 3,5–3,75%, Dot Plot xoay sang khả năng tăng lãi",
+      "headline": "NFP Mỹ tháng 6 chỉ +57.000; Dow lập kỷ lục 52.900",
       "bullets": [
-        "Cuộc họp FOMC 17/6 (đầu tiên do Chủ tịch Kevin Warsh điều hành): giữ nguyên lãi suất 3,50–3,75% (12-0); nhưng Dot Plot đảo chiều — 9/18 quan chức kỳ vọng ít nhất 1 lần tăng lãi trước cuối 2026 (6 người dự báo 2 lần tăng). Dự báo PCE 2026 nâng mạnh lên 3,6% (từ mức 2,7% tháng 3); CPI tháng 5 đạt 4,2% — mức cao nhất kể từ tháng 4/2023 (nguồn: CNBC, Fox Business, Trading Economics).",
-        "Warsh không nộp 'dot' cá nhân, tuyên bố loại bỏ forward guidance, lập 5 task force cải tổ Fed. Thị trường futures định giá ~77% xác suất Fed tăng lãi trước tháng 12/2026. Đồng USD và lợi suất trái phiếu 2 năm tăng mạnh ngay sau quyết định (nguồn: NPR, CNBC, Trading Economics)."
+        "NFP tháng 6/2026 tăng 57.000 việc làm — thấp hơn nhiều so dự báo 115.000 của Dow Jones; tỷ lệ thất nghiệp giảm nhẹ xuống 4,2%.",
+        "Dow Jones lập kỷ lục 52.900,07 điểm (+1,14%); S&P 500 gần như đi ngang; Nasdaq giảm 0,8% do chip bán dẫn bị chốt lời mạnh (-6,7% SOX).",
+        "Lãi suất trái phiếu 2 năm Mỹ giảm 4 bps xuống 4,14%; thị trường giảm xác suất Fed tăng lãi suất tháng 9 từ 62,8% xuống 50,7%."
       ],
-      "insight": "Dot Plot xoay từ 'cắt giảm' sang 'có thể tăng' là cú sốc chính sách quan trọng nhất tuần qua — kéo DXY lên, gây áp lực kép lên tỷ giá VND và định giá cổ phiếu, đặc biệt nhóm vay nợ ngoại tệ và BĐS.",
-      "source": "CNBC · Fox Business · NPR · Trading Economics (17/6/2026)"
+      "insight": "NFP yếu giảm rủi ro Fed tăng lãi suất — tích cực cho dòng vốn vào thị trường mới nổi, nhưng chênh lệch giữa Dow và Nasdaq cảnh báo rủi ro đảo chiều công nghệ.",
+      "source": "CNBC, Schwab, FinancialJuice"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent ~80,57 USD/thùng — đàm phán Mỹ–Iran gián đoạn, Goldman hạ dự báo xuống 80 USD Q4",
+      "headline": "Dầu Brent sát 71$/thùng: Hormuz hồi phục, nguồn cung dư thừa",
       "bullets": [
-        "Brent chốt tuần 19/6 ở 80,57 USD/thùng (+0,9% phiên thứ Sáu), sau khi đàm phán Mỹ–Iran tại Thụy Sĩ bị hủy đột ngột, nhưng vẫn giảm ~8,5% cả tuần nhờ Eo biển Hormuz dần tái thông quan — giá dầu đã xóa gần hết đà tăng từ khi xung đột bắt đầu cuối tháng 2/2026 (nguồn: CNBC, Trading Economics). Sáng 22/6 dầu tăng trở lại >1,5% lên trên 78 USD khi Iran lại chặn eo biển và Iran yêu cầu ngừng chiến tại Lebanon trước khi tiếp tục đàm phán.",
-        "Goldman Sachs hạ dự báo Brent Q4/2026 từ 90 USD xuống 80 USD/thùng, dự kiến xuất khẩu vùng Vịnh Ba Tư trở về mức trước chiến tranh vào cuối tháng 7. IEA ước tính xung đột Iran gây thiếu hụt 14 triệu thùng/ngày toàn cầu trong giai đoạn đỉnh điểm (nguồn: Barchart, Al Jazeera)."
+        "Brent về vùng 70,57–71,30 USD/thùng — mức thấp nhất kể từ cuối tháng 2; dòng chảy qua Hormuz vượt 10 triệu thùng/ngày nhờ hỗ trợ quân sự Mỹ.",
+        "Xuất khẩu Iran tăng vọt lên trên 40 triệu thùng sau khi Mỹ dỡ phong tỏa hải quân; Saudi Arabia tăng xuất sang châu Á, tạo dư thừa nguồn cung.",
+        "Lễ tang cố Lãnh tụ Tối cao Iran Khamenei (4/7) có thể trì hoãn vòng đàm phán Qatar; WTI đứng quanh 68–69 USD/thùng."
       ],
-      "insight": "Biến động dầu Brent theo từng tuyên bố đàm phán Mỹ–Iran là rủi ro hai chiều cho chi phí sản xuất và giá năng lượng tại VN — đặc biệt ảnh hưởng nhóm dầu khí (BSR, PVD, PVS) và doanh nghiệp phụ thuộc giá xăng dầu đầu vào.",
-      "source": "CNBC · Trading Economics · Barchart · Al Jazeera (19–22/6/2026)"
+      "insight": "Dầu rẻ hơn giảm áp lực lạm phát chi phí đẩy cho VN; nhưng cổ phiếu dầu khí nội địa (GAS, PVS, PVD) sẽ chịu áp lực điều chỉnh giá.",
+      "source": "Trading Economics, Forbes Advisor, Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
-    "#ChứngKhoán",
+    "#ChứngKhoánViệtNam",
     "#VNIndex",
-    "#MSCI",
-    "#NângHạng",
-    "#Fed",
-    "#Warsh",
-    "#TỷGiá",
+    "#GDP2026",
+    "#NângHạngFTSE",
+    "#Vàng",
     "#DầuBrent",
-    "#VàngSJC",
-    "#MỹIran"
+    "#Fed",
+    "#NFP"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
