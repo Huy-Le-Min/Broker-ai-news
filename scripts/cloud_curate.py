@@ -115,19 +115,31 @@ def extract_json(text):
 
 
 def curate_gemini(prompt):
-    """Gemini free tier + grounding Google Search."""
+    """Gemini free tier + grounding Google Search. Retry + đổi model dự phòng khi 503/quá tải."""
+    import time
     from google import genai
     from google.genai import types
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    resp = client.models.generate_content(
-        model=os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            tools=[types.Tool(google_search=types.GoogleSearch())],
-            temperature=0.4,
-        ),
-    )
-    return resp.text or ""
+    cfg = types.GenerateContentConfig(
+        tools=[types.Tool(google_search=types.GoogleSearch())], temperature=0.4)
+    models, seen = [], set()
+    for m in [os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
+              "gemini-2.0-flash", "gemini-2.5-flash-lite"]:
+        if m and m not in seen:
+            seen.add(m)
+            models.append(m)
+    last = None
+    for model in models:
+        for attempt in range(3):
+            try:
+                resp = client.models.generate_content(model=model, contents=prompt, config=cfg)
+                if resp.text:
+                    return resp.text
+                last = RuntimeError("Phản hồi rỗng")
+            except Exception as e:
+                last = e
+                time.sleep(4 * (attempt + 1))  # backoff cho lỗi tạm thời (503/quá tải)
+    raise last
 
 
 def curate_claude(prompt):
