@@ -1,17 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Cloud curate — gọi Claude API (web search) để tuyển 5 tin → ghi JSON cho morning/evening.
-Dùng trên GitHub Actions (headless). Cần env ANTHROPIC_API_KEY.
+Cloud curate — gọi LLM (web search) để tuyển 5 tin → ghi JSON cho morning/evening.
+Dùng trên GitHub Actions (headless). Provider: có GEMINI_API_KEY (free) → Gemini + Google Search;
+nếu không, dùng ANTHROPIC_API_KEY → Claude (trả phí).
 Cách dùng:  py scripts/cloud_curate.py morning   |   py scripts/cloud_curate.py evening
 Ghi:  data/brief_today.json (morning)  hoặc  data/evening_today.json (evening)
 """
 import os, sys, json, re
 from datetime import datetime, timezone, timedelta
 
-import anthropic
-
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODEL = os.environ.get("CURATE_MODEL", "claude-sonnet-4-6")
 
 VN_NOW = datetime.now(timezone.utc) + timedelta(hours=7)
 TODAY = VN_NOW.strftime("%d/%-m/%Y") if os.name != "nt" else VN_NOW.strftime("%d/%m/%Y")
@@ -116,22 +114,49 @@ def extract_json(text):
     return json.loads(m.group(0))
 
 
-def main():
-    edition = (sys.argv[1] if len(sys.argv) > 1 else "morning").strip().lower()
+def curate_gemini(prompt):
+    """Gemini free tier + grounding Google Search."""
+    from google import genai
+    from google.genai import types
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    resp = client.models.generate_content(
+        model=os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            tools=[types.Tool(google_search=types.GoogleSearch())],
+            temperature=0.4,
+        ),
+    )
+    return resp.text or ""
+
+
+def curate_claude(prompt):
+    """Claude API (web search) — fallback trả phí."""
+    import anthropic
     client = anthropic.Anthropic()
     resp = client.messages.create(
-        model=MODEL,
+        model=os.environ.get("CURATE_MODEL", "claude-haiku-4-5"),
         max_tokens=4000,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 8}],
-        messages=[{"role": "user", "content": build_prompt(edition)}],
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 4}],
+        messages=[{"role": "user", "content": prompt}],
     )
-    text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
+    return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
+
+
+def main():
+    edition = (sys.argv[1] if len(sys.argv) > 1 else "morning").strip().lower()
+    prompt = build_prompt(edition)
+    if os.environ.get("GEMINI_API_KEY"):
+        provider, text = "gemini", curate_gemini(prompt)
+    elif os.environ.get("ANTHROPIC_API_KEY"):
+        provider, text = "claude", curate_claude(prompt)
+    else:
+        raise SystemExit("Thiếu GEMINI_API_KEY (free) hoặc ANTHROPIC_API_KEY.")
     data = extract_json(text)
     out = "data/evening_today.json" if edition == "evening" else "data/brief_today.json"
-    path = os.path.join(ROOT, out)
-    with open(path, "w", encoding="utf-8") as f:
+    with open(os.path.join(ROOT, out), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"[cloud_curate] {edition} -> {out} ({len(data.get('items', []))} tin, ngày {data.get('date')})")
+    print(f"[cloud_curate] {provider} · {edition} -> {out} ({len(data.get('items', []))} tin, ngày {data.get('date')})")
 
 
 if __name__ == "__main__":

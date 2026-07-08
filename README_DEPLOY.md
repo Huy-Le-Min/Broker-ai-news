@@ -19,11 +19,12 @@ git push -u origin main
 Repo → **Settings → Actions → General → Workflow permissions** → chọn
 **"Read and write permissions"** → Save.
 
-### 4. Dán API key
-- Lấy key tại https://console.anthropic.com → **API Keys** → tạo key, và nạp ít credit (Billing).
+### 4. Dán API key (MIỄN PHÍ — Gemini)
+- Lấy key free tại https://aistudio.google.com → **Get API key** (đăng nhập Google, **KHÔNG cần thẻ**).
 - Repo → **Settings → Secrets and variables → Actions → New repository secret**
-  - Name: `ANTHROPIC_API_KEY`
-  - Secret: dán key vào → **Add secret**.
+  - Name: `GEMINI_API_KEY`
+  - Secret: dán key → **Add secret**.
+- (Tùy chọn) Nếu muốn dùng Claude trả phí thay Gemini: thêm secret `ANTHROPIC_API_KEY` (có key này mà KHÔNG có GEMINI thì hệ thống tự dùng Claude). Ưu tiên: có `GEMINI_API_KEY` → dùng Gemini free.
 
 ### 5. Bật GitHub Pages
 Repo → **Settings → Pages → Build and deployment → Source = GitHub Actions**.

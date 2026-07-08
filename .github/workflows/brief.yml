@@ -25,6 +25,7 @@ jobs:
     env:
       TZ: Asia/Ho_Chi_Minh
       PYTHONUTF8: "1"
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
