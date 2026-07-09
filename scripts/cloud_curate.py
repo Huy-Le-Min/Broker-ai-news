@@ -71,7 +71,13 @@ EVENING_SCHEMA = """{
 }"""
 
 
-def build_prompt(edition):
+def build_prompt(edition, avoid=None):
+    avoid_txt = ""
+    if avoid:
+        lst = "\n".join(f"- {h}" for h in avoid if h)
+        if lst:
+            avoid_txt = ("\n\nTRÁNH LẶP: bản tin gần nhất đã đăng các tiêu đề dưới đây — KHÔNG chọn lại "
+                         "trừ khi có DIỄN BIẾN MỚI trong 24h. Ưu tiên tin/diễn biến MỚI hôm nay:\n" + lst)
     if edition == "evening":
         kind = ("BẢN TIN TỐI (tổng kết phiên giao dịch hôm nay + tin tối). Thêm thống kê phiên: "
                 "VN-Index đóng cửa, khối ngoại mua/bán ròng, thanh khoản, nhóm dẫn dắt.")
@@ -95,6 +101,7 @@ GIỚI HẠN ĐỘ DÀI (bắt buộc, vì hiển thị trên thẻ ảnh):
 - snapshot.change: ngắn gọn dạng "±X%" (vd "-8,5%"), không thêm chữ.
 
 Dùng web search để lấy tin & số liệu MỚI NHẤT (snapshot tỷ giá USD/VND, vàng SJC, dầu Brent).
+ƯU TIÊN diễn biến MỚI trong 24h (phiên hôm nay, tin qua đêm); HẠN CHẾ nhai lại số liệu evergreen đã công bố lâu (vd GDP/CPI 6 tháng) trừ khi có góc nhìn mới.{avoid_txt}
 
 === PLAYBOOK ===
 {PLAYBOOK[:4000]}
@@ -112,6 +119,16 @@ def extract_json(text):
     if not m:
         raise ValueError("Không tìm thấy JSON trong phản hồi")
     return json.loads(m.group(0))
+
+
+def previous_headlines(out_path):
+    """Tiêu đề bản tin lần trước (để tránh lặp)."""
+    try:
+        with open(out_path, encoding="utf-8") as f:
+            old = json.load(f)
+        return [it.get("headline", "") for it in old.get("items", [])]
+    except Exception:
+        return []
 
 
 def curate_gemini(prompt):
@@ -157,7 +174,10 @@ def curate_claude(prompt):
 
 def main():
     edition = (sys.argv[1] if len(sys.argv) > 1 else "morning").strip().lower()
-    prompt = build_prompt(edition)
+    out = "data/evening_today.json" if edition == "evening" else "data/brief_today.json"
+    out_path = os.path.join(ROOT, out)
+    avoid = previous_headlines(out_path)
+    prompt = build_prompt(edition, avoid)
     if os.environ.get("GEMINI_API_KEY"):
         provider, text = "gemini", curate_gemini(prompt)
     elif os.environ.get("ANTHROPIC_API_KEY"):
@@ -165,8 +185,8 @@ def main():
     else:
         raise SystemExit("Thiếu GEMINI_API_KEY (free) hoặc ANTHROPIC_API_KEY.")
     data = extract_json(text)
-    out = "data/evening_today.json" if edition == "evening" else "data/brief_today.json"
-    with open(os.path.join(ROOT, out), "w", encoding="utf-8") as f:
+    data["date"] = TODAY  # ép ngày đúng, tránh model tự thêm chữ như "(hôm nay)"
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"[cloud_curate] {provider} · {edition} -> {out} ({len(data.get('items', []))} tin, ngày {data.get('date')})")
 
