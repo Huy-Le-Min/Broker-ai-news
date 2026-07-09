@@ -1,87 +1,87 @@
 {
-  "date": "08/7/2026",
+  "date": "09/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Thanh Niên · VOV · Báo Mới · Tuổi Trẻ · VnEconomy · Báo Chính phủ",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews · VOV · Markettimes · Kitco News · Cục Thống kê",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.466",
-      "change": "+0.02%",
-      "dir": "up"
+      "value": "26.462",
+      "change": "-0.004%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "150 triệu",
-      "change": "-0.33%",
+      "value": "148,5 tr",
+      "change": "-1.00%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "75.54$",
-      "change": "+1.9%",
+      "value": "75.94$",
+      "change": "+5.49%",
       "dir": "up"
     }
   ],
-  "today_watch": "Tiếp tục theo dõi diễn biến địa chính trị Trung Đông và phản ứng thị trường.",
+  "today_watch": "Họp Bộ trưởng tài chính Eurozone; Đức công bố số liệu thương mại tháng 5.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FDI 6 tháng đầu năm 2026 đạt kỷ lục 34,65 tỷ USD.",
+      "headline": "FDI Việt Nam 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD",
       "bullets": [
-        "Tổng vốn FDI đăng ký vào Việt Nam đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
-        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, tăng 11,2%, mức cao nhất từ năm 2022."
+        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
+        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, cao nhất trong 5 năm qua."
       ],
-      "insight": "Dòng vốn ngoại mạnh mẽ khẳng định niềm tin vào môi trường đầu tư Việt Nam, hỗ trợ tăng trưởng kinh tế.",
-      "source": "Cục Thống kê, Tuổi Trẻ, VnEconomy"
+      "insight": "Dòng vốn ngoại mạnh mẽ củng cố niềm tin nhà đầu tư, hỗ trợ tăng trưởng kinh tế.",
+      "source": "Cục Thống kê, VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng 81,81 nghìn tỷ đồng 6 tháng đầu năm.",
+      "headline": "Giải ngân đầu tư công 6 tháng chỉ đạt 35,5% kế hoạch",
       "bullets": [
-        "Tháng 6/2026, khối ngoại bán ròng 18,96 nghìn tỷ đồng trên toàn thị trường.",
-        "Lũy kế 6 tháng đầu năm, tổng giá trị bán ròng đạt 81,81 nghìn tỷ đồng, gần gấp đôi cùng kỳ 2025."
+        "Đến 30/6/2026, giải ngân đạt 35,5% kế hoạch Thủ tướng giao.",
+        "Tiến độ chậm do vướng mắc giải phóng mặt bằng, nguồn cung vật liệu."
       ],
-      "insight": "Xu hướng rút vốn kéo dài gây áp lực lên thanh khoản thị trường, đòi hỏi chính sách hấp dẫn hơn.",
-      "source": "Vietstock, VietnamBiz"
+      "insight": "Tốc độ giải ngân chậm ảnh hưởng đến động lực tăng trưởng kinh tế cuối năm.",
+      "source": "Bộ Tài chính, Bnews"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng 6 tháng đầu năm tăng 7,73%, đạt 20,03 triệu tỷ.",
+      "headline": "Việt Nam nhập siêu 16,65 tỷ USD trong 6 tháng đầu năm",
       "bullets": [
-        "Đến 29/6/2026, dư nợ tín dụng toàn hệ thống tăng 7,73% so với cuối năm 2025.",
-        "Tổng dư nợ đạt 20,03 triệu tỷ đồng, NHNN đặt mục tiêu tăng trưởng 15% cả năm."
+        "Tổng kim ngạch XNK 6 tháng đạt 549,69 tỷ USD, tăng 27,1% cùng kỳ.",
+        "Nhập khẩu tăng 33,4%, cao hơn xuất khẩu 21%, chủ yếu nguyên liệu sản xuất."
       ],
-      "insight": "Tăng trưởng tín dụng ổn định hỗ trợ nền kinh tế, nhưng cần đẩy mạnh hơn để đạt mục tiêu cả năm.",
-      "source": "NHNN, Báo Chính phủ, VnEconomy"
+      "insight": "Nhập siêu phản ánh nhu cầu sản xuất phục hồi, nhưng cần theo dõi cán cân thương mại.",
+      "source": "Cục Thống kê, VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng vọt.",
+      "headline": "Giá dầu Brent tăng vọt 5,49% do căng thẳng Trung Đông",
       "bullets": [
-        "Mỹ không kích Iran, tái áp đặt trừng phạt dầu mỏ sau tấn công tàu ở eo biển Hormuz.",
-        "Giá dầu Brent sáng 8/7 tăng 1,9% lên 75,54 USD/thùng, lo ngại gián đoạn nguồn cung."
+        "Giá dầu Brent tăng lên 75,94 USD/thùng sáng 8/7.",
+        "Mỹ hủy giấy phép Iran bán dầu, tấn công tàu ở eo biển Hormuz."
       ],
-      "insight": "Rủi ro địa chính trị đẩy giá năng lượng tăng, gây áp lực lạm phát toàn cầu và chi phí doanh nghiệp.",
-      "source": "Reuters, VOV, Thanh Niên"
+      "insight": "Giá dầu tăng gây áp lực lạm phát, ảnh hưởng chi phí vận tải, sản xuất toàn cầu.",
+      "source": "Reuters, Bnews, Markettimes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed và ECB dự kiến giữ nguyên lãi suất trong tháng 7.",
+      "headline": "Giá vàng thế giới giảm mạnh, mất mốc 4.070 USD/ounce",
       "bullets": [
-        "Fed dự kiến giữ nguyên lãi suất tại cuộc họp 29/7, với 25-30% khả năng tăng lãi suất.",
-        "ECB dự kiến duy trì lãi suất 2,25% tại cuộc họp 22/7 với xác suất 96%."
+        "Giá vàng giao ngay giảm về 4.027 USD/ounce tối 8/7.",
+        "Căng thẳng Trung Đông đẩy USD, lợi suất tăng, làm giảm sức hấp dẫn vàng."
       ],
-      "insight": "Các ngân hàng trung ương lớn giữ lập trường thận trọng, thị trường chờ đợi tín hiệu rõ ràng hơn về chính sách tiền tệ.",
-      "source": "Forbes, Intellectia AI, ECB, Central Bank of Ireland"
+      "insight": "Vàng giảm ảnh hưởng tâm lý nhà đầu tư, thu hẹp chênh lệch giá trong nước.",
+      "source": "Kitco News, VietNamNet, Markettimes"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngQuốcTế",
     "#FDI",
-    "#GiáDầu"
+    "#GiáDầu",
+    "#GiáVàng"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
