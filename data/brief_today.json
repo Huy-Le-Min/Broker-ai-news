@@ -1,85 +1,85 @@
 {
-  "date": "09/7/2026",
+  "date": "10/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · VOV · Dân trí · Báo Lao Động · Znews.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · Tuổi Trẻ Online · VOV · Eva.vn · Lao Động · Index.vn · Thanh Niên",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.471",
-      "change": "+0.02%",
-      "dir": "up"
+      "change": "flat",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,5tr",
-      "change": "-0.33%",
-      "dir": "down"
+      "value": "149tr",
+      "change": "+500.000đ",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "78.75$",
-      "change": "+0.94%",
-      "dir": "up"
+      "value": "76.30$",
+      "change": "-2.2%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Kỳ điều hành giá xăng dầu trong nước; Diễn đàn Tài chính Việt Nam 2026 tiếp diễn.",
+  "today_watch": "Tiếp tục theo dõi căng thẳng Mỹ-Iran; diễn biến thị trường chứng khoán toàn cầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "GDP Việt Nam 6 tháng đầu năm 2026 tăng trưởng 8,18%",
+      "headline": "UOB nâng dự báo GDP Việt Nam 2026 lên 8,5%",
       "bullets": [
-        "Kinh tế Việt Nam đạt mức tăng trưởng GDP 8,18% so với cùng kỳ năm 2025 trong nửa đầu năm 2026.",
-        "Đây là tín hiệu tích cực cho thấy sự phục hồi và phát triển ổn định của nền kinh tế."
+        "Ngân hàng UOB (Singapore) điều chỉnh tăng mạnh dự báo tăng trưởng GDP Việt Nam 2026 từ 7% lên 8,5%.",
+        "Động lực chính đến từ sản xuất, đầu tư và dòng vốn FDI tích cực trong nửa đầu năm."
       ],
-      "insight": "Dữ liệu GDP tích cực củng cố niềm tin thị trường, hỗ trợ tâm lý nhà đầu tư vào triển vọng kinh tế.",
-      "source": "Tạp chí Mekong Asean"
+      "insight": "Dự báo lạc quan này củng cố niềm tin vào triển vọng kinh tế, hỗ trợ tâm lý thị trường chứng khoán.",
+      "source": "Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "PMI sản xuất Việt Nam tháng 6 đạt 51,8 điểm, duy trì tăng trưởng",
+      "headline": "Lãi suất huy động kỳ hạn dài ngân hàng tăng nhẹ",
       "bullets": [
-        "Chỉ số PMI ngành sản xuất Việt Nam tháng 6/2026 đạt 51,8 điểm, giảm nhẹ so với 52,8 điểm tháng 5.",
-        "Chỉ số này vẫn trên ngưỡng 50, cho thấy sức khỏe ngành sản xuất tiếp tục cải thiện tháng thứ 12 liên tiếp."
+        "Nhiều ngân hàng niêm yết lãi suất huy động kỳ hạn 6-12 tháng từ 7% trở lên, cá biệt có nơi 8,6-9,2%.",
+        "Xu hướng tăng nhằm cân đối nguồn vốn cho vay trung dài hạn, đặc biệt BĐS và sản xuất."
       ],
-      "insight": "Ngành sản xuất duy trì đà tăng trưởng, tạo động lực cho các doanh nghiệp và thị trường chứng khoán.",
-      "source": "S&P Global · VietnamBiz"
+      "insight": "Lãi suất tăng có thể ảnh hưởng chi phí vốn doanh nghiệp, nhưng cũng thu hút dòng tiền gửi.",
+      "source": "Lao Động · Index.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng mạnh, VN-Index đối mặt áp lực rung lắc",
+      "headline": "FDI Việt Nam duy trì đà tăng, động lực chính tăng trưởng",
       "bullets": [
-        "Khối ngoại tiếp tục bán ròng hơn 546 tỷ đồng trên HOSE và 48 tỷ đồng trên HNX trong phiên 8/7.",
-        "VN-Index được dự báo rung lắc khi tiến vào vùng kháng cự 1.855-1.860 điểm trong phiên hôm nay."
+        "Dòng vốn FDI tiếp tục tăng mạnh trong 6 tháng đầu năm 2026, là yếu tố hỗ trợ tăng trưởng kinh tế.",
+        "Các chuyên gia kỳ vọng nhu cầu hàng điện tử toàn cầu và FDI sẽ duy trì đà tăng."
       ],
-      "insight": "Áp lực bán ròng từ khối ngoại và vùng kháng cự kỹ thuật có thể gây biến động ngắn hạn cho thị trường.",
-      "source": "Báo Tuổi Trẻ · Etime · Báo Lao Động"
+      "insight": "Dòng vốn ngoại ổn định là nền tảng vững chắc, thu hút đầu tư vào các ngành chủ chốt.",
+      "source": "Tuổi Trẻ Online · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Biên bản Fed: Sẵn sàng tăng lãi suất, chấm dứt thắt chặt định lượng",
+      "headline": "Biên bản Fed: Quan ngại lạm phát, có thể tăng lãi suất",
       "bullets": [
-        "Biên bản họp FOMC tháng 6/2026 cho thấy Fed sẵn sàng tăng lãi suất nếu lạm phát không hạ nhiệt.",
-        "Fed đã loại bỏ khả năng nới lỏng chính sách và chính thức chấm dứt chương trình Thắt chặt Định lượng (QT)."
+        "Biên bản họp Fed tháng 6 cho thấy các nhà hoạch định chính sách lo ngại lạm phát cao.",
+        "Một số thành viên ủng hộ nâng lãi suất ngay lập tức; thị trường dự báo tăng vào tháng 9."
       ],
-      "insight": "Lập trường diều hâu của Fed cùng việc chấm dứt QT có thể ảnh hưởng đến dòng vốn và tâm lý nhà đầu tư toàn cầu.",
-      "source": "CafeF · Vietstock · Znews.vn"
+      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên tỷ giá, dòng vốn ngoại và tâm lý nhà đầu tư.",
+      "source": "VietnamBiz · Thanh Niên"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 78 USD/thùng",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu biến động",
       "bullets": [
-        "Mỹ thực hiện các cuộc không kích mới vào Iran, Tổng thống Trump tuyên bố thỏa thuận ngừng bắn chấm dứt.",
-        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz đẩy giá dầu Brent tăng 0,94% lên 78,75 USD/thùng."
+        "Mỹ và Iran tiếp tục không kích, tấn công lẫn nhau, làm gián đoạn vận chuyển qua eo biển Hormuz.",
+        "Giá dầu Brent giảm nhẹ về 76,3 USD/thùng do lo ngại lạm phát, nhưng vẫn tiềm ẩn rủi ro."
       ],
-      "insight": "Rủi ro địa chính trị gia tăng ở Trung Đông có thể đẩy giá năng lượng, gây áp lực lạm phát toàn cầu.",
-      "source": "VOV · Báo Lao Động · Trading Economics"
+      "insight": "Xung đột địa chính trị tiếp tục tạo biến động lớn cho giá dầu, ảnh hưởng chi phí sản xuất.",
+      "source": "VOV · Eva.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FED",
+    "#Fed",
     "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
