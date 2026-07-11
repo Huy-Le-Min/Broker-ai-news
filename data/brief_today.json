@@ -1,85 +1,91 @@
 {
-  "date": "10/7/2026",
+  "date": "11/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · Tuổi Trẻ Online · VOV · Eva.vn · Lao Động · Index.vn · Thanh Niên",
+  "sources": "VnEconomy · CafeF · Vietstock · Reuters · CNBC · Báo Mới · VOV · Báo Lao Động · Báo Quân Đội Nhân Dân · Investing.com · Vietcombank",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.471",
-      "change": "flat",
-      "dir": "flat"
+      "value": "26.470",
+      "change": "tăng nhẹ",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "149tr",
-      "change": "+500.000đ",
+      "value": "149,9 triệu",
+      "change": "tăng",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "76.30$",
-      "change": "-2.2%",
+      "value": "76,01$",
+      "change": "-0,38%",
       "dir": "down"
     }
   ],
-  "today_watch": "Tiếp tục theo dõi căng thẳng Mỹ-Iran; diễn biến thị trường chứng khoán toàn cầu.",
+  "today_watch": "Thị trường theo dõi báo cáo CPI Mỹ (14/7) và diễn biến đàm phán Mỹ-Iran.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "UOB nâng dự báo GDP Việt Nam 2026 lên 8,5%",
+      "headline": "FDI Việt Nam 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD",
       "bullets": [
-        "Ngân hàng UOB (Singapore) điều chỉnh tăng mạnh dự báo tăng trưởng GDP Việt Nam 2026 từ 7% lên 8,5%.",
-        "Động lực chính đến từ sản xuất, đầu tư và dòng vốn FDI tích cực trong nửa đầu năm."
+        "Tổng vốn đầu tư nước ngoài đăng ký đạt 34,65 tỷ USD, tăng mạnh 61% so với cùng kỳ 2025.",
+        "Vốn giải ngân cũng xác lập kỷ lục cao nhất 5 năm, phản ánh niềm tin nhà đầu tư.",
+        "Các dòng vốn cấp mới, điều chỉnh và góp vốn, mua cổ phần đều tăng trưởng tích cực."
       ],
-      "insight": "Dự báo lạc quan này củng cố niềm tin vào triển vọng kinh tế, hỗ trợ tâm lý thị trường chứng khoán.",
-      "source": "Bnews.vn"
+      "insight": "Dòng vốn FDI mạnh mẽ là động lực tăng trưởng quan trọng, hỗ trợ sản xuất và xuất khẩu của Việt Nam.",
+      "source": "Báo Mới · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất huy động kỳ hạn dài ngân hàng tăng nhẹ",
+      "headline": "Việt Nam nhập siêu 16,65 tỷ USD sau 6 tháng đầu năm",
       "bullets": [
-        "Nhiều ngân hàng niêm yết lãi suất huy động kỳ hạn 6-12 tháng từ 7% trở lên, cá biệt có nơi 8,6-9,2%.",
-        "Xu hướng tăng nhằm cân đối nguồn vốn cho vay trung dài hạn, đặc biệt BĐS và sản xuất."
+        "Tổng kim ngạch xuất nhập khẩu đạt 549,69 tỷ USD, nhưng nhập khẩu tăng nhanh hơn xuất khẩu.",
+        "Nhập siêu 16,65 tỷ USD chấm dứt chuỗi 5 năm xuất siêu liên tiếp của Việt Nam.",
+        "Tốc độ tăng nhập khẩu cao phản ánh nhu cầu đầu vào sản xuất mở rộng, đặc biệt khu vực FDI."
       ],
-      "insight": "Lãi suất tăng có thể ảnh hưởng chi phí vốn doanh nghiệp, nhưng cũng thu hút dòng tiền gửi.",
-      "source": "Lao Động · Index.vn"
+      "insight": "Nhập siêu lớn có thể gây áp lực lên tỷ giá và cán cân thanh toán, dù cũng cho thấy nhu cầu sản xuất phục hồi.",
+      "source": "VOV · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI Việt Nam duy trì đà tăng, động lực chính tăng trưởng",
+      "headline": "VN-Index giảm điểm, khối ngoại mua ròng đột biến 1.690 tỷ",
       "bullets": [
-        "Dòng vốn FDI tiếp tục tăng mạnh trong 6 tháng đầu năm 2026, là yếu tố hỗ trợ tăng trưởng kinh tế.",
-        "Các chuyên gia kỳ vọng nhu cầu hàng điện tử toàn cầu và FDI sẽ duy trì đà tăng."
+        "VN-Index giảm 12,36 điểm (-0,67%) xuống 1.828,34 điểm phiên 10/7, thanh khoản thấp.",
+        "Khối ngoại mua ròng hơn 1.690 tỷ đồng, tập trung vào mã VIC, bất chấp thị trường giảm điểm.",
+        "Các nhóm ngành ngân hàng, dịch vụ tài chính, chứng khoán chịu áp lực điều chỉnh mạnh nhất."
       ],
-      "insight": "Dòng vốn ngoại ổn định là nền tảng vững chắc, thu hút đầu tư vào các ngành chủ chốt.",
-      "source": "Tuổi Trẻ Online · VnEconomy"
+      "insight": "Áp lực điều chỉnh vẫn hiện hữu, nhưng dòng tiền khối ngoại mua ròng mạnh có thể là tín hiệu tích cực cho một số mã lớn.",
+      "source": "baodautu · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Biên bản Fed: Quan ngại lạm phát, có thể tăng lãi suất",
+      "headline": "IMF nâng dự báo tăng trưởng kinh tế Trung Quốc lên 4,6%",
       "bullets": [
-        "Biên bản họp Fed tháng 6 cho thấy các nhà hoạch định chính sách lo ngại lạm phát cao.",
-        "Một số thành viên ủng hộ nâng lãi suất ngay lập tức; thị trường dự báo tăng vào tháng 9."
+        "Quỹ Tiền tệ Quốc tế (IMF) nâng dự báo tăng trưởng kinh tế Trung Quốc năm 2026 thêm 0,2 điểm.",
+        "Nền kinh tế Trung Quốc vượt kỳ vọng nhờ sự phát triển nổi bật của ngành sản xuất công nghệ cao.",
+        "Xuất khẩu liên quan đến công nghệ cao cũng thúc đẩy mạnh mẽ nền kinh tế lớn thứ hai thế giới."
       ],
-      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên tỷ giá, dòng vốn ngoại và tâm lý nhà đầu tư.",
-      "source": "VietnamBiz · Thanh Niên"
+      "insight": "Kinh tế Trung Quốc tăng trưởng tốt hỗ trợ nhu cầu hàng hóa toàn cầu, tác động tích cực tới xuất khẩu Việt Nam.",
+      "source": "Tân Hoa xã"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu biến động",
+      "headline": "Căng thẳng Mỹ-Iran hạ nhiệt, giá dầu Brent giảm nhẹ",
       "bullets": [
-        "Mỹ và Iran tiếp tục không kích, tấn công lẫn nhau, làm gián đoạn vận chuyển qua eo biển Hormuz.",
-        "Giá dầu Brent giảm nhẹ về 76,3 USD/thùng do lo ngại lạm phát, nhưng vẫn tiềm ẩn rủi ro."
+        "Giá dầu Brent giảm 0,38% xuống 76,01 USD/thùng phiên 10/7, do kỳ vọng eo biển Hormuz sớm mở cửa.",
+        "Mỹ và Iran dự kiến nối lại đàm phán tuần tới sau các đợt không kích đáp trả tạm lắng.",
+        "Lưu lượng tàu chở LNG đã qua eo biển Hormuz, giảm lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Xung đột địa chính trị tiếp tục tạo biến động lớn cho giá dầu, ảnh hưởng chi phí sản xuất.",
-      "source": "VOV · Eva.vn"
+      "insight": "Giá dầu giảm giúp giảm áp lực lạm phát và chi phí sản xuất, có lợi cho doanh nghiệp và người tiêu dùng Việt Nam.",
+      "source": "VietNamNet · Báo Quân Đội Nhân Dân"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#Fed",
+    "#FDI",
+    "#NhậpSiêu",
     "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
