@@ -1,97 +1,100 @@
 {
-  "date": "11/7/2026",
+  "date": "12/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.828,34",
     "vnindex_change": "-0,67%",
     "vnindex_dir": "down",
-    "foreign_net": "Mua ròng 1.385 tỷ",
-    "foreign_dir": "buy",
-    "volume": "17.013 tỷ",
-    "top_gainer": "Bất động sản, Hàng tiêu dùng"
+    "foreign_net": "Bán ròng 2.478 tỷ",
+    "foreign_dir": "sell",
+    "volume": "≈17.000 tỷ",
+    "top_gainer": "VIC"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.470",
-      "change": "Giảm nhẹ",
-      "dir": "down"
+      "value": "26.242",
+      "change": "biến động nhẹ",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "149,9tr",
-      "change": "Ổn định",
+      "value": "149,9 triệu",
+      "change": "ổn định",
       "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "76,30$",
-      "change": "Biến động",
-      "dir": "up"
+      "value": "76,01$",
+      "change": "-0,38%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Dữ liệu lạm phát (CPI) tháng 6 của Mỹ",
+  "tomorrow_watch": "Mùa báo cáo KQKD quý 2; dữ liệu lạm phát Mỹ và điều trần Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại mua ròng kỷ lục, dòng tiền trở lại Vingroup",
+      "headline": "VN-Index mất mốc 1.850, thanh khoản thấp nhất năm",
       "bullets": [
-        "Nhà đầu tư nước ngoài mua ròng hơn 1.385 tỷ đồng trên thị trường chứng khoán Việt Nam phiên 10/7.",
-        "Đây là phiên mua ròng giá trị lớn nhất từ giữa tháng 6/2026, tập trung mạnh vào VIC và VNM."
+        "VN-Index giảm 1,81% tuần qua, đóng cửa 1.828,34 điểm vào 10/7.",
+        "Thanh khoản bình quân ba sàn chỉ 17.000 tỷ đồng/phiên, thấp nhất 2026.",
+        "Khối ngoại bán ròng gần 2.500 tỷ đồng tuần qua, tập trung VIC."
       ],
-      "insight": "Dòng vốn ngoại quay lại có thể hỗ trợ tâm lý thị trường, đặc biệt nhóm cổ phiếu vốn hóa lớn.",
-      "source": "Thời báo Tài chính Việt Nam · Vietstock"
+      "insight": "Thị trường thiếu động lực bứt phá, dòng tiền lớn chờ đợi tín hiệu rõ ràng hơn.",
+      "source": "VnEconomy · CafeF · Bnews"
     },
     {
       "cat": "Trong nước",
-      "headline": "GDP Việt Nam 6 tháng tăng 8,18%, UOB nâng dự báo",
+      "headline": "WB nâng hạng Việt Nam lên thu nhập trung bình cao",
       "bullets": [
-        "GDP quý II tăng 8,39%, đưa tăng trưởng 6 tháng đầu năm 2026 lên 8,18%, vượt kỳ vọng.",
-        "UOB (Singapore) nâng dự báo tăng trưởng GDP Việt Nam cả năm 2026 lên 8,5% từ 7%."
+        "Ngân hàng Thế giới chính thức nâng hạng Việt Nam.",
+        "WB khuyến nghị đa dạng hóa nguồn tài chính, nâng cao nhân lực.",
+        "Cải thiện môi trường pháp lý là cần thiết cho tăng trưởng bền vững."
       ],
-      "insight": "Tăng trưởng vĩ mô mạnh mẽ tạo nền tảng vững chắc, thu hút FDI và củng cố niềm tin nhà đầu tư.",
-      "source": "Chinhphu.vn · Báo Tin Tức"
+      "insight": "Tín hiệu tích cực dài hạn, nhưng đòi hỏi cải cách sâu rộng để duy trì đà phát triển.",
+      "source": "VOV1"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam nhập siêu 16,65 tỷ USD nửa đầu năm 2026",
+      "headline": "Bất động sản chuyển dịch từ đầu cơ sang đầu tư dài hạn",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 6 tháng đạt 549,69 tỷ USD, nhưng nhập khẩu tăng nhanh hơn xuất khẩu.",
-        "Cán cân thương mại thâm hụt 16,65 tỷ USD, chấm dứt chuỗi 5 năm xuất siêu liên tiếp."
+        "Thị trường trầm lắng, thanh khoản kém dù giá rao bán giảm.",
+        "Nhà đầu tư ưu tiên dự án pháp lý rõ ràng, tạo dòng tiền ổn định.",
+        "Số doanh nghiệp BĐS giải thể tăng 120% nửa đầu 2026."
       ],
-      "insight": "Nhập siêu lớn phản ánh nhu cầu sản xuất phục hồi nhưng cần theo dõi rủi ro tỷ giá, chất lượng FDI.",
-      "source": "VnEconomy · Thời báo Tài chính Việt Nam"
+      "insight": "Thị trường đang sàng lọc mạnh, dòng tiền tìm đến giá trị thực và bền vững.",
+      "source": "VnEconomy · Vietnam.vn · JLL"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed cải tổ sâu rộng, thành lập 5 tổ công tác đặc biệt",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu biến động",
       "bullets": [
-        "Chủ tịch Fed Kevin Warsh công bố thành lập 5 tổ công tác rà soát, cải cách toàn diện hoạt động.",
-        "Các nhóm sẽ đánh giá chiến lược truyền thông, hệ thống dữ liệu, quản lý bảng cân đối kế toán."
+        "Xung đột Mỹ-Iran bùng phát lại, phá vỡ thỏa thuận ngừng bắn.",
+        "Giá dầu Brent giảm nhẹ về 76,01 USD/thùng sau lo ngại nguồn cung.",
+        "Thị trường lo ngại về lạm phát toàn cầu và gián đoạn chuỗi cung ứng."
       ],
-      "insight": "Động thái này cho thấy Fed chủ động thích ứng, có thể tác động đến định hướng chính sách tiền tệ toàn cầu.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Rủi ro địa chính trị tiếp tục chi phối giá năng lượng và tâm lý nhà đầu tư toàn cầu.",
+      "source": "Reuters · CNBC · Danviet.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "AI thúc đẩy cắt giảm 120.000 việc làm ngành công nghệ",
+      "headline": "IMF hạ dự báo tăng trưởng kinh tế thế giới 2026",
       "bullets": [
-        "Trí tuệ nhân tạo (AI) là động lực chính của làn sóng sa thải mới ngành công nghệ toàn cầu 2026.",
-        "Các tập đoàn lớn như Microsoft, Oracle, Meta sa thải khoảng 120.000 nhân viên."
+        "IMF hạ dự báo tăng trưởng toàn cầu 2026 xuống 3%.",
+        "Nguyên nhân do tác động xung đột Trung Đông và lạm phát.",
+        "ADB cũng hạ dự báo tăng trưởng châu Á - Thái Bình Dương."
       ],
-      "insight": "Xu hướng chuyển dịch lao động sang AI có thể tạo cơ hội mới nhưng cũng đặt ra thách thức về việc làm.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Triển vọng kinh tế toàn cầu đối mặt nhiều thách thức, ảnh hưởng đến thương mại và đầu tư.",
+      "source": "VnEconomy · TTXVN"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#GDPVietNam",
-    "#KhoiNgoai",
-    "#Fed",
-    "#AI"
+    "#VNIndex",
+    "#KinhTếViệtNam",
+    "#ThịTrườngToànCầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
