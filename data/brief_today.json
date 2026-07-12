@@ -1,92 +1,92 @@
 {
-  "date": "11/7/2026",
+  "date": "12/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnEconomy · CafeF · Vietstock · Reuters · CNBC · Báo Mới · VOV · Báo Lao Động · Báo Quân Đội Nhân Dân · Investing.com · Vietcombank",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Chính phủ · Báo Tuổi Trẻ · Báo Hànộimới · VietnamBiz · Dân trí · VTV.vn · Eva.vn · Thời báo Tài chính Việt Nam · MoneyF · Bongdaplus.vn · Investing.com",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.470",
-      "change": "tăng nhẹ",
+      "change": "+0,03%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "149,9 triệu",
-      "change": "tăng",
-      "dir": "up"
+      "value": "149,9tr",
+      "change": "-1,0%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
       "value": "76,01$",
-      "change": "-0,38%",
+      "change": "-0,4%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường theo dõi báo cáo CPI Mỹ (14/7) và diễn biến đàm phán Mỹ-Iran.",
+  "today_watch": "Thị trường theo dõi sát diễn biến đàm phán Mỹ-Iran và chờ đợi số liệu CPI Mỹ tuần tới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FDI Việt Nam 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD",
+      "headline": "Tín dụng 6 tháng đầu năm tăng 7,73%, hỗ trợ kinh tế.",
       "bullets": [
-        "Tổng vốn đầu tư nước ngoài đăng ký đạt 34,65 tỷ USD, tăng mạnh 61% so với cùng kỳ 2025.",
-        "Vốn giải ngân cũng xác lập kỷ lục cao nhất 5 năm, phản ánh niềm tin nhà đầu tư.",
-        "Các dòng vốn cấp mới, điều chỉnh và góp vốn, mua cổ phần đều tăng trưởng tích cực."
+        "Đến 29/6/2026, dư nợ tín dụng toàn hệ thống đạt 20,03 triệu tỷ đồng.",
+        "Mức tăng 7,73% so với cuối 2025, bổ sung 1,4 triệu tỷ đồng cho nền kinh tế.",
+        "NHNN tiếp tục giữ nguyên lãi suất điều hành, tạo điều kiện cho TCTD."
       ],
-      "insight": "Dòng vốn FDI mạnh mẽ là động lực tăng trưởng quan trọng, hỗ trợ sản xuất và xuất khẩu của Việt Nam.",
-      "source": "Báo Mới · VnEconomy"
+      "insight": "Tăng trưởng tín dụng khả quan hỗ trợ tăng trưởng kinh tế, nhưng cần theo dõi chất lượng nợ.",
+      "source": "Báo Chính phủ · VietnamBiz · VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam nhập siêu 16,65 tỷ USD sau 6 tháng đầu năm",
+      "headline": "VSDC đẩy mạnh công nghệ, hướng nâng hạng thị trường.",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu đạt 549,69 tỷ USD, nhưng nhập khẩu tăng nhanh hơn xuất khẩu.",
-        "Nhập siêu 16,65 tỷ USD chấm dứt chuỗi 5 năm xuất siêu liên tiếp của Việt Nam.",
-        "Tốc độ tăng nhập khẩu cao phản ánh nhu cầu đầu vào sản xuất mở rộng, đặc biệt khu vực FDI."
+        "VSDC kỷ niệm 20 năm, cam kết hiện đại hóa hạ tầng công nghệ thông tin.",
+        "Hoàn thiện mô hình đối tác bù trừ trung tâm (CCP) thị trường cơ sở quý I/2027.",
+        "Nghiên cứu sản phẩm mới, phối hợp triển khai lộ trình nâng hạng TTCK Việt Nam."
       ],
-      "insight": "Nhập siêu lớn có thể gây áp lực lên tỷ giá và cán cân thanh toán, dù cũng cho thấy nhu cầu sản xuất phục hồi.",
-      "source": "VOV · VnEconomy"
+      "insight": "Sự phát triển hạ tầng là yếu tố then chốt thu hút vốn ngoại, nâng cao vị thế thị trường.",
+      "source": "Báo Hànộimới"
     },
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm điểm, khối ngoại mua ròng đột biến 1.690 tỷ",
+      "headline": "Ngân hàng đối mặt áp lực vốn khi tín dụng vượt huy động.",
       "bullets": [
-        "VN-Index giảm 12,36 điểm (-0,67%) xuống 1.828,34 điểm phiên 10/7, thanh khoản thấp.",
-        "Khối ngoại mua ròng hơn 1.690 tỷ đồng, tập trung vào mã VIC, bất chấp thị trường giảm điểm.",
-        "Các nhóm ngành ngân hàng, dịch vụ tài chính, chứng khoán chịu áp lực điều chỉnh mạnh nhất."
+        "Tín dụng tăng nhanh hơn huy động, gây sức ép lên cân đối nguồn vốn ngân hàng.",
+        "Lãi suất liên ngân hàng qua đêm từng vọt lên 13% vào cuối tháng 6.",
+        "NHNN đã bơm ròng gần 14.600 tỷ đồng qua OMO để hỗ trợ thanh khoản."
       ],
-      "insight": "Áp lực điều chỉnh vẫn hiện hữu, nhưng dòng tiền khối ngoại mua ròng mạnh có thể là tín hiệu tích cực cho một số mã lớn.",
-      "source": "baodautu · Vietstock"
+      "insight": "Áp lực thanh khoản có thể ảnh hưởng biên lãi ròng và khả năng cho vay của các ngân hàng.",
+      "source": "Báo Mới · VietnamBiz · Dân trí"
     },
     {
       "cat": "Quốc tế",
-      "headline": "IMF nâng dự báo tăng trưởng kinh tế Trung Quốc lên 4,6%",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent biến động.",
       "bullets": [
-        "Quỹ Tiền tệ Quốc tế (IMF) nâng dự báo tăng trưởng kinh tế Trung Quốc năm 2026 thêm 0,2 điểm.",
-        "Nền kinh tế Trung Quốc vượt kỳ vọng nhờ sự phát triển nổi bật của ngành sản xuất công nghệ cao.",
-        "Xuất khẩu liên quan đến công nghệ cao cũng thúc đẩy mạnh mẽ nền kinh tế lớn thứ hai thế giới."
+        "Mỹ và Iran nối lại các cuộc tấn công trả đũa, hủy bỏ thỏa thuận ngừng bắn.",
+        "Giá dầu Brent tăng khoảng 5% trong tuần, nhưng giảm nhẹ cuối phiên 11/7.",
+        "Lo ngại gián đoạn vận chuyển qua eo biển Hormuz tiếp tục duy trì."
       ],
-      "insight": "Kinh tế Trung Quốc tăng trưởng tốt hỗ trợ nhu cầu hàng hóa toàn cầu, tác động tích cực tới xuất khẩu Việt Nam.",
-      "source": "Tân Hoa xã"
+      "insight": "Xung đột địa chính trị đẩy giá năng lượng, gia tăng rủi ro lạm phát toàn cầu.",
+      "source": "VnEconomy · Eva.vn · VOV · MoneyF · Bongdaplus.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran hạ nhiệt, giá dầu Brent giảm nhẹ",
+      "headline": "Chứng khoán Mỹ tăng, cổ phiếu công nghệ dẫn dắt trước BCTC.",
       "bullets": [
-        "Giá dầu Brent giảm 0,38% xuống 76,01 USD/thùng phiên 10/7, do kỳ vọng eo biển Hormuz sớm mở cửa.",
-        "Mỹ và Iran dự kiến nối lại đàm phán tuần tới sau các đợt không kích đáp trả tạm lắng.",
-        "Lưu lượng tàu chở LNG đã qua eo biển Hormuz, giảm lo ngại gián đoạn nguồn cung."
+        "S&P 500 áp sát kỷ lục mới, Nasdaq tăng nhờ màn ra mắt SK Hynix.",
+        "Cổ phiếu Meta Platforms bứt phá 6%, nhóm chip nhớ và bán dẫn hồi phục.",
+        "Thị trường đang dồn sự chú ý vào mùa báo cáo lợi nhuận quý II sắp khởi tranh."
       ],
-      "insight": "Giá dầu giảm giúp giảm áp lực lạm phát và chi phí sản xuất, có lợi cho doanh nghiệp và người tiêu dùng Việt Nam.",
-      "source": "VietNamNet · Báo Quân Đội Nhân Dân"
+      "insight": "Tâm lý lạc quan từ nhóm công nghệ có thể lan tỏa, hỗ trợ thị trường toàn cầu.",
+      "source": "Bnews.vn · Investing.com · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FDI",
-    "#NhậpSiêu",
-    "#GiáDầu"
+    "#ThịTrườngTàiChính",
+    "#GiáDầu",
+    "#VàngSJC"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
