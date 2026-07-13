@@ -1,92 +1,91 @@
 {
-  "date": "12/7/2026",
+  "date": "13/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Chính phủ · Báo Tuổi Trẻ · Báo Hànộimới · VietnamBiz · Dân trí · VTV.vn · Eva.vn · Thời báo Tài chính Việt Nam · MoneyF · Bongdaplus.vn · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · VOV · Dân Việt · VietnamBiz · Báo Công Thương · Báo Chính phủ · MoneyF · Báo Đấu thầu · Investing.com",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.470",
-      "change": "+0,03%",
-      "dir": "up"
+      "value": "26.440",
+      "change": "giảm nhẹ",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
       "value": "149,9tr",
-      "change": "-1,0%",
-      "dir": "down"
+      "change": "ổn định",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "76,01$",
-      "change": "-0,4%",
-      "dir": "down"
+      "value": "78,35$",
+      "change": "+3,08%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Thị trường theo dõi sát diễn biến đàm phán Mỹ-Iran và chờ đợi số liệu CPI Mỹ tuần tới.",
+  "today_watch": "Mỹ công bố CPI tháng 6; Chủ tịch Fed điều trần trước Quốc hội.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng 6 tháng đầu năm tăng 7,73%, hỗ trợ kinh tế.",
+      "headline": "KQKD quý 2 khởi sắc: ABBank tăng 80%, BSR lãi gấp 7 lần",
       "bullets": [
-        "Đến 29/6/2026, dư nợ tín dụng toàn hệ thống đạt 20,03 triệu tỷ đồng.",
-        "Mức tăng 7,73% so với cuối 2025, bổ sung 1,4 triệu tỷ đồng cho nền kinh tế.",
-        "NHNN tiếp tục giữ nguyên lãi suất điều hành, tạo điều kiện cho TCTD."
+        "Mùa báo cáo tài chính quý 2/2026 khởi động với nhiều tín hiệu tích cực từ các doanh nghiệp niêm yết.",
+        "ABBank báo lãi trước thuế 6 tháng đầu năm tăng 80%; Lọc hóa dầu Bình Sơn (BSR) lãi sau thuế quý 2 gấp gần 7 lần.",
+        "Nhiều ngân hàng lớn như VietinBank, Vietcombank cũng được dự báo tăng trưởng lợi nhuận hai chữ số."
       ],
-      "insight": "Tăng trưởng tín dụng khả quan hỗ trợ tăng trưởng kinh tế, nhưng cần theo dõi chất lượng nợ.",
-      "source": "Báo Chính phủ · VietnamBiz · VietNamNet"
+      "insight": "Kết quả kinh doanh khả quan hỗ trợ tâm lý thị trường, tạo động lực cho các nhóm ngành chủ chốt như ngân hàng, năng lượng.",
+      "source": "MoneyF · Báo Mới · VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "VSDC đẩy mạnh công nghệ, hướng nâng hạng thị trường.",
+      "headline": "Tín dụng 6 tháng tăng 7,73%, áp lực cân đối vốn ngân hàng",
       "bullets": [
-        "VSDC kỷ niệm 20 năm, cam kết hiện đại hóa hạ tầng công nghệ thông tin.",
-        "Hoàn thiện mô hình đối tác bù trừ trung tâm (CCP) thị trường cơ sở quý I/2027.",
-        "Nghiên cứu sản phẩm mới, phối hợp triển khai lộ trình nâng hạng TTCK Việt Nam."
+        "Đến cuối tháng 6/2026, dư nợ tín dụng toàn hệ thống đạt 20,03 triệu tỷ đồng, tăng 7,73% so với cuối năm 2025.",
+        "Tốc độ tăng trưởng tín dụng tiếp tục vượt huy động vốn, tạo áp lực lên cân đối nguồn vốn của nhiều ngân hàng.",
+        "NHNN đã giữ nguyên lãi suất điều hành, không tính dư nợ nhà ở xã hội vào kiểm soát tín dụng."
       ],
-      "insight": "Sự phát triển hạ tầng là yếu tố then chốt thu hút vốn ngoại, nâng cao vị thế thị trường.",
-      "source": "Báo Hànộimới"
+      "insight": "Áp lực thanh khoản và chi phí vốn có thể ảnh hưởng biên lợi nhuận (NIM) của các ngân hàng trong nửa cuối năm.",
+      "source": "Báo Chính phủ · VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ngân hàng đối mặt áp lực vốn khi tín dụng vượt huy động.",
+      "headline": "FDI vào Việt Nam 6 tháng đạt kỷ lục 34,65 tỷ USD",
       "bullets": [
-        "Tín dụng tăng nhanh hơn huy động, gây sức ép lên cân đối nguồn vốn ngân hàng.",
-        "Lãi suất liên ngân hàng qua đêm từng vọt lên 13% vào cuối tháng 6.",
-        "NHNN đã bơm ròng gần 14.600 tỷ đồng qua OMO để hỗ trợ thanh khoản."
+        "Tổng vốn đầu tư nước ngoài đăng ký vào Việt Nam 6 tháng đầu năm 2026 đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ.",
+        "Đây là mức kỷ lục cao nhất trong 5 năm qua, với vốn thực hiện ước đạt 13,03 tỷ USD, tăng 11,2%.",
+        "Lĩnh vực công nghiệp chế biến, chế tạo chiếm tỷ trọng lớn, thu hút vào sản xuất linh kiện điện tử, bán dẫn."
       ],
-      "insight": "Áp lực thanh khoản có thể ảnh hưởng biên lãi ròng và khả năng cho vay của các ngân hàng.",
-      "source": "Báo Mới · VietnamBiz · Dân trí"
+      "insight": "Dòng vốn FDI mạnh mẽ là tín hiệu tích cực cho tăng trưởng kinh tế và sản xuất, hỗ trợ triển vọng dài hạn của thị trường.",
+      "source": "Báo Văn Hóa · VnEconomy · Báo Công Thương"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent biến động.",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng mạnh",
       "bullets": [
-        "Mỹ và Iran nối lại các cuộc tấn công trả đũa, hủy bỏ thỏa thuận ngừng bắn.",
-        "Giá dầu Brent tăng khoảng 5% trong tuần, nhưng giảm nhẹ cuối phiên 11/7.",
-        "Lo ngại gián đoạn vận chuyển qua eo biển Hormuz tiếp tục duy trì."
+        "Mỹ và Iran tiếp tục các cuộc tấn công ăn miếng trả miếng tại Trung Đông, gây lo ngại về an toàn eo biển Hormuz.",
+        "Giá dầu Brent kỳ hạn sáng 13/7 tăng 3,08% lên 78,35 USD/thùng do lo ngại gián đoạn nguồn cung.",
+        "Tổng thống Mỹ Donald Trump tuyên bố eo biển Hormuz vẫn mở cửa, nhưng lưu lượng tàu qua lại vẫn thấp."
       ],
-      "insight": "Xung đột địa chính trị đẩy giá năng lượng, gia tăng rủi ro lạm phát toàn cầu.",
-      "source": "VnEconomy · Eva.vn · VOV · MoneyF · Bongdaplus.vn"
+      "insight": "Giá dầu tăng cao có thể gây áp lực lạm phát toàn cầu, ảnh hưởng đến chi phí sản xuất và vận tải tại Việt Nam.",
+      "source": "Bnews.vn · Eva.vn · VOV · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ tăng, cổ phiếu công nghệ dẫn dắt trước BCTC.",
+      "headline": "Kinh tế Trung Quốc tháng 6 khởi sắc, PMI sản xuất tăng",
       "bullets": [
-        "S&P 500 áp sát kỷ lục mới, Nasdaq tăng nhờ màn ra mắt SK Hynix.",
-        "Cổ phiếu Meta Platforms bứt phá 6%, nhóm chip nhớ và bán dẫn hồi phục.",
-        "Thị trường đang dồn sự chú ý vào mùa báo cáo lợi nhuận quý II sắp khởi tranh."
+        "Hoạt động sản xuất và phi sản xuất của Trung Quốc trong tháng 6/2026 đạt kết quả khả quan hơn dự kiến.",
+        "Chỉ số PMI sản xuất chính thức tăng lên 50,3 điểm, vượt ngưỡng mở rộng/thu hẹp.",
+        "Lạm phát giá sản xuất (PPI) tháng 6 tăng 4,1% (cao nhất 4 năm), trong khi CPI hạ nhiệt."
       ],
-      "insight": "Tâm lý lạc quan từ nhóm công nghệ có thể lan tỏa, hỗ trợ thị trường toàn cầu.",
-      "source": "Bnews.vn · Investing.com · VnEconomy"
+      "insight": "Sự phục hồi kinh tế Trung Quốc có thể thúc đẩy nhu cầu hàng hóa, tác động tích cực đến xuất khẩu Việt Nam.",
+      "source": "VnEconomy · Báo Đấu thầu · Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
-    "#GiáDầu",
-    "#VàngSJC"
+    "#ThịTrườngDầuMỏ",
+    "#FDI"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
