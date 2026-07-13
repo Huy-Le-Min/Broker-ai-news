@@ -1,100 +1,95 @@
 {
-  "date": "12/7/2026",
+  "date": "13/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews · VietnamBiz · Lao Động",
   "session": {
-    "vnindex_close": "1.828,34",
-    "vnindex_change": "-0,67%",
+    "vnindex_close": "1.800,54",
+    "vnindex_change": "-1,52%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 2.478 tỷ",
+    "foreign_net": "Bán ròng 260 tỷ",
     "foreign_dir": "sell",
-    "volume": "≈17.000 tỷ",
-    "top_gainer": "VIC"
+    "volume": "21.803 tỷ",
+    "top_gainer": "Nhóm năng lượng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.242",
-      "change": "biến động nhẹ",
-      "dir": "flat"
+      "value": "26.460",
+      "change": "+0,02%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "149,9 triệu",
-      "change": "ổn định",
-      "dir": "flat"
+      "value": "148,40 tr",
+      "change": "-1,01%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "76,01$",
-      "change": "-0,38%",
-      "dir": "down"
+      "value": "79,11$",
+      "change": "+4,08%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Mùa báo cáo KQKD quý 2; dữ liệu lạm phát Mỹ và điều trần Fed.",
+  "tomorrow_watch": "Dữ liệu CPI Mỹ tháng 6/2026 được công bố, ảnh hưởng chính sách Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index mất mốc 1.850, thanh khoản thấp nhất năm",
+      "headline": "Thị trường Việt Nam tiến gần mục tiêu nâng hạng",
       "bullets": [
-        "VN-Index giảm 1,81% tuần qua, đóng cửa 1.828,34 điểm vào 10/7.",
-        "Thanh khoản bình quân ba sàn chỉ 17.000 tỷ đồng/phiên, thấp nhất 2026.",
-        "Khối ngoại bán ròng gần 2.500 tỷ đồng tuần qua, tập trung VIC."
+        "FTSE Russell ghi nhận nỗ lực cải thiện thị trường chứng khoán Việt Nam.",
+        "Các tiêu chí về thanh toán và giao dịch được đánh giá tích cực hơn."
       ],
-      "insight": "Thị trường thiếu động lực bứt phá, dòng tiền lớn chờ đợi tín hiệu rõ ràng hơn.",
-      "source": "VnEconomy · CafeF · Bnews"
+      "insight": "Tạo động lực thu hút dòng vốn ngoại, cải thiện vị thế TTCK Việt Nam.",
+      "source": "Báo Tin Tức · Vietcap"
     },
     {
       "cat": "Trong nước",
-      "headline": "WB nâng hạng Việt Nam lên thu nhập trung bình cao",
+      "headline": "Tín dụng nửa đầu 2026 tăng 7,41%, dòng vốn phân hóa",
       "bullets": [
-        "Ngân hàng Thế giới chính thức nâng hạng Việt Nam.",
-        "WB khuyến nghị đa dạng hóa nguồn tài chính, nâng cao nhân lực.",
-        "Cải thiện môi trường pháp lý là cần thiết cho tăng trưởng bền vững."
+        "Tăng trưởng tín dụng toàn hệ thống đạt 7,41% đến cuối tháng 6/2026.",
+        "Ngân hàng Nhà nước định hướng dòng vốn vào nhà ở xã hội, siết BĐS đầu cơ."
       ],
-      "insight": "Tín hiệu tích cực dài hạn, nhưng đòi hỏi cải cách sâu rộng để duy trì đà phát triển.",
-      "source": "VOV1"
+      "insight": "Phản ánh nỗ lực kiểm soát rủi ro, định hướng dòng tiền vào sản xuất thực.",
+      "source": "Báo Tin Tức"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản chuyển dịch từ đầu cơ sang đầu tư dài hạn",
+      "headline": "Việt Nam thu 56,5 triệu USD từ tín chỉ carbon rừng",
       "bullets": [
-        "Thị trường trầm lắng, thanh khoản kém dù giá rao bán giảm.",
-        "Nhà đầu tư ưu tiên dự án pháp lý rõ ràng, tạo dòng tiền ổn định.",
-        "Số doanh nghiệp BĐS giải thể tăng 120% nửa đầu 2026."
+        "Việt Nam đã thu về 56,5 triệu USD từ chuyển nhượng tín chỉ carbon rừng.",
+        "Khoản tiền này tương ứng 11,3 triệu tấn CO2, với đơn giá 5 USD/tấn."
       ],
-      "insight": "Thị trường đang sàng lọc mạnh, dòng tiền tìm đến giá trị thực và bền vững.",
-      "source": "VnEconomy · Vietnam.vn · JLL"
+      "insight": "Mở ra nguồn thu mới, khẳng định cam kết phát triển bền vững của Việt Nam.",
+      "source": "PetroTimes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu biến động",
+      "headline": "Xung đột Mỹ-Iran leo thang, giá dầu Brent tăng mạnh",
       "bullets": [
-        "Xung đột Mỹ-Iran bùng phát lại, phá vỡ thỏa thuận ngừng bắn.",
-        "Giá dầu Brent giảm nhẹ về 76,01 USD/thùng sau lo ngại nguồn cung.",
-        "Thị trường lo ngại về lạm phát toàn cầu và gián đoạn chuỗi cung ứng."
+        "Giá dầu Brent tăng 4,08% lên 79,11 USD/thùng do căng thẳng leo thang.",
+        "Mỹ và Iran tiến hành các hoạt động quân sự mới, đe dọa eo biển Hormuz."
       ],
-      "insight": "Rủi ro địa chính trị tiếp tục chi phối giá năng lượng và tâm lý nhà đầu tư toàn cầu.",
-      "source": "Reuters · CNBC · Danviet.vn"
+      "insight": "Gia tăng lo ngại lạm phát, ảnh hưởng chi phí doanh nghiệp và chính sách tiền tệ.",
+      "source": "Vietnam+ · 24H · Thanh Niên"
     },
     {
       "cat": "Quốc tế",
-      "headline": "IMF hạ dự báo tăng trưởng kinh tế thế giới 2026",
+      "headline": "PMI sản xuất Trung Quốc tháng 6 vượt kỳ vọng",
       "bullets": [
-        "IMF hạ dự báo tăng trưởng toàn cầu 2026 xuống 3%.",
-        "Nguyên nhân do tác động xung đột Trung Đông và lạm phát.",
-        "ADB cũng hạ dự báo tăng trưởng châu Á - Thái Bình Dương."
+        "Chỉ số PMI sản xuất Trung Quốc tháng 6/2026 đạt 50,3%, tăng 0,3 điểm.",
+        "Số liệu cho thấy hoạt động sản xuất và nhu cầu thị trường đồng loạt mở rộng."
       ],
-      "insight": "Triển vọng kinh tế toàn cầu đối mặt nhiều thách thức, ảnh hưởng đến thương mại và đầu tư.",
-      "source": "VnEconomy · TTXVN"
+      "insight": "Tín hiệu tích cực cho kinh tế khu vực, hỗ trợ xuất khẩu của Việt Nam.",
+      "source": "Aoke · FocusEconomics · SMM"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#KinhTếViệtNam",
-    "#ThịTrườngToànCầu"
+    "#KinhTế",
+    "#ThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
