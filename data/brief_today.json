@@ -1,91 +1,89 @@
 {
-  "date": "13/7/2026",
+  "date": "14/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · VOV · Dân Việt · VietnamBiz · Báo Công Thương · Báo Chính phủ · MoneyF · Báo Đấu thầu · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews · VOV · VietnamFinance · Tuổi Trẻ",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.440",
-      "change": "giảm nhẹ",
-      "dir": "down"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "149,9tr",
-      "change": "ổn định",
+      "value": "26.430",
+      "change": "0%",
       "dir": "flat"
     },
     {
+      "label": "Vàng SJC",
+      "value": "148,4tr",
+      "change": "-0,33%",
+      "dir": "down"
+    },
+    {
       "label": "Dầu Brent",
-      "value": "78,35$",
-      "change": "+3,08%",
+      "value": "85,35$",
+      "change": "+2,52%",
       "dir": "up"
     }
   ],
-  "today_watch": "Mỹ công bố CPI tháng 6; Chủ tịch Fed điều trần trước Quốc hội.",
+  "today_watch": "Trung Quốc công bố số liệu thương mại tháng 6/2026.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "KQKD quý 2 khởi sắc: ABBank tăng 80%, BSR lãi gấp 7 lần",
+      "headline": "VN-Index giảm mạnh, lùi về mốc 1.800 điểm",
       "bullets": [
-        "Mùa báo cáo tài chính quý 2/2026 khởi động với nhiều tín hiệu tích cực từ các doanh nghiệp niêm yết.",
-        "ABBank báo lãi trước thuế 6 tháng đầu năm tăng 80%; Lọc hóa dầu Bình Sơn (BSR) lãi sau thuế quý 2 gấp gần 7 lần.",
-        "Nhiều ngân hàng lớn như VietinBank, Vietcombank cũng được dự báo tăng trưởng lợi nhuận hai chữ số."
+        "Phiên 13/7, VN-Index giảm 27,8 điểm (-1,52%) xuống 1.800,54 điểm; HNX-Index giảm 3,9%.",
+        "Thanh khoản HOSE tăng 47,7%, HNX tăng 74,9%; khối ngoại bán ròng 261 tỷ đồng trên HOSE.",
+        "Áp lực bán lan rộng nhóm ngân hàng, chứng khoán và vật liệu cơ bản."
       ],
-      "insight": "Kết quả kinh doanh khả quan hỗ trợ tâm lý thị trường, tạo động lực cho các nhóm ngành chủ chốt như ngân hàng, năng lượng.",
-      "source": "MoneyF · Báo Mới · VietnamBiz"
+      "insight": "Thị trường đối mặt rủi ro điều chỉnh ngắn hạn, nhà đầu tư nên ưu tiên quản trị danh mục.",
+      "source": "Vietstock, ETime"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng 6 tháng tăng 7,73%, áp lực cân đối vốn ngân hàng",
+      "headline": "Lãi suất vay mua nhà tăng cao, thị trường BĐS 'ngộp thở'",
       "bullets": [
-        "Đến cuối tháng 6/2026, dư nợ tín dụng toàn hệ thống đạt 20,03 triệu tỷ đồng, tăng 7,73% so với cuối năm 2025.",
-        "Tốc độ tăng trưởng tín dụng tiếp tục vượt huy động vốn, tạo áp lực lên cân đối nguồn vốn của nhiều ngân hàng.",
-        "NHNN đã giữ nguyên lãi suất điều hành, không tính dư nợ nhà ở xã hội vào kiểm soát tín dụng."
+        "Lãi suất vay mua nhà sau ưu đãi vọt lên 12-14%/năm, thậm chí chạm 16%/năm tại một số ngân hàng.",
+        "Chi phí vốn cao khiến tổng lượng hấp thụ bất động sản sơ cấp sụt giảm mạnh 62%."
       ],
-      "insight": "Áp lực thanh khoản và chi phí vốn có thể ảnh hưởng biên lợi nhuận (NIM) của các ngân hàng trong nửa cuối năm.",
-      "source": "Báo Chính phủ · VietnamBiz"
+      "insight": "Áp lực lãi suất cao tiếp tục đè nặng lên thanh khoản thị trường bất động sản và tâm lý người mua.",
+      "source": "Tuổi Trẻ"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI vào Việt Nam 6 tháng đạt kỷ lục 34,65 tỷ USD",
+      "headline": "FDI 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD đăng ký",
       "bullets": [
-        "Tổng vốn đầu tư nước ngoài đăng ký vào Việt Nam 6 tháng đầu năm 2026 đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ.",
-        "Đây là mức kỷ lục cao nhất trong 5 năm qua, với vốn thực hiện ước đạt 13,03 tỷ USD, tăng 11,2%.",
-        "Lĩnh vực công nghiệp chế biến, chế tạo chiếm tỷ trọng lớn, thu hút vào sản xuất linh kiện điện tử, bán dẫn."
+        "Vốn FDI đăng ký vào Việt Nam đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
+        "Vốn FDI thực hiện đạt 13,03 tỷ USD, tăng 11,2%; dòng vốn dịch chuyển sang công nghệ cao."
       ],
-      "insight": "Dòng vốn FDI mạnh mẽ là tín hiệu tích cực cho tăng trưởng kinh tế và sản xuất, hỗ trợ triển vọng dài hạn của thị trường.",
-      "source": "Báo Văn Hóa · VnEconomy · Báo Công Thương"
+      "insight": "Việt Nam tiếp tục là điểm đến hấp dẫn cho dòng vốn ngoại chất lượng cao, hỗ trợ tăng trưởng dài hạn.",
+      "source": "VietnamFinance, NSO"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng mạnh",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 85 USD/thùng",
       "bullets": [
-        "Mỹ và Iran tiếp tục các cuộc tấn công ăn miếng trả miếng tại Trung Đông, gây lo ngại về an toàn eo biển Hormuz.",
-        "Giá dầu Brent kỳ hạn sáng 13/7 tăng 3,08% lên 78,35 USD/thùng do lo ngại gián đoạn nguồn cung.",
-        "Tổng thống Mỹ Donald Trump tuyên bố eo biển Hormuz vẫn mở cửa, nhưng lưu lượng tàu qua lại vẫn thấp."
+        "Mỹ tiến hành không kích, Iran tuyên bố đóng cửa eo biển Hormuz, đẩy giá dầu tăng mạnh.",
+        "Giá dầu Brent chốt phiên 13/7 tăng 9,59% lên 83,30 USD/thùng, sáng 14/7 tiếp tục tăng lên 85,35 USD/thùng."
       ],
-      "insight": "Giá dầu tăng cao có thể gây áp lực lạm phát toàn cầu, ảnh hưởng đến chi phí sản xuất và vận tải tại Việt Nam.",
-      "source": "Bnews.vn · Eva.vn · VOV · Reuters"
+      "insight": "Xung đột địa chính trị tại Trung Đông gia tăng rủi ro nguồn cung, tạo áp lực lạm phát toàn cầu.",
+      "source": "Eva.vn, VOV, VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc tháng 6 khởi sắc, PMI sản xuất tăng",
+      "headline": "Chứng khoán châu Á giảm sâu, Kospi lao dốc do bán tháo công nghệ",
       "bullets": [
-        "Hoạt động sản xuất và phi sản xuất của Trung Quốc trong tháng 6/2026 đạt kết quả khả quan hơn dự kiến.",
-        "Chỉ số PMI sản xuất chính thức tăng lên 50,3 điểm, vượt ngưỡng mở rộng/thu hẹp.",
-        "Lạm phát giá sản xuất (PPI) tháng 6 tăng 4,1% (cao nhất 4 năm), trong khi CPI hạ nhiệt."
+        "Thị trường Seoul (Hàn Quốc) giảm 5-9%, Nikkei 225 giảm 1,1% phiên 13/7.",
+        "Cổ phiếu công nghệ bị bán tháo mạnh: Samsung Electronics giảm hơn 6%, SK Hynix giảm 10-15%."
       ],
-      "insight": "Sự phục hồi kinh tế Trung Quốc có thể thúc đẩy nhu cầu hàng hóa, tác động tích cực đến xuất khẩu Việt Nam.",
-      "source": "VnEconomy · Báo Đấu thầu · Investing.com"
+      "insight": "Tâm lý thận trọng bao trùm thị trường châu Á, ảnh hưởng đến nhóm cổ phiếu công nghệ và chip.",
+      "source": "Bnews, Vietstock"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#ThịTrườngDầuMỏ",
-    "#FDI"
+    "#KinhTế",
+    "#ThịTrường",
+    "#GiáDầu",
+    "#FDI",
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
