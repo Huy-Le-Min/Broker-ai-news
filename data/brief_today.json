@@ -1,89 +1,88 @@
 {
-  "date": "14/7/2026",
+  "date": "15/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews · VOV · VietnamFinance · Tuổi Trẻ",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Tuổi Trẻ · VietnamBiz · Báo Chính phủ · S&P Global · PetroTimes · Thời báo Tài chính Việt Nam",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.430",
-      "change": "0%",
+      "value": "26.450",
+      "change": "0.00%",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,4tr",
-      "change": "-0,33%",
-      "dir": "down"
+      "value": "147,5tr",
+      "change": "+0.34%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "85,35$",
-      "change": "+2,52%",
+      "value": "84.73$",
+      "change": "+1.77%",
       "dir": "up"
     }
   ],
-  "today_watch": "Trung Quốc công bố số liệu thương mại tháng 6/2026.",
+  "today_watch": "Tiếp tục theo dõi diễn biến địa chính trị Trung Đông và phản ứng chính sách các NHTW lớn.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm mạnh, lùi về mốc 1.800 điểm",
+      "headline": "Vốn FDI 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD.",
       "bullets": [
-        "Phiên 13/7, VN-Index giảm 27,8 điểm (-1,52%) xuống 1.800,54 điểm; HNX-Index giảm 3,9%.",
-        "Thanh khoản HOSE tăng 47,7%, HNX tăng 74,9%; khối ngoại bán ròng 261 tỷ đồng trên HOSE.",
-        "Áp lực bán lan rộng nhóm ngân hàng, chứng khoán và vật liệu cơ bản."
+        "Tổng vốn FDI đăng ký vào Việt Nam đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
+        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, tăng 11,2%, cao nhất 5 năm qua."
       ],
-      "insight": "Thị trường đối mặt rủi ro điều chỉnh ngắn hạn, nhà đầu tư nên ưu tiên quản trị danh mục.",
-      "source": "Vietstock, ETime"
+      "insight": "Dòng vốn ngoại mạnh mẽ cho thấy niềm tin nhà đầu tư, hỗ trợ tăng trưởng kinh tế và sản xuất.",
+      "source": "Tuổi Trẻ · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất vay mua nhà tăng cao, thị trường BĐS 'ngộp thở'",
+      "headline": "Tín dụng toàn hệ thống tăng 7,41% đến cuối tháng 6.",
       "bullets": [
-        "Lãi suất vay mua nhà sau ưu đãi vọt lên 12-14%/năm, thậm chí chạm 16%/năm tại một số ngân hàng.",
-        "Chi phí vốn cao khiến tổng lượng hấp thụ bất động sản sơ cấp sụt giảm mạnh 62%."
+        "Dư nợ tín dụng đạt trên 19,97 triệu tỷ đồng, tăng 7,41% so với cuối 2025.",
+        "NHNN đặt mục tiêu tăng trưởng tín dụng cả năm 2026 khoảng 15%."
       ],
-      "insight": "Áp lực lãi suất cao tiếp tục đè nặng lên thanh khoản thị trường bất động sản và tâm lý người mua.",
-      "source": "Tuổi Trẻ"
+      "insight": "Nhu cầu vốn thực tế của nền kinh tế vẫn lớn, tạo dư địa cho tăng trưởng ngân hàng nửa cuối năm.",
+      "source": "VietnamBiz · Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD đăng ký",
+      "headline": "PMI sản xuất Việt Nam tháng 6 đạt 51,8 điểm, duy trì tăng trưởng.",
       "bullets": [
-        "Vốn FDI đăng ký vào Việt Nam đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
-        "Vốn FDI thực hiện đạt 13,03 tỷ USD, tăng 11,2%; dòng vốn dịch chuyển sang công nghệ cao."
+        "Chỉ số PMI giảm nhẹ từ 52,8 (tháng 5) xuống 51,8 (tháng 6) nhưng vẫn trên 50 điểm.",
+        "Sản lượng tăng nhanh nhất 4 tháng nhờ đơn hàng mới và lạm phát hạ nhiệt."
       ],
-      "insight": "Việt Nam tiếp tục là điểm đến hấp dẫn cho dòng vốn ngoại chất lượng cao, hỗ trợ tăng trưởng dài hạn.",
-      "source": "VietnamFinance, NSO"
+      "insight": "Ngành sản xuất tiếp tục cải thiện, cho thấy dấu hiệu phục hồi tích cực trong nửa cuối năm.",
+      "source": "S&P Global · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 85 USD/thùng",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 86 USD.",
       "bullets": [
-        "Mỹ tiến hành không kích, Iran tuyên bố đóng cửa eo biển Hormuz, đẩy giá dầu tăng mạnh.",
-        "Giá dầu Brent chốt phiên 13/7 tăng 9,59% lên 83,30 USD/thùng, sáng 14/7 tiếp tục tăng lên 85,35 USD/thùng."
+        "Mỹ tái áp đặt phong tỏa hải quân Iran, gây lo ngại gián đoạn nguồn cung qua Hormuz.",
+        "Giá dầu Brent tăng lên 86,19 USD/thùng (14/7 GMT), cao nhất 4 tuần."
       ],
-      "insight": "Xung đột địa chính trị tại Trung Đông gia tăng rủi ro nguồn cung, tạo áp lực lạm phát toàn cầu.",
-      "source": "Eva.vn, VOV, VietnamBiz"
+      "insight": "Rủi ro địa chính trị đẩy giá dầu tăng, gây áp lực lạm phát và chi phí sản xuất toàn cầu.",
+      "source": "PetroTimes · VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán châu Á giảm sâu, Kospi lao dốc do bán tháo công nghệ",
+      "headline": "Lạm phát Mỹ hạ nhiệt, vàng thế giới tăng mạnh.",
       "bullets": [
-        "Thị trường Seoul (Hàn Quốc) giảm 5-9%, Nikkei 225 giảm 1,1% phiên 13/7.",
-        "Cổ phiếu công nghệ bị bán tháo mạnh: Samsung Electronics giảm hơn 6%, SK Hynix giảm 10-15%."
+        "CPI tháng 6 của Mỹ tăng 3,5% (năm), thấp hơn dự kiến (4,2% tháng 5).",
+        "Dữ liệu này làm giảm kỳ vọng Fed tăng lãi suất, khiến USD giảm và vàng tăng."
       ],
-      "insight": "Tâm lý thận trọng bao trùm thị trường châu Á, ảnh hưởng đến nhóm cổ phiếu công nghệ và chip.",
-      "source": "Bnews, Vietstock"
+      "insight": "Tín hiệu lạm phát tích cực có thể khiến Fed bớt \"diều hâu\", hỗ trợ tâm lý thị trường chứng khoán.",
+      "source": "VietnamBiz · Thời báo Tài chính Việt Nam"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTế",
-    "#ThịTrường",
-    "#GiáDầu",
     "#FDI",
-    "#BấtĐộngSản"
+    "#TínDụng",
+    "#PMI",
+    "#GiáDầu",
+    "#LạmPhátMỹ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
