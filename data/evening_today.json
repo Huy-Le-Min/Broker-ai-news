@@ -1,95 +1,96 @@
 {
-  "date": "13/7/2026",
+  "date": "15/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews · VietnamBiz · Lao Động",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Thời báo Tài chính Việt Nam · Báo Thanh Niên · VOV · Báo Sài Gòn Giải Phóng",
   "session": {
-    "vnindex_close": "1.800,54",
-    "vnindex_change": "-1,52%",
+    "vnindex_close": "1.782,12",
+    "vnindex_change": "-1,36%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 260 tỷ",
+    "foreign_net": "Bán ròng 980 tỷ",
     "foreign_dir": "sell",
-    "volume": "21.803 tỷ",
-    "top_gainer": "Nhóm năng lượng"
+    "volume": "15.469 tỷ",
+    "top_gainer": "Nhóm Bảo hiểm duy trì sắc xanh"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.460",
-      "change": "+0,02%",
-      "dir": "up"
+      "value": "26.450",
+      "change": "±0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,40 tr",
-      "change": "-1,01%",
-      "dir": "down"
+      "value": "148,5tr",
+      "change": "+0,68%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "79,11$",
-      "change": "+4,08%",
+      "value": "86,19$",
+      "change": "+1,72%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Dữ liệu CPI Mỹ tháng 6/2026 được công bố, ảnh hưởng chính sách Fed.",
+  "tomorrow_watch": "Liên Bộ Tài chính - Công Thương điều chỉnh giá xăng dầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Thị trường Việt Nam tiến gần mục tiêu nâng hạng",
+      "headline": "VN-Index mất mốc 1.800 điểm, giảm sâu 24,51 điểm",
       "bullets": [
-        "FTSE Russell ghi nhận nỗ lực cải thiện thị trường chứng khoán Việt Nam.",
-        "Các tiêu chí về thanh toán và giao dịch được đánh giá tích cực hơn."
+        "Chỉ số đóng cửa tại 1.782,12 điểm (-1,36%), lực bán áp đảo trên diện rộng.",
+        "Khối ngoại bán ròng gần 980 tỷ đồng, tập trung FPT, PNJ, SSI.",
+        "Thanh khoản HOSE đạt 15.469 tỷ đồng, tăng nhẹ so với phiên trước."
       ],
-      "insight": "Tạo động lực thu hút dòng vốn ngoại, cải thiện vị thế TTCK Việt Nam.",
-      "source": "Báo Tin Tức · Vietcap"
+      "insight": "Tâm lý thận trọng gia tăng, thị trường cần lực cầu mạnh hơn để phục hồi bền vững.",
+      "source": "CafeF · Vietstock · VnExpress"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng nửa đầu 2026 tăng 7,41%, dòng vốn phân hóa",
+      "headline": "PNJ giảm sàn sau khởi tố nhân sự liên quan buôn lậu",
       "bullets": [
-        "Tăng trưởng tín dụng toàn hệ thống đạt 7,41% đến cuối tháng 6/2026.",
-        "Ngân hàng Nhà nước định hướng dòng vốn vào nhà ở xã hội, siết BĐS đầu cơ."
+        "Cổ phiếu PNJ giảm sàn, dư bán giá sàn gần 2 triệu đơn vị.",
+        "Cơ quan điều tra khởi tố thêm 4 bị can, gồm nhân viên P-Lab (công ty con của PNJ)."
       ],
-      "insight": "Phản ánh nỗ lực kiểm soát rủi ro, định hướng dòng tiền vào sản xuất thực.",
-      "source": "Báo Tin Tức"
+      "insight": "Sự việc gây áp lực lớn lên cổ phiếu PNJ và tâm lý nhà đầu tư ngành bán lẻ.",
+      "source": "Báo Sài Gòn Giải Phóng"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam thu 56,5 triệu USD từ tín chỉ carbon rừng",
+      "headline": "TP.HCM miễn phí hạ tầng cảng biển, hỗ trợ doanh nghiệp",
       "bullets": [
-        "Việt Nam đã thu về 56,5 triệu USD từ chuyển nhượng tín chỉ carbon rừng.",
-        "Khoản tiền này tương ứng 11,3 triệu tấn CO2, với đơn giá 5 USD/tấn."
+        "Chính sách miễn phí có hiệu lực đến hết tháng 6/2029, giảm chi phí logistics.",
+        "Ước tính hụt thu ngân sách hơn 7.100 tỷ đồng, hỗ trợ phục hồi doanh nghiệp."
       ],
-      "insight": "Mở ra nguồn thu mới, khẳng định cam kết phát triển bền vững của Việt Nam.",
-      "source": "PetroTimes"
+      "insight": "Chính sách này kỳ vọng thúc đẩy xuất nhập khẩu, giảm gánh nặng cho doanh nghiệp.",
+      "source": "PetroTimes · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Xung đột Mỹ-Iran leo thang, giá dầu Brent tăng mạnh",
+      "headline": "Căng thẳng Mỹ-Iran đẩy giá dầu Brent vượt 86 USD/thùng",
       "bullets": [
-        "Giá dầu Brent tăng 4,08% lên 79,11 USD/thùng do căng thẳng leo thang.",
-        "Mỹ và Iran tiến hành các hoạt động quân sự mới, đe dọa eo biển Hormuz."
+        "Giá dầu Brent tăng 1,72% lên 86,19 USD/thùng sau căng thẳng Mỹ-Iran.",
+        "Mỹ tái áp đặt lệnh phong tỏa hải quân Iran, Iran đe dọa chặn xuất khẩu năng lượng."
       ],
-      "insight": "Gia tăng lo ngại lạm phát, ảnh hưởng chi phí doanh nghiệp và chính sách tiền tệ.",
-      "source": "Vietnam+ · 24H · Thanh Niên"
+      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố chính ảnh hưởng giá năng lượng toàn cầu.",
+      "source": "Reuters · VOV · Trading Economics"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PMI sản xuất Trung Quốc tháng 6 vượt kỳ vọng",
+      "headline": "Lạm phát Mỹ hạ nhiệt, CPI tháng 6 giảm mạnh 0,4%",
       "bullets": [
-        "Chỉ số PMI sản xuất Trung Quốc tháng 6/2026 đạt 50,3%, tăng 0,3 điểm.",
-        "Số liệu cho thấy hoạt động sản xuất và nhu cầu thị trường đồng loạt mở rộng."
+        "Chỉ số giá tiêu dùng (CPI) tháng 6 giảm 0,4%, thấp hơn dự báo 0,1%.",
+        "Lạm phát hàng năm giảm xuống 3,5%, giảm mạnh nhất kể từ 4/2020."
       ],
-      "insight": "Tín hiệu tích cực cho kinh tế khu vực, hỗ trợ xuất khẩu của Việt Nam.",
-      "source": "Aoke · FocusEconomics · SMM"
+      "insight": "Dữ liệu này có thể giảm áp lực tăng lãi suất của Fed, hỗ trợ tâm lý thị trường.",
+      "source": "Báo Thanh Niên · VOV"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#KinhTế",
-    "#ThịTrường"
+    "#GiáDầu",
+    "#LạmPhátMỹ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
