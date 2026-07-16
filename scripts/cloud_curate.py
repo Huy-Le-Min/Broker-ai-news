@@ -185,7 +185,9 @@ def main():
     else:
         raise SystemExit("Thiếu GEMINI_API_KEY (free) hoặc ANTHROPIC_API_KEY.")
     data = extract_json(text)
-    data["date"] = TODAY  # ép ngày đúng, tránh model tự thêm chữ như "(hôm nay)"
+    # Ngày phiên: bản tối chạy trễ sang sáng (giờ VN < 14h) tính là PHIÊN HÔM TRƯỚC
+    ref = VN_NOW - timedelta(days=1) if (edition == "evening" and VN_NOW.hour < 14) else VN_NOW
+    data["date"] = ref.strftime("%d/%-m/%Y") if os.name != "nt" else ref.strftime("%d/%m/%Y")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"[cloud_curate] {provider} · {edition} -> {out} ({len(data.get('items', []))} tin, ngày {data.get('date')})")

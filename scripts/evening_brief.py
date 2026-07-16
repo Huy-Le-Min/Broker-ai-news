@@ -7,8 +7,8 @@ Dữ liệu: data/evening_today.json
 Cách dùng:  py scripts/evening_brief.py
 Xuất: output/brief/BanTinToi_<ddmmyyyy>_p1..pN.png  +  ..._caption.txt
 """
-import os, sys, io, json, contextlib
-from datetime import datetime
+import os, sys, io, json, re, contextlib
+from datetime import datetime, date
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -287,8 +287,10 @@ def main():
     p = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "data", "evening_today.json")
     with open(p, encoding="utf-8") as f:
         data = json.load(f)
-    tag = datetime.today().strftime("%d%m%Y")
-    daydir = os.path.join(OUT, datetime.today().strftime("%d-%m-%y"))
+    m = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", str(data.get("date", "")))
+    d = date(int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else datetime.today()
+    tag = d.strftime("%d%m%Y")
+    daydir = os.path.join(OUT, d.strftime("%d-%m-%y"))
     os.makedirs(daydir, exist_ok=True)
     paths = []
     cv = os.path.join(daydir, f"BanTinToi_{tag}_p1.png")

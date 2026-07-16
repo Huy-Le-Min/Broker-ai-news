@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-14",
+  "provider": "manual (verified web 2026-07-14)",
+  "flags": [
+    {
+      "ticker": "FPT",
+      "company": "FPT Corporation",
+      "person": "Nguyễn Thành Nam",
+      "role": "Đồng sáng lập FPT, cựu TGĐ; gắn với ĐH FPT (đã từ nhiệm Phó Chủ tịch Hội đồng trường)",
+      "issue": "Bị khởi tố, bắt tạm giam (CA Hà Nội) liên quan sách/video bị cho là xuyên tạc lịch sử, xúc phạm lãnh tụ. FPT/ĐH FPT tuyên bố KHÔNG liên quan, phản đối nội dung.",
+      "severity": "warn",
+      "date": "2026-07-07",
+      "source": "https://cafef.vn/truong-dai-hoc-fpt-thong-bao-ve-viec-ong-nguyen-thanh-nam-188260707211552883.chn",
+      "in_universe": true
+    }
+  ]
+}

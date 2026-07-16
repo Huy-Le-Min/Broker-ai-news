@@ -1,0 +1,65 @@
+[
+  {
+    "ticker": "FPT",
+    "ok": true,
+    "red": [],
+    "warn": [
+      "phạt",
+      "từ nhiệm",
+      "vi phạm",
+      "xử phạt"
+    ],
+    "lead_red": [],
+    "lead_warn": [
+      "từ nhiệm",
+      "báo chí: Nguyễn Thành Nam"
+    ],
+    "lead_news": [
+      "2026-06-29 — FPT: Báo cáo kết quả giao dịch CP ESOP của người nội bộ và người có liên quan",
+      "2026-06-15 — FPT: Thông báo giao dịch cổ phiếu ESOP của Người nội bộ và người có liên quan của Ngư",
+      "2026-05-21 — FPT: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Côn",
+      "2026-04-06 — FPT: Báo cáo của thành viên HĐQT độc lập",
+      "2026-03-27 — FPT: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ SCI"
+    ],
+    "n_news": 37,
+    "recent": [
+      "2026-07-13 — FPT: Điều lệ Công ty được cập nhật sau phát hành ESOP",
+      "2026-07-10 — FPT: Nghị quyết HĐQT số 01.07-2026 ngày 09/07/2026",
+      "2026-07-10 — FPT: Thông báo về việc ký hợp đồng với đơn vị kiểm toán BCTC năm 2026",
+      "2026-07-02 — FPT: Thông báo nhận được Quyết định về việc xử phạt vi phạm hành chính về thuế"
+    ],
+    "press_flag": {
+      "ticker": "FPT",
+      "company": "FPT Corporation",
+      "person": "Nguyễn Thành Nam",
+      "role": "Đồng sáng lập FPT, cựu TGĐ; gắn với ĐH FPT (đã từ nhiệm Phó Chủ tịch Hội đồng trường)",
+      "issue": "Bị khởi tố, bắt tạm giam (CA Hà Nội) liên quan sách/video bị cho là xuyên tạc lịch sử, xúc phạm lãnh tụ. FPT/ĐH FPT tuyên bố KHÔNG liên quan, phản đối nội dung.",
+      "severity": "warn",
+      "date": "2026-07-07",
+      "source": "https://cafef.vn/truong-dai-hoc-fpt-thong-bao-ve-viec-ong-nguyen-thanh-nam-188260707211552883.chn",
+      "in_universe": true
+    }
+  },
+  {
+    "ticker": "VIC",
+    "ok": true,
+    "red": [],
+    "warn": [],
+    "lead_red": [],
+    "lead_warn": [],
+    "lead_news": [
+      "2026-05-21 — VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Côn",
+      "2026-04-28 — VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINA",
+      "2026-04-17 — VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTC",
+      "2026-04-13 — VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty C",
+      "2026-04-13 — VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTC"
+    ],
+    "n_news": 28,
+    "recent": [
+      "2026-07-13 — VIC: Thông báo thay đổi nhân sự",
+      "2026-07-13 — VIC: HĐQT phê duyệt bổ nhiệm TGĐ",
+      "2026-07-10 — VIC: Báo cáo kết quả chuyển đổi cổ phiếu ưu đãi thành cổ phiếu phổ thông",
+      "2026-07-10 — VIC: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành"
+    ]
+  }
+]

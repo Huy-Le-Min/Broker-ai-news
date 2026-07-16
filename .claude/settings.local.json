@@ -28,7 +28,14 @@
       "WebFetch(domain:baomoi.com)",
       "WebFetch(domain:vnexpress.net)",
       "WebFetch(domain:vietnamnet.vn)",
-      "WebFetch(domain:vtcnews.vn)"
+      "WebFetch(domain:vtcnews.vn)",
+      "WebFetch(domain:vov.vn)",
+      "Bash(PYTHONUTF8=1 py \"scripts/morning_brief.py\")",
+      "WebFetch(domain:www.aljazeera.com)",
+      "WebFetch(domain:stockbiz.vn)",
+      "WebFetch(domain:www.vietcombank.com.vn)",
+      "Bash(py -c \"import json; json.load\\(open\\('data/brief_today.json', encoding='utf-8'\\)\\); print\\('OK valid JSON'\\)\")",
+      "Bash(PYTHONUTF8=1 python scripts/evening_brief.py)"
     ]
   }
 }

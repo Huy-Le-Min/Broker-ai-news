@@ -6,8 +6,8 @@ Dữ liệu: data/brief_today.json (Claude/cloud agent fetch & ghi mỗi sáng).
 Cách dùng:  py scripts/morning_brief.py
 Xuất: output/brief/BanTin_<ngày>_p1..pN.png  +  ..._caption.txt
 """
-import os, sys, io, json, contextlib
-from datetime import datetime
+import os, sys, io, json, re, contextlib
+from datetime import datetime, date
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -249,11 +249,18 @@ def caption(data):
     return "\n".join(L)
 
 
+def date_tag(data):
+    """Lấy ngày từ data['date'] (không dùng giờ máy) → (tag ddmmyyyy, folder dd-mm-yy)."""
+    m = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", str(data.get("date", "")))
+    d = date(int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else datetime.today()
+    return d.strftime("%d%m%Y"), d.strftime("%d-%m-%y")
+
+
 def generate(data_path):
     with open(data_path, encoding="utf-8") as f:
         data = json.load(f)
-    tag = datetime.today().strftime("%d%m%Y")
-    daydir = os.path.join(OUT, datetime.today().strftime("%d-%m-%y"))
+    tag, folder = date_tag(data)
+    daydir = os.path.join(OUT, folder)
     os.makedirs(daydir, exist_ok=True)
     pre = EDITION["prefix"]
     paths = []

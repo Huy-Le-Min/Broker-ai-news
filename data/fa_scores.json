@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-14",
+  "scores": [
+    {
+      "ticker": "FPT",
+      "ok": true,
+      "verdict": "PASS",
+      "score": 68,
+      "is_fin": false,
+      "roe": 21.4,
+      "margin": 16.0,
+      "rev_g": 11.6,
+      "prof_g": 19.3,
+      "de": 0.48,
+      "pe": null,
+      "pb": null,
+      "year": "2025"
+    },
+    {
+      "ticker": "VCB",
+      "ok": true,
+      "verdict": "WEAK",
+      "score": 19,
+      "is_fin": true,
+      "roe": null,
+      "margin": null,
+      "rev_g": null,
+      "prof_g": 4.0,
+      "de": null,
+      "pe": null,
+      "pb": null,
+      "year": "2025"
+    },
+    {
+      "ticker": "HPG",
+      "ok": true,
+      "verdict": "WEAK",
+      "score": 52,
+      "is_fin": false,
+      "roe": 11.8,
+      "margin": 9.9,
+      "rev_g": 12.4,
+      "prof_g": 28.5,
+      "de": 0.7,
+      "pe": null,
+      "pb": null,
+      "year": "2025"
+    },
+    {
+      "ticker": "HAG",
+      "ok": true,
+      "verdict": "PASS",
+      "score": 69,
+      "is_fin": false,
+      "roe": 15.0,
+      "margin": 30.1,
+      "rev_g": 28.5,
+      "prof_g": 109.5,
+      "de": 0.56,
+      "pe": null,
+      "pb": null,
+      "year": "2025"
+    },
+    {
+      "ticker": "MWG",
+      "ok": true,
+      "verdict": "PASS",
+      "score": 61,
+      "is_fin": false,
+      "roe": 21.2,
+      "margin": 4.5,
+      "rev_g": 16.1,
+      "prof_g": 89.0,
+      "de": 0.9,
+      "pe": null,
+      "pb": null,
+      "year": "2025"
+    }
+  ]
+}
