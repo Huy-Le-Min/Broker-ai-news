@@ -1,96 +1,95 @@
 {
-  "date": "15/7/2026",
+  "date": "16/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Thời báo Tài chính Việt Nam · Báo Thanh Niên · VOV · Báo Sài Gòn Giải Phóng",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn",
   "session": {
-    "vnindex_close": "1.782,12",
-    "vnindex_change": "-1,36%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 980 tỷ",
+    "vnindex_close": "1.804,24",
+    "vnindex_change": "+1,24%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng 11 tỷ đồng",
     "foreign_dir": "sell",
-    "volume": "15.469 tỷ",
-    "top_gainer": "Nhóm Bảo hiểm duy trì sắc xanh"
+    "volume": "19.300 tỷ",
+    "top_gainer": "Bất động sản, Ngân hàng, Chứng khoán"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.450",
-      "change": "±0%",
-      "dir": "flat"
+      "change": "-0,4%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,5tr",
-      "change": "+0,68%",
-      "dir": "up"
+      "value": "148,2 triệu",
+      "change": "-0,2%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "86,19$",
-      "change": "+1,72%",
+      "value": "84,95$",
+      "change": "+0,26%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Liên Bộ Tài chính - Công Thương điều chỉnh giá xăng dầu.",
+  "tomorrow_watch": "Diễn biến giá dầu, chính sách tiền tệ toàn cầu",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index mất mốc 1.800 điểm, giảm sâu 24,51 điểm",
+      "headline": "Thủ tướng thúc đẩy khoa học, công nghệ và chuyển đổi số",
       "bullets": [
-        "Chỉ số đóng cửa tại 1.782,12 điểm (-1,36%), lực bán áp đảo trên diện rộng.",
-        "Khối ngoại bán ròng gần 980 tỷ đồng, tập trung FPT, PNJ, SSI.",
-        "Thanh khoản HOSE đạt 15.469 tỷ đồng, tăng nhẹ so với phiên trước."
+        "Chỉ thị 29/CT-TTg ngày 16/7/2026 yêu cầu đẩy nhanh tiến độ nhiệm vụ khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+        "Các bộ, ngành, địa phương phải coi đây là nhiệm vụ chính trị trọng tâm, cấp bách để giải ngân vốn."
       ],
-      "insight": "Tâm lý thận trọng gia tăng, thị trường cần lực cầu mạnh hơn để phục hồi bền vững.",
-      "source": "CafeF · Vietstock · VnExpress"
+      "insight": "Chính sách này sẽ thúc đẩy đầu tư vào công nghệ, tạo động lực mới cho các doanh nghiệp liên quan.",
+      "source": "Vietnam.vn · Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "PNJ giảm sàn sau khởi tố nhân sự liên quan buôn lậu",
+      "headline": "Việt Nam tăng vị thế trên bản đồ thương mại AI châu Á",
       "bullets": [
-        "Cổ phiếu PNJ giảm sàn, dư bán giá sàn gần 2 triệu đơn vị.",
-        "Cơ quan điều tra khởi tố thêm 4 bị can, gồm nhân viên P-Lab (công ty con của PNJ)."
+        "Thị phần thương mại toàn cầu của Việt Nam về thiết bị AI tăng từ 1,2% (2015) lên 12,4% (2025).",
+        "Đây là mức tăng cao nhất thế giới, theo Khối Nghiên cứu Đầu tư HSBC."
       ],
-      "insight": "Sự việc gây áp lực lớn lên cổ phiếu PNJ và tâm lý nhà đầu tư ngành bán lẻ.",
-      "source": "Báo Sài Gòn Giải Phóng"
+      "insight": "Vị thế AI được củng cố thu hút vốn FDI, hỗ trợ tăng trưởng dài hạn cho ngành công nghệ Việt Nam.",
+      "source": "Vietnam.vn · Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "TP.HCM miễn phí hạ tầng cảng biển, hỗ trợ doanh nghiệp",
+      "headline": "Kinh tế Việt Nam 6 tháng đầu năm 2026 tăng trưởng tích cực",
       "bullets": [
-        "Chính sách miễn phí có hiệu lực đến hết tháng 6/2029, giảm chi phí logistics.",
-        "Ước tính hụt thu ngân sách hơn 7.100 tỷ đồng, hỗ trợ phục hồi doanh nghiệp."
+        "Tăng trưởng kinh tế đạt mức cao nhất kể từ năm 2016, chủ yếu nhờ công nghiệp chế biến, chế tạo.",
+        "Tuy nhiên, nhập siêu tăng mạnh lên 16,6 tỷ USD, cho thấy sự phụ thuộc vào FDI."
       ],
-      "insight": "Chính sách này kỳ vọng thúc đẩy xuất nhập khẩu, giảm gánh nặng cho doanh nghiệp.",
-      "source": "PetroTimes · Bnews.vn"
+      "insight": "Kinh tế vĩ mô ổn định nhưng nhập siêu lớn đặt ra thách thức về năng lực nội tại doanh nghiệp Việt.",
+      "source": "Báo Nông Nghiệp và Môi trường"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran đẩy giá dầu Brent vượt 86 USD/thùng",
+      "headline": "Fed dự kiến giữ nguyên lãi suất tháng 7",
       "bullets": [
-        "Giá dầu Brent tăng 1,72% lên 86,19 USD/thùng sau căng thẳng Mỹ-Iran.",
-        "Mỹ tái áp đặt lệnh phong tỏa hải quân Iran, Iran đe dọa chặn xuất khẩu năng lượng."
+        "Thị trường tài chính dự kiến Fed sẽ giữ nguyên lãi suất 3,50% - 3,75% tại cuộc họp tháng 7.",
+        "Quyết định này nhằm chờ thêm dữ liệu lạm phát sau khi PPI tháng 6 giảm bất ngờ."
       ],
-      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố chính ảnh hưởng giá năng lượng toàn cầu.",
-      "source": "Reuters · VOV · Trading Economics"
+      "insight": "Việc Fed kiên nhẫn có thể giảm áp lực tỷ giá, tạo dư địa cho chính sách tiền tệ trong nước.",
+      "source": "Thời báo Ngân Hàng · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt, CPI tháng 6 giảm mạnh 0,4%",
+      "headline": "Căng thẳng Mỹ-Iran đẩy giá dầu Brent tăng cao",
       "bullets": [
-        "Chỉ số giá tiêu dùng (CPI) tháng 6 giảm 0,4%, thấp hơn dự báo 0,1%.",
-        "Lạm phát hàng năm giảm xuống 3,5%, giảm mạnh nhất kể từ 4/2020."
+        "Giá dầu Brent duy trì trên 84 USD/thùng sau các đợt không kích mới của Mỹ vào Iran.",
+        "Iran đe dọa đóng cửa eo biển Hormuz, làm gia tăng lo ngại gián đoạn nguồn cung toàn cầu."
       ],
-      "insight": "Dữ liệu này có thể giảm áp lực tăng lãi suất của Fed, hỗ trợ tâm lý thị trường.",
-      "source": "Báo Thanh Niên · VOV"
+      "insight": "Giá dầu tăng cao có thể gây áp lực lên lạm phát toàn cầu và chi phí sản xuất trong nước.",
+      "source": "Báo Thanh Niên · PetroTimes"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#GiáDầu",
-    "#LạmPhátMỹ"
+    "#KinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
