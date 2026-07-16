@@ -1,87 +1,86 @@
 {
-  "date": "16/7/2026 (hôm nay)",
+  "date": "16/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · Bloomberg · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · PetroTimes · VOV · Thời báo Tài chính Việt Nam · VietnamBiz",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.460",
-      "change": "-0.04%",
+      "value": "26.450",
+      "change": "-0,41%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,5 tr",
-      "change": "+0.68%",
-      "dir": "up"
+      "value": "148,5tr",
+      "change": "0,0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "84.95$",
-      "change": "+0.26%",
+      "value": "86,19$",
+      "change": "+1,72%",
       "dir": "up"
     }
   ],
-  "today_watch": "Phiên đáo hạn phái sinh tháng 7 (16/7) có thể gây biến động mạnh cuối phiên; theo dõi diễn biến Iran-Mỹ quanh eo biển Hormuz và giá dầu; mùa công bố KQKD quý 2/2026 tiếp tục lan sang nhóm chứng khoán, bất động sản, bán lẻ.",
+  "today_watch": "Mùa báo cáo lợi nhuận Q2/2026 của doanh nghiệp tiếp tục diễn ra.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm 1,36% về 1.782 điểm phiên 15/7, khối ngoại bán ròng mạnh nhất tháng 7",
+      "headline": "VN-Index mất mốc 1.800 điểm, khối ngoại bán ròng mạnh",
       "bullets": [
-        "Phiên 15/7, VN-Index giảm 24,51 điểm (-1,36%) còn 1.782,12 điểm, HNX-Index giảm 2,11% còn 291,07 điểm; áp lực bán lan rộng từ đầu phiên, VS-LargeCap giảm mạnh 1,4%.",
-        "Khối ngoại bán ròng gần 1.000 tỷ đồng trên HOSE — mức bán ròng mạnh nhất kể từ đầu tháng 7, tập trung xả FPT khoảng 346 tỷ đồng cùng nhiều mã bluechip khác."
+        "Phiên 15/7, VN-Index giảm 1,36% về 1.782,12 điểm; thanh khoản HoSE thấp.",
+        "Khối ngoại bán ròng 970 tỷ đồng trên HoSE, tập trung FPT, PNJ, SSI."
       ],
-      "insight": "Đà bán ròng của khối ngoại gia tăng cùng lúc chỉ số điều chỉnh sâu cho thấy tâm lý thận trọng đang chi phối ngắn hạn, đặc biệt với nhóm cổ phiếu công nghệ - bluechip vốn hóa lớn.",
-      "source": "Vietstock"
+      "insight": "Áp lực bán và dòng tiền thận trọng gây rủi ro điều chỉnh ngắn hạn.",
+      "source": "CafeF, Vietstock, PetroTimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "KQKD ngân hàng quý 2/2026 phân hóa mạnh: VietinBank, Agribank lãi kỷ lục; nợ xấu có dấu hiệu hạ nhiệt",
+      "headline": "Nhiều ngân hàng công bố lãi Q2/2026 tăng mạnh",
       "bullets": [
-        "VietinBank và Agribank ghi nhận lợi nhuận kỷ lục trong 6 tháng đầu năm 2026; theo dự báo của MBS Research, VPBank có thể dẫn đầu tăng trưởng lợi nhuận quý 2 với mức tăng khoảng 52%, trong khi một số ngân hàng khác được dự báo sụt giảm.",
-        "Nợ xấu hình thành ròng toàn hệ thống dự báo giảm còn khoảng 30.000 tỷ đồng (0,25% dư nợ) trong quý 2, so với 42.000 tỷ đồng (0,37%) của quý 1; tỷ lệ nợ xấu (NPL) dự kiến giảm nhẹ về 1,55%."
+        "Vietbank lãi trước thuế 923 tỷ đồng, tăng 79,4% sau 6 tháng đầu năm.",
+        "Vietcombank tổng tài sản tăng gần 10%, dư nợ tín dụng tăng 4,8%."
       ],
-      "insight": "Lợi nhuận phân hóa mạnh cùng tín hiệu nợ xấu tạo đỉnh là điểm tích cực cho nhóm ngân hàng, nhưng nhà đầu tư cần chọn lọc theo từng mã thay vì mua đồng loạt cả nhóm.",
-      "source": "MBS Research, CafeF, VnEconomy"
+      "insight": "Kết quả tích cực củng cố triển vọng ngành ngân hàng, hỗ trợ thị trường.",
+      "source": "CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "GDP quý 2/2026 tăng 8,39% — cao nhất nhiều năm; CPI 6 tháng tăng 4,38%",
+      "headline": "Giải ngân đầu tư công chậm lại đầu tháng 7",
       "bullets": [
-        "GDP quý 2/2026 ước tăng 8,39% so với cùng kỳ; lũy kế 6 tháng đầu năm tăng 8,18% (cùng kỳ 2025 tăng 7,63%) — mức tăng trưởng nửa đầu năm cao hiếm thấy.",
-        "CPI bình quân 6 tháng tăng 4,38%, lạm phát cơ bản tăng 4,12%; riêng CPI tháng 6 giảm 0,39% so với tháng trước nhờ giá xăng dầu hạ tại thời điểm đó."
+        "Đến 9/7, giải ngân đạt 36,8% kế hoạch (370.854 tỷ đồng).",
+        "Tuần đầu tháng 7, vốn giải ngân chỉ bằng 16,1% tuần trước."
       ],
-      "insight": "Tăng trưởng cao đi kèm lạm phát vẫn trong tầm kiểm soát giữ dư địa để SBV duy trì chính sách tiền tệ hỗ trợ, song đà tăng giá dầu gần đây là biến số cần theo dõi cho CPI nửa cuối năm.",
-      "source": "Cục Thống kê, VnExpress, Tạp chí Kinh tế Tài chính"
+      "insight": "Tiến độ chậm có thể ảnh hưởng đến mục tiêu tăng trưởng kinh tế năm 2026.",
+      "source": "Thời báo Tài chính Việt Nam, VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Iran-Mỹ leo thang quanh Hormuz, Brent vượt 84 USD; Goldman Sachs cảnh báo có thể lên 110 USD",
+      "headline": "Lạm phát Mỹ hạ nhiệt mạnh, CPI tháng 6 giảm sâu",
       "bullets": [
-        "Giá dầu Brent sáng 16/7 quanh 84,9-85 USD/thùng sau khi Vệ binh Cách mạng Hồi giáo Iran (IRGC) tuyên bố tấn công một số mục tiêu quân sự Mỹ trong khu vực, tiếp nối các đợt không kích của Mỹ vào Iran cuối tuần trước.",
-        "Goldman Sachs cảnh báo Brent có thể vượt 110 USD/thùng trong quý 4/2026 nếu xuất khẩu dầu qua eo biển Hormuz (khoảng 20% nguồn cung dầu và LNG toàn cầu) tiếp tục bị gián đoạn."
+        "CPI tháng 6 tăng 3,5% YoY (tháng 5 là 4,2%), giảm 0,4% MoM.",
+        "PPI cũng giảm 0,3% MoM, thấp hơn dự báo, nhờ giá năng lượng."
       ],
-      "insight": "Giá dầu neo cao kéo dài sẽ gây thêm áp lực lên CPI và tỷ giá USD/VND, đồng thời hỗ trợ nhóm cổ phiếu dầu khí (GAS, PVS, PVD) nhưng bất lợi cho vận tải, hàng không, nhựa.",
-      "source": "CNBC"
+      "insight": "Giảm áp lực lên Fed, tăng kỳ vọng về chính sách tiền tệ linh hoạt hơn.",
+      "source": "Bnews.vn, Vietstock, VTV Money"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ tăng điểm nhờ CPI hạ nhiệt, thị trường hạ cược khả năng Fed tăng lãi suất tháng 7",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng",
       "bullets": [
-        "Phiên 15/7, S&P 500 tăng 0,38%, Nasdaq tăng 0,62%, Dow Jones tăng 0,29% sau khi dữ liệu CPI Mỹ tháng 6 công bố mềm hơn dự báo, giúp hạ nhiệt lo ngại lạm phát.",
-        "Thị trường lãi suất tương lai hiện định giá khoảng 79,5% khả năng Fed giữ nguyên lãi suất tại cuộc họp 28-29/7, giảm đáng kể so với kịch bản tăng lãi suất từng được cân nhắc do rủi ro lạm phát từ giá năng lượng."
+        "Mỹ tái áp đặt phong tỏa hải quân, không kích Iran; Iran đáp trả.",
+        "Giá dầu Brent tăng 1,72% lên 86,19 USD/thùng cuối ngày 15/7."
       ],
-      "insight": "Fed bớt áp lực phải tăng lãi suất là tín hiệu tích cực cho dòng vốn vào thị trường mới nổi như Việt Nam, phần nào cân bằng lại rủi ro tỷ giá từ đà tăng giá dầu.",
-      "source": "CNBC, Yahoo Finance"
+      "insight": "Rủi ro địa chính trị đẩy giá năng lượng, gây lo ngại lạm phát toàn cầu.",
+      "source": "VOV, PetroTimes, Eva.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#VNIndex",
-    "#NgânHàng",
-    "#GiáDầu",
-    "#Fed"
+    "#Vietcap",
+    "#KinhTếViệtNam",
+    "#KinhTếThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }

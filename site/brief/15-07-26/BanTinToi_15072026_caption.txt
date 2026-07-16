@@ -1,34 +1,35 @@
-📊 BẢN TIN TỐI · 15/7/2026 (hôm nay)
-📈 Phiên hôm nay: VN-Index 1.782,12 (-1,36%)  |  Khối ngoại Bán ròng khoảng 980 tỷ
-🌐 Tỷ giá USD/VND 26.040 - 26.450 (Vietcombank) (đi ngang)  |  Vàng SJC 145,5 - 148,5 triệu (+0,7%)  |  Dầu Brent 86,19$ (+2,4%)
+📊 BẢN TIN TỐI · 15/7/2026
+📈 Phiên hôm nay: VN-Index 1.782,12 (-1,36%)  |  Khối ngoại Bán ròng 980 tỷ
+🌐 Tỷ giá USD/VND 26.450 (±0%)  |  Vàng SJC 148,5tr (+0,68%)  |  Dầu Brent 86,19$ (+1,72%)
 
 🇻🇳 TRONG NƯỚC:
-1. VN-Index mất mốc 1.800 điểm, giảm 24,5 điểm trong phiên 15/7
-   • VN-Index đóng cửa tại 1.782,12 điểm, giảm 1,36%; thanh khoản HOSE đạt hơn 15.469 tỷ đồng trên 607,3 triệu cổ phiếu.
-   • Khối ngoại bán ròng gần 980 tỷ đồng toàn thị trường, tâm điểm bán FPT (346 tỷ), PNJ (108 tỷ), SSI (72 tỷ).
-   → Áp lực bán tập trung ở nhóm vốn hóa lớn khiến VN-Index đánh mất ngưỡng tâm lý 1.800 điểm, cần theo dõi vùng hỗ trợ 1.780 điểm trong các phiên tới.
-2. Cổ phiếu FPT rơi xuống đáy gần 2 năm, kéo lùi nhóm công nghệ
-   • Giá FPT về 66.800 đồng/cp, mức thấp nhất trong gần 2 năm; đây cũng là mã bị khối ngoại bán ròng mạnh nhất phiên (346 tỷ đồng).
-   • Dù giá giảm, FPT vẫn giữ mục tiêu kinh doanh 2026 với doanh thu hơn 58.500 tỷ đồng và lợi nhuận trước thuế trên 11.600 tỷ đồng.
-   → Đà bán ở cổ phiếu đầu ngành công nghệ cho thấy dòng vốn ngoại đang thận trọng với nhóm định giá cao, có thể ảnh hưởng tâm lý chung của nhóm vốn hóa lớn.
-3. Ngân hàng đồng loạt tăng lãi suất huy động trong tháng 7
-   • Nhiều ngân hàng như ACB, MBV, VCBNeo, Bac A Bank niêm yết lãi suất kỳ hạn 6-12 tháng từ 7%/năm trở lên; SeABank có chương trình ưu đãi tới 8,55%/năm.
-   • Nhóm ngân hàng gốc Nhà nước (Vietcombank, BIDV, VietinBank, Agribank) vẫn giữ lãi suất ngắn hạn thấp 2,6-2,9%/năm; SBV định hướng tiếp tục ổn định lãi suất.
-   → Lãi suất huy động nhích lên ở nhóm ngân hàng tư nhân có thể làm tăng nhẹ chi phí vốn, cần theo dõi tác động tới biên lãi ròng (NIM) ngành ngân hàng các quý tới.
+1. VN-Index mất mốc 1.800 điểm, giảm sâu 24,51 điểm
+   • Chỉ số đóng cửa tại 1.782,12 điểm (-1,36%), lực bán áp đảo trên diện rộng.
+   • Khối ngoại bán ròng gần 980 tỷ đồng, tập trung FPT, PNJ, SSI.
+   • Thanh khoản HOSE đạt 15.469 tỷ đồng, tăng nhẹ so với phiên trước.
+   → Tâm lý thận trọng gia tăng, thị trường cần lực cầu mạnh hơn để phục hồi bền vững.
+2. PNJ giảm sàn sau khởi tố nhân sự liên quan buôn lậu
+   • Cổ phiếu PNJ giảm sàn, dư bán giá sàn gần 2 triệu đơn vị.
+   • Cơ quan điều tra khởi tố thêm 4 bị can, gồm nhân viên P-Lab (công ty con của PNJ).
+   → Sự việc gây áp lực lớn lên cổ phiếu PNJ và tâm lý nhà đầu tư ngành bán lẻ.
+3. TP.HCM miễn phí hạ tầng cảng biển, hỗ trợ doanh nghiệp
+   • Chính sách miễn phí có hiệu lực đến hết tháng 6/2029, giảm chi phí logistics.
+   • Ước tính hụt thu ngân sách hơn 7.100 tỷ đồng, hỗ trợ phục hồi doanh nghiệp.
+   → Chính sách này kỳ vọng thúc đẩy xuất nhập khẩu, giảm gánh nặng cho doanh nghiệp.
 
 🌏 QUỐC TẾ:
-4. Mỹ tái không kích Iran, siết phong tỏa Hormuz — giá dầu Brent vượt 86 USD/thùng
-   • Mỹ tiến hành thêm đợt không kích nhằm vào năng lực tấn công tàu thương mại của Iran tại eo biển Hormuz, đồng thời tái áp đặt phong tỏa hải quân với các cảng Iran.
-   • Giá dầu Brent tăng lên khoảng 86,19 USD/thùng (+2,4%), nối dài đà tăng 3 phiên liên tiếp; tính theo tháng Brent đã tăng hơn 7%.
-   → Căng thẳng Hormuz kéo dài tiếp tục đẩy chi phí năng lượng toàn cầu, có thể gây thêm áp lực lạm phát nhập khẩu và tỷ giá cho Việt Nam trong thời gian tới.
-5. Chứng khoán Mỹ phân hóa quanh căng thẳng Trung Đông và số liệu lạm phát
-   • Phiên 14/7, Dow Jones đạt 52.508,27 điểm (+0,02%), S&P 500 đạt 7.543,59 điểm (+0,38%), Nasdaq tăng 0,9% lên 26.107,01 điểm nhờ số liệu CPI tháng 6 thấp hơn dự báo.
-   • Trước đó phiên 13/7, cả 3 chỉ số đều giảm (Dow -0,26%, S&P 500 -0,79%, Nasdaq -1,55%) do lo ngại giá dầu tăng vì xung đột Mỹ-Iran.
-   → Thị trường Mỹ đang giằng co giữa rủi ro địa chính trị đẩy giá dầu và kỳ vọng lạm phát hạ nhiệt, tâm lý này có thể tiếp tục lan sang khẩu vị rủi ro của khối ngoại tại các thị trường mới nổi.
+4. Căng thẳng Mỹ-Iran đẩy giá dầu Brent vượt 86 USD/thùng
+   • Giá dầu Brent tăng 1,72% lên 86,19 USD/thùng sau căng thẳng Mỹ-Iran.
+   • Mỹ tái áp đặt lệnh phong tỏa hải quân Iran, Iran đe dọa chặn xuất khẩu năng lượng.
+   → Rủi ro địa chính trị tiếp tục là yếu tố chính ảnh hưởng giá năng lượng toàn cầu.
+5. Lạm phát Mỹ hạ nhiệt, CPI tháng 6 giảm mạnh 0,4%
+   • Chỉ số giá tiêu dùng (CPI) tháng 6 giảm 0,4%, thấp hơn dự báo 0,1%.
+   • Lạm phát hàng năm giảm xuống 3,5%, giảm mạnh nhất kể từ 4/2020.
+   → Dữ liệu này có thể giảm áp lực tăng lãi suất của Fed, hỗ trợ tâm lý thị trường.
 
-⏰ Ngày mai chú ý: Theo dõi diễn biến Mỹ-Iran quanh eo biển Hormuz và phản ứng tiếp theo của giá dầu, cùng báo cáo KQKD quý 2 các ngân hàng lớn tại Mỹ.
+⏰ Ngày mai chú ý: Liên Bộ Tài chính - Công Thương điều chỉnh giá xăng dầu.
 
-#BảnTinTối #ChứngKhoán #Vietcap #VNIndex #GiáDầu #Hormuz #FPT
+#BảnTinTối #ChứngKhoán #VNIndex #GiáDầu #LạmPhátMỹ
 
-Nguồn: Vietstock · CafeF · VnExpress · Thời báo Tài chính · VOV · Reuters · CNBC · Yahoo Finance
+Nguồn: VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Thời báo Tài chính Việt Nam · Báo Thanh Niên · VOV · Báo Sài Gòn Giải Phóng
 Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán.
