@@ -1,88 +1,86 @@
 {
-  "date": "15/7/2026",
+  "date": "16/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Tuổi Trẻ · VietnamBiz · Báo Chính phủ · S&P Global · PetroTimes · Thời báo Tài chính Việt Nam",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · PetroTimes · VOV · Thời báo Tài chính Việt Nam · VietnamBiz",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.450",
-      "change": "0.00%",
-      "dir": "flat"
+      "change": "-0,41%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,5tr",
-      "change": "+0.34%",
-      "dir": "up"
+      "value": "148,5tr",
+      "change": "0,0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "84.73$",
-      "change": "+1.77%",
+      "value": "86,19$",
+      "change": "+1,72%",
       "dir": "up"
     }
   ],
-  "today_watch": "Tiếp tục theo dõi diễn biến địa chính trị Trung Đông và phản ứng chính sách các NHTW lớn.",
+  "today_watch": "Mùa báo cáo lợi nhuận Q2/2026 của doanh nghiệp tiếp tục diễn ra.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Vốn FDI 6 tháng đầu năm đạt kỷ lục 34,65 tỷ USD.",
+      "headline": "VN-Index mất mốc 1.800 điểm, khối ngoại bán ròng mạnh",
       "bullets": [
-        "Tổng vốn FDI đăng ký vào Việt Nam đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025.",
-        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, tăng 11,2%, cao nhất 5 năm qua."
+        "Phiên 15/7, VN-Index giảm 1,36% về 1.782,12 điểm; thanh khoản HoSE thấp.",
+        "Khối ngoại bán ròng 970 tỷ đồng trên HoSE, tập trung FPT, PNJ, SSI."
       ],
-      "insight": "Dòng vốn ngoại mạnh mẽ cho thấy niềm tin nhà đầu tư, hỗ trợ tăng trưởng kinh tế và sản xuất.",
-      "source": "Tuổi Trẻ · VnEconomy"
+      "insight": "Áp lực bán và dòng tiền thận trọng gây rủi ro điều chỉnh ngắn hạn.",
+      "source": "CafeF, Vietstock, PetroTimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng toàn hệ thống tăng 7,41% đến cuối tháng 6.",
+      "headline": "Nhiều ngân hàng công bố lãi Q2/2026 tăng mạnh",
       "bullets": [
-        "Dư nợ tín dụng đạt trên 19,97 triệu tỷ đồng, tăng 7,41% so với cuối 2025.",
-        "NHNN đặt mục tiêu tăng trưởng tín dụng cả năm 2026 khoảng 15%."
+        "Vietbank lãi trước thuế 923 tỷ đồng, tăng 79,4% sau 6 tháng đầu năm.",
+        "Vietcombank tổng tài sản tăng gần 10%, dư nợ tín dụng tăng 4,8%."
       ],
-      "insight": "Nhu cầu vốn thực tế của nền kinh tế vẫn lớn, tạo dư địa cho tăng trưởng ngân hàng nửa cuối năm.",
-      "source": "VietnamBiz · Báo Chính phủ"
+      "insight": "Kết quả tích cực củng cố triển vọng ngành ngân hàng, hỗ trợ thị trường.",
+      "source": "CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "PMI sản xuất Việt Nam tháng 6 đạt 51,8 điểm, duy trì tăng trưởng.",
+      "headline": "Giải ngân đầu tư công chậm lại đầu tháng 7",
       "bullets": [
-        "Chỉ số PMI giảm nhẹ từ 52,8 (tháng 5) xuống 51,8 (tháng 6) nhưng vẫn trên 50 điểm.",
-        "Sản lượng tăng nhanh nhất 4 tháng nhờ đơn hàng mới và lạm phát hạ nhiệt."
+        "Đến 9/7, giải ngân đạt 36,8% kế hoạch (370.854 tỷ đồng).",
+        "Tuần đầu tháng 7, vốn giải ngân chỉ bằng 16,1% tuần trước."
       ],
-      "insight": "Ngành sản xuất tiếp tục cải thiện, cho thấy dấu hiệu phục hồi tích cực trong nửa cuối năm.",
-      "source": "S&P Global · VnEconomy"
+      "insight": "Tiến độ chậm có thể ảnh hưởng đến mục tiêu tăng trưởng kinh tế năm 2026.",
+      "source": "Thời báo Tài chính Việt Nam, VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 86 USD.",
+      "headline": "Lạm phát Mỹ hạ nhiệt mạnh, CPI tháng 6 giảm sâu",
       "bullets": [
-        "Mỹ tái áp đặt phong tỏa hải quân Iran, gây lo ngại gián đoạn nguồn cung qua Hormuz.",
-        "Giá dầu Brent tăng lên 86,19 USD/thùng (14/7 GMT), cao nhất 4 tuần."
+        "CPI tháng 6 tăng 3,5% YoY (tháng 5 là 4,2%), giảm 0,4% MoM.",
+        "PPI cũng giảm 0,3% MoM, thấp hơn dự báo, nhờ giá năng lượng."
       ],
-      "insight": "Rủi ro địa chính trị đẩy giá dầu tăng, gây áp lực lạm phát và chi phí sản xuất toàn cầu.",
-      "source": "PetroTimes · VOV"
+      "insight": "Giảm áp lực lên Fed, tăng kỳ vọng về chính sách tiền tệ linh hoạt hơn.",
+      "source": "Bnews.vn, Vietstock, VTV Money"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt, vàng thế giới tăng mạnh.",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng",
       "bullets": [
-        "CPI tháng 6 của Mỹ tăng 3,5% (năm), thấp hơn dự kiến (4,2% tháng 5).",
-        "Dữ liệu này làm giảm kỳ vọng Fed tăng lãi suất, khiến USD giảm và vàng tăng."
+        "Mỹ tái áp đặt phong tỏa hải quân, không kích Iran; Iran đáp trả.",
+        "Giá dầu Brent tăng 1,72% lên 86,19 USD/thùng cuối ngày 15/7."
       ],
-      "insight": "Tín hiệu lạm phát tích cực có thể khiến Fed bớt \"diều hâu\", hỗ trợ tâm lý thị trường chứng khoán.",
-      "source": "VietnamBiz · Thời báo Tài chính Việt Nam"
+      "insight": "Rủi ro địa chính trị đẩy giá năng lượng, gây lo ngại lạm phát toàn cầu.",
+      "source": "VOV, PetroTimes, Eva.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#FDI",
-    "#TínDụng",
-    "#PMI",
-    "#GiáDầu",
-    "#LạmPhátMỹ"
+    "#Vietcap",
+    "#KinhTếViệtNam",
+    "#KinhTếThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
