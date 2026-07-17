@@ -1,95 +1,100 @@
 {
-  "date": "16/7/2026",
+  "date": "17/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · Bnews.vn",
   "session": {
-    "vnindex_close": "1.804,24",
-    "vnindex_change": "+1,24%",
-    "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 11 tỷ đồng",
+    "vnindex_close": "1.787,45",
+    "vnindex_change": "-16,79 điểm (-0,93%)",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng gần 700 tỷ",
     "foreign_dir": "sell",
-    "volume": "19.300 tỷ",
-    "top_gainer": "Bất động sản, Ngân hàng, Chứng khoán"
+    "volume": "11.645,3 tỷ",
+    "top_gainer": "VNM"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.450",
-      "change": "-0,4%",
-      "dir": "down"
+      "value": "26.440",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,2 triệu",
-      "change": "-0,2%",
+      "value": "146,6 triệu",
+      "change": "-1,6 triệu",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "84,95$",
-      "change": "+0,26%",
-      "dir": "up"
+      "value": "84,23$",
+      "change": "-0,9%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Diễn biến giá dầu, chính sách tiền tệ toàn cầu",
+  "tomorrow_watch": "Theo dõi diễn biến thị trường toàn cầu và các tin tức địa chính trị mới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Thủ tướng thúc đẩy khoa học, công nghệ và chuyển đổi số",
+      "headline": "VN-Index giảm gần 17 điểm, thanh khoản thấp kỷ lục",
       "bullets": [
-        "Chỉ thị 29/CT-TTg ngày 16/7/2026 yêu cầu đẩy nhanh tiến độ nhiệm vụ khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
-        "Các bộ, ngành, địa phương phải coi đây là nhiệm vụ chính trị trọng tâm, cấp bách để giải ngân vốn."
+        "VN-Index đóng cửa 1.787,45 điểm, giảm 16,79 điểm (-0,93%), mất mốc 1.800 điểm.",
+        "Thanh khoản HOSE đạt 11.645,3 tỷ đồng, thấp nhất trong khoảng một tháng qua.",
+        "Áp lực bán lan rộng ở vốn hóa lớn, đặc biệt nhóm bất động sản và ngân hàng."
       ],
-      "insight": "Chính sách này sẽ thúc đẩy đầu tư vào công nghệ, tạo động lực mới cho các doanh nghiệp liên quan.",
-      "source": "Vietnam.vn · Bnews.vn"
+      "insight": "Dòng tiền suy yếu cho thấy tâm lý thận trọng, rủi ro điều chỉnh ngắn hạn vẫn hiện hữu.",
+      "source": "VnExpress · VietnamFinance · Báo Lao Động"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam tăng vị thế trên bản đồ thương mại AI châu Á",
+      "headline": "Khối ngoại bán ròng gần 700 tỷ, tập trung gom Vinamilk",
       "bullets": [
-        "Thị phần thương mại toàn cầu của Việt Nam về thiết bị AI tăng từ 1,2% (2015) lên 12,4% (2025).",
-        "Đây là mức tăng cao nhất thế giới, theo Khối Nghiên cứu Đầu tư HSBC."
+        "Nhà đầu tư nước ngoài bán ròng gần 700 tỷ đồng trên toàn thị trường hôm nay.",
+        "Áp lực bán tập trung vào nhóm ngân hàng và bán lẻ như TCB, PNJ.",
+        "VNM được mua ròng mạnh nhất với 256 tỷ đồng, trở thành điểm sáng hiếm hoi."
       ],
-      "insight": "Vị thế AI được củng cố thu hút vốn FDI, hỗ trợ tăng trưởng dài hạn cho ngành công nghệ Việt Nam.",
-      "source": "Vietnam.vn · Bnews.vn"
+      "insight": "Dòng vốn ngoại rút ròng gây áp lực, nhưng việc gom VNM cho thấy sự chọn lọc cổ phiếu phòng thủ.",
+      "source": "VietnamBiz · CafeF · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Kinh tế Việt Nam 6 tháng đầu năm 2026 tăng trưởng tích cực",
+      "headline": "Hạn mức bảo hiểm tiền gửi tăng lên 350 triệu đồng",
       "bullets": [
-        "Tăng trưởng kinh tế đạt mức cao nhất kể từ năm 2016, chủ yếu nhờ công nghiệp chế biến, chế tạo.",
-        "Tuy nhiên, nhập siêu tăng mạnh lên 16,6 tỷ USD, cho thấy sự phụ thuộc vào FDI."
+        "NHNN ban hành Thông tư 05/2026/TT-NHNN, nâng hạn mức chi trả bảo hiểm tiền gửi.",
+        "Số tiền tối đa được chi trả tăng lên 350 triệu đồng, gấp 2,8 lần mức cũ 125 triệu đồng."
       ],
-      "insight": "Kinh tế vĩ mô ổn định nhưng nhập siêu lớn đặt ra thách thức về năng lực nội tại doanh nghiệp Việt.",
-      "source": "Báo Nông Nghiệp và Môi trường"
+      "insight": "Quyết định này củng cố niềm tin người gửi tiền, tăng cường an toàn hệ thống ngân hàng.",
+      "source": "Bnews.vn · PetroTimes · Tin vắn Đầu tư Online"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed dự kiến giữ nguyên lãi suất tháng 7",
+      "headline": "Phó Chủ tịch Fed gợi ý tăng lãi suất nếu lạm phát dai dẳng",
       "bullets": [
-        "Thị trường tài chính dự kiến Fed sẽ giữ nguyên lãi suất 3,50% - 3,75% tại cuộc họp tháng 7.",
-        "Quyết định này nhằm chờ thêm dữ liệu lạm phát sau khi PPI tháng 6 giảm bất ngờ."
+        "Phó Chủ tịch Fed Philip Jefferson để ngỏ khả năng tăng lãi suất nếu lạm phát không sớm giảm.",
+        "Phát biểu này được đưa ra sau quyết định giữ nguyên lãi suất tại cuộc họp tháng 6."
       ],
-      "insight": "Việc Fed kiên nhẫn có thể giảm áp lực tỷ giá, tạo dư địa cho chính sách tiền tệ trong nước.",
-      "source": "Thời báo Ngân Hàng · VietnamBiz"
+      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên thị trường tài chính toàn cầu.",
+      "source": "Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran đẩy giá dầu Brent tăng cao",
+      "headline": "Giá dầu Brent giảm nhẹ, nhưng tăng gần 12% cả tuần",
       "bullets": [
-        "Giá dầu Brent duy trì trên 84 USD/thùng sau các đợt không kích mới của Mỹ vào Iran.",
-        "Iran đe dọa đóng cửa eo biển Hormuz, làm gia tăng lo ngại gián đoạn nguồn cung toàn cầu."
+        "Giá dầu Brent giảm nhẹ 0,9% xuống 84,23 USD/thùng trong phiên hôm nay.",
+        "Giá dầu Brent tăng gần 12% trong cả tuần do căng thẳng Mỹ-Iran leo thang.",
+        "Lo ngại gián đoạn nguồn cung từ Trung Đông tiếp tục chi phối thị trường."
       ],
-      "insight": "Giá dầu tăng cao có thể gây áp lực lên lạm phát toàn cầu và chi phí sản xuất trong nước.",
-      "source": "Báo Thanh Niên · PetroTimes"
+      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố hỗ trợ giá dầu, ảnh hưởng đến chi phí sản xuất.",
+      "source": "VOV · Eva.vn · Báo Lao Động"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#KinhTế"
+    "#KhốiNgoại",
+    "#GiáDầu",
+    "#GiáVàng",
+    "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
