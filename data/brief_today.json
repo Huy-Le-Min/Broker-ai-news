@@ -1,86 +1,86 @@
 {
-  "date": "16/7/2026",
+  "date": "18/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · PetroTimes · VOV · Thời báo Tài chính Việt Nam · VietnamBiz",
+  "sources": "CafeF · VietNamNet · Báo Mới · VOV · Thời báo Tài chính Việt Nam · DNSE · LuatVietnam · Báo Điện tử Chính phủ · Eva.vn · PetroTimes · Investing.com",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.450",
-      "change": "-0,41%",
-      "dir": "down"
+      "value": "26.470",
+      "change": "+0.11%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,5tr",
-      "change": "0,0%",
-      "dir": "flat"
+      "value": "146,6 triệu",
+      "change": "-1.1%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "86,19$",
-      "change": "+1,72%",
+      "value": "88,10$",
+      "change": "+4.59%",
       "dir": "up"
     }
   ],
-  "today_watch": "Mùa báo cáo lợi nhuận Q2/2026 của doanh nghiệp tiếp tục diễn ra.",
+  "today_watch": "Thị trường theo dõi diễn biến căng thẳng Trung Đông và báo cáo KQKD quý 2/2026 của doanh nghiệp.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index mất mốc 1.800 điểm, khối ngoại bán ròng mạnh",
+      "headline": "Nghị định mới tái định hình thị trường trái phiếu doanh nghiệp",
       "bullets": [
-        "Phiên 15/7, VN-Index giảm 1,36% về 1.782,12 điểm; thanh khoản HoSE thấp.",
-        "Khối ngoại bán ròng 970 tỷ đồng trên HoSE, tập trung FPT, PNJ, SSI."
+        "Nghị định 200/2026/NĐ-CP có hiệu lực từ 5/6/2026, siết chặt điều kiện phát hành, tăng cường minh bạch.",
+        "Quy định mới tập trung vào chất lượng tín dụng, phân định rõ trách nhiệm quản lý, giám sát thị trường."
       ],
-      "insight": "Áp lực bán và dòng tiền thận trọng gây rủi ro điều chỉnh ngắn hạn.",
-      "source": "CafeF, Vietstock, PetroTimes"
+      "insight": "Thị trường trái phiếu doanh nghiệp sẽ phát triển bền vững hơn, nhưng có thể gây khó khăn cho doanh nghiệp yếu.",
+      "source": "Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhiều ngân hàng công bố lãi Q2/2026 tăng mạnh",
+      "headline": "KQKD quý 2/2026: Công ty chứng khoán tăng trưởng mạnh",
       "bullets": [
-        "Vietbank lãi trước thuế 923 tỷ đồng, tăng 79,4% sau 6 tháng đầu năm.",
-        "Vietcombank tổng tài sản tăng gần 10%, dư nợ tín dụng tăng 4,8%."
+        "Chứng khoán An Bình (ABS) lãi trước thuế quý 2 tăng 389% lên 196 tỷ đồng, lũy kế 6 tháng tăng 209%.",
+        "Chứng khoán Bảo Minh (BMS) cũng ghi nhận lãi trước thuế quý 2 đạt 94 tỷ đồng, tăng 21% so với quý 1."
       ],
-      "insight": "Kết quả tích cực củng cố triển vọng ngành ngân hàng, hỗ trợ thị trường.",
-      "source": "CafeF"
+      "insight": "Kết quả kinh doanh tích cực của CTCK phản ánh sự sôi động và tiềm năng tăng trưởng của thị trường.",
+      "source": "DNSE · Vietstock · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công chậm lại đầu tháng 7",
+      "headline": "NHNN nới room tín dụng cho dự án trọng điểm",
       "bullets": [
-        "Đến 9/7, giải ngân đạt 36,8% kế hoạch (370.854 tỷ đồng).",
-        "Tuần đầu tháng 7, vốn giải ngân chỉ bằng 16,1% tuần trước."
+        "NHNN loại trừ dư nợ cấp cho 18 dự án trọng điểm (hàng không, đường sắt, APEC) khỏi hạn mức tăng trưởng tín dụng.",
+        "Thông tư 25/2026/TT-NHNN nâng tỷ lệ vốn ngắn hạn cho vay trung dài hạn từ 30% lên 40%, hiệu lực từ 1/7/2026."
       ],
-      "insight": "Tiến độ chậm có thể ảnh hưởng đến mục tiêu tăng trưởng kinh tế năm 2026.",
-      "source": "Thời báo Tài chính Việt Nam, VietnamBiz"
+      "insight": "Chính sách nhằm hỗ trợ tăng trưởng kinh tế, thúc đẩy đầu tư công và thu hút FDI vào các ngành trọng yếu.",
+      "source": "Báo Mới · LuatVietnam · Báo Điện tử Chính phủ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt mạnh, CPI tháng 6 giảm sâu",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 88 USD",
       "bullets": [
-        "CPI tháng 6 tăng 3,5% YoY (tháng 5 là 4,2%), giảm 0,4% MoM.",
-        "PPI cũng giảm 0,3% MoM, thấp hơn dự báo, nhờ giá năng lượng."
+        "Mỹ tiếp tục không kích Iran đêm thứ sáu liên tiếp, Tehran đáp trả bằng các đòn tập kích vào căn cứ Mỹ.",
+        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz đẩy giá dầu Brent tăng 4,59% lên 88,1 USD/thùng."
       ],
-      "insight": "Giảm áp lực lên Fed, tăng kỳ vọng về chính sách tiền tệ linh hoạt hơn.",
-      "source": "Bnews.vn, Vietstock, VTV Money"
+      "insight": "Xung đột leo thang tại Trung Đông gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải.",
+      "source": "Reuters · Eva.vn · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng",
+      "headline": "Lạm phát Mỹ hạ nhiệt, Fed vẫn giữ lập trường cứng rắn",
       "bullets": [
-        "Mỹ tái áp đặt phong tỏa hải quân, không kích Iran; Iran đáp trả.",
-        "Giá dầu Brent tăng 1,72% lên 86,19 USD/thùng cuối ngày 15/7."
+        "Chỉ số giá tiêu dùng (CPI) tháng 6 của Mỹ giảm 0,4%, chỉ số giá sản xuất (PPI) giảm 0,3%.",
+        "Quan chức ECB cảnh báo khả năng sớm điều chỉnh lãi suất nếu lạm phát không cải thiện đáng kể."
       ],
-      "insight": "Rủi ro địa chính trị đẩy giá năng lượng, gây lo ngại lạm phát toàn cầu.",
-      "source": "VOV, PetroTimes, Eva.vn"
+      "insight": "Dữ liệu lạm phát Mỹ hạ nhiệt có thể giảm áp lực tăng lãi suất, nhưng các ngân hàng trung ương lớn vẫn thận trọng.",
+      "source": "VietNamNet · Báo Mới · Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#Vietcap",
-    "#KinhTếViệtNam",
-    "#KinhTếThếGiới"
+    "#TinTứcKinhTế",
+    "#ThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
