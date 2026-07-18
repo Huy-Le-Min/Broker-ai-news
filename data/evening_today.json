@@ -1,97 +1,99 @@
 {
-  "date": "17/7/2026",
+  "date": "18/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · Bnews.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính VN",
   "session": {
     "vnindex_close": "1.787,45",
-    "vnindex_change": "-16,79 điểm (-0,93%)",
+    "vnindex_change": "-0,93%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng gần 700 tỷ",
+    "foreign_net": "Bán ròng 692 tỷ",
     "foreign_dir": "sell",
-    "volume": "11.645,3 tỷ",
-    "top_gainer": "VNM"
+    "volume": "11.645 tỷ",
+    "top_gainer": "Bán lẻ, Bảo hiểm"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.440",
-      "change": "0%",
+      "value": "26.288,8",
+      "change": "flat",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6 triệu",
-      "change": "-1,6 triệu",
-      "dir": "down"
+      "value": "147,5 triệu",
+      "change": "↑0,61%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "84,23$",
-      "change": "-0,9%",
-      "dir": "down"
+      "value": "88,10$",
+      "change": "↑4,59%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Theo dõi diễn biến thị trường toàn cầu và các tin tức địa chính trị mới.",
+  "tomorrow_watch": "Theo dõi diễn biến căng thẳng Trung Đông và báo cáo kinh tế khu vực.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm gần 17 điểm, thanh khoản thấp kỷ lục",
+      "headline": "Khối ngoại bán ròng hơn 2.100 tỷ tuần qua, tập trung nhiều cổ phiếu trụ",
       "bullets": [
-        "VN-Index đóng cửa 1.787,45 điểm, giảm 16,79 điểm (-0,93%), mất mốc 1.800 điểm.",
-        "Thanh khoản HOSE đạt 11.645,3 tỷ đồng, thấp nhất trong khoảng một tháng qua.",
-        "Áp lực bán lan rộng ở vốn hóa lớn, đặc biệt nhóm bất động sản và ngân hàng."
+        "Khối ngoại bán ròng tổng cộng hơn 2.100 tỷ đồng trên toàn thị trường tuần qua.",
+        "Riêng sàn HOSE, giá trị bán ròng đạt hơn 2.157 tỷ đồng, giảm 10% so với tuần trước.",
+        "FPT, CTG, VPB, SSI, VHM và VIC là các mã bị bán ròng mạnh nhất."
       ],
-      "insight": "Dòng tiền suy yếu cho thấy tâm lý thận trọng, rủi ro điều chỉnh ngắn hạn vẫn hiện hữu.",
-      "source": "VnExpress · VietnamFinance · Báo Lao Động"
+      "insight": "Dòng vốn ngoại tiếp tục rút ròng gây áp lực lớn lên các cổ phiếu vốn hóa lớn và tâm lý thị trường.",
+      "source": "Sài Gòn Giải Phóng · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng gần 700 tỷ, tập trung gom Vinamilk",
+      "headline": "Nhiều công ty chứng khoán công bố KQKD quý II, VIX giảm sâu 95%",
       "bullets": [
-        "Nhà đầu tư nước ngoài bán ròng gần 700 tỷ đồng trên toàn thị trường hôm nay.",
-        "Áp lực bán tập trung vào nhóm ngân hàng và bán lẻ như TCB, PNJ.",
-        "VNM được mua ròng mạnh nhất với 256 tỷ đồng, trở thành điểm sáng hiếm hoi."
+        "Đến chiều 18/7, 36 công ty chứng khoán đã công bố BCTC quý II/2026.",
+        "VIX báo lãi trước thuế quý II giảm 95% xuống 75 tỷ đồng do tự doanh kém hiệu quả.",
+        "Trong khi đó, ABS tăng lãi 389% và FPTS tăng 25% lợi nhuận trước thuế."
       ],
-      "insight": "Dòng vốn ngoại rút ròng gây áp lực, nhưng việc gom VNM cho thấy sự chọn lọc cổ phiếu phòng thủ.",
-      "source": "VietnamBiz · CafeF · VnEconomy"
+      "insight": "Kết quả kinh doanh phân hóa mạnh cho thấy thách thức và cơ hội riêng biệt trong ngành chứng khoán.",
+      "source": "VietnamBiz · Tạp chí Nhịp sống thị trường"
     },
     {
       "cat": "Trong nước",
-      "headline": "Hạn mức bảo hiểm tiền gửi tăng lên 350 triệu đồng",
+      "headline": "UBCKNN định hướng phát triển thị trường tài sản mã hóa an toàn, minh bạch",
       "bullets": [
-        "NHNN ban hành Thông tư 05/2026/TT-NHNN, nâng hạn mức chi trả bảo hiểm tiền gửi.",
-        "Số tiền tối đa được chi trả tăng lên 350 triệu đồng, gấp 2,8 lần mức cũ 125 triệu đồng."
+        "Hội nghị Mã hóa tài sản thực Việt Nam 2026 khai mạc ngày 18/7.",
+        "UBCKNN nghiên cứu cơ chế thử nghiệm có kiểm soát, bảo vệ nhà đầu tư.",
+        "Việt Nam có nhu cầu vốn lớn, thuận lợi phát triển thị trường RWA."
       ],
-      "insight": "Quyết định này củng cố niềm tin người gửi tiền, tăng cường an toàn hệ thống ngân hàng.",
-      "source": "Bnews.vn · PetroTimes · Tin vắn Đầu tư Online"
+      "insight": "Chính sách rõ ràng có thể mở ra nguồn vốn mới, thúc đẩy ứng dụng công nghệ trong nền kinh tế.",
+      "source": "VietnamPlus · Thời báo Tài chính VN"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Phó Chủ tịch Fed gợi ý tăng lãi suất nếu lạm phát dai dẳng",
+      "headline": "Căng thẳng Trung Đông đẩy giá dầu Brent tăng 16% trong tuần",
       "bullets": [
-        "Phó Chủ tịch Fed Philip Jefferson để ngỏ khả năng tăng lãi suất nếu lạm phát không sớm giảm.",
-        "Phát biểu này được đưa ra sau quyết định giữ nguyên lãi suất tại cuộc họp tháng 6."
+        "Giá dầu Brent hôm nay tăng 4,59% lên 88,10 USD/thùng.",
+        "Tính chung cả tuần, giá dầu Brent tăng khoảng 16%, đánh dấu tuần tăng thứ ba liên tiếp.",
+        "Xung đột Mỹ-Iran và nguy cơ gián đoạn vận tải qua eo biển Hormuz là nguyên nhân chính."
       ],
-      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên thị trường tài chính toàn cầu.",
-      "source": "Bnews.vn"
+      "insight": "Giá dầu tăng mạnh làm gia tăng lo ngại lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
+      "source": "Tạp chí Tài Chính Doanh Nghiệp · VOH"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm nhẹ, nhưng tăng gần 12% cả tuần",
+      "headline": "Fed phát tín hiệu duy trì lãi suất cao; USD suy yếu do lạm phát hạ nhiệt",
       "bullets": [
-        "Giá dầu Brent giảm nhẹ 0,9% xuống 84,23 USD/thùng trong phiên hôm nay.",
-        "Giá dầu Brent tăng gần 12% trong cả tuần do căng thẳng Mỹ-Iran leo thang.",
-        "Lo ngại gián đoạn nguồn cung từ Trung Đông tiếp tục chi phối thị trường."
+        "Nhiều quan chức Fed gợi ý cần tăng lãi suất để kiềm chế lạm phát dai dẳng.",
+        "Khả năng Fed tăng lãi suất tháng 9 tăng vọt lên 65%.",
+        "Đồng USD suy yếu 0,2% tuần qua do CPI và PPI Mỹ tháng 6 tăng trưởng chậm lại."
       ],
-      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố hỗ trợ giá dầu, ảnh hưởng đến chi phí sản xuất.",
-      "source": "VOV · Eva.vn · Báo Lao Động"
+      "insight": "Chính sách tiền tệ Fed khó lỏng hơn dự kiến, tạo áp lực lên thị trường tài chính toàn cầu và tỷ giá.",
+      "source": "CafeF · Bnews"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#KhốiNgoại",
     "#GiáDầu",
     "#GiáVàng",
     "#Fed"
