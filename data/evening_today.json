@@ -1,92 +1,88 @@
 {
-  "date": "18/7/2026",
+  "date": "19/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính VN",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.787,45",
-    "vnindex_change": "-0,93%",
+    "vnindex_change": "-2,24%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 692 tỷ",
+    "foreign_net": "Bán ròng 2.157 tỷ",
     "foreign_dir": "sell",
-    "volume": "11.645 tỷ",
-    "top_gainer": "Bán lẻ, Bảo hiểm"
+    "volume": "14.490 tỷ",
+    "top_gainer": "Y tế"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.288,8",
-      "change": "flat",
+      "value": "26.239",
+      "change": "ổn định",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,5 triệu",
-      "change": "↑0,61%",
-      "dir": "up"
+      "value": "147,50 tr/lượng",
+      "change": "-2,4 tr/lượng",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,10$",
-      "change": "↑4,59%",
+      "value": "88,1$",
+      "change": "+1,2%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Theo dõi diễn biến căng thẳng Trung Đông và báo cáo kinh tế khu vực.",
+  "tomorrow_watch": "Số liệu PMI sản xuất khu vực Eurozone; KQKD một số doanh nghiệp lớn.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng hơn 2.100 tỷ tuần qua, tập trung nhiều cổ phiếu trụ",
+      "headline": "VN-Index giảm điểm, khối ngoại tiếp tục bán ròng mạnh",
       "bullets": [
-        "Khối ngoại bán ròng tổng cộng hơn 2.100 tỷ đồng trên toàn thị trường tuần qua.",
-        "Riêng sàn HOSE, giá trị bán ròng đạt hơn 2.157 tỷ đồng, giảm 10% so với tuần trước.",
-        "FPT, CTG, VPB, SSI, VHM và VIC là các mã bị bán ròng mạnh nhất."
+        "VN-Index kết thúc tuần giao dịch 13-17/7 giảm 40,89 điểm (-2,24%) xuống 1.787,45 điểm.",
+        "Khối ngoại bán ròng hơn 2.157 tỷ đồng trên HOSE, tập trung vào FPT, CTG và VPB.",
+        "Thanh khoản thị trường HOSE đạt bình quân 14.490 tỷ đồng/phiên, giảm so với tuần trước."
       ],
-      "insight": "Dòng vốn ngoại tiếp tục rút ròng gây áp lực lớn lên các cổ phiếu vốn hóa lớn và tâm lý thị trường.",
-      "source": "Sài Gòn Giải Phóng · VnEconomy"
+      "insight": "Áp lực bán ròng từ khối ngoại và thanh khoản thấp duy trì tâm lý thận trọng, cản trở đà phục hồi của thị trường.",
+      "source": "CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhiều công ty chứng khoán công bố KQKD quý II, VIX giảm sâu 95%",
+      "headline": "Giải ngân đầu tư công đạt 36,8% kế hoạch đến đầu tháng 7",
       "bullets": [
-        "Đến chiều 18/7, 36 công ty chứng khoán đã công bố BCTC quý II/2026.",
-        "VIX báo lãi trước thuế quý II giảm 95% xuống 75 tỷ đồng do tự doanh kém hiệu quả.",
-        "Trong khi đó, ABS tăng lãi 389% và FPTS tăng 25% lợi nhuận trước thuế."
+        "Đến hết ngày 9/7/2026, cả nước giải ngân được 370.854,2 tỷ đồng, đạt 36,8% kế hoạch.",
+        "Nhiều bộ, ngành và địa phương vẫn có tỷ lệ giải ngân dưới mức bình quân chung."
       ],
-      "insight": "Kết quả kinh doanh phân hóa mạnh cho thấy thách thức và cơ hội riêng biệt trong ngành chứng khoán.",
-      "source": "VietnamBiz · Tạp chí Nhịp sống thị trường"
+      "insight": "Tiến độ giải ngân đầu tư công còn chậm tạo áp lực lớn, ảnh hưởng đến kỳ vọng tăng trưởng kinh tế cuối năm.",
+      "source": "Báo Đấu thầu · Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "UBCKNN định hướng phát triển thị trường tài sản mã hóa an toàn, minh bạch",
+      "headline": "Du lịch Việt Nam đón 12,3 triệu khách quốc tế 6 tháng đầu năm",
       "bullets": [
-        "Hội nghị Mã hóa tài sản thực Việt Nam 2026 khai mạc ngày 18/7.",
-        "UBCKNN nghiên cứu cơ chế thử nghiệm có kiểm soát, bảo vệ nhà đầu tư.",
-        "Việt Nam có nhu cầu vốn lớn, thuận lợi phát triển thị trường RWA."
+        "Việt Nam đón 12,3 triệu lượt khách quốc tế trong 6 tháng đầu năm 2026, tăng 14,9% so với cùng kỳ.",
+        "Ngành du lịch đã hoàn thành gần 50% mục tiêu đón 25 triệu lượt khách quốc tế cả năm."
       ],
-      "insight": "Chính sách rõ ràng có thể mở ra nguồn vốn mới, thúc đẩy ứng dụng công nghệ trong nền kinh tế.",
-      "source": "VietnamPlus · Thời báo Tài chính VN"
+      "insight": "Sự phục hồi mạnh mẽ của du lịch là điểm sáng, hỗ trợ tăng trưởng kinh tế và các ngành dịch vụ liên quan.",
+      "source": "Báo Lao Động · Chinhphu.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Trung Đông đẩy giá dầu Brent tăng 16% trong tuần",
+      "headline": "Giá dầu Brent tăng mạnh 16% trong tuần do căng thẳng Trung Đông",
       "bullets": [
-        "Giá dầu Brent hôm nay tăng 4,59% lên 88,10 USD/thùng.",
-        "Tính chung cả tuần, giá dầu Brent tăng khoảng 16%, đánh dấu tuần tăng thứ ba liên tiếp.",
-        "Xung đột Mỹ-Iran và nguy cơ gián đoạn vận tải qua eo biển Hormuz là nguyên nhân chính."
+        "Giá dầu Brent đóng cửa tuần ở mức 88,1 USD/thùng, tăng khoảng 16% so với tuần trước.",
+        "Xung đột leo thang giữa Mỹ và Iran tại Trung Đông làm gia tăng lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Giá dầu tăng mạnh làm gia tăng lo ngại lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
-      "source": "Tạp chí Tài Chính Doanh Nghiệp · VOH"
+      "insight": "Giá dầu tăng cao duy trì áp lực lạm phát toàn cầu, tác động đến chi phí sản xuất và vận tải.",
+      "source": "VOV · Báo Lao Động"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed phát tín hiệu duy trì lãi suất cao; USD suy yếu do lạm phát hạ nhiệt",
+      "headline": "Lạm phát Eurozone giảm chậm, ECB đối mặt áp lực chính sách",
       "bullets": [
-        "Nhiều quan chức Fed gợi ý cần tăng lãi suất để kiềm chế lạm phát dai dẳng.",
-        "Khả năng Fed tăng lãi suất tháng 9 tăng vọt lên 65%.",
-        "Đồng USD suy yếu 0,2% tuần qua do CPI và PPI Mỹ tháng 6 tăng trưởng chậm lại."
+        "Lạm phát khu vực Eurozone tháng 6 tăng 2,8%, thấp hơn dự báo nhưng vẫn cao hơn mục tiêu.",
+        "Quan chức ECB bất đồng về việc tăng lãi suất trong tháng 7, duy trì thận trọng."
       ],
-      "insight": "Chính sách tiền tệ Fed khó lỏng hơn dự kiến, tạo áp lực lên thị trường tài chính toàn cầu và tỷ giá.",
-      "source": "CafeF · Bnews"
+      "insight": "Lạm phát dai dẳng có thể khiến ECB duy trì chính sách tiền tệ thắt chặt, ảnh hưởng dòng vốn toàn cầu.",
+      "source": "Investing.com · VnEconomy"
     }
   ],
   "hashtags": [
@@ -94,9 +90,7 @@
     "#ChứngKhoán",
     "#Vietcap",
     "#VNIndex",
-    "#GiáDầu",
-    "#GiáVàng",
-    "#Fed"
+    "#TinTức"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
