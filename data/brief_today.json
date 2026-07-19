@@ -1,86 +1,86 @@
 {
-  "date": "18/7/2026",
+  "date": "19/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "CafeF · VietNamNet · Báo Mới · VOV · Thời báo Tài chính Việt Nam · DNSE · LuatVietnam · Báo Điện tử Chính phủ · Eva.vn · PetroTimes · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.470",
-      "change": "+0.11%",
+      "value": "26.490",
+      "change": "+0,15%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6 triệu",
-      "change": "-1.1%",
-      "dir": "down"
+      "value": "147,5tr",
+      "change": "+0,61%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,10$",
-      "change": "+4.59%",
+      "value": "88,1$",
+      "change": "+4,59%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường theo dõi diễn biến căng thẳng Trung Đông và báo cáo KQKD quý 2/2026 của doanh nghiệp.",
+  "today_watch": "Theo dõi diễn biến căng thẳng Trung Đông, tác động giá dầu; chờ đợi thông tin mới về cải cách thị trường tài chính.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Nghị định mới tái định hình thị trường trái phiếu doanh nghiệp",
+      "headline": "Thủ tướng yêu cầu trình Đề án cải cách thị trường tài chính tháng 7",
       "bullets": [
-        "Nghị định 200/2026/NĐ-CP có hiệu lực từ 5/6/2026, siết chặt điều kiện phát hành, tăng cường minh bạch.",
-        "Quy định mới tập trung vào chất lượng tín dụng, phân định rõ trách nhiệm quản lý, giám sát thị trường."
+        "Thủ tướng chỉ đạo Bộ Tài chính hoàn thiện Đề án cải cách tổng thể thị trường tài chính Việt Nam.",
+        "Mục tiêu là phát triển lành mạnh thị trường vốn, ưu tiên kênh huy động vốn dài hạn trong nước."
       ],
-      "insight": "Thị trường trái phiếu doanh nghiệp sẽ phát triển bền vững hơn, nhưng có thể gây khó khăn cho doanh nghiệp yếu.",
-      "source": "Thời báo Tài chính Việt Nam"
+      "insight": "Đề án này kỳ vọng nâng cao hiệu quả huy động vốn, cải thiện minh bạch và hấp dẫn của TTCK Việt Nam.",
+      "source": "VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "KQKD quý 2/2026: Công ty chứng khoán tăng trưởng mạnh",
+      "headline": "Giải ngân đầu tư công chững lại sau bứt tốc",
       "bullets": [
-        "Chứng khoán An Bình (ABS) lãi trước thuế quý 2 tăng 389% lên 196 tỷ đồng, lũy kế 6 tháng tăng 209%.",
-        "Chứng khoán Bảo Minh (BMS) cũng ghi nhận lãi trước thuế quý 2 đạt 94 tỷ đồng, tăng 21% so với quý 1."
+        "Đến 9/7, giải ngân vốn đầu tư công đạt 36,8% kế hoạch Thủ tướng giao.",
+        "Nhịp giải ngân tuần 3-9/7 đạt 9.905,5 tỷ đồng, giảm mạnh so với tuần trước đó."
       ],
-      "insight": "Kết quả kinh doanh tích cực của CTCK phản ánh sự sôi động và tiềm năng tăng trưởng của thị trường.",
-      "source": "DNSE · Vietstock · CafeF"
+      "insight": "Tốc độ giải ngân chậm lại có thể ảnh hưởng đến động lực tăng trưởng kinh tế và tâm lý thị trường.",
+      "source": "Báo Đấu thầu · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới room tín dụng cho dự án trọng điểm",
+      "headline": "Hơn 116 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn",
       "bullets": [
-        "NHNN loại trừ dư nợ cấp cho 18 dự án trọng điểm (hàng không, đường sắt, APEC) khỏi hạn mức tăng trưởng tín dụng.",
-        "Thông tư 25/2026/TT-NHNN nâng tỷ lệ vốn ngắn hạn cho vay trung dài hạn từ 30% lên 40%, hiệu lực từ 1/7/2026."
+        "6 tháng cuối năm 2026, ước tính có 116.329 tỷ đồng trái phiếu doanh nghiệp đến hạn thanh toán.",
+        "Trong tháng 6, doanh nghiệp phát hành 43.876 tỷ đồng trái phiếu, mua lại 58.397 tỷ đồng trước hạn."
       ],
-      "insight": "Chính sách nhằm hỗ trợ tăng trưởng kinh tế, thúc đẩy đầu tư công và thu hút FDI vào các ngành trọng yếu.",
-      "source": "Báo Mới · LuatVietnam · Báo Điện tử Chính phủ"
+      "insight": "Áp lực đáo hạn lớn đòi hỏi doanh nghiệp và ngân hàng chủ động quản lý rủi ro, ảnh hưởng đến thanh khoản.",
+      "source": "Báo Tuổi Trẻ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 88 USD",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng vọt",
       "bullets": [
-        "Mỹ tiếp tục không kích Iran đêm thứ sáu liên tiếp, Tehran đáp trả bằng các đòn tập kích vào căn cứ Mỹ.",
-        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz đẩy giá dầu Brent tăng 4,59% lên 88,1 USD/thùng."
+        "Giá dầu Brent đạt 88,1 USD/thùng, tăng mạnh khoảng 4,59% trong phiên gần nhất.",
+        "Mỹ tái áp đặt phong tỏa hải quân Iran, gây lo ngại gián đoạn nguồn cung qua eo biển Hormuz."
       ],
-      "insight": "Xung đột leo thang tại Trung Đông gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải.",
-      "source": "Reuters · Eva.vn · Báo Mới"
+      "insight": "Giá dầu tăng cao thúc đẩy lo ngại lạm phát toàn cầu, có thể ảnh hưởng chi phí sản xuất và vận tải.",
+      "source": "Eva.vn · VOV · Thethao247.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt, Fed vẫn giữ lập trường cứng rắn",
+      "headline": "Chứng khoán Mỹ giảm sâu, nhóm bán dẫn vào \"bear market\"",
       "bullets": [
-        "Chỉ số giá tiêu dùng (CPI) tháng 6 của Mỹ giảm 0,4%, chỉ số giá sản xuất (PPI) giảm 0,3%.",
-        "Quan chức ECB cảnh báo khả năng sớm điều chỉnh lãi suất nếu lạm phát không cải thiện đáng kể."
+        "Dow Jones, S&P 500, Nasdaq đều giảm điểm mạnh trong tuần qua, SOX giảm hơn 20% từ đỉnh.",
+        "Lo ngại cạnh tranh từ các mô hình AI Trung Quốc gây áp lực bán tháo cổ phiếu chip."
       ],
-      "insight": "Dữ liệu lạm phát Mỹ hạ nhiệt có thể giảm áp lực tăng lãi suất, nhưng các ngân hàng trung ương lớn vẫn thận trọng.",
-      "source": "VietNamNet · Báo Mới · Investing.com"
+      "insight": "Tâm lý tiêu cực từ Phố Wall có thể lan tỏa, tác động đến dòng vốn và khẩu vị rủi ro của nhà đầu tư toàn cầu.",
+      "source": "Bnews"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#Vietcap",
-    "#TinTứcKinhTế",
-    "#ThịTrường"
+    "#KinhTếViệtNam",
+    "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
