@@ -1,96 +1,94 @@
 {
-  "date": "19/7/2026",
+  "date": "20/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.787,45",
-    "vnindex_change": "-2,24%",
+    "vnindex_close": "1.743,51",
+    "vnindex_change": "-2,46%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 2.157 tỷ",
+    "foreign_net": "Bán ròng 88 tỷ",
     "foreign_dir": "sell",
-    "volume": "14.490 tỷ",
-    "top_gainer": "Y tế"
+    "volume": "21.177 tỷ",
+    "top_gainer": "Thực phẩm & Đồ uống"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.239",
-      "change": "ổn định",
-      "dir": "flat"
+      "value": "26.490",
+      "change": "+0,19%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,50 tr/lượng",
-      "change": "-2,4 tr/lượng",
+      "value": "146 tr/lượng",
+      "change": "-1,02%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,1$",
-      "change": "+1,2%",
+      "value": "90,79$",
+      "change": "+3,05%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Số liệu PMI sản xuất khu vực Eurozone; KQKD một số doanh nghiệp lớn.",
+  "tomorrow_watch": "Anh công bố số liệu thất nghiệp; Đức công bố niềm tin nhà đầu tư.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm điểm, khối ngoại tiếp tục bán ròng mạnh",
+      "headline": "VN-Index giảm mạnh, khối ngoại bán ròng",
       "bullets": [
-        "VN-Index kết thúc tuần giao dịch 13-17/7 giảm 40,89 điểm (-2,24%) xuống 1.787,45 điểm.",
-        "Khối ngoại bán ròng hơn 2.157 tỷ đồng trên HOSE, tập trung vào FPT, CTG và VPB.",
-        "Thanh khoản thị trường HOSE đạt bình quân 14.490 tỷ đồng/phiên, giảm so với tuần trước."
+        "VN-Index mất 43,94 điểm (-2,46%), đóng cửa 1.743,51 điểm.",
+        "Thanh khoản ba sàn đạt hơn 21.177 tỷ đồng; khối ngoại bán ròng 88 tỷ.",
+        "Ngân hàng, BĐS, chứng khoán giảm sâu, nhiều mã sàn."
       ],
-      "insight": "Áp lực bán ròng từ khối ngoại và thanh khoản thấp duy trì tâm lý thận trọng, cản trở đà phục hồi của thị trường.",
-      "source": "CafeF · Vietstock"
+      "insight": "Áp lực bán tháo diện rộng cho thấy tâm lý lo ngại rủi ro gia tăng trên thị trường.",
+      "source": "CafeF · VnEconomy · VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công đạt 36,8% kế hoạch đến đầu tháng 7",
+      "headline": "Tỷ giá USD/VND tăng mạnh tại ngân hàng",
       "bullets": [
-        "Đến hết ngày 9/7/2026, cả nước giải ngân được 370.854,2 tỷ đồng, đạt 36,8% kế hoạch.",
-        "Nhiều bộ, ngành và địa phương vẫn có tỷ lệ giải ngân dưới mức bình quân chung."
+        "USD tại Vietcombank bán ra 26.490 VND/USD, tăng 50 đồng.",
+        "Tỷ giá tự do tăng 120-130 đồng, nới rộng khoảng cách."
       ],
-      "insight": "Tiến độ giải ngân đầu tư công còn chậm tạo áp lực lớn, ảnh hưởng đến kỳ vọng tăng trưởng kinh tế cuối năm.",
-      "source": "Báo Đấu thầu · Báo Chính phủ"
+      "insight": "Đồng USD mạnh lên gây áp lực lên nhập khẩu và dòng vốn đầu tư nước ngoài.",
+      "source": "Bnews.vn · VnEconomy · Báo Thanh Niên"
     },
     {
       "cat": "Trong nước",
-      "headline": "Du lịch Việt Nam đón 12,3 triệu khách quốc tế 6 tháng đầu năm",
+      "headline": "Vàng SJC giảm mạnh 1,5 triệu đồng/lượng",
       "bullets": [
-        "Việt Nam đón 12,3 triệu lượt khách quốc tế trong 6 tháng đầu năm 2026, tăng 14,9% so với cùng kỳ.",
-        "Ngành du lịch đã hoàn thành gần 50% mục tiêu đón 25 triệu lượt khách quốc tế cả năm."
+        "Giá vàng SJC bán ra 146 triệu đồng/lượng, giảm 1,5 triệu.",
+        "Thị trường vàng trong nước đồng loạt giảm mạnh giá miếng."
       ],
-      "insight": "Sự phục hồi mạnh mẽ của du lịch là điểm sáng, hỗ trợ tăng trưởng kinh tế và các ngành dịch vụ liên quan.",
-      "source": "Báo Lao Động · Chinhphu.vn"
+      "insight": "Đà giảm của vàng phản ánh tâm lý chốt lời và biến động giá thế giới.",
+      "source": "24H · CafeF · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh 16% trong tuần do căng thẳng Trung Đông",
+      "headline": "Dầu Brent vượt 90 USD/thùng do Trung Đông",
       "bullets": [
-        "Giá dầu Brent đóng cửa tuần ở mức 88,1 USD/thùng, tăng khoảng 16% so với tuần trước.",
-        "Xung đột leo thang giữa Mỹ và Iran tại Trung Đông làm gia tăng lo ngại gián đoạn nguồn cung."
+        "Giá dầu Brent tăng 3,05% lên 90,79 USD/thùng.",
+        "Căng thẳng Mỹ-Iran leo thang, lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Giá dầu tăng cao duy trì áp lực lạm phát toàn cầu, tác động đến chi phí sản xuất và vận tải.",
-      "source": "VOV · Báo Lao Động"
+      "insight": "Giá dầu tăng cao có thể đẩy lạm phát toàn cầu, ảnh hưởng chi phí doanh nghiệp.",
+      "source": "VOV · Báo Lao Động · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Eurozone giảm chậm, ECB đối mặt áp lực chính sách",
+      "headline": "Fed giữ lập trường cứng rắn, sẵn sàng tăng lãi suất",
       "bullets": [
-        "Lạm phát khu vực Eurozone tháng 6 tăng 2,8%, thấp hơn dự báo nhưng vẫn cao hơn mục tiêu.",
-        "Quan chức ECB bất đồng về việc tăng lãi suất trong tháng 7, duy trì thận trọng."
+        "Biên bản FOMC tháng 7: đa số quan chức lo ngại lạm phát dai dẳng.",
+        "Fed sẵn sàng tăng lãi suất nếu giá cả không hạ nhiệt."
       ],
-      "insight": "Lạm phát dai dẳng có thể khiến ECB duy trì chính sách tiền tệ thắt chặt, ảnh hưởng dòng vốn toàn cầu.",
-      "source": "Investing.com · VnEconomy"
+      "insight": "Chính sách tiền tệ thắt chặt của Fed gây áp lực lên dòng vốn toàn cầu.",
+      "source": "CafeF · Investing.com · Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#VNIndex",
-    "#TinTức"
+    "#Vietcap"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
