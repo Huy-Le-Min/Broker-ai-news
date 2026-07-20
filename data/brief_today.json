@@ -1,86 +1,94 @@
 {
-  "date": "19/7/2026",
+  "date": "20/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Chính phủ · Fili.vn · Tuổi Trẻ · Investing.com · Oilprice · Phemex News · Báo Thời Báo Ngân Hàng · Chợ Giá · 24H · Batdongsan.com.vn · DXS-FERI · VietnamFinance · Người Quan Sát · Học viện Tài chính · Cục Thống kê Quốc gia Trung Quốc · Báo Sài Gòn Giải Phóng · Báo Nhân Dân · ITPC · Báo Đại biểu Nhân dân · VTV.vn · baodautu",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.490",
-      "change": "+0,15%",
+      "value": "26.287,34",
+      "change": "+0,10%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,5tr",
-      "change": "+0,61%",
-      "dir": "up"
+      "value": "147,5 tr",
+      "change": "-0,50%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,1$",
-      "change": "+4,59%",
+      "value": "90,93$",
+      "change": "+3,21%",
       "dir": "up"
     }
   ],
-  "today_watch": "Theo dõi diễn biến căng thẳng Trung Đông, tác động giá dầu; chờ đợi thông tin mới về cải cách thị trường tài chính.",
+  "today_watch": "Hội thảo về thuế, hóa đơn điện tử trong thương mại điện tử.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Thủ tướng yêu cầu trình Đề án cải cách thị trường tài chính tháng 7",
+      "headline": "Bất động sản 6 tháng đầu năm phục hồi, dòng tiền tìm về giá trị thực",
       "bullets": [
-        "Thủ tướng chỉ đạo Bộ Tài chính hoàn thiện Đề án cải cách tổng thể thị trường tài chính Việt Nam.",
-        "Mục tiêu là phát triển lành mạnh thị trường vốn, ưu tiên kênh huy động vốn dài hạn trong nước."
+        "Thị trường BĐS Việt Nam 6 tháng đầu năm 2026 ghi nhận nhiều tín hiệu tích cực, niềm tin người mua cải thiện rõ rệt.",
+        "Dòng tiền tập trung vào sản phẩm có giá trị sử dụng, pháp lý minh bạch và hạ tầng tốt.",
+        "Nguồn cung mới dự kiến tăng 33.000 sản phẩm nửa cuối năm, nâng tổng nguồn cung sơ cấp lên hơn 100.000."
       ],
-      "insight": "Đề án này kỳ vọng nâng cao hiệu quả huy động vốn, cải thiện minh bạch và hấp dẫn của TTCK Việt Nam.",
-      "source": "VietnamBiz"
+      "insight": "Sự phục hồi bền vững của BĐS có thể hỗ trợ các ngành liên quan và niềm tin thị trường chung.",
+      "source": "Batdongsan.com.vn · VnEconomy · DXS-FERI"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công chững lại sau bứt tốc",
+      "headline": "Vốn FDI vào Việt Nam 6 tháng đầu năm 2026 đạt kỷ lục hơn 34 tỷ USD",
       "bullets": [
-        "Đến 9/7, giải ngân vốn đầu tư công đạt 36,8% kế hoạch Thủ tướng giao.",
-        "Nhịp giải ngân tuần 3-9/7 đạt 9.905,5 tỷ đồng, giảm mạnh so với tuần trước đó."
+        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ năm trước.",
+        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, cao nhất 5 năm qua.",
+        "Ngành chế biến, chế tạo thu hút lớn nhất với 17,91 tỷ USD."
       ],
-      "insight": "Tốc độ giải ngân chậm lại có thể ảnh hưởng đến động lực tăng trưởng kinh tế và tâm lý thị trường.",
-      "source": "Báo Đấu thầu · Thời báo Tài chính Việt Nam"
+      "insight": "Dòng vốn ngoại kỷ lục khẳng định sức hấp dẫn của Việt Nam, thúc đẩy tăng trưởng và chuyển dịch cơ cấu kinh tế.",
+      "source": "Cục Thống kê · Tuổi Trẻ · VnEconomy · VietnamFinance"
     },
     {
       "cat": "Trong nước",
-      "headline": "Hơn 116 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn",
+      "headline": "Giải ngân đầu tư công chững lại, áp lực hoàn thành mục tiêu",
       "bullets": [
-        "6 tháng cuối năm 2026, ước tính có 116.329 tỷ đồng trái phiếu doanh nghiệp đến hạn thanh toán.",
-        "Trong tháng 6, doanh nghiệp phát hành 43.876 tỷ đồng trái phiếu, mua lại 58.397 tỷ đồng trước hạn."
+        "Đến 9/7/2026, giải ngân vốn đầu tư công đạt 370,85 nghìn tỷ đồng, 36,8% kế hoạch Thủ tướng giao.",
+        "Nhịp giải ngân tuần 3-9/7 chỉ đạt 9,9 nghìn tỷ, bằng 16,1% tuần trước.",
+        "Vướng mắc về mặt bằng, vật liệu, nhân lực vẫn là rào cản lớn."
       ],
-      "insight": "Áp lực đáo hạn lớn đòi hỏi doanh nghiệp và ngân hàng chủ động quản lý rủi ro, ảnh hưởng đến thanh khoản.",
-      "source": "Báo Tuổi Trẻ"
+      "insight": "Tiến độ đầu tư công chậm có thể ảnh hưởng đến động lực tăng trưởng kinh tế và tâm lý nhà đầu tư.",
+      "source": "Bộ Tài chính · Fili.vn · VTV.vn · baodautu"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent tăng vọt",
+      "headline": "Giá dầu Brent vượt 90 USD/thùng do căng thẳng Trung Đông",
       "bullets": [
-        "Giá dầu Brent đạt 88,1 USD/thùng, tăng mạnh khoảng 4,59% trong phiên gần nhất.",
-        "Mỹ tái áp đặt phong tỏa hải quân Iran, gây lo ngại gián đoạn nguồn cung qua eo biển Hormuz."
+        "Giá dầu Brent sáng 20/7 niêm yết 90,93 USD/thùng, tăng 3,21% so với phiên trước.",
+        "Căng thẳng Mỹ-Iran leo thang, làm tăng nguy cơ gián đoạn nguồn cung dầu.",
+        "Giá dầu thế giới đã tăng khoảng 16% trong tuần qua."
       ],
-      "insight": "Giá dầu tăng cao thúc đẩy lo ngại lạm phát toàn cầu, có thể ảnh hưởng chi phí sản xuất và vận tải.",
-      "source": "Eva.vn · VOV · Thethao247.vn"
+      "insight": "Dầu tăng giá mạnh gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
+      "source": "Oilprice · Investing.com · 24H"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ giảm sâu, nhóm bán dẫn vào \"bear market\"",
+      "headline": "Fed dự kiến giữ nguyên lãi suất tháng 7, kỳ vọng tăng tháng 9",
       "bullets": [
-        "Dow Jones, S&P 500, Nasdaq đều giảm điểm mạnh trong tuần qua, SOX giảm hơn 20% từ đỉnh.",
-        "Lo ngại cạnh tranh từ các mô hình AI Trung Quốc gây áp lực bán tháo cổ phiếu chip."
+        "Xác suất Fed giữ nguyên lãi suất trong cuộc họp 29/7 là 85,6%.",
+        "Tuy nhiên, khả năng tăng 25 điểm cơ bản vào tháng 9 đã lên 51,2%.",
+        "Áp lực tăng lãi suất trở lại do lo ngại lạm phát và giá dầu leo thang."
       ],
-      "insight": "Tâm lý tiêu cực từ Phố Wall có thể lan tỏa, tác động đến dòng vốn và khẩu vị rủi ro của nhà đầu tư toàn cầu.",
-      "source": "Bnews"
+      "insight": "Chính sách Fed thận trọng nhưng xu hướng thắt chặt có thể ảnh hưởng tỷ giá và dòng vốn ngoại vào Việt Nam.",
+      "source": "CME FedWatch · Phemex News · Investing.com · Vietstock · Báo Thời Báo Ngân Hàng"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#Vietcap",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#FDI",
+    "#BấtĐộngSản",
+    "#ĐầuTưCông",
+    "#GiáDầu",
+    "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
