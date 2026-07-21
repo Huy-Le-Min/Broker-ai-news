@@ -1,94 +1,95 @@
 {
-  "date": "20/7/2026",
+  "date": "21/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · Bnews · VOV · Báo Lao Động · Báo Sài Gòn Giải Phóng",
   "session": {
-    "vnindex_close": "1.743,51",
-    "vnindex_change": "-2,46%",
+    "vnindex_close": "1.730,56",
+    "vnindex_change": "-0,74%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 88 tỷ",
-    "foreign_dir": "sell",
-    "volume": "21.177 tỷ",
-    "top_gainer": "Thực phẩm & Đồ uống"
+    "foreign_net": "Mua ròng 24 tỷ",
+    "foreign_dir": "buy",
+    "volume": "23.092 tỷ",
+    "top_gainer": "Nhóm Ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.490",
-      "change": "+0,19%",
-      "dir": "up"
+      "change": "Flat",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "146 tr/lượng",
-      "change": "-1,02%",
-      "dir": "down"
+      "value": "146,40 triệu",
+      "change": "+0,27%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "90,79$",
-      "change": "+3,05%",
+      "value": "89,62$",
+      "change": "+0,44%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Anh công bố số liệu thất nghiệp; Đức công bố niềm tin nhà đầu tư.",
+  "tomorrow_watch": "Dữ liệu CPI tháng 7 của Mỹ sẽ công bố, ảnh hưởng kỳ vọng lãi suất Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm mạnh, khối ngoại bán ròng",
+      "headline": "Trung ương họp bàn đổi mới mô hình phát triển Việt Nam",
       "bullets": [
-        "VN-Index mất 43,94 điểm (-2,46%), đóng cửa 1.743,51 điểm.",
-        "Thanh khoản ba sàn đạt hơn 21.177 tỷ đồng; khối ngoại bán ròng 88 tỷ.",
-        "Ngân hàng, BĐS, chứng khoán giảm sâu, nhiều mã sàn."
+        "Hội nghị lần thứ ba Ban Chấp hành Trung ương Đảng khóa XIV tiếp tục ngày làm việc thứ hai (21/7).",
+        "Nội dung tập trung vào đổi mới mô hình phát triển, định hướng chiến lược kinh tế quốc gia."
       ],
-      "insight": "Áp lực bán tháo diện rộng cho thấy tâm lý lo ngại rủi ro gia tăng trên thị trường.",
-      "source": "CafeF · VnEconomy · VietNamNet"
+      "insight": "Quyết sách từ hội nghị có thể định hình chính sách vĩ mô, ảnh hưởng dài hạn tới thị trường.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá USD/VND tăng mạnh tại ngân hàng",
+      "headline": "TP.HCM đẩy nhanh đấu giá 50 khu đất, tăng thu ngân sách",
       "bullets": [
-        "USD tại Vietcombank bán ra 26.490 VND/USD, tăng 50 đồng.",
-        "Tỷ giá tự do tăng 120-130 đồng, nới rộng khoảng cách."
+        "TP.HCM yêu cầu đẩy nhanh xác định giá đất, thu tiền sử dụng đất năm 2026.",
+        "Động thái này kỳ vọng tăng thu ngân sách và tạo tham chiếu giá cho BĐS."
       ],
-      "insight": "Đồng USD mạnh lên gây áp lực lên nhập khẩu và dòng vốn đầu tư nước ngoài.",
-      "source": "Bnews.vn · VnEconomy · Báo Thanh Niên"
+      "insight": "Việc đấu giá đất thành công sẽ hỗ trợ ngân sách và tạo động lực cho ngành bất động sản.",
+      "source": "CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vàng SJC giảm mạnh 1,5 triệu đồng/lượng",
+      "headline": "NHNN tiếp tục hút ròng hơn 21.000 tỷ đồng",
       "bullets": [
-        "Giá vàng SJC bán ra 146 triệu đồng/lượng, giảm 1,5 triệu.",
-        "Thị trường vàng trong nước đồng loạt giảm mạnh giá miếng."
+        "Ngân hàng Nhà nước đã hút ròng 21.260 tỷ đồng trong tuần thứ ba tháng 7 (13-17/07).",
+        "Động thái này nhằm điều tiết thanh khoản, ổn định thị trường tiền tệ."
       ],
-      "insight": "Đà giảm của vàng phản ánh tâm lý chốt lời và biến động giá thế giới.",
-      "source": "24H · CafeF · Báo Mới"
+      "insight": "Việc hút ròng cho thấy NHNN duy trì chính sách tiền tệ thận trọng, ảnh hưởng dòng tiền.",
+      "source": "Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 90 USD/thùng do Trung Đông",
+      "headline": "Fed phát tín hiệu cứng rắn, khả năng tăng lãi suất nóng lên",
       "bullets": [
-        "Giá dầu Brent tăng 3,05% lên 90,79 USD/thùng.",
-        "Căng thẳng Mỹ-Iran leo thang, lo ngại gián đoạn nguồn cung."
+        "Chủ tịch Fed Kevin Warsh khẳng định ưu tiên hàng đầu là kiểm soát lạm phát.",
+        "Một số quan chức Fed bất đồng, cho rằng cần tăng lãi suất nếu lạm phát không hạ nhiệt."
       ],
-      "insight": "Giá dầu tăng cao có thể đẩy lạm phát toàn cầu, ảnh hưởng chi phí doanh nghiệp.",
-      "source": "VOV · Báo Lao Động · Bnews.vn"
+      "insight": "Lập trường cứng rắn của Fed có thể gây áp lực lên tỷ giá và dòng vốn ngoại tại Việt Nam.",
+      "source": "VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed giữ lập trường cứng rắn, sẵn sàng tăng lãi suất",
+      "headline": "Thương mại Mỹ-Trung Quốc phục hồi, tín hiệu tích cực toàn cầu",
       "bullets": [
-        "Biên bản FOMC tháng 7: đa số quan chức lo ngại lạm phát dai dẳng.",
-        "Fed sẵn sàng tăng lãi suất nếu giá cả không hạ nhiệt."
+        "Hoạt động thương mại giữa hai nền kinh tế lớn nhất thế giới cho thấy dấu hiệu phục hồi.",
+        "Điều này có thể giảm bớt lo ngại về suy thoái kinh tế toàn cầu."
       ],
-      "insight": "Chính sách tiền tệ thắt chặt của Fed gây áp lực lên dòng vốn toàn cầu.",
-      "source": "CafeF · Investing.com · Báo Mới"
+      "insight": "Quan hệ thương mại Mỹ-Trung cải thiện sẽ hỗ trợ tâm lý thị trường và tăng trưởng xuất khẩu Việt Nam.",
+      "source": "VTC News"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap"
+    "#ĐầuTưCông",
+    "#LãiSuấtFed",
+    "#ThươngMạiMỹTrung"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
