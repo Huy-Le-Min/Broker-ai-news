@@ -1,94 +1,92 @@
 {
-  "date": "20/7/2026",
+  "date": "21/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Chính phủ · Fili.vn · Tuổi Trẻ · Investing.com · Oilprice · Phemex News · Báo Thời Báo Ngân Hàng · Chợ Giá · 24H · Batdongsan.com.vn · DXS-FERI · VietnamFinance · Người Quan Sát · Học viện Tài chính · Cục Thống kê Quốc gia Trung Quốc · Báo Sài Gòn Giải Phóng · Báo Nhân Dân · ITPC · Báo Đại biểu Nhân dân · VTV.vn · baodautu",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Đầu tư · Báo Mới · VOV",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.287,34",
-      "change": "+0,10%",
+      "value": "26.490 VND",
+      "change": "+0,23%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,5 tr",
-      "change": "-0,50%",
+      "value": "146 triệu đồng/lượng",
+      "change": "-1,5 triệu đồng",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "90,93$",
-      "change": "+3,21%",
-      "dir": "up"
+      "value": "89,22$",
+      "change": "-2,2%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Hội thảo về thuế, hóa đơn điện tử trong thương mại điện tử.",
+  "today_watch": "Thị trường theo dõi diễn biến giá dầu, căng thẳng Trung Đông và tín hiệu từ Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản 6 tháng đầu năm phục hồi, dòng tiền tìm về giá trị thực",
+      "headline": "Nhập siêu lũy kế Việt Nam vượt 20 tỷ USD đến giữa tháng 7",
       "bullets": [
-        "Thị trường BĐS Việt Nam 6 tháng đầu năm 2026 ghi nhận nhiều tín hiệu tích cực, niềm tin người mua cải thiện rõ rệt.",
-        "Dòng tiền tập trung vào sản phẩm có giá trị sử dụng, pháp lý minh bạch và hạ tầng tốt.",
-        "Nguồn cung mới dự kiến tăng 33.000 sản phẩm nửa cuối năm, nâng tổng nguồn cung sơ cấp lên hơn 100.000."
+        "Cán cân thương mại Việt Nam thâm hụt 3,64 tỷ USD trong nửa đầu tháng 7/2026, nâng tổng nhập siêu lũy kế lên 20,46 tỷ USD.",
+        "Tổng kim ngạch xuất nhập khẩu đạt hơn 601 tỷ USD tính đến 15/7, tăng 27,8% so với cùng kỳ năm trước.",
+        "Nhập khẩu tăng mạnh hơn xuất khẩu, cho thấy nhu cầu đầu vào sản xuất cao nhưng đầu ra chưa chuyển hóa kịp."
       ],
-      "insight": "Sự phục hồi bền vững của BĐS có thể hỗ trợ các ngành liên quan và niềm tin thị trường chung.",
-      "source": "Batdongsan.com.vn · VnEconomy · DXS-FERI"
+      "insight": "Nhập siêu lớn gây áp lực lên tỷ giá và cán cân thanh toán, có thể ảnh hưởng tâm lý nhà đầu tư ngoại.",
+      "source": "VnEconomy · Báo Đầu tư · VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vốn FDI vào Việt Nam 6 tháng đầu năm 2026 đạt kỷ lục hơn 34 tỷ USD",
+      "headline": "Ngân hàng báo lãi quý 2 tăng trưởng tích cực, VPBank dẫn đầu",
       "bullets": [
-        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ năm trước.",
-        "Vốn FDI thực hiện ước đạt 13,03 tỷ USD, cao nhất 5 năm qua.",
-        "Ngành chế biến, chế tạo thu hút lớn nhất với 17,91 tỷ USD."
+        "Nhiều ngân hàng công bố kết quả kinh doanh quý 2/2026 với lợi nhuận trước thuế tăng mạnh, như VPBank đạt gần 11.000 tỷ đồng, tăng 76%.",
+        "Agribank lần đầu tiên có dư nợ cho vay nền kinh tế vượt mốc 2 triệu tỷ đồng.",
+        "Lợi nhuận ngành ngân hàng dự báo tăng trưởng hai chữ số, nhưng có sự phân hóa rõ nét giữa các nhà băng."
       ],
-      "insight": "Dòng vốn ngoại kỷ lục khẳng định sức hấp dẫn của Việt Nam, thúc đẩy tăng trưởng và chuyển dịch cơ cấu kinh tế.",
-      "source": "Cục Thống kê · Tuổi Trẻ · VnEconomy · VietnamFinance"
+      "insight": "Kết quả kinh doanh khả quan của nhóm ngân hàng lớn là trụ đỡ cho thị trường, thu hút dòng tiền đầu tư.",
+      "source": "CafeF · Báo Đầu tư · VietnamPlus"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công chững lại, áp lực hoàn thành mục tiêu",
+      "headline": "Giải ngân đầu tư công chững lại sau cú bứt tốc tháng 6",
       "bullets": [
-        "Đến 9/7/2026, giải ngân vốn đầu tư công đạt 370,85 nghìn tỷ đồng, 36,8% kế hoạch Thủ tướng giao.",
-        "Nhịp giải ngân tuần 3-9/7 chỉ đạt 9,9 nghìn tỷ, bằng 16,1% tuần trước.",
-        "Vướng mắc về mặt bằng, vật liệu, nhân lực vẫn là rào cản lớn."
+        "Đến hết ngày 9/7/2026, giải ngân vốn đầu tư công đạt 370.854,2 tỷ đồng, tương đương 36,8% kế hoạch Thủ tướng giao.",
+        "Nhịp giải ngân tuần đầu tháng 7 chỉ đạt 9.905,5 tỷ đồng, bằng 16,1% so với tuần cuối tháng 6.",
+        "Các địa phương đang rốt ráo tháo gỡ điểm nghẽn về mặt bằng và vật liệu để đẩy nhanh tiến độ."
       ],
-      "insight": "Tiến độ đầu tư công chậm có thể ảnh hưởng đến động lực tăng trưởng kinh tế và tâm lý nhà đầu tư.",
-      "source": "Bộ Tài chính · Fili.vn · VTV.vn · baodautu"
+      "insight": "Tiến độ đầu tư công chậm lại có thể ảnh hưởng đến kỳ vọng tăng trưởng kinh tế và các ngành liên quan.",
+      "source": "Báo Đấu thầu · VietnamBiz · Thời báo Tài chính"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 90 USD/thùng do căng thẳng Trung Đông",
+      "headline": "Fed phát tín hiệu cứng rắn, khả năng tăng lãi suất tháng 9",
       "bullets": [
-        "Giá dầu Brent sáng 20/7 niêm yết 90,93 USD/thùng, tăng 3,21% so với phiên trước.",
-        "Căng thẳng Mỹ-Iran leo thang, làm tăng nguy cơ gián đoạn nguồn cung dầu.",
-        "Giá dầu thế giới đã tăng khoảng 16% trong tuần qua."
+        "Chủ tịch Fed Kevin Warsh cùng nhiều quan chức phát đi thông điệp cứng rắn về kiểm soát lạm phát.",
+        "Thị trường dự báo Fed sẽ giữ nguyên lãi suất trong cuộc họp cuối tháng 7, nhưng xác suất tăng lãi suất tháng 9 lên 62,8%.",
+        "Giá năng lượng leo thang và làn sóng đầu tư AI đang đẩy chi phí công nghệ lên cao, gây áp lực lạm phát."
       ],
-      "insight": "Dầu tăng giá mạnh gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
-      "source": "Oilprice · Investing.com · 24H"
+      "insight": "Chính sách tiền tệ thắt chặt của Fed tiếp tục gây áp lực lên tỷ giá USD/VND và dòng vốn ngoại vào Việt Nam.",
+      "source": "VOV · Báo Mới · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed dự kiến giữ nguyên lãi suất tháng 7, kỳ vọng tăng tháng 9",
+      "headline": "Giá dầu giảm mạnh sau tín hiệu đàm phán Mỹ-Iran",
       "bullets": [
-        "Xác suất Fed giữ nguyên lãi suất trong cuộc họp 29/7 là 85,6%.",
-        "Tuy nhiên, khả năng tăng 25 điểm cơ bản vào tháng 9 đã lên 51,2%.",
-        "Áp lực tăng lãi suất trở lại do lo ngại lạm phát và giá dầu leo thang."
+        "Giá dầu Brent giảm xuống 89,22 USD/thùng sáng 21/7, sau khi chạm mức cao nhất hơn một tháng.",
+        "Bộ Ngoại giao Iran phát biểu về khả năng nối lại đàm phán với Mỹ, làm giảm lo ngại gián đoạn nguồn cung.",
+        "Căng thẳng leo thang ở Trung Đông trước đó đã đẩy giá dầu vượt 90 USD/thùng, gây lo ngại lạm phát toàn cầu."
       ],
-      "insight": "Chính sách Fed thận trọng nhưng xu hướng thắt chặt có thể ảnh hưởng tỷ giá và dòng vốn ngoại vào Việt Nam.",
-      "source": "CME FedWatch · Phemex News · Investing.com · Vietstock · Báo Thời Báo Ngân Hàng"
+      "insight": "Giá dầu hạ nhiệt giúp giảm áp lực lạm phát và chi phí sản xuất, hỗ trợ triển vọng kinh tế toàn cầu và Việt Nam.",
+      "source": "Eva.vn · VOV · PetroTimes"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FDI",
-    "#BấtĐộngSản",
-    "#ĐầuTưCông",
-    "#GiáDầu",
-    "#Fed"
+    "#KinhTếThếGiới",
+    "#Fed",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
