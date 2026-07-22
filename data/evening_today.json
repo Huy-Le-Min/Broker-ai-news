@@ -1,95 +1,105 @@
 {
-  "date": "21/7/2026",
+  "date": "22/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · Bnews · VOV · Báo Lao Động · Báo Sài Gòn Giải Phóng",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Thanh Niên · Thời báo Tài chính Việt Nam · VietnamBiz · Lao Động · baodautu · Fili.vn · baotintuc.vn · VietnamPlus · Người quan sát · Chợ Giá · SimianX AI · VIRA · Hànộimới · VOV · Bongdaplus.vn · Dân trí · Web Giá",
   "session": {
-    "vnindex_close": "1.730,56",
-    "vnindex_change": "-0,74%",
+    "vnindex_close": "1.668,53",
+    "vnindex_change": "-3,58%",
     "vnindex_dir": "down",
-    "foreign_net": "Mua ròng 24 tỷ",
-    "foreign_dir": "buy",
-    "volume": "23.092 tỷ",
-    "top_gainer": "Nhóm Ngân hàng"
+    "foreign_net": "Bán ròng ~1.900 tỷ",
+    "foreign_dir": "sell",
+    "volume": "hơn 23.000 tỷ",
+    "top_gainer": "Không có nhóm dẫn dắt rõ rệt (VNM nổi bật)"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.490",
-      "change": "Flat",
-      "dir": "flat"
+      "value": "26.520",
+      "change": "+0.11%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,40 triệu",
-      "change": "+0,27%",
+      "value": "147 triệu",
+      "change": "+0.41%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "89,62$",
-      "change": "+0,44%",
+      "value": "91.54$",
+      "change": "+2.0%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Dữ liệu CPI tháng 7 của Mỹ sẽ công bố, ảnh hưởng kỳ vọng lãi suất Fed.",
+  "tomorrow_watch": "Kỳ điều hành giá xăng dầu trong nước; theo dõi diễn biến địa chính trị Trung Đông.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Trung ương họp bàn đổi mới mô hình phát triển Việt Nam",
+      "headline": "Ngân hàng công bố KQKD Q2: Techcombank lãi kỷ lục, Sacombank giảm sâu",
       "bullets": [
-        "Hội nghị lần thứ ba Ban Chấp hành Trung ương Đảng khóa XIV tiếp tục ngày làm việc thứ hai (21/7).",
-        "Nội dung tập trung vào đổi mới mô hình phát triển, định hướng chiến lược kinh tế quốc gia."
+        "Techcombank đạt lợi nhuận trước thuế 18.500 tỷ đồng 6 tháng, quý 2 lập kỷ lục mới.",
+        "VPBank dẫn đầu khối tư nhân với 18.880 tỷ đồng lợi nhuận 6 tháng, Sacombank giảm 50%.",
+        "Nhiều ngân hàng khác như ABBank, Vietbank ghi nhận tăng trưởng lợi nhuận tích cực hai chữ số."
       ],
-      "insight": "Quyết sách từ hội nghị có thể định hình chính sách vĩ mô, ảnh hưởng dài hạn tới thị trường.",
-      "source": "VnEconomy"
+      "insight": "Lợi nhuận phân hóa mạnh cho thấy thách thức quản trị rủi ro và chi phí vốn vẫn hiện hữu.",
+      "source": "Dân trí · VietnamBiz · baodautu · VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "TP.HCM đẩy nhanh đấu giá 50 khu đất, tăng thu ngân sách",
+      "headline": "Bất động sản H2/2026: Phân hóa mạnh, thanh khoản tập trung nhu cầu thực",
       "bullets": [
-        "TP.HCM yêu cầu đẩy nhanh xác định giá đất, thu tiền sử dụng đất năm 2026.",
-        "Động thái này kỳ vọng tăng thu ngân sách và tạo tham chiếu giá cho BĐS."
+        "Thị trường BĐS dự kiến tiếp tục phân hóa, thanh khoản tập trung vào sản phẩm đáp ứng nhu cầu ở thực.",
+        "Quý 2, căn hộ chung cư chiếm 74,7% nguồn cung mới, với căn hộ sang trọng chiếm tỷ trọng lớn.",
+        "Giá căn hộ tại Hà Nội và TP.HCM ổn định, nhưng áp lực điều chỉnh cục bộ vẫn tồn tại."
       ],
-      "insight": "Việc đấu giá đất thành công sẽ hỗ trợ ngân sách và tạo động lực cho ngành bất động sản.",
-      "source": "CafeF"
+      "insight": "Quá trình thanh lọc giúp tái cấu trúc thị trường, hướng tới sự minh bạch và bền vững hơn.",
+      "source": "Báo Lao Động"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN tiếp tục hút ròng hơn 21.000 tỷ đồng",
+      "headline": "Gói tín dụng nhà ở xã hội giải ngân chậm, chỉ đạt 8,5% sau 3 năm",
       "bullets": [
-        "Ngân hàng Nhà nước đã hút ròng 21.260 tỷ đồng trong tuần thứ ba tháng 7 (13-17/07).",
-        "Động thái này nhằm điều tiết thanh khoản, ổn định thị trường tiền tệ."
+        "Chính phủ triển khai gói tín dụng 145.000 tỷ đồng cho nhà ở xã hội theo Nghị quyết 33/NQ-CP.",
+        "Sau 3 năm, chỉ 12.440 tỷ đồng được giải ngân, tương đương 8,5% tổng gói tín dụng.",
+        "Tỷ lệ giải ngân thấp cho thấy những vướng mắc trong việc triển khai chính sách này."
       ],
-      "insight": "Việc hút ròng cho thấy NHNN duy trì chính sách tiền tệ thận trọng, ảnh hưởng dòng tiền.",
-      "source": "Vietstock"
+      "insight": "Việc chậm giải ngân có thể ảnh hưởng đến mục tiêu phát triển nhà ở xã hội và kích thích thị trường.",
+      "source": "VIRA"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed phát tín hiệu cứng rắn, khả năng tăng lãi suất nóng lên",
+      "headline": "Lạm phát Mỹ hạ nhiệt, Fed vẫn kiên định mục tiêu 2%",
       "bullets": [
-        "Chủ tịch Fed Kevin Warsh khẳng định ưu tiên hàng đầu là kiểm soát lạm phát.",
-        "Một số quan chức Fed bất đồng, cho rằng cần tăng lãi suất nếu lạm phát không hạ nhiệt."
+        "CPI Mỹ tháng 6 tăng 3,5% so với cùng kỳ, thấp hơn dự báo và giảm 0,4% so với tháng trước.",
+        "Giá năng lượng giảm mạnh là yếu tố chính kéo lạm phát đi xuống.",
+        "Chủ tịch Fed Kevin Warsh tái khẳng định cam kết đưa lạm phát về mục tiêu 2%."
       ],
-      "insight": "Lập trường cứng rắn của Fed có thể gây áp lực lên tỷ giá và dòng vốn ngoại tại Việt Nam.",
-      "source": "VOV"
+      "insight": "Dù lạm phát giảm, lập trường cứng rắn của Fed vẫn duy trì áp lực lên chính sách tiền tệ toàn cầu.",
+      "source": "VnEconomy · Dân trí · baotintuc.vn · SimianX AI"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Thương mại Mỹ-Trung Quốc phục hồi, tín hiệu tích cực toàn cầu",
+      "headline": "Trung Đông căng thẳng leo thang, đẩy giá dầu và USD tăng",
       "bullets": [
-        "Hoạt động thương mại giữa hai nền kinh tế lớn nhất thế giới cho thấy dấu hiệu phục hồi.",
-        "Điều này có thể giảm bớt lo ngại về suy thoái kinh tế toàn cầu."
+        "Giá dầu Brent vượt 91 USD/thùng do lo ngại gián đoạn nguồn cung từ Trung Đông.",
+        "Xung đột Mỹ-Iran tiếp diễn, lực lượng Houthi đe dọa phong tỏa tuyến hàng hải Biển Đỏ.",
+        "Đồng USD mạnh lên, Yên Nhật chạm mức thấp nhất 38 năm do nhu cầu trú ẩn an toàn."
       ],
-      "insight": "Quan hệ thương mại Mỹ-Trung cải thiện sẽ hỗ trợ tâm lý thị trường và tăng trưởng xuất khẩu Việt Nam.",
-      "source": "VTC News"
+      "insight": "Rủi ro địa chính trị gia tăng tiếp tục là yếu tố bất định lớn cho thị trường toàn cầu.",
+      "source": "Báo Lao Động · Báo Lào Cai · VOV · Bongdaplus.vn · Thời báo Ngân hàng · Báo Thanh Niên"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#ĐầuTưCông",
-    "#LãiSuấtFed",
-    "#ThươngMạiMỹTrung"
+    "#Vietcap",
+    "#VNIndex",
+    "#GiáDầu",
+    "#VàngSJC",
+    "#USDVND",
+    "#BấtĐộngSản",
+    "#NgânHàng",
+    "#LạmPhát"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
