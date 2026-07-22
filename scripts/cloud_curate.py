@@ -76,8 +76,13 @@ def build_prompt(edition, avoid=None):
     if avoid:
         lst = "\n".join(f"- {h}" for h in avoid if h)
         if lst:
-            avoid_txt = ("\n\nTRÁNH LẶP: bản tin gần nhất đã đăng các tiêu đề dưới đây — KHÔNG chọn lại "
-                         "trừ khi có DIỄN BIẾN MỚI trong 24h. Ưu tiên tin/diễn biến MỚI hôm nay:\n" + lst)
+            avoid_txt = (
+                "\n\nTRÁNH LẶP (RẤT QUAN TRỌNG): các bản tin GẦN ĐÂY (cả sáng lẫn tối) đã đăng những tin dưới đây.\n"
+                "- TUYỆT ĐỐI không đăng lại cùng sự kiện với CÙNG SỐ LIỆU đã nêu (vd cùng % giải ngân, cùng mức giá dầu).\n"
+                "- Chỉ được nhắc lại một chủ đề nếu có SỐ LIỆU/DIỄN BIẾN MỚI trong 24h, và bullet phải nêu rõ ĐIỂM MỚI.\n"
+                "- Ưu tiên chủ đề CHƯA xuất hiện trong danh sách này; đa dạng nhóm ngành/chủ đề.\n"
+                "- Riêng bản TỐI: tin tổng kết phiên hôm nay là bắt buộc, nhưng 4 tin còn lại phải MỚI so với danh sách.\n"
+                "Danh sách đã đăng gần đây:\n" + lst)
     if edition == "evening":
         kind = ("BẢN TIN TỐI (tổng kết phiên giao dịch hôm nay + tin tối). Thêm thống kê phiên: "
                 "VN-Index đóng cửa, khối ngoại mua/bán ròng, thanh khoản, nhóm dẫn dắt.")
@@ -121,14 +126,42 @@ def extract_json(text):
     return json.loads(m.group(0))
 
 
-def previous_headlines(out_path):
-    """Tiêu đề bản tin lần trước (để tránh lặp)."""
-    try:
-        with open(out_path, encoding="utf-8") as f:
-            old = json.load(f)
-        return [it.get("headline", "") for it in old.get("items", [])]
-    except Exception:
+def recent_headlines(days=4):
+    """Tiêu đề các bản tin GẦN ĐÂY — cả sáng lẫn tối, nhiều ngày — để tránh lặp.
+    Đọc từ file caption trong output/brief/<dd-mm-yy>/."""
+    brief_dir = os.path.join(ROOT, "output", "brief")
+    if not os.path.isdir(brief_dir):
         return []
+    folders = []
+    for name in os.listdir(brief_dir):
+        m = re.fullmatch(r"(\d{2})-(\d{2})-(\d{2})", name)
+        if m:  # sắp xếp theo yymmdd
+            folders.append(("20" + m.group(3) + m.group(2) + m.group(1), name))
+    folders.sort(reverse=True)
+    out = []
+    for _, name in folders[:days]:
+        d = os.path.join(brief_dir, name)
+        try:
+            files = sorted(os.listdir(d))
+        except Exception:
+            continue
+        for fn in files:
+            if not fn.endswith("_caption.txt"):
+                continue
+            try:
+                with open(os.path.join(d, fn), encoding="utf-8") as f:
+                    for line in f:
+                        mm = re.match(r"^\s*\d+\.\s+(.+?)\s*$", line)
+                        if mm:
+                            out.append(mm.group(1))
+            except Exception:
+                pass
+    seen, uniq = set(), []
+    for h in out:
+        if h and h not in seen:
+            seen.add(h)
+            uniq.append(h)
+    return uniq[:30]
 
 
 def curate_gemini(prompt):
@@ -176,7 +209,7 @@ def main():
     edition = (sys.argv[1] if len(sys.argv) > 1 else "morning").strip().lower()
     out = "data/evening_today.json" if edition == "evening" else "data/brief_today.json"
     out_path = os.path.join(ROOT, out)
-    avoid = previous_headlines(out_path)
+    avoid = recent_headlines()
     prompt = build_prompt(edition, avoid)
     if os.environ.get("GEMINI_API_KEY"):
         provider, text = "gemini", curate_gemini(prompt)
