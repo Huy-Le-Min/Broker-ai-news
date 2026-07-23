@@ -1,85 +1,86 @@
 {
-  "date": "22/7/2026",
+  "date": "23/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · PetroTimes · VietnamBiz · Tạp chí Tài chính Doanh nghiệp · Báo Chính phủ · Fili.vn · Nhịp sống thị trường",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · PetroTimes · Báo Mới · VOV",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.510",
-      "change": "+0,08%",
-      "dir": "up"
+      "value": "26.520",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,4 triệu",
-      "change": "+0,27%",
-      "dir": "up"
+      "value": "146,0 tr",
+      "change": "-0,95%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "91,5$",
-      "change": "+0,54%",
+      "value": "94,07$",
+      "change": "+3,36%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường theo dõi báo cáo KQKD quý II và diễn biến địa chính trị toàn cầu.",
+  "today_watch": "Chiều nay, giá xăng dầu trong nước được điều chỉnh.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam nhập siêu kỷ lục 20,5 tỷ USD đến giữa tháng 7",
+      "headline": "Khối ngoại bán ròng kỷ lục gần 2.000 tỷ đồng phiên 22/7",
       "bullets": [
-        "Lũy kế đến 15/7, tổng kim ngạch xuất nhập khẩu đạt 601,5 tỷ USD, nhập siêu 20,5 tỷ USD – mức cao nhất 30 năm qua.",
-        "Nhập khẩu tăng mạnh 34,4% lên 311 tỷ USD, chủ yếu do nhu cầu máy móc, thiết bị, nguyên liệu phục vụ sản xuất."
+        "Phiên 22/7, nhà đầu tư nước ngoài bán ròng 1.926 tỷ đồng trên toàn thị trường, tập trung vào các bluechip như SSI, VIC, VCB.",
+        "Đây là mức bán ròng lớn nhất trong nhiều phiên gần đây, gây áp lực mạnh lên tâm lý thị trường chứng khoán."
       ],
-      "insight": "Nhập siêu phản ánh nhu cầu đầu vào sản xuất tăng, nhưng cũng đặt ra áp lực lên tỷ giá và cán cân thanh toán.",
-      "source": "Tạp chí Tài chính Doanh nghiệp, VnEconomy"
+      "insight": "Dòng vốn ngoại rút ròng mạnh có thể tiếp tục tạo áp lực giảm điểm lên VN-Index và các cổ phiếu vốn hóa lớn.",
+      "source": "Vietstock · CafeF · Báo Hànộimới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công chững lại sau cú bứt tốc tháng 6",
+      "headline": "BVBank phát hành chứng chỉ tiền gửi lãi suất hấp dẫn tới 8,6%/năm",
       "bullets": [
-        "Đến 9/7, giải ngân đầu tư công đạt 370.854 tỷ đồng, tương đương 36,8% kế hoạch Thủ tướng giao.",
-        "Nhịp giải ngân tuần đầu tháng 7 chỉ đạt 9.905 tỷ đồng, bằng 16,1% so với tuần cuối tháng 6."
+        "BVBank phát hành chứng chỉ tiền gửi online lãi suất 8,2%/năm cho kỳ hạn 6-12 tháng.",
+        "Ưu đãi cộng thêm 1,9% cho khách hàng mới, nâng lãi suất thực tế lên 8,6%/năm, thuộc nhóm cao nhất thị trường."
       ],
-      "insight": "Tốc độ giải ngân chậm lại có thể ảnh hưởng đến động lực tăng trưởng kinh tế và kỳ vọng doanh nghiệp xây dựng.",
-      "source": "Báo Chính phủ, VietnamBiz"
+      "insight": "Lãi suất huy động cao có thể thu hút dòng tiền từ các kênh đầu tư khác, ảnh hưởng đến thanh khoản thị trường.",
+      "source": "VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại đảo chiều mua ròng nhẹ trên TTCK phiên 21/7",
+      "headline": "Thế giới Di động chốt quyền chia cổ tức 10% tiền mặt",
       "bullets": [
-        "Phiên 21/7, khối ngoại mua ròng nhẹ 25 tỷ đồng trên toàn thị trường, sau chuỗi bán ròng trước đó.",
-        "Trên HOSE, khối ngoại mua ròng 69 tỷ đồng, tập trung vào SHB, HDB, VNM; bán ròng VIC, FPT, GAS."
+        "MWG chốt danh sách cổ đông vào 30/7 để chi trả cổ tức đợt 1/2025 bằng tiền mặt tỷ lệ 10% (1.000 đồng/cổ phiếu).",
+        "Doanh nghiệp dự kiến chi 1.500 tỷ đồng; doanh thu 6 tháng đầu năm đạt 95.305 tỷ đồng, tăng 29% YoY."
       ],
-      "insight": "Dòng vốn ngoại quay lại mua ròng là tín hiệu tích cực, có thể hỗ trợ tâm lý thị trường trong ngắn hạn.",
-      "source": "Vietstock, Nhịp sống thị trường"
+      "insight": "Việc chia cổ tức và kết quả kinh doanh tích cực có thể hỗ trợ giá cổ phiếu MWG, tạo tâm lý tốt cho nhóm bán lẻ.",
+      "source": "Báo Hànộimới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh, vượt 91 USD/thùng do xung đột",
+      "headline": "Giá dầu Brent vượt 94 USD/thùng do xung đột Trung Đông leo thang",
       "bullets": [
-        "Giá dầu Brent tăng hơn 2% lên 91,01 USD/thùng (kết phiên 21/7), sau đó tiếp tục tăng lên 91,5 USD/thùng sáng 22/7.",
-        "Xung đột Mỹ-Iran leo thang và đe dọa phong tỏa Biển Đỏ của Houthi gây lo ngại gián đoạn nguồn cung."
+        "Giá dầu Brent tăng 3,36% lên 94,07 USD/thùng, mức cao nhất 6 tuần, do lo ngại gián đoạn nguồn cung.",
+        "Mỹ không kích Iran đêm thứ 11 liên tiếp; Houthi đe dọa tấn công tàu dầu Saudi Arabia."
       ],
-      "insight": "Giá dầu tăng cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
-      "source": "PetroTimes, VietnamBiz"
+      "insight": "Căng thẳng địa chính trị leo thang đẩy giá dầu tăng, gây áp lực lạm phát và chi phí sản xuất toàn cầu.",
+      "source": "PetroTimes · Báo Mới · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ hồi phục mạnh mẽ, chấm dứt chuỗi giảm",
+      "headline": "Lạm phát Mỹ hạ nhiệt, thị trường kỳ vọng Fed giữ nguyên lãi suất",
       "bullets": [
-        "Phiên 21/7, Dow Jones tăng 0,74%, S&P 500 tăng 0,89%, Nasdaq tăng 1,29%, chấm dứt chuỗi 3 phiên giảm.",
-        "Đà tăng nhờ cổ phiếu chip và báo cáo tài chính quý II khả quan hơn kỳ vọng."
+        "CPI và PPI hạ nhiệt giúp giảm áp lực Fed nâng lãi suất trong thời gian tới.",
+        "Nhà đầu tư hiện nghiêng về khả năng Fed sẽ giữ nguyên lãi suất trong cuộc họp tuần tới, thay vì tăng."
       ],
-      "insight": "Thị trường Mỹ phục hồi có thể cải thiện tâm lý nhà đầu tư toàn cầu, tạo hiệu ứng tích cực cho TTCK Việt Nam.",
-      "source": "VnEconomy, VietnamBiz"
+      "insight": "Kỳ vọng Fed giữ lãi suất có thể hỗ trợ tâm lý thị trường toàn cầu, giảm áp lực tỷ giá và chi phí vốn.",
+      "source": "Danviet.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#KinhTế",
+    "#DầuThô",
+    "#LãiSuất"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
