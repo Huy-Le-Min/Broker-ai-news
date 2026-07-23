@@ -1,105 +1,96 @@
 {
-  "date": "22/7/2026",
+  "date": "23/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Thanh Niên · Thời báo Tài chính Việt Nam · VietnamBiz · Lao Động · baodautu · Fili.vn · baotintuc.vn · VietnamPlus · Người quan sát · Chợ Giá · SimianX AI · VIRA · Hànộimới · VOV · Bongdaplus.vn · Dân trí · Web Giá",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · VietnamBiz · baotintuc.vn",
   "session": {
-    "vnindex_close": "1.668,53",
-    "vnindex_change": "-3,58%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng ~1.900 tỷ",
+    "vnindex_close": "1.699,38",
+    "vnindex_change": "+1,85%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng 443 tỷ đồng",
     "foreign_dir": "sell",
-    "volume": "hơn 23.000 tỷ",
-    "top_gainer": "Không có nhóm dẫn dắt rõ rệt (VNM nổi bật)"
+    "volume": "966 triệu CP",
+    "top_gainer": "Bất động sản, Chứng khoán, Dầu khí"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.520",
-      "change": "+0.11%",
-      "dir": "up"
+      "value": "26.500",
+      "change": "-20 đồng",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "147 triệu",
-      "change": "+0.41%",
-      "dir": "up"
+      "value": "140 triệu",
+      "change": "-6 triệu đồng/lượng",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "91.54$",
-      "change": "+2.0%",
+      "value": "100$",
+      "change": "Tăng mạnh",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Kỳ điều hành giá xăng dầu trong nước; theo dõi diễn biến địa chính trị Trung Đông.",
+  "tomorrow_watch": "Diễn biến thuế quan Mỹ hết hạn; thị trường chờ tín hiệu rõ ràng hơn.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Ngân hàng công bố KQKD Q2: Techcombank lãi kỷ lục, Sacombank giảm sâu",
+      "headline": "VN-Index hồi phục mạnh, chấm dứt chuỗi giảm 4 phiên",
       "bullets": [
-        "Techcombank đạt lợi nhuận trước thuế 18.500 tỷ đồng 6 tháng, quý 2 lập kỷ lục mới.",
-        "VPBank dẫn đầu khối tư nhân với 18.880 tỷ đồng lợi nhuận 6 tháng, Sacombank giảm 50%.",
-        "Nhiều ngân hàng khác như ABBank, Vietbank ghi nhận tăng trưởng lợi nhuận tích cực hai chữ số."
+        "VN-Index tăng 30,85 điểm (+1,85%) lên 1.699,38 điểm, nhờ lực cầu bắt đáy vào phiên chiều.",
+        "Các nhóm cổ phiếu bất động sản, chứng khoán và dầu khí dẫn dắt đà tăng."
       ],
-      "insight": "Lợi nhuận phân hóa mạnh cho thấy thách thức quản trị rủi ro và chi phí vốn vẫn hiện hữu.",
-      "source": "Dân trí · VietnamBiz · baodautu · VietNamNet"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "Bất động sản H2/2026: Phân hóa mạnh, thanh khoản tập trung nhu cầu thực",
-      "bullets": [
-        "Thị trường BĐS dự kiến tiếp tục phân hóa, thanh khoản tập trung vào sản phẩm đáp ứng nhu cầu ở thực.",
-        "Quý 2, căn hộ chung cư chiếm 74,7% nguồn cung mới, với căn hộ sang trọng chiếm tỷ trọng lớn.",
-        "Giá căn hộ tại Hà Nội và TP.HCM ổn định, nhưng áp lực điều chỉnh cục bộ vẫn tồn tại."
-      ],
-      "insight": "Quá trình thanh lọc giúp tái cấu trúc thị trường, hướng tới sự minh bạch và bền vững hơn.",
-      "source": "Báo Lao Động"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "Gói tín dụng nhà ở xã hội giải ngân chậm, chỉ đạt 8,5% sau 3 năm",
-      "bullets": [
-        "Chính phủ triển khai gói tín dụng 145.000 tỷ đồng cho nhà ở xã hội theo Nghị quyết 33/NQ-CP.",
-        "Sau 3 năm, chỉ 12.440 tỷ đồng được giải ngân, tương đương 8,5% tổng gói tín dụng.",
-        "Tỷ lệ giải ngân thấp cho thấy những vướng mắc trong việc triển khai chính sách này."
-      ],
-      "insight": "Việc chậm giải ngân có thể ảnh hưởng đến mục tiêu phát triển nhà ở xã hội và kích thích thị trường.",
-      "source": "VIRA"
+      "insight": "Thị trường cho thấy tín hiệu hồi phục kỹ thuật tích cực sau chuỗi giảm mạnh, nhưng cần thêm xác nhận.",
+      "source": "CafeF · VnExpress · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt, Fed vẫn kiên định mục tiêu 2%",
+      "headline": "Dầu Brent chạm mốc 100 USD/thùng do xung đột Biển Đỏ",
       "bullets": [
-        "CPI Mỹ tháng 6 tăng 3,5% so với cùng kỳ, thấp hơn dự báo và giảm 0,4% so với tháng trước.",
-        "Giá năng lượng giảm mạnh là yếu tố chính kéo lạm phát đi xuống.",
-        "Chủ tịch Fed Kevin Warsh tái khẳng định cam kết đưa lạm phát về mục tiêu 2%."
+        "Giá dầu Brent tăng mạnh, đạt 100 USD/thùng, mức cao nhất hai tháng qua.",
+        "Lực lượng Houthi tấn công tàu chở dầu Saudi Arabia tại Biển Đỏ, gây lo ngại nguồn cung."
       ],
-      "insight": "Dù lạm phát giảm, lập trường cứng rắn của Fed vẫn duy trì áp lực lên chính sách tiền tệ toàn cầu.",
-      "source": "VnEconomy · Dân trí · baotintuc.vn · SimianX AI"
+      "insight": "Giá dầu tăng cao có thể gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí doanh nghiệp.",
+      "source": "Reuters · VietnamBiz · baotintuc.vn"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Khối ngoại thu hẹp bán ròng, mua mạnh cổ phiếu SHB",
+      "bullets": [
+        "Nhà đầu tư nước ngoài bán ròng 443 tỷ đồng toàn thị trường, giảm đáng kể so với phiên trước.",
+        "SHB dẫn đầu danh sách mua ròng với 74,7 tỷ đồng, trong khi MBB bị bán ròng mạnh nhất."
+      ],
+      "insight": "Áp lực bán ròng giảm cho thấy tâm lý khối ngoại có thể ổn định hơn, nhưng vẫn cần theo dõi.",
+      "source": "Thời báo Tài chính Việt Nam · CafeF · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Đông căng thẳng leo thang, đẩy giá dầu và USD tăng",
+      "headline": "ECB giữ nguyên lãi suất, lo ngại lạm phát năng lượng kéo dài",
       "bullets": [
-        "Giá dầu Brent vượt 91 USD/thùng do lo ngại gián đoạn nguồn cung từ Trung Đông.",
-        "Xung đột Mỹ-Iran tiếp diễn, lực lượng Houthi đe dọa phong tỏa tuyến hàng hải Biển Đỏ.",
-        "Đồng USD mạnh lên, Yên Nhật chạm mức thấp nhất 38 năm do nhu cầu trú ẩn an toàn."
+        "Ngân hàng Trung ương châu Âu giữ nguyên lãi suất tiền gửi 2,25%, chờ thêm dữ liệu kinh tế.",
+        "ECB nhấn mạnh bất định cao, lạm phát do sốc năng lượng chưa bộc lộ hoàn toàn."
       ],
-      "insight": "Rủi ro địa chính trị gia tăng tiếp tục là yếu tố bất định lớn cho thị trường toàn cầu.",
-      "source": "Báo Lao Động · Báo Lào Cai · VOV · Bongdaplus.vn · Thời báo Ngân hàng · Báo Thanh Niên"
+      "insight": "Quyết định của ECB phản ánh sự thận trọng trước rủi ro lạm phát năng lượng toàn cầu.",
+      "source": "baotintuc.vn"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Bổ sung 5 tuyến cao tốc mới vào quy hoạch đường bộ quốc gia",
+      "bullets": [
+        "Bộ Xây dựng điều chỉnh quy hoạch, thêm 5 tuyến cao tốc mới, tăng cường liên kết vùng.",
+        "Các địa phương được chủ động đầu tư sớm các tuyến dự kiến sau 2030 nếu đủ nguồn lực."
+      ],
+      "insight": "Chính sách này thúc đẩy đầu tư công, tạo động lực tăng trưởng dài hạn cho nhiều địa phương.",
+      "source": "Vietnam.vn · baotintuc.vn"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
     "#GiáDầu",
-    "#VàngSJC",
-    "#USDVND",
-    "#BấtĐộngSản",
-    "#NgânHàng",
-    "#LạmPhát"
+    "#KhốiNgoại",
+    "#ChínhSáchKinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
