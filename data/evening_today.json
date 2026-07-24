@@ -1,96 +1,96 @@
 {
-  "date": "23/7/2026",
+  "date": "24/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · VietnamBiz · baotintuc.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.699,38",
-    "vnindex_change": "+1,85%",
-    "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 443 tỷ đồng",
+    "vnindex_close": "1.686,11",
+    "vnindex_change": "-0,78%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 1.360 tỷ",
     "foreign_dir": "sell",
-    "volume": "966 triệu CP",
-    "top_gainer": "Bất động sản, Chứng khoán, Dầu khí"
+    "volume": "13.898 tỷ",
+    "top_gainer": "Nhóm dầu khí"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.500",
-      "change": "-20 đồng",
-      "dir": "down"
+      "value": "26.510",
+      "change": "+0,04%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "140 triệu",
-      "change": "-6 triệu đồng/lượng",
+      "value": "139,50 triệu/lượng",
+      "change": "-0,7%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "100$",
-      "change": "Tăng mạnh",
-      "dir": "up"
+      "value": "98,07$",
+      "change": "-2,60%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Diễn biến thuế quan Mỹ hết hạn; thị trường chờ tín hiệu rõ ràng hơn.",
+  "tomorrow_watch": "Chờ đợi báo cáo PMI sản xuất tháng 7 của Việt Nam và dữ liệu việc làm Mỹ.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index hồi phục mạnh, chấm dứt chuỗi giảm 4 phiên",
+      "headline": "Việt Nam đẩy mạnh logistics xanh, số hóa chuỗi cung ứng",
       "bullets": [
-        "VN-Index tăng 30,85 điểm (+1,85%) lên 1.699,38 điểm, nhờ lực cầu bắt đáy vào phiên chiều.",
-        "Các nhóm cổ phiếu bất động sản, chứng khoán và dầu khí dẫn dắt đà tăng."
+        "Bộ Công Thương tổ chức diễn đàn về tái cấu trúc chuỗi cung ứng toàn cầu tại TP.HCM ngày 24/7.",
+        "Tập trung phát triển hạ tầng đồng bộ, chuyển đổi số, logistics xanh để nâng cao năng lực cạnh tranh."
       ],
-      "insight": "Thị trường cho thấy tín hiệu hồi phục kỹ thuật tích cực sau chuỗi giảm mạnh, nhưng cần thêm xác nhận.",
-      "source": "CafeF · VnExpress · Vietstock"
-    },
-    {
-      "cat": "Quốc tế",
-      "headline": "Dầu Brent chạm mốc 100 USD/thùng do xung đột Biển Đỏ",
-      "bullets": [
-        "Giá dầu Brent tăng mạnh, đạt 100 USD/thùng, mức cao nhất hai tháng qua.",
-        "Lực lượng Houthi tấn công tàu chở dầu Saudi Arabia tại Biển Đỏ, gây lo ngại nguồn cung."
-      ],
-      "insight": "Giá dầu tăng cao có thể gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí doanh nghiệp.",
-      "source": "Reuters · VietnamBiz · baotintuc.vn"
+      "insight": "Nâng cao năng lực logistics giúp Việt Nam tận dụng cơ hội từ dịch chuyển chuỗi cung ứng toàn cầu.",
+      "source": "Bộ Công Thương"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại thu hẹp bán ròng, mua mạnh cổ phiếu SHB",
+      "headline": "Kiểm tra thuế điện tử: Bước tiến mới của ngành Thuế",
       "bullets": [
-        "Nhà đầu tư nước ngoài bán ròng 443 tỷ đồng toàn thị trường, giảm đáng kể so với phiên trước.",
-        "SHB dẫn đầu danh sách mua ròng với 74,7 tỷ đồng, trong khi MBB bị bán ròng mạnh nhất."
+        "Thông tư 89/2026/TT-BTC hướng dẫn kiểm tra thuế điện tử, có hiệu lực từ 1/8/2026.",
+        "Quy định mới giảm tiếp xúc trực tiếp, tăng minh bạch, tạo thuận lợi cho người nộp thuế."
       ],
-      "insight": "Áp lực bán ròng giảm cho thấy tâm lý khối ngoại có thể ổn định hơn, nhưng vẫn cần theo dõi.",
-      "source": "Thời báo Tài chính Việt Nam · CafeF · VietnamBiz"
-    },
-    {
-      "cat": "Quốc tế",
-      "headline": "ECB giữ nguyên lãi suất, lo ngại lạm phát năng lượng kéo dài",
-      "bullets": [
-        "Ngân hàng Trung ương châu Âu giữ nguyên lãi suất tiền gửi 2,25%, chờ thêm dữ liệu kinh tế.",
-        "ECB nhấn mạnh bất định cao, lạm phát do sốc năng lượng chưa bộc lộ hoàn toàn."
-      ],
-      "insight": "Quyết định của ECB phản ánh sự thận trọng trước rủi ro lạm phát năng lượng toàn cầu.",
-      "source": "baotintuc.vn"
+      "insight": "Số hóa quy trình thuế cải thiện hiệu quả quản lý, thúc đẩy môi trường kinh doanh minh bạch.",
+      "source": "Bộ Tài chính"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bổ sung 5 tuyến cao tốc mới vào quy hoạch đường bộ quốc gia",
+      "headline": "Giá thép trong nước ổn định, quặng sắt thế giới hồi phục",
       "bullets": [
-        "Bộ Xây dựng điều chỉnh quy hoạch, thêm 5 tuyến cao tốc mới, tăng cường liên kết vùng.",
-        "Các địa phương được chủ động đầu tư sớm các tuyến dự kiến sau 2030 nếu đủ nguồn lực."
+        "Giá thép xây dựng trong nước ổn định nhờ chính sách bình ổn từ các doanh nghiệp lớn.",
+        "Giá quặng sắt thế giới phục hồi từ đáy hai tuần, nhờ nhu cầu ổn định từ Trung Quốc."
       ],
-      "insight": "Chính sách này thúc đẩy đầu tư công, tạo động lực tăng trưởng dài hạn cho nhiều địa phương.",
-      "source": "Vietnam.vn · baotintuc.vn"
+      "insight": "Thị trường thép nội địa được hỗ trợ bởi nguồn cung ổn định, nhưng cần theo dõi diễn biến giá nguyên liệu.",
+      "source": "Báo Lao Động · VietnamBiz"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "Mỹ áp thuế mới lên hơn 60 đối tác, có Việt Nam",
+      "bullets": [
+        "Mỹ áp thuế nhập khẩu 10-12,5% với hàng hóa từ hơn 60 đối tác, bao gồm Việt Nam.",
+        "Thuế quan mới do cáo buộc thực thi lỏng lẻo các lệnh cấm lao động cưỡng bức."
+      ],
+      "insight": "Chính sách thương mại mới của Mỹ có thể tạo áp lực lên xuất khẩu Việt Nam và chuỗi cung ứng toàn cầu.",
+      "source": "Thời báo Tài chính Việt Nam · Baoquocte.vn"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "ECB giữ lãi suất, lạm phát Eurozone hạ nhiệt",
+      "bullets": [
+        "ECB giữ nguyên lãi suất tại cuộc họp ngày 23/7 sau khi lạm phát Eurozone tháng 6 giảm xuống 2,8%.",
+        "Tuy nhiên, căng thẳng Trung Đông tiềm ẩn nguy cơ đẩy giá năng lượng tăng trở lại, gây áp lực chính sách."
+      ],
+      "insight": "Quyết định của ECB phản ánh lạm phát hạ nhiệt, nhưng triển vọng chính sách vẫn phụ thuộc giá năng lượng.",
+      "source": "VietnamPlus · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#GiáDầu",
-    "#KhốiNgoại",
-    "#ChínhSáchKinhTế"
+    "#KinhTếViệtNam",
+    "#TinTứcQuốcTế",
+    "#ThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
