@@ -1,86 +1,87 @@
 {
-  "date": "23/7/2026",
+  "date": "24/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · PetroTimes · Báo Mới · VOV",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Mới · VOV · VietnamBiz · Năng lượng Quốc tế · Dân trí · Báo Lao Động · Báo Chính phủ · Báo Nhân Dân",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.520",
-      "change": "0%",
-      "dir": "flat"
+      "change": "+0.04%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,0 tr",
-      "change": "-0,95%",
+      "value": "140tr",
+      "change": "-1.4%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "94,07$",
-      "change": "+3,36%",
+      "value": "100.7$",
+      "change": "+6.6%",
       "dir": "up"
     }
   ],
-  "today_watch": "Chiều nay, giá xăng dầu trong nước được điều chỉnh.",
+  "today_watch": "Thị trường theo dõi động thái mới từ Fed, dữ liệu PMI sơ bộ Mỹ.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng kỷ lục gần 2.000 tỷ đồng phiên 22/7",
+      "headline": "NHNN hút ròng tín phiếu, thanh khoản biến động.",
       "bullets": [
-        "Phiên 22/7, nhà đầu tư nước ngoài bán ròng 1.926 tỷ đồng trên toàn thị trường, tập trung vào các bluechip như SSI, VIC, VCB.",
-        "Đây là mức bán ròng lớn nhất trong nhiều phiên gần đây, gây áp lực mạnh lên tâm lý thị trường chứng khoán."
+        "Ngân hàng Nhà nước phát hành tín phiếu kỳ hạn 7 ngày, hút ròng 25.000 tỷ đồng về hệ thống.",
+        "Lãi suất OMO qua đêm tăng nhẹ, phản ánh áp lực thanh khoản ngắn hạn."
       ],
-      "insight": "Dòng vốn ngoại rút ròng mạnh có thể tiếp tục tạo áp lực giảm điểm lên VN-Index và các cổ phiếu vốn hóa lớn.",
-      "source": "Vietstock · CafeF · Báo Hànộimới"
+      "insight": "Động thái này nhằm kiểm soát lạm phát, ổn định tỷ giá, có thể ảnh hưởng chi phí vốn.",
+      "source": "SBV, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "BVBank phát hành chứng chỉ tiền gửi lãi suất hấp dẫn tới 8,6%/năm",
+      "headline": "Chính phủ thúc đẩy giải ngân đầu tư công quý 3.",
       "bullets": [
-        "BVBank phát hành chứng chỉ tiền gửi online lãi suất 8,2%/năm cho kỳ hạn 6-12 tháng.",
-        "Ưu đãi cộng thêm 1,9% cho khách hàng mới, nâng lãi suất thực tế lên 8,6%/năm, thuộc nhóm cao nhất thị trường."
+        "Thủ tướng yêu cầu các bộ, ngành, địa phương đẩy nhanh tiến độ giải ngân, đạt 70% kế hoạch năm.",
+        "Ưu tiên các dự án trọng điểm quốc gia, tạo động lực tăng trưởng kinh tế."
       ],
-      "insight": "Lãi suất huy động cao có thể thu hút dòng tiền từ các kênh đầu tư khác, ảnh hưởng đến thanh khoản thị trường.",
-      "source": "VietNamNet"
+      "insight": "Kỳ vọng thúc đẩy tăng trưởng GDP, hỗ trợ các ngành vật liệu, xây dựng.",
+      "source": "VnExpress, Bộ Kế hoạch & Đầu tư"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thế giới Di động chốt quyền chia cổ tức 10% tiền mặt",
+      "headline": "Sản xuất công nghiệp tháng 7 tăng trưởng ấn tượng.",
       "bullets": [
-        "MWG chốt danh sách cổ đông vào 30/7 để chi trả cổ tức đợt 1/2025 bằng tiền mặt tỷ lệ 10% (1.000 đồng/cổ phiếu).",
-        "Doanh nghiệp dự kiến chi 1.500 tỷ đồng; doanh thu 6 tháng đầu năm đạt 95.305 tỷ đồng, tăng 29% YoY."
+        "Chỉ số sản xuất công nghiệp (IIP) tháng 7 ước tăng 8,2% so với cùng kỳ năm trước.",
+        "Ngành chế biến, chế tạo dẫn đầu đà tăng trưởng, xuất khẩu phục hồi."
       ],
-      "insight": "Việc chia cổ tức và kết quả kinh doanh tích cực có thể hỗ trợ giá cổ phiếu MWG, tạo tâm lý tốt cho nhóm bán lẻ.",
-      "source": "Báo Hànộimới"
+      "insight": "Tín hiệu tích cực về phục hồi kinh tế, hỗ trợ nhóm cổ phiếu sản xuất.",
+      "source": "Tổng cục Thống kê, Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 94 USD/thùng do xung đột Trung Đông leo thang",
+      "headline": "Dầu Brent vượt 100 USD/thùng, căng thẳng leo thang.",
       "bullets": [
-        "Giá dầu Brent tăng 3,36% lên 94,07 USD/thùng, mức cao nhất 6 tuần, do lo ngại gián đoạn nguồn cung.",
-        "Mỹ không kích Iran đêm thứ 11 liên tiếp; Houthi đe dọa tấn công tàu dầu Saudi Arabia."
+        "Giá dầu Brent chốt phiên 23/7 ở 100,69 USD/thùng, tăng 7% sau vụ tấn công tàu chở dầu.",
+        "Căng thẳng Biển Đỏ và eo biển Hormuz gia tăng lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Căng thẳng địa chính trị leo thang đẩy giá dầu tăng, gây áp lực lạm phát và chi phí sản xuất toàn cầu.",
-      "source": "PetroTimes · Báo Mới · VietnamBiz"
+      "insight": "Giá dầu tăng cao gây áp lực lạm phát, ảnh hưởng chi phí sản xuất toàn cầu.",
+      "source": "Reuters, CNBC"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt, thị trường kỳ vọng Fed giữ nguyên lãi suất",
+      "headline": "Trung Quốc tung gói kích thích bất động sản lớn.",
       "bullets": [
-        "CPI và PPI hạ nhiệt giúp giảm áp lực Fed nâng lãi suất trong thời gian tới.",
-        "Nhà đầu tư hiện nghiêng về khả năng Fed sẽ giữ nguyên lãi suất trong cuộc họp tuần tới, thay vì tăng."
+        "Chính phủ Trung Quốc công bố gói hỗ trợ 1 nghìn tỷ NDT cho thị trường bất động sản.",
+        "Nhằm ổn định thị trường, thúc đẩy hoàn thành các dự án đang dang dở."
       ],
-      "insight": "Kỳ vọng Fed giữ lãi suất có thể hỗ trợ tâm lý thị trường toàn cầu, giảm áp lực tỷ giá và chi phí vốn.",
-      "source": "Danviet.vn"
+      "insight": "Kỳ vọng cải thiện tâm lý thị trường, hỗ trợ giá hàng hóa và xuất khẩu Việt Nam.",
+      "source": "Bloomberg, Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTế",
+    "#Vietcap",
+    "#VĩMô",
     "#DầuThô",
-    "#LãiSuất"
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
