@@ -1,96 +1,95 @@
 {
-  "date": "24/7/2026",
+  "date": "25/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.686,11",
     "vnindex_change": "-0,78%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 1.360 tỷ",
+    "foreign_net": "Bán ròng 1.295,2 tỷ",
     "foreign_dir": "sell",
-    "volume": "13.898 tỷ",
-    "top_gainer": "Nhóm dầu khí"
+    "volume": "15.000 tỷ",
+    "top_gainer": "Dầu khí, một số mã ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.510",
-      "change": "+0,04%",
+      "change": "+0,05%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "139,50 triệu/lượng",
-      "change": "-0,7%",
-      "dir": "down"
+      "value": "141,5 triệu",
+      "change": "+1,8%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "98,07$",
-      "change": "-2,60%",
+      "value": "96,78$",
+      "change": "-3,88%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Chờ đợi báo cáo PMI sản xuất tháng 7 của Việt Nam và dữ liệu việc làm Mỹ.",
+  "tomorrow_watch": "Tiếp tục theo dõi diễn biến địa chính trị Trung Đông và dữ liệu kinh tế quốc tế tuần tới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam đẩy mạnh logistics xanh, số hóa chuỗi cung ứng",
+      "headline": "Việt Nam phản ứng thuế mới 12,5% của Mỹ",
       "bullets": [
-        "Bộ Công Thương tổ chức diễn đàn về tái cấu trúc chuỗi cung ứng toàn cầu tại TP.HCM ngày 24/7.",
-        "Tập trung phát triển hạ tầng đồng bộ, chuyển đổi số, logistics xanh để nâng cao năng lực cạnh tranh."
+        "Bộ Ngoại giao: Quyết định USTR chưa phản ánh đủ nỗ lực chống lao động cưỡng bức.",
+        "Chính phủ ban hành Nghị định cấm nhập khẩu hàng hóa sản xuất bằng lao động cưỡng bức."
       ],
-      "insight": "Nâng cao năng lực logistics giúp Việt Nam tận dụng cơ hội từ dịch chuyển chuỗi cung ứng toàn cầu.",
-      "source": "Bộ Công Thương"
+      "insight": "Việt Nam chủ động ứng phó, giảm thiểu tác động tiêu cực từ chính sách thương mại mới của Mỹ.",
+      "source": "Tuổi Trẻ Online · Báo Công Thương · VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Kiểm tra thuế điện tử: Bước tiến mới của ngành Thuế",
+      "headline": "Lãi suất cho vay tăng mạnh, áp lực doanh nghiệp",
       "bullets": [
-        "Thông tư 89/2026/TT-BTC hướng dẫn kiểm tra thuế điện tử, có hiệu lực từ 1/8/2026.",
-        "Quy định mới giảm tiếp xúc trực tiếp, tăng minh bạch, tạo thuận lợi cho người nộp thuế."
+        "Lãi suất cho vay bình quân tháng 6 tăng 0,4 điểm, đạt 8,1-10,5%/năm.",
+        "NHNN nhận định điều hành lãi suất \"vất vả\" do nhu cầu vốn tăng nhanh."
       ],
-      "insight": "Số hóa quy trình thuế cải thiện hiệu quả quản lý, thúc đẩy môi trường kinh doanh minh bạch.",
-      "source": "Bộ Tài chính"
+      "insight": "Lãi suất cao ảnh hưởng chi phí vốn, giảm động lực mở rộng sản xuất kinh doanh.",
+      "source": "24H · Báo Mới · Danviet.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá thép trong nước ổn định, quặng sắt thế giới hồi phục",
+      "headline": "Luật Thuế TNCN mới có hiệu lực từ tháng 7",
       "bullets": [
-        "Giá thép xây dựng trong nước ổn định nhờ chính sách bình ổn từ các doanh nghiệp lớn.",
-        "Giá quặng sắt thế giới phục hồi từ đáy hai tuần, nhờ nhu cầu ổn định từ Trung Quốc."
+        "Luật mới nâng mức giảm trừ gia cảnh lên 15,5 triệu đồng/tháng.",
+        "Biểu thuế lũy tiến rút gọn 5 bậc; áp thuế 0,1% lên tài sản số, vàng."
       ],
-      "insight": "Thị trường thép nội địa được hỗ trợ bởi nguồn cung ổn định, nhưng cần theo dõi diễn biến giá nguyên liệu.",
-      "source": "Báo Lao Động · VietnamBiz"
+      "insight": "Chính sách mới kích cầu tiêu dùng, mở rộng quản lý thuế với các tài sản số.",
+      "source": "VTV.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ áp thuế mới lên hơn 60 đối tác, có Việt Nam",
+      "headline": "Trung Quốc thúc đẩy đàm phán hòa bình Mỹ-Iran",
       "bullets": [
-        "Mỹ áp thuế nhập khẩu 10-12,5% với hàng hóa từ hơn 60 đối tác, bao gồm Việt Nam.",
-        "Thuế quan mới do cáo buộc thực thi lỏng lẻo các lệnh cấm lao động cưỡng bức."
+        "Giá dầu Brent giảm gần 4% sau tin Trung Quốc nỗ lực nối lại đàm phán.",
+        "Căng thẳng Trung Đông leo thang đã đẩy giá dầu tăng mạnh tuần qua."
       ],
-      "insight": "Chính sách thương mại mới của Mỹ có thể tạo áp lực lên xuất khẩu Việt Nam và chuỗi cung ứng toàn cầu.",
-      "source": "Thời báo Tài chính Việt Nam · Baoquocte.vn"
+      "insight": "Đàm phán hòa bình giảm rủi ro địa chính trị, ổn định giá dầu, tác động tích cực lạm phát.",
+      "source": "Eva.vn · Báo Thanh Niên · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB giữ lãi suất, lạm phát Eurozone hạ nhiệt",
+      "headline": "EU phê duyệt giải ngân 1,5 tỷ euro cho Ai Cập",
       "bullets": [
-        "ECB giữ nguyên lãi suất tại cuộc họp ngày 23/7 sau khi lạm phát Eurozone tháng 6 giảm xuống 2,8%.",
-        "Tuy nhiên, căng thẳng Trung Đông tiềm ẩn nguy cơ đẩy giá năng lượng tăng trở lại, gây áp lực chính sách."
+        "Liên minh châu Âu phê duyệt khoản giải ngân 1,5 tỷ euro hỗ trợ tài chính Ai Cập.",
+        "Khoản giải ngân đầu tiên 1 tỷ euro đã được thực hiện vào tháng 1/2026."
       ],
-      "insight": "Quyết định của ECB phản ánh lạm phát hạ nhiệt, nhưng triển vọng chính sách vẫn phụ thuộc giá năng lượng.",
-      "source": "VietnamPlus · Reuters"
+      "insight": "Gói hỗ trợ thể hiện cam kết EU với ổn định khu vực, có thể tác động dòng vốn quốc tế.",
+      "source": "VOV"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#KinhTếViệtNam",
-    "#TinTứcQuốcTế",
-    "#ThịTrường"
+    "#TinTứcKinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
