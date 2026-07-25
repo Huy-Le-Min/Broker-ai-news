@@ -1,87 +1,94 @@
 {
-  "date": "24/7/2026",
+  "date": "25/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Mới · VOV · VietnamBiz · Năng lượng Quốc tế · Dân trí · Báo Lao Động · Báo Chính phủ · Báo Nhân Dân",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Đấu thầu · Thời báo Tài chính Việt Nam · Báo Chính phủ · Báo Đại Đoàn Kết · VietnamBiz · VietnamFinance · Kitco · Natixis · Morgan Stanley · Vietnam.vn · Eva.vn · Báo Mới · VOV · VnEconomy · LuatVietnam",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.520",
-      "change": "+0.04%",
+      "value": "25.283",
+      "change": "+11 đồng",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "140tr",
-      "change": "-1.4%",
-      "dir": "down"
+      "value": "140,5tr",
+      "change": "+1,5tr đồng/lượng",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "100.7$",
-      "change": "+6.6%",
-      "dir": "up"
+      "value": "96,78$",
+      "change": "-3,9%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Thị trường theo dõi động thái mới từ Fed, dữ liệu PMI sơ bộ Mỹ.",
+  "today_watch": "Hà Nội áp dụng lệ phí 0 đồng cho một số thủ tục đăng ký kinh doanh online.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN hút ròng tín phiếu, thanh khoản biến động.",
+      "headline": "Dòng vốn ngoại rút ròng kỷ lục, gây áp lực lên thị trường",
       "bullets": [
-        "Ngân hàng Nhà nước phát hành tín phiếu kỳ hạn 7 ngày, hút ròng 25.000 tỷ đồng về hệ thống.",
-        "Lãi suất OMO qua đêm tăng nhẹ, phản ánh áp lực thanh khoản ngắn hạn."
+        "Từ đầu năm 2026, khối ngoại bán ròng gần 80.000 tỷ đồng trên TTCK Việt Nam.",
+        "Lũy kế 4 năm qua, tổng giá trị rút ròng đạt gần 320.000 tỷ đồng.",
+        "Nguyên nhân do USD mạnh, thiếu cổ phiếu AI, cùng bất định thương mại toàn cầu."
       ],
-      "insight": "Động thái này nhằm kiểm soát lạm phát, ổn định tỷ giá, có thể ảnh hưởng chi phí vốn.",
-      "source": "SBV, CafeF"
+      "insight": "Dòng tiền ngoại chảy ra liên tục có thể tạo áp lực giảm giá cho VN-Index và các cổ phiếu vốn hóa lớn.",
+      "source": "VnEconomy, Vietstock, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ thúc đẩy giải ngân đầu tư công quý 3.",
+      "headline": "Giải ngân đầu tư công giảm tốc sau cú bứt phá",
       "bullets": [
-        "Thủ tướng yêu cầu các bộ, ngành, địa phương đẩy nhanh tiến độ giải ngân, đạt 70% kế hoạch năm.",
-        "Ưu tiên các dự án trọng điểm quốc gia, tạo động lực tăng trưởng kinh tế."
+        "Đến 16/7/2026, giải ngân đầu tư công đạt 37,3% kế hoạch Thủ tướng giao.",
+        "Tốc độ giải ngân giảm liên tiếp hai tuần gần đây, sau khi tăng mạnh cuối tháng 6.",
+        "Vẫn còn 25 bộ, 12 địa phương giải ngân dưới mức bình quân chung cả nước."
       ],
-      "insight": "Kỳ vọng thúc đẩy tăng trưởng GDP, hỗ trợ các ngành vật liệu, xây dựng.",
-      "source": "VnExpress, Bộ Kế hoạch & Đầu tư"
+      "insight": "Giải ngân chậm lại có thể ảnh hưởng đến động lực tăng trưởng kinh tế và các ngành hưởng lợi như xây dựng, vật liệu.",
+      "source": "Báo Đấu thầu, Thời báo Tài chính Việt Nam, Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất công nghiệp tháng 7 tăng trưởng ấn tượng.",
+      "headline": "Tín dụng tăng trưởng, áp lực nợ xấu ngân hàng nóng lên",
       "bullets": [
-        "Chỉ số sản xuất công nghiệp (IIP) tháng 7 ước tăng 8,2% so với cùng kỳ năm trước.",
-        "Ngành chế biến, chế tạo dẫn đầu đà tăng trưởng, xuất khẩu phục hồi."
+        "Đến 13/7/2026, dư nợ tín dụng toàn nền kinh tế tăng 7,86% so với cuối 2025.",
+        "Áp lực kiểm soát nợ xấu gia tăng do lãi suất cao và thị trường bất động sản chưa phục hồi.",
+        "Tỷ lệ nợ xấu toàn ngành dự báo khoảng 1,8% cuối 2026, tăng nhẹ so với 2025."
       ],
-      "insight": "Tín hiệu tích cực về phục hồi kinh tế, hỗ trợ nhóm cổ phiếu sản xuất.",
-      "source": "Tổng cục Thống kê, Vietstock"
+      "insight": "Tăng trưởng tín dụng đi kèm rủi ro nợ xấu có thể ảnh hưởng đến lợi nhuận và khả năng cho vay của các ngân hàng.",
+      "source": "Báo Đại Đoàn Kết, VietnamBiz, VietnamFinance"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 100 USD/thùng, căng thẳng leo thang.",
+      "headline": "Fed dự kiến giữ nguyên lãi suất tại cuộc họp tháng 7",
       "bullets": [
-        "Giá dầu Brent chốt phiên 23/7 ở 100,69 USD/thùng, tăng 7% sau vụ tấn công tàu chở dầu.",
-        "Căng thẳng Biển Đỏ và eo biển Hormuz gia tăng lo ngại gián đoạn nguồn cung."
+        "Các nhà phân tích dự báo Fed sẽ giữ lãi suất 3,5%-3,75% tại cuộc họp cuối tháng 7/2026.",
+        "Lạm phát Mỹ hạ nhiệt nhưng vẫn tiềm ẩn rủi ro từ căng thẳng địa chính trị và thuế quan mới.",
+        "Quyết định này nhằm chờ đợi thêm dữ liệu kinh tế trước khi điều chỉnh chính sách."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát, ảnh hưởng chi phí sản xuất toàn cầu.",
-      "source": "Reuters, CNBC"
+      "insight": "Việc Fed giữ lãi suất ổn định có thể giảm áp lực tỷ giá lên VND, hỗ trợ tâm lý thị trường.",
+      "source": "Kitco, Natixis, Morgan Stanley, Vietnam.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc tung gói kích thích bất động sản lớn.",
+      "headline": "Giá dầu Brent giảm nhẹ sau tin đàm phán hòa bình",
       "bullets": [
-        "Chính phủ Trung Quốc công bố gói hỗ trợ 1 nghìn tỷ NDT cho thị trường bất động sản.",
-        "Nhằm ổn định thị trường, thúc đẩy hoàn thành các dự án đang dang dở."
+        "Giá dầu Brent giảm về 96,78 USD/thùng sáng 25/7, giảm 3,92 USD/thùng.",
+        "Thông tin Trung Quốc thúc đẩy đàm phán hòa bình Mỹ-Iran đã làm dịu bớt căng thẳng.",
+        "Tuy nhiên, xung đột ở Biển Đỏ và eo biển Hormuz vẫn tiềm ẩn rủi ro lớn."
       ],
-      "insight": "Kỳ vọng cải thiện tâm lý thị trường, hỗ trợ giá hàng hóa và xuất khẩu Việt Nam.",
-      "source": "Bloomberg, Reuters"
+      "insight": "Giá dầu giảm có thể giúp giảm áp lực lạm phát nhập khẩu, nhưng biến động địa chính trị vẫn là rủi ro.",
+      "source": "Eva.vn, Báo Mới, VOV"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#VĩMô",
-    "#DầuThô",
-    "#BấtĐộngSản"
+    "#KinhTếViệtNam",
+    "#Fed",
+    "#GiáDầu",
+    "#ĐầuTưCông",
+    "#TínDụng",
+    "#VốnNgoại"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
