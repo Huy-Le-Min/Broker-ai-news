@@ -1,28 +1,28 @@
 {
-  "date": "25/7/2026",
+  "date": "26/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam",
   "session": {
     "vnindex_close": "1.686,11",
-    "vnindex_change": "-0,78%",
+    "vnindex_change": "-5,67%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 1.295,2 tỷ",
+    "foreign_net": "Bán ròng 3.727 tỷ",
     "foreign_dir": "sell",
-    "volume": "15.000 tỷ",
-    "top_gainer": "Dầu khí, một số mã ngân hàng"
+    "volume": "20.115 tỷ",
+    "top_gainer": "Nhóm vốn hóa lớn chịu áp lực bán mạnh; VNM, BSR, STB đi ngược dòng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.510",
-      "change": "+0,05%",
+      "value": "26.497",
+      "change": "+0,69% (tuần)",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
       "value": "141,5 triệu",
-      "change": "+1,8%",
-      "dir": "up"
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
@@ -31,65 +31,67 @@
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Tiếp tục theo dõi diễn biến địa chính trị Trung Đông và dữ liệu kinh tế quốc tế tuần tới.",
+  "tomorrow_watch": "Cuộc họp Fed (28-29/7), quyết định lãi suất BoE, BoJ (30-31/7)",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam phản ứng thuế mới 12,5% của Mỹ",
+      "headline": "VN-Index giảm sâu, khối ngoại bán ròng 3.727 tỷ đồng",
       "bullets": [
-        "Bộ Ngoại giao: Quyết định USTR chưa phản ánh đủ nỗ lực chống lao động cưỡng bức.",
-        "Chính phủ ban hành Nghị định cấm nhập khẩu hàng hóa sản xuất bằng lao động cưỡng bức."
+        "Thị trường chứng khoán Việt Nam tuần qua (20-24/7) giảm 5,67%, đóng cửa tại 1.686,11 điểm.",
+        "Khối ngoại bán ròng 3.727 tỷ đồng trên HOSE, thanh khoản bình quân đạt 20.115 tỷ đồng/phiên.",
+        "Cổ phiếu PNJ giảm 28,5% do thông tin vụ án buôn lậu kim cương liên quan đến PNJ-LAB."
       ],
-      "insight": "Việt Nam chủ động ứng phó, giảm thiểu tác động tiêu cực từ chính sách thương mại mới của Mỹ.",
-      "source": "Tuổi Trẻ Online · Báo Công Thương · VietNamNet"
+      "insight": "Áp lực bán tháo và rủi ro pháp lý doanh nghiệp lớn gây tâm lý bi quan, ảnh hưởng thanh khoản thị trường.",
+      "source": "Thời báo Tài chính Việt Nam · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất cho vay tăng mạnh, áp lực doanh nghiệp",
+      "headline": "Việt Nam lần đầu sản xuất thành công sản phẩm nhôm thỏi",
       "bullets": [
-        "Lãi suất cho vay bình quân tháng 6 tăng 0,4 điểm, đạt 8,1-10,5%/năm.",
-        "NHNN nhận định điều hành lãi suất \"vất vả\" do nhu cầu vốn tăng nhanh."
+        "Nhà máy điện phân nhôm Đắk Nông công bố sản phẩm nhôm thỏi đầu tiên, đạt độ tinh khiết 99,71%.",
+        "Dự án có tổng mức đầu tư 28.000 tỷ đồng, công suất phân kỳ 1 là 150.000 tấn/năm."
       ],
-      "insight": "Lãi suất cao ảnh hưởng chi phí vốn, giảm động lực mở rộng sản xuất kinh doanh.",
-      "source": "24H · Báo Mới · Danviet.vn"
+      "insight": "Sự kiện này đánh dấu bước tiến quan trọng, nâng cao năng lực tự chủ ngành công nghiệp luyện kim của Việt Nam.",
+      "source": "PetroTimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "Luật Thuế TNCN mới có hiệu lực từ tháng 7",
+      "headline": "Dòng tiền nhàn rỗi dịch chuyển sang kênh tiết kiệm ngân hàng",
       "bullets": [
-        "Luật mới nâng mức giảm trừ gia cảnh lên 15,5 triệu đồng/tháng.",
-        "Biểu thuế lũy tiến rút gọn 5 bậc; áp thuế 0,1% lên tài sản số, vàng."
+        "Thị trường vàng biến động mạnh khiến nhà đầu tư tìm kiếm kênh trú ẩn an toàn hơn.",
+        "Dòng tiền nhàn rỗi có xu hướng dịch chuyển rõ nét sang tiết kiệm ngân hàng."
       ],
-      "insight": "Chính sách mới kích cầu tiêu dùng, mở rộng quản lý thuế với các tài sản số.",
-      "source": "VTV.vn"
+      "insight": "Tâm lý thận trọng gia tăng, cho thấy sự ưu tiên bảo toàn vốn trong bối cảnh thị trường tài chính nhiều bất định.",
+      "source": "Báo Tin tức"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc thúc đẩy đàm phán hòa bình Mỹ-Iran",
+      "headline": "Mỹ áp thuế mới 10-12,5% lên 60 đối tác, có Việt Nam",
       "bullets": [
-        "Giá dầu Brent giảm gần 4% sau tin Trung Quốc nỗ lực nối lại đàm phán.",
-        "Căng thẳng Trung Đông leo thang đã đẩy giá dầu tăng mạnh tuần qua."
+        "Ngày 24/7, Mỹ áp thuế 10% và 12,5% với hàng hóa từ 60 đối tác, thay thế mức thuế phổ quát trước đó.",
+        "Việt Nam phản ứng, cho rằng quyết định chưa phản ánh đầy đủ nỗ lực chống lao động cưỡng bức."
       ],
-      "insight": "Đàm phán hòa bình giảm rủi ro địa chính trị, ổn định giá dầu, tác động tích cực lạm phát.",
-      "source": "Eva.vn · Báo Thanh Niên · VietNamNet"
+      "insight": "Chính sách bảo hộ thương mại của Mỹ tái khởi động, tiềm ẩn rủi ro căng thẳng thương mại toàn cầu và chi phí xuất khẩu.",
+      "source": "VietnamFinance · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "EU phê duyệt giải ngân 1,5 tỷ euro cho Ai Cập",
+      "headline": "Kinh tế Trung Quốc “hai tốc độ”: Xuất khẩu mạnh, tiêu dùng yếu",
       "bullets": [
-        "Liên minh châu Âu phê duyệt khoản giải ngân 1,5 tỷ euro hỗ trợ tài chính Ai Cập.",
-        "Khoản giải ngân đầu tiên 1 tỷ euro đã được thực hiện vào tháng 1/2026."
+        "Kinh tế Trung Quốc mất cân đối: xuất khẩu, sản xuất công nghệ cao bùng nổ.",
+        "Thị trường việc làm ảm đạm, tiêu dùng nội địa yếu và khủng hoảng bất động sản kéo dài.",
+        "GDP quý II chỉ tăng 4,3%, thấp hơn mục tiêu đề ra, gây áp lực lên chính sách."
       ],
-      "insight": "Gói hỗ trợ thể hiện cam kết EU với ổn định khu vực, có thể tác động dòng vốn quốc tế.",
-      "source": "VOV"
+      "insight": "Sự mất cân đối này có thể ảnh hưởng đến tăng trưởng toàn cầu và đòi hỏi Bắc Kinh có thêm biện pháp kích thích.",
+      "source": "Wall Street Journal · Financial Times"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#TinTứcKinhTế"
+    "#KinhTếViệtNam",
+    "#TinTứcQuốcTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
