@@ -1,89 +1,95 @@
 {
-  "date": "26/7/2026",
+  "date": "27/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.686,11",
-    "vnindex_change": "-5,67%",
+    "vnindex_close": "1.669,01",
+    "vnindex_change": "-1,01%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 3.727 tỷ",
+    "foreign_net": "Bán ròng 780 tỷ",
     "foreign_dir": "sell",
-    "volume": "20.115 tỷ",
-    "top_gainer": "Nhóm vốn hóa lớn chịu áp lực bán mạnh; VNM, BSR, STB đi ngược dòng"
+    "volume": "14.575 tỷ",
+    "top_gainer": "PNJ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.497",
-      "change": "+0,69% (tuần)",
-      "dir": "up"
+      "value": "26.285",
+      "change": "+10 VND",
+      "dir": "up",
+      "source": "Web Giá, Thanh Niên"
     },
     {
       "label": "Vàng SJC",
       "value": "141,5 triệu",
-      "change": "0%",
-      "dir": "flat"
+      "change": "+1,7 triệu",
+      "dir": "up",
+      "source": "Báo Lao Động, 24H"
     },
     {
       "label": "Dầu Brent",
-      "value": "96,78$",
-      "change": "-3,88%",
-      "dir": "down"
+      "value": "91,89$",
+      "change": "-5,05%",
+      "dir": "down",
+      "source": "VOV, VietnamBiz"
     }
   ],
-  "tomorrow_watch": "Cuộc họp Fed (28-29/7), quyết định lãi suất BoE, BoJ (30-31/7)",
+  "tomorrow_watch": "Fed họp chính sách, áp lực lạm phát có thể ảnh hưởng quyết định lãi suất.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm sâu, khối ngoại bán ròng 3.727 tỷ đồng",
+      "headline": "Hoàn thiện Luật Hỗ trợ DNNVV: Nâng ngưỡng, đơn giản hóa tiêu chí",
       "bullets": [
-        "Thị trường chứng khoán Việt Nam tuần qua (20-24/7) giảm 5,67%, đóng cửa tại 1.686,11 điểm.",
-        "Khối ngoại bán ròng 3.727 tỷ đồng trên HOSE, thanh khoản bình quân đạt 20.115 tỷ đồng/phiên.",
-        "Cổ phiếu PNJ giảm 28,5% do thông tin vụ án buôn lậu kim cương liên quan đến PNJ-LAB."
+        "Dự thảo Luật Hỗ trợ DNNVV (sửa đổi) đang được hoàn thiện, nâng ngưỡng lao động bình quân lên 300 người.",
+        "Tiêu chí xác định DNNVV sẽ đơn giản hóa, chỉ dùng tổng lao động và tổng doanh thu năm liền kề.",
+        "Luật mới hướng tới ứng dụng chuyển đổi số, dữ liệu số, giảm thủ tục hành chính."
       ],
-      "insight": "Áp lực bán tháo và rủi ro pháp lý doanh nghiệp lớn gây tâm lý bi quan, ảnh hưởng thanh khoản thị trường.",
-      "source": "Thời báo Tài chính Việt Nam · VnEconomy"
+      "insight": "Chính sách mới kỳ vọng tạo thuận lợi cho DNNVV, thúc đẩy tăng trưởng và khuyến khích chuyển đổi từ hộ kinh doanh.",
+      "source": "Chinhphu.vn · Báo Đại biểu Nhân dân"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam lần đầu sản xuất thành công sản phẩm nhôm thỏi",
+      "headline": "Dự án đường sắt tốc độ cao Bắc-Nam: Khánh Hòa đẩy nhanh giải phóng mặt bằng",
       "bullets": [
-        "Nhà máy điện phân nhôm Đắk Nông công bố sản phẩm nhôm thỏi đầu tiên, đạt độ tinh khiết 99,71%.",
-        "Dự án có tổng mức đầu tư 28.000 tỷ đồng, công suất phân kỳ 1 là 150.000 tấn/năm."
+        "Khánh Hòa ban hành kế hoạch bồi thường, tái định cư cho dự án đường sắt tốc độ cao Bắc-Nam.",
+        "Lộ trình giải phóng mặt bằng dự kiến từ 2026 đến 2028, ưu tiên hoàn thành trước quý IV/2028.",
+        "Dự án dài 1.541km, dự kiến khởi công giai đoạn 2026-2028 với tổng vốn 67,34 tỷ USD."
       ],
-      "insight": "Sự kiện này đánh dấu bước tiến quan trọng, nâng cao năng lực tự chủ ngành công nghiệp luyện kim của Việt Nam.",
-      "source": "PetroTimes"
+      "insight": "Tiến độ giải phóng mặt bằng là yếu tố then chốt, giúp dự án trọng điểm quốc gia sớm triển khai.",
+      "source": "VietNamNet · Dân trí"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dòng tiền nhàn rỗi dịch chuyển sang kênh tiết kiệm ngân hàng",
+      "headline": "Việt Nam điểm đến hàng đầu châu Á cho đầu tư sản xuất dài hạn",
       "bullets": [
-        "Thị trường vàng biến động mạnh khiến nhà đầu tư tìm kiếm kênh trú ẩn an toàn hơn.",
-        "Dòng tiền nhàn rỗi có xu hướng dịch chuyển rõ nét sang tiết kiệm ngân hàng."
+        "Việt Nam được nhận định là điểm đến hàng đầu châu Á cho đầu tư sản xuất dài hạn nửa cuối 2026.",
+        "Nền kinh tế vĩ mô hấp dẫn, chuyển mình thành nền tảng tăng trưởng cấu trúc khu vực.",
+        "Quốc gia hưởng lợi từ dịch chuyển chuỗi cung ứng, thu hút vốn đầu tư."
       ],
-      "insight": "Tâm lý thận trọng gia tăng, cho thấy sự ưu tiên bảo toàn vốn trong bối cảnh thị trường tài chính nhiều bất định.",
-      "source": "Báo Tin tức"
+      "insight": "Triển vọng tích cực về thu hút đầu tư có thể hỗ trợ tăng trưởng kinh tế và thị trường vốn Việt Nam.",
+      "source": "Báo Tin Tức · Vietnam.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ áp thuế mới 10-12,5% lên 60 đối tác, có Việt Nam",
+      "headline": "Lạm phát Mỹ hạ nhiệt tháng 6: CPI tăng 3,5%, dưới dự kiến",
       "bullets": [
-        "Ngày 24/7, Mỹ áp thuế 10% và 12,5% với hàng hóa từ 60 đối tác, thay thế mức thuế phổ quát trước đó.",
-        "Việt Nam phản ứng, cho rằng quyết định chưa phản ánh đầy đủ nỗ lực chống lao động cưỡng bức."
+        "Chỉ số giá tiêu dùng (CPI) Mỹ tháng 6/2026 tăng 3,5% so với cùng kỳ, giảm từ 4,2% tháng 5.",
+        "Mức tăng này thấp hơn dự báo 3,8%, chủ yếu nhờ giá năng lượng sụt giảm mạnh.",
+        "CPI lõi tăng 2,6% so với cùng kỳ, cho thấy áp lực giá vẫn còn ở một số lĩnh vực."
       ],
-      "insight": "Chính sách bảo hộ thương mại của Mỹ tái khởi động, tiềm ẩn rủi ro căng thẳng thương mại toàn cầu và chi phí xuất khẩu.",
-      "source": "VietnamFinance · VietNamNet"
+      "insight": "Lạm phát hạ nhiệt có thể giảm áp lực lên Fed, tác động tích cực đến tâm lý thị trường toàn cầu.",
+      "source": "Báo Mới · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc “hai tốc độ”: Xuất khẩu mạnh, tiêu dùng yếu",
+      "headline": "Trung Quốc đẩy mạnh chiến lược 'toàn chuỗi' xuất khẩu xe năng lượng mới",
       "bullets": [
-        "Kinh tế Trung Quốc mất cân đối: xuất khẩu, sản xuất công nghệ cao bùng nổ.",
-        "Thị trường việc làm ảm đạm, tiêu dùng nội địa yếu và khủng hoảng bất động sản kéo dài.",
-        "GDP quý II chỉ tăng 4,3%, thấp hơn mục tiêu đề ra, gây áp lực lên chính sách."
+        "Trung Quốc tái định hình chiến lược toàn cầu, không chỉ xuất khẩu sản phẩm NEV.",
+        "Chuyển hướng phát triển hệ sinh thái 'toàn chuỗi' bản địa hóa, bao gồm chuyển giao công nghệ.",
+        "Mục tiêu xây dựng thương hiệu và sản xuất tại chỗ ở các thị trường quốc tế."
       ],
-      "insight": "Sự mất cân đối này có thể ảnh hưởng đến tăng trưởng toàn cầu và đòi hỏi Bắc Kinh có thêm biện pháp kích thích.",
-      "source": "Wall Street Journal · Financial Times"
+      "insight": "Chiến lược này có thể gia tăng cạnh tranh toàn cầu, ảnh hưởng đến ngành ô tô và chuỗi cung ứng.",
+      "source": "Báo Tin Tức · Vietnam.vn"
     }
   ],
   "hashtags": [
