@@ -1,103 +1,96 @@
 {
-  "date": "27/7/2026",
+  "date": "28/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.669,01",
-    "vnindex_change": "-1,01%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 780 tỷ",
+    "vnindex_close": "1.680,62",
+    "vnindex_change": "+0,7%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng 1.966 tỷ",
     "foreign_dir": "sell",
-    "volume": "14.575 tỷ",
-    "top_gainer": "PNJ"
+    "volume": "13.600 tỷ",
+    "top_gainer": "Nhóm Chứng khoán"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.285",
-      "change": "+10 VND",
-      "dir": "up",
-      "source": "Web Giá, Thanh Niên"
+      "value": "26.525",
+      "change": "+0,02%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
       "value": "141,5 triệu",
-      "change": "+1,7 triệu",
-      "dir": "up",
-      "source": "Báo Lao Động, 24H"
+      "change": "-1,05%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "91,89$",
-      "change": "-5,05%",
-      "dir": "down",
-      "source": "VOV, VietnamBiz"
+      "value": "86,43$",
+      "change": "-2,18%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Fed họp chính sách, áp lực lạm phát có thể ảnh hưởng quyết định lãi suất.",
+  "tomorrow_watch": "Fed công bố quyết định chính sách tiền tệ",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Hoàn thiện Luật Hỗ trợ DNNVV: Nâng ngưỡng, đơn giản hóa tiêu chí",
+      "headline": "Tỷ giá trung tâm USD/VND lập đỉnh mới",
       "bullets": [
-        "Dự thảo Luật Hỗ trợ DNNVV (sửa đổi) đang được hoàn thiện, nâng ngưỡng lao động bình quân lên 300 người.",
-        "Tiêu chí xác định DNNVV sẽ đơn giản hóa, chỉ dùng tổng lao động và tổng doanh thu năm liền kề.",
-        "Luật mới hướng tới ứng dụng chuyển đổi số, dữ liệu số, giảm thủ tục hành chính."
+        "NHNN điều chỉnh tỷ giá trung tâm lên 25.306 VND/USD, tăng 13 đồng so với hôm qua.",
+        "Đây là mức cao nhất từ trước đến nay, phản ánh áp lực từ thị trường quốc tế."
       ],
-      "insight": "Chính sách mới kỳ vọng tạo thuận lợi cho DNNVV, thúc đẩy tăng trưởng và khuyến khích chuyển đổi từ hộ kinh doanh.",
-      "source": "Chinhphu.vn · Báo Đại biểu Nhân dân"
+      "insight": "Diễn biến này có thể ảnh hưởng đến chi phí nhập khẩu và dòng vốn đầu tư nước ngoài.",
+      "source": "Tạp chí Tri thức · Báo Thanh Niên"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dự án đường sắt tốc độ cao Bắc-Nam: Khánh Hòa đẩy nhanh giải phóng mặt bằng",
+      "headline": "Khối ngoại bán ròng gần 2.000 tỷ đồng",
       "bullets": [
-        "Khánh Hòa ban hành kế hoạch bồi thường, tái định cư cho dự án đường sắt tốc độ cao Bắc-Nam.",
-        "Lộ trình giải phóng mặt bằng dự kiến từ 2026 đến 2028, ưu tiên hoàn thành trước quý IV/2028.",
-        "Dự án dài 1.541km, dự kiến khởi công giai đoạn 2026-2028 với tổng vốn 67,34 tỷ USD."
+        "Khối ngoại bán ròng 1.966 tỷ đồng toàn thị trường, chủ yếu do giao dịch thỏa thuận VHM.",
+        "Cổ phiếu VHM bị bán ròng gần 3.000 tỷ đồng nhưng vẫn giữ sắc xanh."
       ],
-      "insight": "Tiến độ giải phóng mặt bằng là yếu tố then chốt, giúp dự án trọng điểm quốc gia sớm triển khai.",
-      "source": "VietNamNet · Dân trí"
+      "insight": "Giao dịch thỏa thuận lớn tại VHM làm méo mó số liệu, nhưng dòng tiền ngoại vẫn phân hóa.",
+      "source": "CafeF · VTV.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam điểm đến hàng đầu châu Á cho đầu tư sản xuất dài hạn",
+      "headline": "Thúc đẩy huy động vốn qua kênh trái phiếu",
       "bullets": [
-        "Việt Nam được nhận định là điểm đến hàng đầu châu Á cho đầu tư sản xuất dài hạn nửa cuối 2026.",
-        "Nền kinh tế vĩ mô hấp dẫn, chuyển mình thành nền tảng tăng trưởng cấu trúc khu vực.",
-        "Quốc gia hưởng lợi từ dịch chuyển chuỗi cung ứng, thu hút vốn đầu tư."
+        "Thị trường trái phiếu doanh nghiệp đang hoàn thiện khung pháp lý theo Nghị định 200/2026/NĐ-CP.",
+        "Mục tiêu là tăng tính minh bạch, kỷ luật và tạo thuận lợi cho doanh nghiệp huy động vốn."
       ],
-      "insight": "Triển vọng tích cực về thu hút đầu tư có thể hỗ trợ tăng trưởng kinh tế và thị trường vốn Việt Nam.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Chính sách mới kỳ vọng cải thiện kênh dẫn vốn quan trọng cho doanh nghiệp và thị trường.",
+      "source": "Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ hạ nhiệt tháng 6: CPI tăng 3,5%, dưới dự kiến",
+      "headline": "Fed họp, thị trường chờ tín hiệu lãi suất",
       "bullets": [
-        "Chỉ số giá tiêu dùng (CPI) Mỹ tháng 6/2026 tăng 3,5% so với cùng kỳ, giảm từ 4,2% tháng 5.",
-        "Mức tăng này thấp hơn dự báo 3,8%, chủ yếu nhờ giá năng lượng sụt giảm mạnh.",
-        "CPI lõi tăng 2,6% so với cùng kỳ, cho thấy áp lực giá vẫn còn ở một số lĩnh vực."
+        "Cục Dự trữ Liên bang Mỹ (Fed) họp chính sách tiền tệ trong hai ngày 28-29/7.",
+        "Thị trường đang định giá khả năng Fed tăng lãi suất, gây bất định cao."
       ],
-      "insight": "Lạm phát hạ nhiệt có thể giảm áp lực lên Fed, tác động tích cực đến tâm lý thị trường toàn cầu.",
-      "source": "Báo Mới · Vietstock"
+      "insight": "Quyết định của Fed sẽ tác động lớn đến tỷ giá, dòng vốn và tâm lý nhà đầu tư toàn cầu.",
+      "source": "Tạp chí Doanh Nhân VN · VTC News"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc đẩy mạnh chiến lược 'toàn chuỗi' xuất khẩu xe năng lượng mới",
+      "headline": "Giá dầu Brent giảm mạnh về 86 USD",
       "bullets": [
-        "Trung Quốc tái định hình chiến lược toàn cầu, không chỉ xuất khẩu sản phẩm NEV.",
-        "Chuyển hướng phát triển hệ sinh thái 'toàn chuỗi' bản địa hóa, bao gồm chuyển giao công nghệ.",
-        "Mục tiêu xây dựng thương hiệu và sản xuất tại chỗ ở các thị trường quốc tế."
+        "Giá dầu Brent giảm xuống 86,43 USD/thùng, giảm 2,18% trong phiên 28/7.",
+        "Nguyên nhân chính là Mỹ và Iran tạm dừng không kích, làm dịu lo ngại nguồn cung."
       ],
-      "insight": "Chiến lược này có thể gia tăng cạnh tranh toàn cầu, ảnh hưởng đến ngành ô tô và chuỗi cung ứng.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Giá dầu hạ nhiệt giúp giảm áp lực lạm phát toàn cầu, có lợi cho các nền kinh tế nhập khẩu.",
+      "source": "Trading Economics · VietNamNet"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#KinhTếViệtNam",
-    "#TinTứcQuốcTế"
+    "#TỷGiá",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
