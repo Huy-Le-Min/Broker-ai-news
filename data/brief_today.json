@@ -1,89 +1,91 @@
 {
-  "date": "27/7/2026",
+  "date": "28/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lao Động · Báo Mới · VOV · Báo Chính phủ · Báo Đấu thầu",
+  "sources": "CafeF · Vietstock · LuatVietnam · VietnamBiz · Vinanet · Báo Thanh Niên · 24H · Báo Lâm Đồng · PetroTimes",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.510",
-      "change": "+0,23%",
+      "value": "26.520",
+      "change": "+0.04%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,5tr",
-      "change": "±0%",
-      "dir": "flat"
+      "value": "143 tr",
+      "change": "+1,5 tr",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "92,03$",
-      "change": "-4,91%",
+      "value": "85.87$",
+      "change": "-6.34%",
       "dir": "down"
     }
   ],
-  "today_watch": "Cuộc họp FOMC tháng 7 của Fed; dữ liệu niềm tin tiêu dùng, GDP quý II Mỹ.",
+  "today_watch": "Thị trường chờ báo cáo PCE tháng 6 Mỹ và quyết định lãi suất BoJ, BoE tuần này.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới lỏng tín dụng, hỗ trợ vốn cho dự án trọng điểm",
+      "headline": "MWG giảm sàn bất ngờ, vốn hóa bốc hơi 45.000 tỷ",
       "bullets": [
-        "NHNN điều chỉnh tỷ lệ vốn ngắn hạn cho vay trung dài hạn.",
-        "Loại trừ tín dụng nhà ở xã hội, KCN khỏi giới hạn tăng trưởng."
+        "Cổ phiếu MWG giảm sàn ngày 27/7, xuống 63.300 đồng/cổ phiếu, vốn hóa \"bốc hơi\" 45.300 tỷ đồng.",
+        "Diễn biến này xảy ra dù doanh nghiệp báo cáo KQKD 6 tháng đầu năm 2026 tăng trưởng gần 29%.",
+        "Áp lực bán giải chấp, dòng tiền yếu và khối ngoại bán ròng được cho là nguyên nhân."
       ],
-      "insight": "Giúp ngân hàng tăng cho vay, thúc đẩy đầu tư hạ tầng và BĐS thực.",
-      "source": "Vietstock · Báo Chính phủ"
+      "insight": "Đà giảm mạnh của bluechip MWG có thể ảnh hưởng tâm lý tiêu cực lên thị trường chung.",
+      "source": "CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá nhà đất giảm sâu quý II/2026, người mua thận trọng",
+      "headline": "VN-Index giảm điểm, khối ngoại bán ròng 741 tỷ",
       "bullets": [
-        "Giá nhà mặt phố giảm 3%, nhà riêng giảm 6% toàn quốc.",
-        "Biệt thự, đất nền cũng giảm; chung cư, nhà riêng TP.HCM tăng nhẹ."
+        "VN-Index giảm 17,10 điểm (-1,01%) xuống 1.669,01 điểm phiên 27/7.",
+        "Khối ngoại bán ròng 741 tỷ đồng trên HOSE, tập trung vào VPB, TCB, SHB.",
+        "Nhiều cổ phiếu chứng khoán và bất động sản giảm sàn cuối phiên."
       ],
-      "insight": "Thị trường BĐS tái cân bằng, ưu tiên giá trị thực và khả năng sinh lời.",
-      "source": "Báo Lao Động"
+      "insight": "Dòng tiền yếu và áp lực bán ròng tiếp tục gây lo ngại về xu hướng thị trường.",
+      "source": "Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "TP.HCM đề xuất chính sách hỗ trợ công nghiệp bán dẫn",
+      "headline": "NHNN tăng tỷ lệ vốn ngắn hạn cho vay trung, dài hạn",
       "bullets": [
-        "Hỗ trợ 70% chi phí sản xuất mẫu thử, mua công nghệ (tối đa 2-5 tỷ đồng).",
-        "Nhằm thúc đẩy sản xuất phụ trợ, thiết bị điện tử, giảm phụ thuộc nhập khẩu."
+        "Thông tư 25/2026/TT-NHNN tăng tỷ lệ vốn ngắn hạn cho vay trung, dài hạn từ 30% lên 40%.",
+        "Quy định này tạo thêm dư địa tín dụng 1,3-1,5 triệu tỷ đồng cho nền kinh tế.",
+        "NHNN cũng miễn room tín dụng cho 18 dự án trọng điểm quốc gia."
       ],
-      "insight": "Tạo động lực mới cho ngành công nghệ cao, thu hút đầu tư FDI chất lượng.",
-      "source": "Báo Mới"
+      "insight": "Chính sách hỗ trợ tín dụng có thể thúc đẩy đầu tư, đặc biệt vào BĐS và hạ tầng.",
+      "source": "LuatVietnam"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent giảm mạnh 5%, xuống 92 USD/thùng",
+      "headline": "Dầu Brent giảm mạnh, dưới 86 USD/thùng",
       "bullets": [
-        "Giá dầu Brent giảm 4,91%, về 92,03 USD/thùng sáng nay.",
-        "Kỳ vọng đàm phán hòa bình Mỹ-Iran hạ nhiệt căng thẳng Trung Đông."
+        "Giá dầu Brent giảm 6,34% xuống 85,87 USD/thùng phiên 27/7.",
+        "Mỹ và Iran tạm dừng tấn công, thúc đẩy đàm phán hòa bình, giảm lo ngại gián đoạn nguồn cung.",
+        "Đây là mức thấp nhất trong hơn một tuần, sau khi từng vượt 100 USD/thùng."
       ],
-      "insight": "Giảm áp lực lạm phát toàn cầu, nhưng rủi ro địa chính trị vẫn tiềm ẩn.",
-      "source": "VOV · VietnamBiz · Tuổi Trẻ Online"
+      "insight": "Giá dầu giảm có thể làm dịu áp lực lạm phát toàn cầu, hỗ trợ chi phí doanh nghiệp.",
+      "source": "VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Đồng Yên chạm đáy 40 năm, BoJ có thể cứng rắn hơn",
+      "headline": "BOJ có thể tăng lãi suất cuối 2026",
       "bullets": [
-        "Đồng Yên giảm xuống mức thấp nhất 40 năm so với USD.",
-        "BoJ dự kiến giữ lãi suất, nhưng có thể phát tín hiệu thắt chặt."
+        "86% chuyên gia Reuters dự báo BOJ tăng lãi suất thêm 25 điểm cơ bản lên 1,25% cuối 2026.",
+        "Đồng Yen yếu (163,24 JPY/USD) tiếp tục gây áp lực lạm phát tại Nhật Bản.",
+        "BOJ phải cân bằng kiểm soát giá cả và hỗ trợ tăng trưởng kinh tế."
       ],
-      "insight": "Gây căng thẳng thanh khoản toàn cầu, ảnh hưởng dòng vốn quốc tế.",
-      "source": "VietNamNet · Báo Mới"
+      "insight": "Chính sách tiền tệ thắt chặt của Nhật Bản có thể tác động đến dòng vốn toàn cầu và tỷ giá.",
+      "source": "Vinanet"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#Vietcap",
-    "#KinhTếViệtNam",
-    "#ThịTrườngDầu",
-    "#BấtĐộngSản",
-    "#ChínhSáchTiềnTệ",
-    "#CôngNghiệpBánDẫn"
+    "#KinhTế",
+    "#ThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
