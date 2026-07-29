@@ -1,87 +1,87 @@
 {
-  "date": "28/7/2026",
+  "date": "29/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Lao Động · VietnamBiz · Báo Mới · Tạp chí Mekong Asean · Cục Hải quan",
   "session": {
-    "vnindex_close": "1.680,62",
-    "vnindex_change": "+0,7%",
+    "vnindex_close": "1.704,68",
+    "vnindex_change": "+1,43%",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 1.966 tỷ",
+    "foreign_net": "Bán ròng 90 tỷ đồng",
     "foreign_dir": "sell",
-    "volume": "13.600 tỷ",
-    "top_gainer": "Nhóm Chứng khoán"
+    "volume": "14.388 tỷ",
+    "top_gainer": "nhóm Vingroup"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.525",
-      "change": "+0,02%",
+      "value": "26.530",
+      "change": "tăng nhẹ",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,5 triệu",
-      "change": "-1,05%",
-      "dir": "down"
+      "value": "141,50 triệu",
+      "change": "tăng nhẹ",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "86,43$",
-      "change": "-2,18%",
-      "dir": "down"
+      "value": "86,82$",
+      "change": "+3,25%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Fed công bố quyết định chính sách tiền tệ",
+  "tomorrow_watch": "Thị trường chờ quyết định lãi suất từ Fed; giá xăng dầu trong nước điều chỉnh.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá trung tâm USD/VND lập đỉnh mới",
+      "headline": "Việt Nam nhập siêu 20,4 tỷ USD nửa đầu 2026",
       "bullets": [
-        "NHNN điều chỉnh tỷ giá trung tâm lên 25.306 VND/USD, tăng 13 đồng so với hôm qua.",
-        "Đây là mức cao nhất từ trước đến nay, phản ánh áp lực từ thị trường quốc tế."
+        "Lũy kế đến 15/7/2026, kim ngạch xuất nhập khẩu đạt 601 tỷ USD.",
+        "Việt Nam nhập siêu 20,4 tỷ USD, cùng kỳ năm trước xuất siêu 8 tỷ USD."
       ],
-      "insight": "Diễn biến này có thể ảnh hưởng đến chi phí nhập khẩu và dòng vốn đầu tư nước ngoài.",
-      "source": "Tạp chí Tri thức · Báo Thanh Niên"
+      "insight": "Nhập siêu lớn gây áp lực lên tỷ giá và cán cân thanh toán, cần theo dõi sát.",
+      "source": "Cục Hải quan · Tạp chí Mekong Asean"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng gần 2.000 tỷ đồng",
+      "headline": "Lãi suất huy động tiếp tục điều chỉnh tại nhiều ngân hàng",
       "bullets": [
-        "Khối ngoại bán ròng 1.966 tỷ đồng toàn thị trường, chủ yếu do giao dịch thỏa thuận VHM.",
-        "Cổ phiếu VHM bị bán ròng gần 3.000 tỷ đồng nhưng vẫn giữ sắc xanh."
+        "BaoViet Bank giảm 0,2% kỳ hạn 6-36 tháng, VPBank tăng ở nhiều kỳ hạn.",
+        "HDBank dẫn đầu với 7,6%/năm, MB Bank 7,0%/năm, Sacombank 6,9%/năm online."
       ],
-      "insight": "Giao dịch thỏa thuận lớn tại VHM làm méo mó số liệu, nhưng dòng tiền ngoại vẫn phân hóa.",
-      "source": "CafeF · VTV.vn"
+      "insight": "Biến động lãi suất cho thấy cạnh tranh huy động vốn, ảnh hưởng chi phí vốn.",
+      "source": "Báo Lao Động · VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thúc đẩy huy động vốn qua kênh trái phiếu",
+      "headline": "Chứng chỉ tiền gửi lên tới 9%/năm, cạnh tranh hút vốn",
       "bullets": [
-        "Thị trường trái phiếu doanh nghiệp đang hoàn thiện khung pháp lý theo Nghị định 200/2026/NĐ-CP.",
-        "Mục tiêu là tăng tính minh bạch, kỷ luật và tạo thuận lợi cho doanh nghiệp huy động vốn."
+        "BVBank huy động chứng chỉ tiền gửi với lãi suất 8,2% - 9%/năm.",
+        "Kỳ hạn 15 tháng hoặc nhận lãi hàng tháng có mức 7,64-8,06%."
       ],
-      "insight": "Chính sách mới kỳ vọng cải thiện kênh dẫn vốn quan trọng cho doanh nghiệp và thị trường.",
-      "source": "Bnews.vn"
+      "insight": "Sự xuất hiện CCTG lãi suất cao cho thấy nhu cầu vốn trung dài hạn tăng.",
+      "source": "Báo Mới · VietnamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed họp, thị trường chờ tín hiệu lãi suất",
+      "headline": "Kinh tế Trung Quốc tăng trưởng 4,7% nửa đầu 2026",
       "bullets": [
-        "Cục Dự trữ Liên bang Mỹ (Fed) họp chính sách tiền tệ trong hai ngày 28-29/7.",
-        "Thị trường đang định giá khả năng Fed tăng lãi suất, gây bất định cao."
+        "GDP Trung Quốc đạt 69.600 tỷ nhân dân tệ, phù hợp mục tiêu 4,5-5% năm 2026.",
+        "Sản xuất, cung ứng tăng, việc làm ổn định, động lực mới mở rộng."
       ],
-      "insight": "Quyết định của Fed sẽ tác động lớn đến tỷ giá, dòng vốn và tâm lý nhà đầu tư toàn cầu.",
-      "source": "Tạp chí Doanh Nhân VN · VTC News"
+      "insight": "Tăng trưởng ổn định của Trung Quốc hỗ trợ xuất khẩu và kinh tế Việt Nam.",
+      "source": "VOV · TTXVN"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm mạnh về 86 USD",
+      "headline": "Ngân hàng Trung Quốc thừa tiền mặt do nhu cầu vay yếu",
       "bullets": [
-        "Giá dầu Brent giảm xuống 86,43 USD/thùng, giảm 2,18% trong phiên 28/7.",
-        "Nguyên nhân chính là Mỹ và Iran tạm dừng không kích, làm dịu lo ngại nguồn cung."
+        "Tiền gửi nhân dân tệ tăng 8,2% cuối tháng 6, cho vay chỉ tăng 5,2%.",
+        "Đây là năm thứ hai tăng trưởng tiền gửi vượt cho vay, do BĐS suy yếu."
       ],
-      "insight": "Giá dầu hạ nhiệt giúp giảm áp lực lạm phát toàn cầu, có lợi cho các nền kinh tế nhập khẩu.",
-      "source": "Trading Economics · VietNamNet"
+      "insight": "Dư thừa thanh khoản phản ánh kinh tế chậm lại, giảm động lực tăng trưởng.",
+      "source": "VnEconomy · Reuters"
     }
   ],
   "hashtags": [
@@ -89,8 +89,7 @@
     "#ChứngKhoán",
     "#Vietcap",
     "#VNIndex",
-    "#TỷGiá",
-    "#GiáDầu"
+    "#KinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
