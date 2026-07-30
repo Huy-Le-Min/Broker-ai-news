@@ -1,95 +1,94 @@
 {
-  "date": "29/7/2026",
+  "date": "30/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Lao Động · VietnamBiz · Báo Mới · Tạp chí Mekong Asean · Cục Hải quan",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.704,68",
-    "vnindex_change": "+1,43%",
+    "vnindex_close": "1.744,66",
+    "vnindex_change": "+2,35%",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 90 tỷ đồng",
-    "foreign_dir": "sell",
-    "volume": "14.388 tỷ",
-    "top_gainer": "nhóm Vingroup"
+    "foreign_net": "Mua ròng 677 tỷ",
+    "foreign_dir": "buy",
+    "volume": "20.264 tỷ",
+    "top_gainer": "Bất động sản, Ngân hàng, Chứng khoán"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.530",
-      "change": "tăng nhẹ",
+      "value": "26.586",
+      "change": "+0,05%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,50 triệu",
-      "change": "tăng nhẹ",
-      "dir": "up"
+      "value": "141,70 tr/lượng",
+      "change": "-0,56%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "86,82$",
-      "change": "+3,25%",
+      "value": "90,74$",
+      "change": "+7,9%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Thị trường chờ quyết định lãi suất từ Fed; giá xăng dầu trong nước điều chỉnh.",
+  "tomorrow_watch": "BoE công bố chính sách tiền tệ; Mỹ công bố GDP sơ bộ Q2 và chỉ số PCE.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam nhập siêu 20,4 tỷ USD nửa đầu 2026",
+      "headline": "Hải Phòng khởi động Khu thương mại tự do",
       "bullets": [
-        "Lũy kế đến 15/7/2026, kim ngạch xuất nhập khẩu đạt 601 tỷ USD.",
-        "Việt Nam nhập siêu 20,4 tỷ USD, cùng kỳ năm trước xuất siêu 8 tỷ USD."
+        "Chiều 30/7, Hải Phòng công bố Quyết định của Thủ tướng về Khu kinh tế và khởi động Khu thương mại tự do.",
+        "Đây là sự khởi đầu giai đoạn phát triển mới, mời gọi hợp tác đầu tư trong và ngoài nước."
       ],
-      "insight": "Nhập siêu lớn gây áp lực lên tỷ giá và cán cân thanh toán, cần theo dõi sát.",
-      "source": "Cục Hải quan · Tạp chí Mekong Asean"
+      "insight": "Chính sách mới tạo động lực tăng trưởng, thu hút FDI, thúc đẩy phát triển hạ tầng và logistics khu vực.",
+      "source": "Báo Tin Tức · Vietnam.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất huy động tiếp tục điều chỉnh tại nhiều ngân hàng",
+      "headline": "Ấn Độ mở cửa thị trường cho sầu riêng Việt Nam",
       "bullets": [
-        "BaoViet Bank giảm 0,2% kỳ hạn 6-36 tháng, VPBank tăng ở nhiều kỳ hạn.",
-        "HDBank dẫn đầu với 7,6%/năm, MB Bank 7,0%/năm, Sacombank 6,9%/năm online."
+        "Ấn Độ chính thức cho phép nhập khẩu sầu riêng tươi của Việt Nam để tiêu dùng từ 30/7.",
+        "Quy định mới không yêu cầu kiểm dịch thực vật bổ sung hay điều kiện nhập khẩu đặc biệt."
       ],
-      "insight": "Biến động lãi suất cho thấy cạnh tranh huy động vốn, ảnh hưởng chi phí vốn.",
-      "source": "Báo Lao Động · VietnamBiz"
+      "insight": "Mở rộng thị trường xuất khẩu nông sản, tăng giá trị cho ngành sầu riêng và thúc đẩy tăng trưởng nông nghiệp.",
+      "source": "Báo Tin Tức · Vietnam.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chứng chỉ tiền gửi lên tới 9%/năm, cạnh tranh hút vốn",
+      "headline": "Dòng vốn M&A hướng tới AI và doanh nghiệp chất lượng",
       "bullets": [
-        "BVBank huy động chứng chỉ tiền gửi với lãi suất 8,2% - 9%/năm.",
-        "Kỳ hạn 15 tháng hoặc nhận lãi hàng tháng có mức 7,64-8,06%."
+        "Nghị quyết 57-NQ/TW định hướng M&A chọn lọc, ưu tiên doanh nghiệp nền tảng tốt và hạ tầng AI.",
+        "Làn sóng đầu tư vào AI và góp vốn ngoại được kỳ vọng tạo thêm động lực thị trường."
       ],
-      "insight": "Sự xuất hiện CCTG lãi suất cao cho thấy nhu cầu vốn trung dài hạn tăng.",
-      "source": "Báo Mới · VietnamNet"
+      "insight": "Thúc đẩy tái cấu trúc doanh nghiệp, nâng cao chất lượng đầu tư và phát triển công nghệ cao tại Việt Nam.",
+      "source": "Báo Tin Tức · Vietnam.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc tăng trưởng 4,7% nửa đầu 2026",
+      "headline": "Chứng khoán Mỹ giảm mạnh sau quyết định của Fed",
       "bullets": [
-        "GDP Trung Quốc đạt 69.600 tỷ nhân dân tệ, phù hợp mục tiêu 4,5-5% năm 2026.",
-        "Sản xuất, cung ứng tăng, việc làm ổn định, động lực mới mở rộng."
+        "Dow Jones giảm 2,2%, S&P 500 mất 1,5%, Nasdaq giảm 1,74% phiên 29/7 sau quyết định của Fed.",
+        "Fed giữ nguyên lãi suất nhưng nội bộ bất đồng, lợi suất trái phiếu tăng vọt gây lo ngại lạm phát."
       ],
-      "insight": "Tăng trưởng ổn định của Trung Quốc hỗ trợ xuất khẩu và kinh tế Việt Nam.",
-      "source": "VOV · TTXVN"
+      "insight": "Phản ứng tiêu cực của thị trường Mỹ có thể ảnh hưởng tâm lý nhà đầu tư toàn cầu, gây áp lực lên các thị trường mới nổi.",
+      "source": "Báo Tin Tức · Vietstock · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Ngân hàng Trung Quốc thừa tiền mặt do nhu cầu vay yếu",
+      "headline": "Giá dầu Brent vượt 90 USD do căng thẳng Trung Đông",
       "bullets": [
-        "Tiền gửi nhân dân tệ tăng 8,2% cuối tháng 6, cho vay chỉ tăng 5,2%.",
-        "Đây là năm thứ hai tăng trưởng tiền gửi vượt cho vay, do BĐS suy yếu."
+        "Giá dầu Brent tăng 7,9% lên 90,74 USD/thùng, lần đầu vượt mốc 90 USD sau nhiều phiên.",
+        "Căng thẳng Mỹ-Iran leo thang sau vụ Iran phóng tên lửa làm dấy lên lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Dư thừa thanh khoản phản ánh kinh tế chậm lại, giảm động lực tăng trưởng.",
-      "source": "VnEconomy · Reuters"
+      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và tiêu dùng, tác động đến các ngành liên quan.",
+      "source": "Vietstock · VOV · Báo Lao Động"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#VNIndex",
-    "#KinhTế"
+    "#KinhTếViệtNam",
+    "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
