@@ -1,86 +1,92 @@
 {
-  "date": "29/7/2026",
+  "date": "30/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Mới · VietnamBiz · VOV · Bnews",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lao Động",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.525",
-      "change": "+0,04%",
-      "dir": "up"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "141,50 tr.đ/lượng",
-      "change": "-1,5 tr.đ/lượng",
+      "value": "26.298",
+      "change": "-0.05%",
       "dir": "down"
     },
     {
+      "label": "Vàng SJC",
+      "value": "141,50 tr",
+      "change": "+0.43%",
+      "dir": "up"
+    },
+    {
       "label": "Dầu Brent",
-      "value": "84,6$",
-      "change": "+3,08%",
+      "value": "90,74$",
+      "change": "+7.91%",
       "dir": "up"
     }
   ],
-  "today_watch": "Fed công bố quyết định lãi suất; Chủ tịch Fed họp báo.",
+  "today_watch": "Chiều nay, giá xăng dầu trong nước sẽ được liên Bộ Công Thương - Tài chính điều chỉnh.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Mỹ áp thuế 12,5% lên hàng Việt",
+      "headline": "VN-Index vượt 1.700 điểm, dòng tiền lan tỏa nhiều ngành",
       "bullets": [
-        "Hoa Kỳ áp thuế bổ sung 12,5% theo Mục 301 lên nhiều ngành xuất khẩu chủ lực của Việt Nam.",
-        "Việc tái cấu trúc chuỗi cung ứng và thị trường ngành hàng chủ lực là cấp thiết."
+        "VN-Index tăng 24,06 điểm (+1,43%), đạt 1.704,68 điểm; HNX-Index tăng 0,83% trong phiên 29/7.",
+        "Dòng tiền cải thiện, lan tỏa sang bất động sản, chứng khoán, thép, dầu khí và công nghệ.",
+        "Tuy nhiên, khối ngoại bán ròng gần 2.000 tỷ đồng trên HOSE, tập trung VHM, VIX."
       ],
-      "insight": "Áp lực lớn lên xuất khẩu, đòi hỏi doanh nghiệp đa dạng hóa thị trường và nâng cao năng lực cạnh tranh.",
-      "source": "Báo Mới · Báo Tin Tức TTXVN"
+      "insight": "Đà phục hồi cho thấy tâm lý nhà đầu tư tích cực hơn, nhưng thanh khoản yếu cần theo dõi thêm.",
+      "source": "Vietstock, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Trái phiếu doanh nghiệp có khung pháp lý mới",
+      "headline": "Xuất khẩu rau quả Việt Nam lần đầu vượt 1 tỷ USD/tháng",
       "bullets": [
-        "Thị trường trái phiếu doanh nghiệp hoàn thiện khuôn khổ pháp lý theo Nghị định 200/2026/NĐ-CP.",
-        "Nghị định tăng cường minh bạch, kỷ luật thị trường, tạo thuận lợi huy động vốn."
+        "Tháng 7/2026, xuất khẩu rau quả đạt 1,06 tỷ USD, tăng 38% so với cùng kỳ 2025.",
+        "Lũy kế 7 tháng đầu năm đạt 4,76 tỷ USD, tăng 23% so với cùng kỳ năm trước.",
+        "Sầu riêng đóng góp hơn 50% tổng kim ngạch, là động lực tăng trưởng chính của ngành."
       ],
-      "insight": "Giúp khơi thông kênh dẫn vốn quan trọng cho doanh nghiệp, tăng tính hấp dẫn cho nhà đầu tư.",
-      "source": "Báo Mới · Vietnam.vn"
+      "insight": "Tăng trưởng mạnh của ngành nông sản hỗ trợ cán cân thương mại, tạo điểm sáng kinh tế.",
+      "source": "VnEconomy, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tiền gửi cá nhân lập kỷ lục, nhiều ngân hàng giảm lãi Q2",
+      "headline": "Bất động sản phân hóa: Chung cư ổn định, nhà phố giảm giá",
       "bullets": [
-        "Tiền gửi cá nhân tại ngân hàng lập kỷ lục mới, cho thấy dòng tiền nhàn rỗi tăng.",
-        "Nhiều ngân hàng báo cáo lợi nhuận quý 2 giảm do chi phí tín dụng tăng."
+        "Nửa đầu 2026, nhà mặt phố, biệt thự và nhà riêng giảm 3-6%; chung cư duy trì giá ổn định.",
+        "Thanh khoản thị trường trầm lắng, đất nền ghi nhận mức suy giảm giao dịch mạnh nhất (42%).",
+        "Dự thảo Luật Kinh doanh BĐS sửa đổi hướng tới phân cấp, bổ sung quy trình giao dịch."
       ],
-      "insight": "Dòng tiền tìm nơi trú ẩn an toàn, nhưng lợi nhuận ngân hàng có thể chịu áp lực trong ngắn hạn.",
-      "source": "Hanoionline.vn · YouTube"
+      "insight": "Thị trường đang điều chỉnh về giá trị thực, nhu cầu ở thực là động lực chính của phân khúc chung cư.",
+      "source": "Báo Lao Động, VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed dự kiến giữ nguyên lãi suất, thị trường chờ tín hiệu",
+      "headline": "Fed giữ nguyên lãi suất, nội bộ bất đồng về chính sách",
       "bullets": [
-        "Fed nhiều khả năng giữ nguyên lãi suất trong cuộc họp tháng 7/2026 kết thúc hôm nay.",
-        "Thị trường chờ tín hiệu về lộ trình chính sách, áp lực lạm phát từ dầu vẫn đáng kể."
+        "Fed giữ nguyên lãi suất quỹ liên bang 3,5%-3,75% lần thứ 5 liên tiếp vào ngày 29/7.",
+        "Ba thành viên FOMC bỏ phiếu chống, muốn tăng lãi suất thêm 0,25 điểm phần trăm.",
+        "Chủ tịch Fed Kevin Warsh tái khẳng định quyết tâm đưa lạm phát về mục tiêu 2%."
       ],
-      "insight": "Quyết định của Fed sẽ định hình tâm lý thị trường toàn cầu, ảnh hưởng dòng vốn và tỷ giá.",
-      "source": "VTV.vn · Bnews.vn · Vietstock · VOV"
+      "insight": "Quyết định của Fed cho thấy sự thận trọng, nhưng bất đồng nội bộ có thể tạo bất ổn chính sách.",
+      "source": "VOV, VietnamBiz, CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ phân hóa, chip bán dẫn giảm sâu",
+      "headline": "Dầu Brent tăng mạnh 7,9% do căng thẳng Trung Đông",
       "bullets": [
-        "Chứng khoán Mỹ diễn biến trái chiều, Dow Jones tăng, S&P 500 và Nasdaq giảm nhẹ.",
-        "Cổ phiếu bán dẫn giảm mạnh do lo ngại định giá cao và cạnh tranh từ Trung Quốc."
+        "Giá dầu Brent chốt phiên 29/7 tăng 7,91%, lên 90,74 USD/thùng.",
+        "Căng thẳng leo thang tại Trung Đông với các cuộc không kích của Mỹ và Saudi Arabia.",
+        "Lo ngại gián đoạn nguồn cung từ eo biển Hormuz đẩy giá dầu lên cao."
       ],
-      "insight": "Phản ánh rủi ro định giá và cạnh tranh công nghệ, có thể ảnh hưởng tâm lý nhà đầu tư toàn cầu.",
-      "source": "TheStreet · Bnews.vn"
+      "insight": "Giá dầu tăng mạnh có thể gây áp lực lạm phát toàn cầu và ảnh hưởng chi phí sản xuất.",
+      "source": "VOV, Eva.vn, PetroTimes"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
-    "#Fed"
+    "#FED",
+    "#GiáDầu",
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
