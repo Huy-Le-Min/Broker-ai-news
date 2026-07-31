@@ -1,92 +1,87 @@
 {
-  "date": "30/7/2026",
+  "date": "31/7/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lao Động",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Báo Mới · Eva.vn · Baodautu",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.298",
-      "change": "-0.05%",
-      "dir": "down"
+      "value": "25.320",
+      "change": "+14 đồng",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,50 tr",
-      "change": "+0.43%",
-      "dir": "up"
+      "value": "141,7tr",
+      "change": "-0,56%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "90,74$",
-      "change": "+7.91%",
-      "dir": "up"
+      "value": "89,03$",
+      "change": "-1,88%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Chiều nay, giá xăng dầu trong nước sẽ được liên Bộ Công Thương - Tài chính điều chỉnh.",
+  "today_watch": "Trung Quốc công bố PMI sản xuất tháng 7/2026",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index vượt 1.700 điểm, dòng tiền lan tỏa nhiều ngành",
+      "headline": "VN-Index tăng mạnh 2,35%, khối ngoại mua ròng 670 tỷ đồng",
       "bullets": [
-        "VN-Index tăng 24,06 điểm (+1,43%), đạt 1.704,68 điểm; HNX-Index tăng 0,83% trong phiên 29/7.",
-        "Dòng tiền cải thiện, lan tỏa sang bất động sản, chứng khoán, thép, dầu khí và công nghệ.",
-        "Tuy nhiên, khối ngoại bán ròng gần 2.000 tỷ đồng trên HOSE, tập trung VHM, VIX."
+        "Phiên 30/7, VN-Index tăng 39,98 điểm (2,35%) lên 1.744,66 điểm, thanh khoản HoSE đạt hơn 20.260 tỷ đồng.",
+        "Khối ngoại đảo chiều mua ròng gần 670 tỷ đồng, tập trung vào VIC, VNM, MSN, FPT và MCH."
       ],
-      "insight": "Đà phục hồi cho thấy tâm lý nhà đầu tư tích cực hơn, nhưng thanh khoản yếu cần theo dõi thêm.",
-      "source": "Vietstock, CafeF"
+      "insight": "Thị trường có tín hiệu tích cực hơn khi dòng tiền lan tỏa, lực cầu chủ động và khối ngoại mua ròng trở lại.",
+      "source": "VnEconomy · Vietstock · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất khẩu rau quả Việt Nam lần đầu vượt 1 tỷ USD/tháng",
+      "headline": "Lợi nhuận doanh nghiệp Q2/2026 giảm tốc, thấp nhất 4 quý",
       "bullets": [
-        "Tháng 7/2026, xuất khẩu rau quả đạt 1,06 tỷ USD, tăng 38% so với cùng kỳ 2025.",
-        "Lũy kế 7 tháng đầu năm đạt 4,76 tỷ USD, tăng 23% so với cùng kỳ năm trước.",
-        "Sầu riêng đóng góp hơn 50% tổng kim ngạch, là động lực tăng trưởng chính của ngành."
+        "Lợi nhuận sau thuế của 574 doanh nghiệp niêm yết tăng 23,5% YoY, nhưng là mức thấp nhất 4 quý gần đây.",
+        "Nhiều lĩnh vực gắn với nhu cầu trong nước, xuất khẩu chưa cải thiện đồng đều."
       ],
-      "insight": "Tăng trưởng mạnh của ngành nông sản hỗ trợ cán cân thương mại, tạo điểm sáng kinh tế.",
-      "source": "VnEconomy, CafeF"
+      "insight": "Đà tăng trưởng lợi nhuận chậm lại cho thấy thách thức kinh doanh vẫn hiện hữu, cần theo dõi sát các ngành.",
+      "source": "FiinTrade · VnEconomy · Baodautu"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản phân hóa: Chung cư ổn định, nhà phố giảm giá",
+      "headline": "Ưu đãi đầu tư công nghệ cao từ tháng 8/2026",
       "bullets": [
-        "Nửa đầu 2026, nhà mặt phố, biệt thự và nhà riêng giảm 3-6%; chung cư duy trì giá ổn định.",
-        "Thanh khoản thị trường trầm lắng, đất nền ghi nhận mức suy giảm giao dịch mạnh nhất (42%).",
-        "Dự thảo Luật Kinh doanh BĐS sửa đổi hướng tới phân cấp, bổ sung quy trình giao dịch."
+        "Nghị định 274/2026/NĐ-CP có hiệu lực từ 21/8/2026, ưu đãi đến 5% cho nhà đầu tư ứng dụng công nghệ cao.",
+        "Chính sách nhằm khuyến khích phát triển doanh nghiệp công nghệ cao và đổi mới sáng tạo."
       ],
-      "insight": "Thị trường đang điều chỉnh về giá trị thực, nhu cầu ở thực là động lực chính của phân khúc chung cư.",
-      "source": "Báo Lao Động, VietnamBiz"
+      "insight": "Chính sách mới kỳ vọng thu hút vốn vào công nghệ, thúc đẩy tăng trưởng các ngành liên quan AI, bán dẫn.",
+      "source": "LuatVietnam"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed giữ nguyên lãi suất, nội bộ bất đồng về chính sách",
+      "headline": "Chứng khoán Mỹ giảm mạnh sau họp Fed",
       "bullets": [
-        "Fed giữ nguyên lãi suất quỹ liên bang 3,5%-3,75% lần thứ 5 liên tiếp vào ngày 29/7.",
-        "Ba thành viên FOMC bỏ phiếu chống, muốn tăng lãi suất thêm 0,25 điểm phần trăm.",
-        "Chủ tịch Fed Kevin Warsh tái khẳng định quyết tâm đưa lạm phát về mục tiêu 2%."
+        "Dow Jones mất hơn 1.100 điểm (2,2%), S&P 500 giảm 1,5%, Nasdaq giảm 1,7% phiên 29/7.",
+        "Fed giữ nguyên lãi suất, nhưng lợi suất trái phiếu 30 năm tăng lên 5,2%, cao nhất từ 2007."
       ],
-      "insight": "Quyết định của Fed cho thấy sự thận trọng, nhưng bất đồng nội bộ có thể tạo bất ổn chính sách.",
-      "source": "VOV, VietnamBiz, CafeF"
+      "insight": "Thị trường lo ngại về lạm phát và lộ trình chính sách của Fed, gây áp lực lên tâm lý nhà đầu tư toàn cầu.",
+      "source": "Vncommodities · VnEconomy · ACBS"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent tăng mạnh 7,9% do căng thẳng Trung Đông",
+      "headline": "Sản xuất Trung Quốc dự báo chững lại tháng 7",
       "bullets": [
-        "Giá dầu Brent chốt phiên 29/7 tăng 7,91%, lên 90,74 USD/thùng.",
-        "Căng thẳng leo thang tại Trung Đông với các cuộc không kích của Mỹ và Saudi Arabia.",
-        "Lo ngại gián đoạn nguồn cung từ eo biển Hormuz đẩy giá dầu lên cao."
+        "PMI sản xuất Trung Quốc dự kiến giảm từ 50,3 (tháng 6) xuống 50 (tháng 7).",
+        "Tiêu dùng nội địa yếu và áp lực chi phí là nguyên nhân chính gây chững lại."
       ],
-      "insight": "Giá dầu tăng mạnh có thể gây áp lực lạm phát toàn cầu và ảnh hưởng chi phí sản xuất.",
-      "source": "VOV, Eva.vn, PetroTimes"
+      "insight": "Sức khỏe kinh tế Trung Quốc ảnh hưởng lớn đến xuất khẩu Việt Nam và chuỗi cung ứng toàn cầu.",
+      "source": "Bnews.vn · VietnamPlus"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FED",
-    "#GiáDầu",
-    "#BấtĐộngSản"
+    "#KinhTếThếGiới",
+    "#Fed",
+    "#TrungQuốc"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
