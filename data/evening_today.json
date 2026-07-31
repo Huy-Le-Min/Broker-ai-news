@@ -1,93 +1,101 @@
 {
-  "date": "30/7/2026",
+  "date": "31/7/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.744,66",
-    "vnindex_change": "+2,35%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 677 tỷ",
-    "foreign_dir": "buy",
-    "volume": "20.264 tỷ",
-    "top_gainer": "Bất động sản, Ngân hàng, Chứng khoán"
+    "vnindex_close": "1.735,78",
+    "vnindex_change": "-0,51%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 312 tỷ",
+    "foreign_dir": "sell",
+    "volume": "19.021 tỷ",
+    "top_gainer": "Nhóm ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.586",
-      "change": "+0,05%",
-      "dir": "up"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "141,70 tr/lượng",
-      "change": "-0,56%",
+      "value": "26.470",
+      "change": "-0,19%",
       "dir": "down"
     },
     {
-      "label": "Dầu Brent",
-      "value": "90,74$",
-      "change": "+7,9%",
+      "label": "Vàng SJC",
+      "value": "141,90 tr",
+      "change": "+0,14%",
       "dir": "up"
+    },
+    {
+      "label": "Dầu Brent",
+      "value": "87,01$",
+      "change": "-1,25%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "BoE công bố chính sách tiền tệ; Mỹ công bố GDP sơ bộ Q2 và chỉ số PCE.",
+  "tomorrow_watch": "Quyết định nới tỷ lệ LDR cho ngân hàng có hiệu lực; Quốc hội thảo luận dự thảo Luật Đất đai (sửa đổi).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Hải Phòng khởi động Khu thương mại tự do",
+      "headline": "VN-Index giảm nhẹ, kết thúc tháng 7 với áp lực chốt lời.",
       "bullets": [
-        "Chiều 30/7, Hải Phòng công bố Quyết định của Thủ tướng về Khu kinh tế và khởi động Khu thương mại tự do.",
-        "Đây là sự khởi đầu giai đoạn phát triển mới, mời gọi hợp tác đầu tư trong và ngoài nước."
+        "Phiên 31/7, VN-Index giảm 8,88 điểm (-0,51%) xuống 1.735,78 điểm do áp lực bán cuối phiên.",
+        "Thanh khoản HoSE đạt hơn 19.021 tỷ đồng; khối ngoại bán ròng 312 tỷ đồng.",
+        "Nhóm ngân hàng như VCB, BID, CTG nâng đỡ thị trường, hạn chế đà giảm."
       ],
-      "insight": "Chính sách mới tạo động lực tăng trưởng, thu hút FDI, thúc đẩy phát triển hạ tầng và logistics khu vực.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Thị trường điều chỉnh sau chuỗi tăng, cho thấy tâm lý thận trọng và dòng tiền chờ đợi tín hiệu rõ ràng hơn.",
+      "source": "Vietstock · Thời báo Tài chính Việt Nam · Tuổi Trẻ Online"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ấn Độ mở cửa thị trường cho sầu riêng Việt Nam",
+      "headline": "Ngân hàng được nới tỷ lệ LDR từ 1/8, tăng khả năng cho vay.",
       "bullets": [
-        "Ấn Độ chính thức cho phép nhập khẩu sầu riêng tươi của Việt Nam để tiêu dùng từ 30/7.",
-        "Quy định mới không yêu cầu kiểm dịch thực vật bổ sung hay điều kiện nhập khẩu đặc biệt."
+        "Từ 1/8/2026, ngân hàng được tính 50% tiền gửi KBNN vào LDR, thay vì 20% hiện tại.",
+        "Quyết định 1743/QĐ-NHNN có hiệu lực đến 31/7/2028, giúp tăng dư địa tín dụng."
       ],
-      "insight": "Mở rộng thị trường xuất khẩu nông sản, tăng giá trị cho ngành sầu riêng và thúc đẩy tăng trưởng nông nghiệp.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Chính sách mới hỗ trợ thanh khoản hệ thống, tạo điều kiện mở rộng tín dụng, thúc đẩy tăng trưởng kinh tế.",
+      "source": "Báo Mới · Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dòng vốn M&A hướng tới AI và doanh nghiệp chất lượng",
+      "headline": "HDBank huy động thành công 721 triệu USD, kỷ lục vay xã hội quốc tế.",
       "bullets": [
-        "Nghị quyết 57-NQ/TW định hướng M&A chọn lọc, ưu tiên doanh nghiệp nền tảng tốt và hạ tầng AI.",
-        "Làn sóng đầu tư vào AI và góp vốn ngoại được kỳ vọng tạo thêm động lực thị trường."
+        "HDBank ký khoản vay xã hội hợp vốn quốc tế 721 triệu USD, lớn nhất Việt Nam.",
+        "Nguồn vốn từ ADB, Standard Chartered và các định chế tài chính toàn cầu.",
+        "Khoản vay nhằm mở rộng tiếp cận tài chính cho SME và doanh nghiệp nữ làm chủ."
       ],
-      "insight": "Thúc đẩy tái cấu trúc doanh nghiệp, nâng cao chất lượng đầu tư và phát triển công nghệ cao tại Việt Nam.",
-      "source": "Báo Tin Tức · Vietnam.vn"
+      "insight": "Giao dịch khẳng định niềm tin quốc tế vào triển vọng kinh tế Việt Nam và năng lực của HDBank.",
+      "source": "Báo Quân đội nhân dân"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ giảm mạnh sau quyết định của Fed",
+      "headline": "Kinh tế Trung Quốc tăng trưởng chậm lại, GDP quý 2 chỉ 4,3%.",
       "bullets": [
-        "Dow Jones giảm 2,2%, S&P 500 mất 1,5%, Nasdaq giảm 1,74% phiên 29/7 sau quyết định của Fed.",
-        "Fed giữ nguyên lãi suất nhưng nội bộ bất đồng, lợi suất trái phiếu tăng vọt gây lo ngại lạm phát."
+        "GDP Trung Quốc quý 2/2026 đạt 4,3%, thấp hơn dự báo và mục tiêu.",
+        "Bắc Kinh thận trọng, ưu tiên giải ngân nguồn lực đã phê duyệt thay vì kích thích mới."
       ],
-      "insight": "Phản ứng tiêu cực của thị trường Mỹ có thể ảnh hưởng tâm lý nhà đầu tư toàn cầu, gây áp lực lên các thị trường mới nổi.",
-      "source": "Báo Tin Tức · Vietstock · VnEconomy"
+      "insight": "Dữ liệu cho thấy đà giảm tốc kinh tế Trung Quốc, có thể ảnh hưởng chuỗi cung ứng toàn cầu.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 90 USD do căng thẳng Trung Đông",
+      "headline": "Kinh tế Mỹ tăng trưởng chậm hơn kỳ vọng, GDP quý 2 đạt 1,5%.",
       "bullets": [
-        "Giá dầu Brent tăng 7,9% lên 90,74 USD/thùng, lần đầu vượt mốc 90 USD sau nhiều phiên.",
-        "Căng thẳng Mỹ-Iran leo thang sau vụ Iran phóng tên lửa làm dấy lên lo ngại gián đoạn nguồn cung."
+        "GDP Mỹ quý 2/2026 tăng 1,5%, thấp hơn mức 2,1% của quý 1 và dự báo.",
+        "Thâm hụt thương mại tăng do nhập khẩu chip bán dẫn, sản phẩm AI tăng mạnh.",
+        "Chi tiêu tiêu dùng tăng 3,2%, là yếu tố đóng góp lớn nhất vào tăng trưởng GDP."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và tiêu dùng, tác động đến các ngành liên quan.",
-      "source": "Vietstock · VOV · Báo Lao Động"
+      "insight": "Dù chi tiêu tiêu dùng mạnh, tăng trưởng tổng thể chậm lại có thể ảnh hưởng chính sách Fed.",
+      "source": "Báo Văn Hóa · Kenh14"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#VNIndex",
     "#KinhTếViệtNam",
+    "#ChínhSáchTiềnTệ",
+    "#HDBank",
+    "#KinhTếTrungQuốc",
+    "#KinhTếMỹ",
     "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
