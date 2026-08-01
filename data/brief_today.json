@@ -1,87 +1,88 @@
 {
-  "date": "31/7/2026",
+  "date": "01/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Báo Mới · Eva.vn · Baodautu",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Báo Lao Động · Danviet.vn · VietnamBiz · Báo Mới",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "25.320",
-      "change": "+14 đồng",
+      "value": "26.490",
+      "change": "+0,08%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,7tr",
-      "change": "-0,56%",
+      "value": "141,9tr",
+      "change": "-0,21%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "89,03$",
-      "change": "-1,88%",
-      "dir": "down"
+      "value": "87,93$",
+      "change": "+1,21%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Trung Quốc công bố PMI sản xuất tháng 7/2026",
+  "today_watch": "Thị trường theo dõi diễn biến dòng vốn ngoại và động thái điều hành tỷ giá của NHNN.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng mạnh 2,35%, khối ngoại mua ròng 670 tỷ đồng",
+      "headline": "Ngân hàng được nới tỷ lệ LDR từ 1/8, tăng khả năng cho vay.",
       "bullets": [
-        "Phiên 30/7, VN-Index tăng 39,98 điểm (2,35%) lên 1.744,66 điểm, thanh khoản HoSE đạt hơn 20.260 tỷ đồng.",
-        "Khối ngoại đảo chiều mua ròng gần 670 tỷ đồng, tập trung vào VIC, VNM, MSN, FPT và MCH."
+        "Từ 1/8/2026, các ngân hàng thương mại được tính 50% số dư tiền gửi có kỳ hạn của Kho bạc Nhà nước vào công thức xác định tỷ lệ LDR.",
+        "Quyết định 1743/QĐ-NHNN nâng tỷ lệ này từ 20% lên 50%, có hiệu lực đến hết 31/7/2028."
       ],
-      "insight": "Thị trường có tín hiệu tích cực hơn khi dòng tiền lan tỏa, lực cầu chủ động và khối ngoại mua ròng trở lại.",
-      "source": "VnEconomy · Vietstock · Báo Mới"
+      "insight": "Quy định mới giúp ngân hàng có thêm dư địa cho vay, hỗ trợ tăng trưởng tín dụng và thanh khoản hệ thống.",
+      "source": "Báo Tin Tức · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lợi nhuận doanh nghiệp Q2/2026 giảm tốc, thấp nhất 4 quý",
+      "headline": "Lợi nhuận ngân hàng Q2/2026 tăng trưởng mạnh, nhiều 'ông lớn' bứt phá.",
       "bullets": [
-        "Lợi nhuận sau thuế của 574 doanh nghiệp niêm yết tăng 23,5% YoY, nhưng là mức thấp nhất 4 quý gần đây.",
-        "Nhiều lĩnh vực gắn với nhu cầu trong nước, xuất khẩu chưa cải thiện đồng đều."
+        "Vietcombank báo lãi trước thuế quý 2 tăng 58%, đạt gần 17.420 tỷ đồng, nhờ thu nhập lãi thuần và hoạt động khác.",
+        "Nhiều ngân hàng khác như MB (+27,1%), VPBank (+68%), BVBank (+486%) cũng ghi nhận tăng trưởng lợi nhuận ấn tượng."
       ],
-      "insight": "Đà tăng trưởng lợi nhuận chậm lại cho thấy thách thức kinh doanh vẫn hiện hữu, cần theo dõi sát các ngành.",
-      "source": "FiinTrade · VnEconomy · Baodautu"
+      "insight": "Kết quả kinh doanh tích cực củng cố niềm tin vào ngành ngân hàng, vốn hóa lớn trên TTCK Việt Nam.",
+      "source": "Vietstock · VietnamBiz · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ưu đãi đầu tư công nghệ cao từ tháng 8/2026",
+      "headline": "FDI vào Việt Nam 6 tháng đầu năm 2026 đạt kỷ lục 34,65 tỷ USD.",
       "bullets": [
-        "Nghị định 274/2026/NĐ-CP có hiệu lực từ 21/8/2026, ưu đãi đến 5% cho nhà đầu tư ứng dụng công nghệ cao.",
-        "Chính sách nhằm khuyến khích phát triển doanh nghiệp công nghệ cao và đổi mới sáng tạo."
+        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025; vốn thực hiện đạt 13,03 tỷ USD, tăng 11,2%.",
+        "Đây là mức giải ngân cao nhất trong 6 tháng đầu năm giai đoạn 2022-2026, củng cố niềm tin nhà đầu tư."
       ],
-      "insight": "Chính sách mới kỳ vọng thu hút vốn vào công nghệ, thúc đẩy tăng trưởng các ngành liên quan AI, bán dẫn.",
-      "source": "LuatVietnam"
+      "insight": "Dòng vốn FDI kỷ lục cho thấy sức hấp dẫn của Việt Nam, tạo động lực tăng trưởng kinh tế và việc làm.",
+      "source": "Báo Tuổi Trẻ · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ giảm mạnh sau họp Fed",
+      "headline": "Chứng khoán Mỹ hồi phục mạnh sau bán tháo, cổ phiếu chip dẫn đầu.",
       "bullets": [
-        "Dow Jones mất hơn 1.100 điểm (2,2%), S&P 500 giảm 1,5%, Nasdaq giảm 1,7% phiên 29/7.",
-        "Fed giữ nguyên lãi suất, nhưng lợi suất trái phiếu 30 năm tăng lên 5,2%, cao nhất từ 2007."
+        "Thị trường Mỹ tăng điểm phiên 30/7, S&P 500 tăng 1,7%, Nasdaq tăng 2,8%, hồi phục sau phiên bán tháo trước đó.",
+        "Cổ phiếu Microsoft tăng 16% nhờ mảng đám mây Azure, cùng nhóm chip (Micron, AMD) kéo thị trường đi lên."
       ],
-      "insight": "Thị trường lo ngại về lạm phát và lộ trình chính sách của Fed, gây áp lực lên tâm lý nhà đầu tư toàn cầu.",
-      "source": "Vncommodities · VnEconomy · ACBS"
+      "insight": "Sự phục hồi của Phố Wall có thể lan tỏa tâm lý tích cực tới các thị trường châu Á, trong đó có Việt Nam.",
+      "source": "VnEconomy · CT Insider"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Sản xuất Trung Quốc dự báo chững lại tháng 7",
+      "headline": "Sản xuất Trung Quốc giảm lần đầu sau 5 tháng, PMI dưới ngưỡng 50.",
       "bullets": [
-        "PMI sản xuất Trung Quốc dự kiến giảm từ 50,3 (tháng 6) xuống 50 (tháng 7).",
-        "Tiêu dùng nội địa yếu và áp lực chi phí là nguyên nhân chính gây chững lại."
+        "Chỉ số PMI sản xuất chính thức của Trung Quốc giảm xuống 49,2 trong tháng 7, dưới ngưỡng 50, báo hiệu suy giảm.",
+        "PMI phi sản xuất cũng giảm mạnh xuống 49, mức thấp nhất kể từ tháng 12/2022, gây lo ngại về kinh tế."
       ],
-      "insight": "Sức khỏe kinh tế Trung Quốc ảnh hưởng lớn đến xuất khẩu Việt Nam và chuỗi cung ứng toàn cầu.",
-      "source": "Bnews.vn · VietnamPlus"
+      "insight": "Dữ liệu PMI tiêu cực của Trung Quốc có thể ảnh hưởng đến nhu cầu hàng hóa toàn cầu và xuất khẩu Việt Nam.",
+      "source": "Bnews · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
-    "#Fed",
-    "#TrungQuốc"
+    "#FDI",
+    "#NgânHàng",
+    "#ChứngKhoánMỹ",
+    "#KinhTếTrungQuốc"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
