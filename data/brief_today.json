@@ -1,88 +1,92 @@
 {
-  "date": "01/8/2026",
+  "date": "02/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Báo Lao Động · Danviet.vn · VietnamBiz · Báo Mới",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Chợ Giá · VietnamBiz · Báo Mới · Báo Thanh Niên · Thời báo Tài chính Việt Nam",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.490",
-      "change": "+0,08%",
-      "dir": "up"
+      "change": "-20 VND",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,9tr",
-      "change": "-0,21%",
+      "value": "141tr",
+      "change": "-900.000đ",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "87,93$",
-      "change": "+1,21%",
+      "value": "≈90$",
+      "change": "up",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường theo dõi diễn biến dòng vốn ngoại và động thái điều hành tỷ giá của NHNN.",
+  "today_watch": "Theo dõi tác động chính sách tín dụng mới và diễn biến địa chính trị Trung Đông.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Ngân hàng được nới tỷ lệ LDR từ 1/8, tăng khả năng cho vay.",
+      "headline": "Chính sách tín dụng mới mở rộng tài sản cho thuê tài chính",
       "bullets": [
-        "Từ 1/8/2026, các ngân hàng thương mại được tính 50% số dư tiền gửi có kỳ hạn của Kho bạc Nhà nước vào công thức xác định tỷ lệ LDR.",
-        "Quyết định 1743/QĐ-NHNN nâng tỷ lệ này từ 20% lên 50%, có hiệu lực đến hết 31/7/2028."
+        "Thông tư 31/2026/TT-NHNN có hiệu lực từ 15/8, cho phép cho thuê tài chính các quyền tài sản như phần mềm, dữ liệu, tài sản trí tuệ.",
+        "Quy trình thẩm định đơn giản hóa cho hợp đồng dưới 400 triệu đồng, thúc đẩy giao dịch điện tử.",
+        "Thông tư 29/2026/TT-NHNN nâng giới hạn khoản vay giá trị nhỏ lên 200 triệu đồng tại quỹ tín dụng."
       ],
-      "insight": "Quy định mới giúp ngân hàng có thêm dư địa cho vay, hỗ trợ tăng trưởng tín dụng và thanh khoản hệ thống.",
-      "source": "Báo Tin Tức · Báo Mới"
+      "insight": "Chính sách mới kỳ vọng tạo điều kiện doanh nghiệp tiếp cận vốn, thúc đẩy đổi mới công nghệ và chuyển đổi số.",
+      "source": "VOV · 24H · LuatVietnam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lợi nhuận ngân hàng Q2/2026 tăng trưởng mạnh, nhiều 'ông lớn' bứt phá.",
+      "headline": "Giải ngân đầu tư công: Chấm điểm KPI từ tháng 10/2026",
       "bullets": [
-        "Vietcombank báo lãi trước thuế quý 2 tăng 58%, đạt gần 17.420 tỷ đồng, nhờ thu nhập lãi thuần và hoạt động khác.",
-        "Nhiều ngân hàng khác như MB (+27,1%), VPBank (+68%), BVBank (+486%) cũng ghi nhận tăng trưởng lợi nhuận ấn tượng."
+        "Đến 23/7/2026, cả nước giải ngân 390.947 tỷ đồng, đạt 38,5% kế hoạch Thủ tướng giao.",
+        "Từ tháng 10/2026, kết quả giải ngân vốn đầu tư công sẽ chính thức được chấm điểm KPI.",
+        "Bộ Xây dựng còn 26.041 tỷ đồng phải giải ngân trong 5 tháng cuối năm, trung bình hơn 5.000 tỷ/tháng."
       ],
-      "insight": "Kết quả kinh doanh tích cực củng cố niềm tin vào ngành ngân hàng, vốn hóa lớn trên TTCK Việt Nam.",
-      "source": "Vietstock · VietnamBiz · CafeF"
+      "insight": "Cơ chế chấm điểm mới thúc đẩy trách nhiệm, tăng tốc giải ngân, hỗ trợ tăng trưởng kinh tế cuối năm.",
+      "source": "Thời báo Tài chính Việt Nam · VnEconomy · Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI vào Việt Nam 6 tháng đầu năm 2026 đạt kỷ lục 34,65 tỷ USD.",
+      "headline": "Xuất nhập khẩu 7 tháng đầu năm đạt 659 tỷ USD, nhập siêu tăng",
       "bullets": [
-        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ 2025; vốn thực hiện đạt 13,03 tỷ USD, tăng 11,2%.",
-        "Đây là mức giải ngân cao nhất trong 6 tháng đầu năm giai đoạn 2022-2026, củng cố niềm tin nhà đầu tư."
+        "Tổng kim ngạch xuất nhập khẩu 7 tháng đầu năm 2026 ước đạt 659 tỷ USD, tăng 28% so với cùng kỳ.",
+        "Trong đó, xuất khẩu đạt 320 tỷ USD (+21,9%), nhập khẩu 339 tỷ USD (+34,5%).",
+        "Cán cân thương mại thâm hụt 20,46 tỷ USD tính đến hết 15/7/2026."
       ],
-      "insight": "Dòng vốn FDI kỷ lục cho thấy sức hấp dẫn của Việt Nam, tạo động lực tăng trưởng kinh tế và việc làm.",
-      "source": "Báo Tuổi Trẻ · VnEconomy"
+      "insight": "Đà tăng nhập khẩu nguyên liệu cho thấy sản xuất phục hồi, nhưng nhập siêu lớn gây áp lực lên tỷ giá.",
+      "source": "Báo Mới · Chi cục Hải quan khu vực VIII · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ hồi phục mạnh sau bán tháo, cổ phiếu chip dẫn đầu.",
+      "headline": "Căng thẳng Trung Đông leo thang: Mỹ, Israel và Iran hành động",
       "bullets": [
-        "Thị trường Mỹ tăng điểm phiên 30/7, S&P 500 tăng 1,7%, Nasdaq tăng 2,8%, hồi phục sau phiên bán tháo trước đó.",
-        "Cổ phiếu Microsoft tăng 16% nhờ mảng đám mây Azure, cùng nhóm chip (Micron, AMD) kéo thị trường đi lên."
+        "Mỹ và Israel đang lên kế hoạch tấn công cơ sở năng lượng Iran suốt cuối tuần này.",
+        "Iran đã tấn công 2 tàu chở dầu tại eo biển Hormuz vào tối 1/8.",
+        "Các diễn biến này đẩy giá dầu thô tăng trở lại mốc 90 USD/thùng."
       ],
-      "insight": "Sự phục hồi của Phố Wall có thể lan tỏa tâm lý tích cực tới các thị trường châu Á, trong đó có Việt Nam.",
-      "source": "VnEconomy · CT Insider"
+      "insight": "Xung đột leo thang tại Trung Đông có thể gây gián đoạn nguồn cung, đẩy giá dầu và lạm phát toàn cầu.",
+      "source": "Báo Gia Lai · VOV · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Sản xuất Trung Quốc giảm lần đầu sau 5 tháng, PMI dưới ngưỡng 50.",
+      "headline": "Fed giữ nguyên lãi suất, nội bộ bất đồng về chính sách",
       "bullets": [
-        "Chỉ số PMI sản xuất chính thức của Trung Quốc giảm xuống 49,2 trong tháng 7, dưới ngưỡng 50, báo hiệu suy giảm.",
-        "PMI phi sản xuất cũng giảm mạnh xuống 49, mức thấp nhất kể từ tháng 12/2022, gây lo ngại về kinh tế."
+        "Fed giữ nguyên lãi suất điều hành ở mức 3,5-3,75% tại cuộc họp ngày 29/7.",
+        "Tuy nhiên, 3/12 thành viên FOMC bày tỏ quan điểm muốn tăng lãi suất thêm 0,25%.",
+        "Lạm phát Mỹ vẫn cao và giá dầu tăng gây áp lực lên quyết định tăng lãi suất tháng 9."
       ],
-      "insight": "Dữ liệu PMI tiêu cực của Trung Quốc có thể ảnh hưởng đến nhu cầu hàng hóa toàn cầu và xuất khẩu Việt Nam.",
-      "source": "Bnews · VnEconomy"
+      "insight": "Sự bất đồng trong Fed và áp lực lạm phát có thể khiến thị trường lo ngại về chính sách tiền tệ tương lai.",
+      "source": "VnEconomy · Báo Mới · Báo Thanh Niên"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FDI",
-    "#NgânHàng",
-    "#ChứngKhoánMỹ",
-    "#KinhTếTrungQuốc"
+    "#ThịTrườngTàiChính",
+    "#ĐịaChínhTrị",
+    "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
