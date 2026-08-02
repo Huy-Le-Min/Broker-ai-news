@@ -1,87 +1,87 @@
 {
-  "date": "01/8/2026",
+  "date": "02/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.735,78",
     "vnindex_change": "-0,51%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 307 tỷ",
+    "foreign_net": "Bán ròng 250 tỷ",
     "foreign_dir": "sell",
     "volume": "19.022 tỷ",
-    "top_gainer": "VHM, nhóm ngân hàng"
+    "top_gainer": "Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.209",
-      "change": "biến động nhẹ",
-      "dir": "flat"
+      "value": "26.490",
+      "change": "-0,08%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,00 triệu",
-      "change": "-1,5%",
+      "value": "141 triệu",
+      "change": "-0,35%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
       "value": "87,93$",
-      "change": "+1,21%",
-      "dir": "up"
+      "change": "-6,88%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Diễn biến thanh khoản, dòng tiền khối ngoại tuần tới.",
+  "tomorrow_watch": "Cục Thống kê công bố báo cáo kinh tế xã hội tháng 7; Chính phủ hoàn thiện Nghị định tranh chấp đầu tư quốc tế.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Ngân hàng tăng dư địa cho vay từ 1/8",
+      "headline": "Thẩm quyền xử phạt vi phạm đất đai cấp xã tăng 50 lần từ tháng 8.",
       "bullets": [
-        "NHNN cho phép tính 50% tiền gửi Kho bạc vào LDR, thay vì 20% trước đây.",
-        "Quy định mới giúp các ngân hàng thương mại, đặc biệt nhóm Big4, có thêm dư địa mở rộng tín dụng."
+        "Nghị định 281/2026/NĐ-CP có hiệu lực từ 31/8, tăng thẩm quyền phạt của Chủ tịch UBND cấp xã.",
+        "Mức phạt tối đa tăng từ 5 triệu đồng lên 250 triệu đồng, gấp 50 lần quy định hiện hành."
       ],
-      "insight": "Chính sách hỗ trợ thanh khoản, thúc đẩy tăng trưởng tín dụng, tạo động lực kinh tế.",
-      "source": "NHNN, Dân trí, Danviet.vn"
+      "insight": "Quy định mới siết chặt quản lý, nâng cao hiệu quả xử lý vi phạm đất đai ngay từ cơ sở.",
+      "source": "CafeF · VnExpress · Tiền Phong"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ưu đãi đầu tư công nghệ cao có hiệu lực tháng 8",
+      "headline": "Năng lượng tái tạo: Mở rộng đối tượng, tăng tỷ lệ bán điện dư.",
       "bullets": [
-        "Nghị định mới ưu đãi 5% cho nhà đầu tư ứng dụng công nghệ cao, xanh.",
-        "Cam kết chuyển giao công nghệ được ưu đãi thêm 2% khi đấu thầu."
+        "Nghị định 243/2026/NĐ-CP sửa đổi cơ chế phát triển điện năng lượng tái tạo có hiệu lực từ tháng 8.",
+        "Mở rộng đối tượng tham gia DPPA, nâng tỷ lệ điện mặt trời mái nhà được bán lên lưới từ 20% lên 50%."
       ],
-      "insight": "Hút vốn FDI chất lượng, thúc đẩy chuyển đổi số, nâng cao năng lực cạnh tranh.",
-      "source": "VOV, 24H"
+      "insight": "Tạo động lực mới cho đầu tư điện sạch, tối ưu hiệu quả khai thác hệ thống.",
+      "source": "PowerTech · EVN · Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất huy động phân hóa, một số ngân hàng tăng mạnh",
+      "headline": "Chính sách tài khóa 2026-2030: Dẫn dắt nguồn lực, thúc đẩy tăng trưởng.",
       "bullets": [
-        "Lãi suất huy động 1/8 phân hóa, nhóm Big4 giữ ổn định 6%/năm.",
-        "Bac A Bank, VPBank tăng lãi suất, kỳ hạn 6-12 tháng đạt 7-9%/năm."
+        "Kế hoạch tài chính 5 năm và đầu tư công trung hạn 2026-2030 được Quốc hội thông qua.",
+        "Định hướng chính sách tài khóa mở rộng hợp lý, có trọng tâm nhằm đạt mục tiêu tăng trưởng hai con số."
       ],
-      "insight": "Dòng tiền dịch chuyển tìm kiếm lợi suất cao hơn, ảnh hưởng cạnh tranh vốn.",
-      "source": "Báo Lao Động, VietnamBiz"
+      "insight": "Tạo nền tảng vĩ mô ổn định, huy động nguồn lực lớn cho phát triển kinh tế bền vững.",
+      "source": "Thời báo Tài chính Việt Nam · VietnamPlus"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent biến động mạnh do căng thẳng Trung Đông",
+      "headline": "Dầu Brent giảm mạnh tuần qua, căng thẳng Trung Đông dịu bớt.",
       "bullets": [
-        "Giá dầu Brent dao động quanh 88-90 USD/thùng, lo ngại gián đoạn nguồn cung.",
-        "Iran tuyên bố tấn công tàu chở dầu tại Hormuz, rủi ro địa chính trị tăng."
+        "Giá dầu Brent giảm 6,88% trong tuần, chốt phiên cuối tuần ở mức 87,93 USD/thùng.",
+        "Mỹ tạm dừng không kích Iran, làm dấy lên kỳ vọng về giải pháp ngoại giao."
       ],
-      "insight": "Rủi ro lạm phát toàn cầu tăng, ảnh hưởng chi phí sản xuất và vận tải.",
-      "source": "VnEconomy, Báo Lao Động, VOV"
+      "insight": "Giảm bớt áp lực chi phí năng lượng, hỗ trợ hoạt động sản xuất kinh doanh toàn cầu.",
+      "source": "Báo Lao Động · VOV · Eva.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ tăng điểm cuối tháng 7, vượt lo ngại",
+      "headline": "Lạm phát Eurozone tháng 7 tăng, củng cố kỳ vọng ECB tăng lãi suất.",
       "bullets": [
-        "Dow Jones, S&P 500, Nasdaq tăng mạnh phiên 31/7.",
-        "Nhà đầu tư tạm gác lo ngại lãi suất, dòng tiền dịch chuyển cổ phiếu truyền thống."
+        "CPI Eurozone tháng 7 tăng 2,9% so với cùng kỳ, cao hơn mức 2,8% của tháng 6.",
+        "Giá năng lượng leo thang và lạm phát dịch vụ tăng là động lực chính."
       ],
-      "insight": "Tâm lý thị trường toàn cầu cải thiện, giảm áp lực lên các thị trường mới nổi.",
-      "source": "VnEconomy, Báo Mới"
+      "insight": "Gây áp lực lên chính sách tiền tệ của ECB, có thể ảnh hưởng dòng vốn toàn cầu.",
+      "source": "TTXVN · Investing.com · Eurostat"
     }
   ],
   "hashtags": [
@@ -89,9 +89,7 @@
     "#ChứngKhoán",
     "#Vietcap",
     "#VNIndex",
-    "#GiáVàng",
-    "#GiáDầu",
-    "#LãiSuất"
+    "#VĩMô"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
