@@ -1,95 +1,95 @@
 {
-  "date": "02/8/2026",
+  "date": "03/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Dân trí · Báo Mới · Tuổi Trẻ · Investing.com · Bnews · Báo Đấu thầu",
   "session": {
-    "vnindex_close": "1.735,78",
-    "vnindex_change": "-0,51%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 250 tỷ",
-    "foreign_dir": "sell",
-    "volume": "19.022 tỷ",
-    "top_gainer": "Bất động sản"
+    "vnindex_close": "1.762,84",
+    "vnindex_change": "+1,56%",
+    "vnindex_dir": "up",
+    "foreign_net": "Mua ròng mạnh",
+    "foreign_dir": "buy",
+    "volume": "20.331 tỷ",
+    "top_gainer": "Ngân hàng, Công nghệ, Thép"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.490",
-      "change": "-0,08%",
-      "dir": "down"
+      "value": "26.480",
+      "change": "+0,08%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141 triệu",
-      "change": "-0,35%",
-      "dir": "down"
+      "value": "141,50tr",
+      "change": "+0,36%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "87,93$",
-      "change": "-6,88%",
+      "value": "83,54$",
+      "change": "-4,99%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Cục Thống kê công bố báo cáo kinh tế xã hội tháng 7; Chính phủ hoàn thiện Nghị định tranh chấp đầu tư quốc tế.",
+  "tomorrow_watch": "Tiếp tục theo dõi diễn biến thị trường quốc tế, động thái khối ngoại.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Thẩm quyền xử phạt vi phạm đất đai cấp xã tăng 50 lần từ tháng 8.",
+      "headline": "Ngân hàng được nới tỷ lệ LDR, tăng dư địa cho vay",
       "bullets": [
-        "Nghị định 281/2026/NĐ-CP có hiệu lực từ 31/8, tăng thẩm quyền phạt của Chủ tịch UBND cấp xã.",
-        "Mức phạt tối đa tăng từ 5 triệu đồng lên 250 triệu đồng, gấp 50 lần quy định hiện hành."
+        "NHNN điều chỉnh tỷ lệ khấu trừ tiền gửi Kho bạc Nhà nước khi tính LDR từ 80% xuống 50%.",
+        "Quy định mới có hiệu lực từ 1/8/2026, giúp các ngân hàng có thêm nguồn vốn cho vay."
       ],
-      "insight": "Quy định mới siết chặt quản lý, nâng cao hiệu quả xử lý vi phạm đất đai ngay từ cơ sở.",
-      "source": "CafeF · VnExpress · Tiền Phong"
+      "insight": "Chính sách này hỗ trợ thanh khoản hệ thống, thúc đẩy tăng trưởng tín dụng, đặc biệt nhóm Big 4.",
+      "source": "Ngân hàng Nhà nước, Dân trí"
     },
     {
       "cat": "Trong nước",
-      "headline": "Năng lượng tái tạo: Mở rộng đối tượng, tăng tỷ lệ bán điện dư.",
+      "headline": "MBB lợi nhuận quý 2 tăng mạnh, dẫn dắt nhóm ngân hàng",
       "bullets": [
-        "Nghị định 243/2026/NĐ-CP sửa đổi cơ chế phát triển điện năng lượng tái tạo có hiệu lực từ tháng 8.",
-        "Mở rộng đối tượng tham gia DPPA, nâng tỷ lệ điện mặt trời mái nhà được bán lên lưới từ 20% lên 50%."
+        "MBBank công bố lợi nhuận trước thuế quý 2 đạt gần 10.560 tỷ đồng, tăng 41% so với cùng kỳ.",
+        "Lũy kế 6 tháng đầu năm, MB lãi trước thuế hơn 20.188 tỷ, hoàn thành 51% kế hoạch năm."
       ],
-      "insight": "Tạo động lực mới cho đầu tư điện sạch, tối ưu hiệu quả khai thác hệ thống.",
-      "source": "PowerTech · EVN · Báo Chính phủ"
+      "insight": "Kết quả kinh doanh tích cực của MBB củng cố niềm tin, thúc đẩy dòng tiền vào nhóm ngân hàng.",
+      "source": "Tuổi Trẻ"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính sách tài khóa 2026-2030: Dẫn dắt nguồn lực, thúc đẩy tăng trưởng.",
+      "headline": "FDI 6 tháng đầu năm 2026 lập kỷ lục mới 34,65 tỷ USD",
       "bullets": [
-        "Kế hoạch tài chính 5 năm và đầu tư công trung hạn 2026-2030 được Quốc hội thông qua.",
-        "Định hướng chính sách tài khóa mở rộng hợp lý, có trọng tâm nhằm đạt mục tiêu tăng trưởng hai con số."
+        "Tổng vốn FDI đăng ký đạt 34,65 tỷ USD, tăng 61% so với cùng kỳ, cao nhất nhiều năm.",
+        "Vốn thực hiện đạt 13 tỷ USD, tăng 11,2%, phản ánh niềm tin nhà đầu tư vào Việt Nam."
       ],
-      "insight": "Tạo nền tảng vĩ mô ổn định, huy động nguồn lực lớn cho phát triển kinh tế bền vững.",
-      "source": "Thời báo Tài chính Việt Nam · VietnamPlus"
+      "insight": "Dòng vốn ngoại mạnh mẽ khẳng định sức hút của Việt Nam, hỗ trợ tăng trưởng kinh tế.",
+      "source": "Tuổi Trẻ, Investing.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent giảm mạnh tuần qua, căng thẳng Trung Đông dịu bớt.",
+      "headline": "PMI sản xuất Trung Quốc giảm, kinh tế đối mặt áp lực",
       "bullets": [
-        "Giá dầu Brent giảm 6,88% trong tuần, chốt phiên cuối tuần ở mức 87,93 USD/thùng.",
-        "Mỹ tạm dừng không kích Iran, làm dấy lên kỳ vọng về giải pháp ngoại giao."
+        "PMI sản xuất chính thức tháng 7 giảm xuống 49,2 điểm, dưới ngưỡng 50, báo hiệu thu hẹp.",
+        "Đơn hàng nội địa sụt giảm, bão lũ ảnh hưởng sản xuất, xuất khẩu suy yếu."
       ],
-      "insight": "Giảm bớt áp lực chi phí năng lượng, hỗ trợ hoạt động sản xuất kinh doanh toàn cầu.",
-      "source": "Báo Lao Động · VOV · Eva.vn"
+      "insight": "Dữ liệu PMI yếu gây lo ngại về đà phục hồi kinh tế Trung Quốc, có thể ảnh hưởng thương mại.",
+      "source": "Bnews, Báo Đấu thầu"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Eurozone tháng 7 tăng, củng cố kỳ vọng ECB tăng lãi suất.",
+      "headline": "Lạm phát Eurozone tăng, củng cố kỳ vọng ECB nâng lãi suất",
       "bullets": [
         "CPI Eurozone tháng 7 tăng 2,9% so với cùng kỳ, cao hơn mức 2,8% của tháng 6.",
-        "Giá năng lượng leo thang và lạm phát dịch vụ tăng là động lực chính."
+        "Giá năng lượng leo thang do xung đột Trung Đông tái bùng phát là động lực chính."
       ],
-      "insight": "Gây áp lực lên chính sách tiền tệ của ECB, có thể ảnh hưởng dòng vốn toàn cầu.",
-      "source": "TTXVN · Investing.com · Eurostat"
+      "insight": "Lạm phát dai dẳng có thể khiến ECB tiếp tục thắt chặt tiền tệ, ảnh hưởng triển vọng tăng trưởng.",
+      "source": "Eurostat, Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#VĩMô"
+    "#KinhTếViệtNam",
+    "#KinhTếThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
