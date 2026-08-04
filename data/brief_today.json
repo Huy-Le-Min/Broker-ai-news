@@ -1,86 +1,88 @@
 {
-  "date": "03/8/2026",
+  "date": "04/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chinhphu.vn · VietnamBiz · Znews · The Guardian · Global Times",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Thanh Niên · baotintuc.vn · VietnamBiz · Bnews.vn",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.296",
-      "change": "0.00%",
+      "value": "26.480",
+      "change": "0%",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,00 tr.đ/lượng",
-      "change": "0.00%",
-      "dir": "flat"
+      "value": "141,0 tr VNĐ/lượng",
+      "change": "+0.4%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "83.8$",
-      "change": "-4.6%",
+      "value": "83.77$",
+      "change": "-4.7%",
       "dir": "down"
     }
   ],
-  "today_watch": "Bộ Công Thương công bố chỉ số sản xuất công nghiệp tháng 7.",
+  "today_watch": "Quốc hội thảo luận luật quốc phòng; Siết quản lý bán hàng đa cấp.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đẩy mạnh giải ngân vốn đầu tư công",
+      "headline": "FDI 7 tháng đạt kỷ lục 38 tỷ USD, tăng 58%",
       "bullets": [
-        "Thủ tướng yêu cầu các bộ, ngành, địa phương tăng tốc giải ngân, phấn đấu đạt 100% kế hoạch năm 2026.",
-        "Nhiều dự án trọng điểm được ưu tiên tháo gỡ vướng mắc, đẩy nhanh tiến độ thi công."
+        "Tổng vốn FDI đăng ký vào Việt Nam 7 tháng đầu năm 2026 đạt 38,06 tỷ USD, tăng 58% so với cùng kỳ.",
+        "Vốn FDI thực hiện ước đạt 15,2 tỷ USD, tăng 11,8%, cao nhất trong 5 năm qua."
       ],
-      "insight": "Động thái này kỳ vọng thúc đẩy tăng trưởng kinh tế, tạo việc làm và hỗ trợ các ngành vật liệu, xây dựng.",
-      "source": "Chinhphu.vn, VnEconomy"
+      "insight": "Dòng vốn ngoại mạnh mẽ củng cố niềm tin nhà đầu tư, tạo động lực tăng trưởng dài hạn cho kinh tế Việt Nam.",
+      "source": "Cục Thống kê, baotintuc.vn, VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng toàn hệ thống tăng tốc trong tháng 7",
+      "headline": "VN-Index phục hồi mạnh, khối ngoại mua ròng 1.057 tỷ",
       "bullets": [
-        "Tăng trưởng tín dụng đến 13/7/2026 đạt 7,86% so với cuối 2025, vượt kỳ vọng nhiều chuyên gia.",
-        "Ngân hàng Nhà nước định hướng vốn vào sản xuất, kinh doanh, lĩnh vực ưu tiên và các dự án trọng điểm."
+        "VN-Index tăng hơn 27 điểm phiên 03/8, sắc xanh lan rộng hầu hết các nhóm ngành.",
+        "Khối ngoại mua ròng 1.057,26 tỷ đồng trên HOSE, tập trung FPT, HPG, VCB, MBB."
       ],
-      "insight": "Dòng vốn chảy vào nền kinh tế tích cực hơn, hỗ trợ hoạt động sản xuất kinh doanh và thị trường chứng khoán.",
-      "source": "VietnamBiz, CafeF"
+      "insight": "Dòng tiền bắt đáy và khối ngoại trở lại giúp thị trường hồi phục, nhưng áp lực bán vẫn tiềm ẩn.",
+      "source": "Vietstock, SHS, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản nhà ở phục hồi rõ nét tháng 7",
+      "headline": "Thị trường lao động 'chuyển làn', doanh nghiệp khát nhân lực",
       "bullets": [
-        "Thị trường bất động sản đang bước vào giai đoạn mở rộng chu kỳ 2026-2027, tập trung vào nhu cầu ở thực.",
-        "Lượng giao dịch căn hộ tại Hà Nội, TP.HCM tháng 7 tăng, giá bán ổn định."
+        "Nhu cầu lao động Việt Nam tăng cao khi kinh tế tăng trưởng hai con số.",
+        "Nhiều doanh nghiệp đang đối mặt với tình trạng thiếu hụt nguồn nhân lực."
       ],
-      "insight": "Sự ấm lên của BĐS là tín hiệu tích cực cho nền kinh tế, kéo theo các ngành liên quan như xây dựng, vật liệu.",
-      "source": "Vietstock, Znews"
+      "insight": "Xu hướng này có thể ảnh hưởng đến chi phí sản xuất và hiệu quả kinh doanh của doanh nghiệp.",
+      "source": "Báo Thanh Niên"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Xuất khẩu Trung Quốc tăng mạnh, đối mặt rủi ro thuế quan",
+      "headline": "Giá dầu Brent giảm mạnh xuống đáy 3 tuần",
       "bullets": [
-        "Xuất khẩu ô tô Trung Quốc đạt kỷ lục 1 triệu chiếc trong tháng 6, tổng kim ngạch tăng 27%.",
-        "Thành tích này khiến Trung Quốc đối mặt nguy cơ áp thuế mới từ Mỹ và EU."
+        "Giá dầu Brent giảm 4,73% xuống 83,77 USD/thùng phiên 03/8, mức thấp nhất 3 tuần.",
+        "Tổng thống Mỹ Donald Trump hủy kế hoạch tấn công Iran, đề xuất đàm phán."
       ],
-      "insight": "Căng thẳng thương mại gia tăng có thể ảnh hưởng chuỗi cung ứng toàn cầu, tác động gián tiếp tới Việt Nam.",
-      "source": "The Guardian, Global Times"
+      "insight": "Giá dầu giảm có thể giảm áp lực lạm phát, nhưng biến động địa chính trị vẫn khó lường.",
+      "source": "Reuters, VietNamNet, Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Thương mại Trung Quốc tăng kỷ lục nửa đầu 2026",
+      "headline": "Chứng khoán Mỹ tăng điểm, S&P500 tiệm cận đỉnh cũ",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu Trung Quốc đạt 25,47 nghìn tỷ NDT nửa đầu 2026, tăng 16,9%.",
-        "Xuất khẩu chip AI và xe điện bùng nổ là động lực chính, bù đắp yếu kém nội địa."
+        "S&P500 và Dow Jones tăng mạnh phiên 03/8, tiệm cận đỉnh cũ, Nasdaq Composite tăng 1,78%.",
+        "Thị trường phục hồi sau biến động cổ phiếu chip, lo ngại 'AI Debt Tsunami' vẫn hiện hữu."
       ],
-      "insight": "Thương mại mạnh mẽ của Trung Quốc hỗ trợ tăng trưởng toàn cầu, tạo cơ hội cho các đối tác chuỗi cung ứng.",
-      "source": "Global Times, YouTube"
+      "insight": "Tâm lý nhà đầu tư toàn cầu cải thiện, nhưng cần theo dõi rủi ro nợ liên quan AI và định giá cổ phiếu.",
+      "source": "VietnamBiz, Facebook"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#Vietcap",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#ThịTrườngQuốcTế",
+    "#FDI",
+    "#GiáDầu",
+    "#VNIndex"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
