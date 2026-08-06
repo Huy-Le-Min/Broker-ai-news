@@ -1,95 +1,100 @@
 {
-  "date": "05/8/2026",
+  "date": "06/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.776,46",
-    "vnindex_change": "-0,04%",
+    "vnindex_close": "1.764,78",
+    "vnindex_change": "-0,66%",
     "vnindex_dir": "down",
-    "foreign_net": "Mua ròng 476 tỷ đồng",
-    "foreign_dir": "buy",
-    "volume": "20.103,7 tỷ",
-    "top_gainer": "PNJ"
+    "foreign_net": "Bán ròng 126 tỷ",
+    "foreign_dir": "sell",
+    "volume": "15.136 tỷ",
+    "top_gainer": "DGC"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "25.405",
-      "change": "+25 đồng",
+      "value": "26.206",
+      "change": "+28 đồng",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141.000.000",
-      "change": "+1.000.000 đồng",
-      "dir": "up"
+      "value": "142,7 triệu",
+      "change": "-1,1 triệu",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "79,36$",
-      "change": "-5,3%",
-      "dir": "down"
+      "value": "79,42$",
+      "change": "+0,94%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Theo dõi diễn biến giá dầu, căng thẳng thương mại Mỹ-Trung và dòng vốn ngoại.",
+  "tomorrow_watch": "Theo dõi diễn biến dòng tiền, áp lực chốt lời tại vùng kháng cự 1.780 điểm.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Dư nợ tín dụng vượt 20 triệu tỷ đồng",
+      "headline": "VN-Index giảm điểm, khối ngoại bán ròng",
       "bullets": [
-        "Dư nợ tín dụng toàn hệ thống đã vượt ngưỡng 20 triệu tỷ đồng sau 7 tháng đầu năm 2026.",
-        "Việc nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn tạo thêm dư địa cấp vốn cho các dự án."
+        "VN-Index đóng cửa tại 1.764,78 điểm, giảm 11,68 điểm (-0,66%) sau áp lực bán lan rộng.",
+        "Thanh khoản HoSE đạt 15.136 tỷ đồng, giảm mạnh so với phiên trước, cho thấy dòng tiền thận trọng.",
+        "Khối ngoại chấm dứt 3 phiên mua ròng, quay đầu bán ròng 126 tỷ đồng trên toàn thị trường."
       ],
-      "insight": "Mốc tín dụng mới cho thấy nền kinh tế tiếp tục hấp thụ vốn tốt, hỗ trợ tăng trưởng.",
-      "source": "PetroTimes"
+      "insight": "Thị trường điều chỉnh cho thấy tâm lý chốt lời ngắn hạn, dòng tiền đang chờ tín hiệu rõ ràng hơn.",
+      "source": "CafeF · Vietstock · Petrotimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "Đề xuất sửa đổi Luật Kiến trúc, giảm thủ tục hành chính",
+      "headline": "Sửa Luật Kinh doanh BĐS: Hướng tới minh bạch",
       "bullets": [
-        "Bộ Xây dựng trình Quốc hội dự án Luật sửa đổi Luật Kiến trúc nhằm giảm thủ tục.",
-        "Mục tiêu là đẩy mạnh phân cấp, phân quyền và cải cách hành chính trong lĩnh vực này."
+        "Dự thảo Luật Kinh doanh BĐS (sửa đổi) đề xuất mã định danh cho mỗi BĐS trước giao dịch.",
+        "Luật mới hướng tới giảm thủ tục hành chính, tăng hậu kiểm, thúc đẩy chuyển đổi số thị trường.",
+        "Dự kiến Quốc hội cho ý kiến lần đầu tại kỳ họp tháng 8/2026."
       ],
-      "insight": "Cải cách pháp lý có thể thúc đẩy đầu tư, tạo thuận lợi cho các dự án xây dựng.",
-      "source": "Báo Tin tức"
+      "insight": "Cải cách pháp lý nhằm kiến tạo thị trường BĐS minh bạch, bền vững, khơi thông nguồn lực.",
+      "source": "VietNamNet · VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu 7 tháng nhập siêu 20,52 tỷ USD",
+      "headline": "Top 50 công ty đại chúng uy tín 2026",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 7 tháng đạt 659,58 tỷ USD, tăng 28,1% so với cùng kỳ.",
-        "Việt Nam nhập siêu 20,52 tỷ USD, chủ yếu do nhu cầu nhập khẩu nguyên liệu sản xuất."
+        "Vietnam Report công bố Top 50 công ty đại chúng uy tín và hiệu quả năm 2026.",
+        "Các doanh nghiệp dẫn đầu ngành tài chính, ngân hàng, bảo hiểm, công nghệ được vinh danh.",
+        "Bảng xếp hạng nhằm tạo thông tin minh bạch, thúc đẩy phát triển bền vững."
       ],
-      "insight": "Nhập siêu tăng phản ánh nhu cầu sản xuất trong nước lớn, nhưng cần cân bằng cán cân thương mại.",
-      "source": "VOV · Dân trí"
+      "insight": "Vinh danh doanh nghiệp uy tín củng cố niềm tin thị trường, khuyến khích quản trị tốt hơn.",
+      "source": "VietNamNet · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc đáp trả Mỹ bằng biện pháp kinh tế mới",
+      "headline": "Vàng thế giới vượt 4.200 USD/ounce",
       "bullets": [
-        "Trung Quốc công bố kiểm soát xuất khẩu thiết bị bay không người lái và cấm giao dịch với 6 thực thể Mỹ.",
-        "Đây là động thái đáp trả các hạn chế gần đây của Washington đối với Bắc Kinh."
+        "Giá vàng thế giới giao ngay đạt 4.264,8 USD/ounce, tăng 0,44% so với phiên trước.",
+        "Kim loại quý nhanh chóng tiến sát vùng 4.300 USD/ounce, mức cao nhất 6 tuần.",
+        "Giá vàng trong nước cao hơn thế giới khoảng 7-8 triệu đồng/lượng."
       ],
-      "insight": "Căng thẳng thương mại Mỹ-Trung leo thang có thể ảnh hưởng chuỗi cung ứng toàn cầu.",
-      "source": "Báo Tin tức"
+      "insight": "Vàng tiếp tục là kênh trú ẩn an toàn, phản ánh lo ngại lạm phát và bất ổn địa chính trị.",
+      "source": "Báo Thanh Niên · 24H"
     },
     {
       "cat": "Quốc tế",
-      "headline": "SpaceX báo lỗ lớn dù doanh thu tăng, cổ phiếu giảm",
+      "headline": "Đàm phán Mỹ-Iran: Tín hiệu trái chiều ảnh hưởng giá dầu",
       "bullets": [
-        "SpaceX ghi nhận lỗ ròng 541 triệu USD trong quý II, dù doanh thu tăng 92% đạt 7,8 tỷ USD.",
-        "Công ty đã chi 16 tỷ USD cho AI, khiến nhà đầu tư lo lắng và cổ phiếu giảm 7%."
+        "Giá dầu Brent biến động trái chiều, quanh mức 79,42 USD/thùng.",
+        "Kỳ vọng đàm phán Mỹ-Iran hạ nhiệt căng thẳng, khôi phục vận tải eo biển Hormuz.",
+        "Tuy nhiên, Iran phủ nhận đàm phán, giữ tâm lý thận trọng trên thị trường."
       ],
-      "insight": "Khoản lỗ lớn của SpaceX cho thấy rủi ro đầu tư vào công nghệ mới, đặc biệt AI.",
-      "source": "The Economist"
+      "insight": "Diễn biến địa chính trị Trung Đông tiếp tục là yếu tố khó lường, ảnh hưởng lớn giá dầu toàn cầu.",
+      "source": "VOV · Eva.vn · Báo Lào Cai"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#VNIndex",
-    "#KinhTếViệtNam",
-    "#TinTứcQuốcTế"
+    "#ThịTrườngVN",
+    "#GiáVàng",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
