@@ -1,88 +1,93 @@
 {
-  "date": "05/8/2026",
+  "date": "06/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Tuổi Trẻ Online · Bnews.vn · Danviet.vn · VietnamBiz",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.460",
-      "change": "-0,02%",
-      "dir": "down"
+      "value": "26.227",
+      "change": "+0.1%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "140,5 triệu",
-      "change": "+0,5 triệu",
+      "value": "141,8tr",
+      "change": "+0.9%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "78,76$",
-      "change": "-0,76%",
+      "value": "79.25$",
+      "change": "-0.3%",
       "dir": "down"
     }
   ],
-  "today_watch": "Báo cáo việc làm ADP và dữ liệu việc làm phi nông nghiệp Mỹ.",
+  "today_watch": "Thị trường chứng khoán Việt Nam tiếp tục giằng co, chờ đợi thông tin vĩ mô mới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất qua đêm liên ngân hàng bất ngờ vọt lên 6,3%",
+      "headline": "PMI sản xuất Việt Nam tháng 7 cao nhất 5 tháng",
       "bullets": [
-        "Lãi suất cho vay qua đêm trên thị trường liên ngân hàng sáng 5/8 bất ngờ tăng vọt lên mức 6,3%.",
-        "Đây là mức tăng đáng kể, phản ánh sự biến động trong thanh khoản hệ thống ngân hàng."
+        "Chỉ số PMI đạt 52,9 điểm, tăng từ 51,8 tháng 6, tăng trưởng tháng thứ 13 liên tiếp.",
+        "Sản lượng, đơn hàng mới, xuất khẩu tăng; việc làm tăng lần đầu sau 5 tháng.",
+        "Áp lực chi phí đầu vào, giá bán đầu ra tăng chậm nhất 10 tháng."
       ],
-      "insight": "Diễn biến lãi suất liên ngân hàng có thể ảnh hưởng tâm lý thị trường, đặc biệt nhóm ngân hàng.",
-      "source": "Tuổi Trẻ Online"
+      "insight": "Dấu hiệu phục hồi mạnh ngành sản xuất, tạo động lực tăng trưởng kinh tế nửa cuối năm.",
+      "source": "S&P Global · CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "VN-Index vượt MA200, khối ngoại tiếp tục mua ròng",
+      "headline": "FDI 7 tháng đạt 38 tỷ USD, vốn thực hiện kỷ lục",
       "bullets": [
-        "VN-Index tăng 0,82% lên 1.777,23 điểm phiên 4/8, chính thức vượt ngưỡng trung bình động 200 ngày.",
-        "Khối ngoại duy trì mua ròng hơn 891 tỷ đồng trên sàn HOSE, tập trung vào các cổ phiếu vốn hóa lớn."
+        "Tổng vốn FDI đăng ký 7 tháng đạt 38,06 tỷ USD, tăng 58% so với cùng kỳ.",
+        "Vốn thực hiện đạt 15,2 tỷ USD, cao nhất trong 5 năm qua.",
+        "Niềm tin nhà đầu tư ngoại vào Việt Nam tiếp tục củng cố."
       ],
-      "insight": "Việc vượt MA200 và dòng vốn ngoại tích cực củng cố tín hiệu phục hồi kỹ thuật của thị trường.",
-      "source": "Vietstock · ETime"
+      "insight": "Dòng vốn ngoại mạnh mẽ khẳng định sức hấp dẫn kinh tế, tạo nền tảng tăng trưởng bền vững.",
+      "source": "Cục Thống kê · Báo Mới · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ngành bảo hiểm nửa đầu 2026: Doanh thu tăng, chi trả quyền lợi tăng mạnh",
+      "headline": "Giải ngân đầu tư công 7 tháng đạt 41,9%, áp lực lớn",
       "bullets": [
-        "Tổng doanh thu phí bảo hiểm toàn thị trường 6 tháng đầu năm 2026 ước đạt 117.900 tỷ đồng, tăng 2,2%.",
-        "Tổng chi trả quyền lợi bảo hiểm tăng tới 18,2%, gây áp lực lợi nhuận cho nhiều doanh nghiệp nhỏ."
+        "Đến 31/7, giải ngân vốn đầu tư công đạt 425.312 tỷ đồng, chỉ 41,9% kế hoạch.",
+        "24 bộ, 11 địa phương giải ngân dưới mức bình quân cả nước.",
+        "Áp lực giải ngân hơn 117.000 tỷ đồng/tháng trong 5 tháng cuối năm."
       ],
-      "insight": "Áp lực chi trả quyền lợi tăng cao có thể ảnh hưởng biên lợi nhuận của các công ty bảo hiểm niêm yết.",
-      "source": "VietnamBiz"
+      "insight": "Tiến độ chậm tạo thách thức cho mục tiêu tăng trưởng GDP, đòi hỏi đẩy mạnh thực hiện.",
+      "source": "Bộ Tài chính · Chinhphu.vn · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu giảm mạnh do kỳ vọng thỏa thuận Mỹ-Iran",
+      "headline": "Dầu Brent tăng sau tấn công tàu dầu Ả Rập Xê Út",
       "bullets": [
-        "Giá dầu Brent giảm hơn 5% xuống 79,36 USD/thùng phiên 4/8, tiếp tục giảm nhẹ sáng 5/8 còn 78,76 USD.",
-        "Kỳ vọng về thỏa thuận ngoại giao Mỹ-Iran mở lại eo biển Hormuz đã làm dịu rủi ro nguồn cung."
+        "Giá dầu Brent tăng khi Houthi tấn công tàu dầu Ả Rập Xê Út trên Biển Đỏ.",
+        "Làm suy giảm kỳ vọng hạ nhiệt căng thẳng Mỹ-Iran, đẩy giá dầu tăng.",
+        "Rủi ro địa chính trị Trung Đông ảnh hưởng lớn đến giá dầu toàn cầu."
       ],
-      "insight": "Giá dầu hạ nhiệt có thể giảm áp lực lạm phát toàn cầu, tích cực cho chi phí doanh nghiệp Việt Nam.",
-      "source": "PetroTimes · Bnews.vn · VietnamBiz"
+      "insight": "Căng thẳng địa chính trị đẩy giá dầu tăng, gây áp lực lên chi phí sản xuất, lạm phát.",
+      "source": "Reuters · VOV · Eva.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ lập kỷ lục mới, dẫn dắt bởi nhóm công nghệ",
+      "headline": "Vàng thế giới vượt 4.200 USD, Fed có thể chỉ tăng 1 lần",
       "bullets": [
-        "S&P500 và Dow Jones đều lập kỷ lục mọi thời đại phiên 4/8, tăng lần lượt 1,79% và 1,71%.",
-        "Nasdaq Composite tăng mạnh 2,59%, được dẫn dắt bởi nhóm cổ phiếu bán dẫn và trí tuệ nhân tạo (AI)."
+        "Giá vàng thế giới giao ngay tăng mạnh, vượt ngưỡng 4.200 USD/ounce.",
+        "Thị trường kỳ vọng Fed chỉ còn một lần điều chỉnh lãi suất năm nay.",
+        "Chi phí cơ hội nắm giữ vàng giảm, thúc đẩy dòng tiền trú ẩn."
       ],
-      "insight": "Thị trường Mỹ tăng điểm mạnh tạo tâm lý tích cực, hỗ trợ dòng vốn đầu tư toàn cầu và Việt Nam.",
-      "source": "Facebook (Điểm tin tài chính) · CNBC"
+      "insight": "Kỳ vọng chính sách Fed nới lỏng hơn hỗ trợ giá vàng, phản ánh tâm lý thận trọng thị trường.",
+      "source": "Kitco · PetroTimes · VOV"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
+    "#FDI",
+    "#ĐầuTưCông",
     "#GiáDầu",
-    "#GiáVàng",
-    "#TỷGiá"
+    "#GiáVàng"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
