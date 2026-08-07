@@ -1,100 +1,97 @@
 {
-  "date": "06/8/2026",
+  "date": "07/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · Báo Lao Động · VOV · VietnamBiz · Báo Thanh Niên · Eva.vn · Fili · Báo Thanh tra Việt Nam · 24HMoney",
   "session": {
-    "vnindex_close": "1.764,78",
-    "vnindex_change": "-0,66%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 126 tỷ",
+    "vnindex_close": "1.768,06",
+    "vnindex_change": "+0,19%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng 59 tỷ",
     "foreign_dir": "sell",
-    "volume": "15.136 tỷ",
-    "top_gainer": "DGC"
+    "volume": "18.141 tỷ",
+    "top_gainer": "Dầu khí, Ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.206",
-      "change": "+28 đồng",
+      "value": "26.430",
+      "change": "+30 đồng",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "142,7 triệu",
-      "change": "-1,1 triệu",
+      "value": "142,2tr",
+      "change": "-500.000đ",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "79,42$",
-      "change": "+0,94%",
+      "value": "82,49$",
+      "change": "+3,83%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Theo dõi diễn biến dòng tiền, áp lực chốt lời tại vùng kháng cự 1.780 điểm.",
+  "tomorrow_watch": "Tiếp tục theo dõi diễn biến giá dầu, tỷ giá và dòng vốn ngoại.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm điểm, khối ngoại bán ròng",
+      "headline": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp nhỏ",
       "bullets": [
-        "VN-Index đóng cửa tại 1.764,78 điểm, giảm 11,68 điểm (-0,66%) sau áp lực bán lan rộng.",
-        "Thanh khoản HoSE đạt 15.136 tỷ đồng, giảm mạnh so với phiên trước, cho thấy dòng tiền thận trọng.",
-        "Khối ngoại chấm dứt 3 phiên mua ròng, quay đầu bán ròng 126 tỷ đồng trên toàn thị trường."
+        "Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và doanh nghiệp cho hộ kinh doanh, doanh nghiệp có doanh thu dưới 10 tỷ đồng.",
+        "Chính sách áp dụng cho kỳ tính thuế năm 2026-2027, nhằm hỗ trợ doanh nghiệp vượt khó khăn, tái đầu tư và tăng năng lực cạnh tranh."
       ],
-      "insight": "Thị trường điều chỉnh cho thấy tâm lý chốt lời ngắn hạn, dòng tiền đang chờ tín hiệu rõ ràng hơn.",
-      "source": "CafeF · Vietstock · Petrotimes"
+      "insight": "Đề xuất này có thể hỗ trợ đáng kể cho các doanh nghiệp nhỏ, thúc đẩy phục hồi và tăng trưởng kinh tế trong nước.",
+      "source": "PetroTimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sửa Luật Kinh doanh BĐS: Hướng tới minh bạch",
+      "headline": "Thị trường BĐS nửa đầu 2026 phục hồi, dòng tiền tìm giá trị thực",
       "bullets": [
-        "Dự thảo Luật Kinh doanh BĐS (sửa đổi) đề xuất mã định danh cho mỗi BĐS trước giao dịch.",
-        "Luật mới hướng tới giảm thủ tục hành chính, tăng hậu kiểm, thúc đẩy chuyển đổi số thị trường.",
-        "Dự kiến Quốc hội cho ý kiến lần đầu tại kỳ họp tháng 8/2026."
+        "Thị trường bất động sản 6 tháng đầu năm 2026 ghi nhận tín hiệu tích cực, niềm tin người mua cải thiện rõ rệt.",
+        "Dòng tiền tập trung vào sản phẩm đáp ứng nhu cầu ở thực, pháp lý minh bạch và hạ tầng tốt, không còn theo kỳ vọng tăng giá ngắn hạn."
       ],
-      "insight": "Cải cách pháp lý nhằm kiến tạo thị trường BĐS minh bạch, bền vững, khơi thông nguồn lực.",
-      "source": "VietNamNet · VietnamBiz"
+      "insight": "Phục hồi bền vững hơn khi thị trường hướng về giá trị thực, nhưng thanh khoản cuối năm vẫn phân hóa.",
+      "source": "Nhân Dân · Báo Lao Động"
     },
     {
       "cat": "Trong nước",
-      "headline": "Top 50 công ty đại chúng uy tín 2026",
+      "headline": "Nam A Bank huy động gần 350 triệu USD vốn ngoại cho tín dụng xanh",
       "bullets": [
-        "Vietnam Report công bố Top 50 công ty đại chúng uy tín và hiệu quả năm 2026.",
-        "Các doanh nghiệp dẫn đầu ngành tài chính, ngân hàng, bảo hiểm, công nghệ được vinh danh.",
-        "Bảng xếp hạng nhằm tạo thông tin minh bạch, thúc đẩy phát triển bền vững."
+        "Nam A Bank ký thỏa thuận tín dụng với SIFEM AG và các quỹ của responsAbility Investments AG.",
+        "Tổng vốn ngoại huy động từ đầu năm đạt gần 350 triệu USD, mở rộng nguồn lực cho tín dụng xanh."
       ],
-      "insight": "Vinh danh doanh nghiệp uy tín củng cố niềm tin thị trường, khuyến khích quản trị tốt hơn.",
-      "source": "VietNamNet · Bnews.vn"
+      "insight": "Dòng vốn ngoại vào ngân hàng hỗ trợ tín dụng xanh, phù hợp định hướng phát triển bền vững của Việt Nam.",
+      "source": "Doanh nghiệp và Đầu tư"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Vàng thế giới vượt 4.200 USD/ounce",
+      "headline": "Giá dầu Brent tăng mạnh do Iran xem xét cấm tàu qua Hormuz",
       "bullets": [
-        "Giá vàng thế giới giao ngay đạt 4.264,8 USD/ounce, tăng 0,44% so với phiên trước.",
-        "Kim loại quý nhanh chóng tiến sát vùng 4.300 USD/ounce, mức cao nhất 6 tuần.",
-        "Giá vàng trong nước cao hơn thế giới khoảng 7-8 triệu đồng/lượng."
+        "Giá dầu Brent tăng lên 82,49 USD/thùng sau thông tin Iran xem xét dự luật cấm tàu Mỹ/Israel qua eo biển Hormuz.",
+        "Động thái này làm dấy lên lo ngại về nguy cơ gián đoạn nguồn cung tại tuyến hàng hải chiến lược toàn cầu."
       ],
-      "insight": "Vàng tiếp tục là kênh trú ẩn an toàn, phản ánh lo ngại lạm phát và bất ổn địa chính trị.",
-      "source": "Báo Thanh Niên · 24H"
+      "insight": "Căng thẳng địa chính trị Trung Đông tiếp tục là yếu tố chính gây biến động khó lường cho giá dầu thế giới.",
+      "source": "Eva.vn · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Đàm phán Mỹ-Iran: Tín hiệu trái chiều ảnh hưởng giá dầu",
+      "headline": "IMF/OECD hạ dự báo tăng trưởng kinh tế toàn cầu năm 2026",
       "bullets": [
-        "Giá dầu Brent biến động trái chiều, quanh mức 79,42 USD/thùng.",
-        "Kỳ vọng đàm phán Mỹ-Iran hạ nhiệt căng thẳng, khôi phục vận tải eo biển Hormuz.",
-        "Tuy nhiên, Iran phủ nhận đàm phán, giữ tâm lý thận trọng trên thị trường."
+        "IMF dự báo kinh tế toàn cầu tăng 3,1% trong năm 2026, giảm nhẹ so với 2025 do xung đột Trung Đông.",
+        "OECD cũng hạ dự báo tăng trưởng toàn cầu xuống 2,8% năm 2026, chịu ảnh hưởng từ địa chính trị và thuế quan."
       ],
-      "insight": "Diễn biến địa chính trị Trung Đông tiếp tục là yếu tố khó lường, ảnh hưởng lớn giá dầu toàn cầu.",
-      "source": "VOV · Eva.vn · Báo Lào Cai"
+      "insight": "Triển vọng kinh tế toàn cầu đối mặt nhiều thách thức, tác động gián tiếp đến các nền kinh tế có độ mở cao như Việt Nam.",
+      "source": "IMF · OECD · baotintuc.vn"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#ThịTrườngVN",
-    "#GiáVàng",
-    "#GiáDầu"
+    "#Vietcap",
+    "#VNIndex",
+    "#GiáDầu",
+    "#VàngSJC",
+    "#TỷGiá"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
