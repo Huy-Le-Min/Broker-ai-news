@@ -1,93 +1,86 @@
 {
-  "date": "06/8/2026",
+  "date": "07/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · VietnamNet · VOV · Thanh Niên · Thethao247 · Eva.vn · Web Giá",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.227",
-      "change": "+0.1%",
+      "value": "26.430",
+      "change": "+0.04%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "141,8tr",
-      "change": "+0.9%",
-      "dir": "up"
+      "value": "142,7tr",
+      "change": "-0.42%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "79.25$",
-      "change": "-0.3%",
-      "dir": "down"
+      "value": "82.49$",
+      "change": "+3.83%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Thị trường chứng khoán Việt Nam tiếp tục giằng co, chờ đợi thông tin vĩ mô mới.",
+  "today_watch": "Thị trường chờ đợi báo cáo việc làm tháng 7 của Mỹ công bố hôm nay.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "PMI sản xuất Việt Nam tháng 7 cao nhất 5 tháng",
+      "headline": "VN-Index điều chỉnh, thanh khoản HoSE suy yếu",
       "bullets": [
-        "Chỉ số PMI đạt 52,9 điểm, tăng từ 51,8 tháng 6, tăng trưởng tháng thứ 13 liên tiếp.",
-        "Sản lượng, đơn hàng mới, xuất khẩu tăng; việc làm tăng lần đầu sau 5 tháng.",
-        "Áp lực chi phí đầu vào, giá bán đầu ra tăng chậm nhất 10 tháng."
+        "VN-Index giảm 11,68 điểm (0,66%) xuống 1.764,78 điểm phiên 6/8.",
+        "Thanh khoản HoSE chỉ đạt 15.100 tỷ đồng, giảm 25% so phiên trước.",
+        "Khối ngoại bán ròng 120 tỷ đồng trên HoSE."
       ],
-      "insight": "Dấu hiệu phục hồi mạnh ngành sản xuất, tạo động lực tăng trưởng kinh tế nửa cuối năm.",
-      "source": "S&P Global · CafeF · Vietstock"
+      "insight": "Thị trường đang điều chỉnh tích lũy, dòng tiền thận trọng chờ xu hướng rõ ràng hơn.",
+      "source": "Vietstock, Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI 7 tháng đạt 38 tỷ USD, vốn thực hiện kỷ lục",
+      "headline": "Dư nợ margin toàn thị trường lập kỷ lục mới",
       "bullets": [
-        "Tổng vốn FDI đăng ký 7 tháng đạt 38,06 tỷ USD, tăng 58% so với cùng kỳ.",
-        "Vốn thực hiện đạt 15,2 tỷ USD, cao nhất trong 5 năm qua.",
-        "Niềm tin nhà đầu tư ngoại vào Việt Nam tiếp tục củng cố."
+        "Dư nợ margin trên thị trường đạt khoảng 435.000 tỷ đồng cuối quý II/2026.",
+        "Con số này tăng mạnh dù thanh khoản thị trường có dấu hiệu suy giảm."
       ],
-      "insight": "Dòng vốn ngoại mạnh mẽ khẳng định sức hấp dẫn kinh tế, tạo nền tảng tăng trưởng bền vững.",
-      "source": "Cục Thống kê · Báo Mới · VnEconomy"
+      "insight": "Mức margin cao tiềm ẩn rủi ro điều chỉnh mạnh nếu thị trường biến động bất lợi.",
+      "source": "TTXVN"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công 7 tháng đạt 41,9%, áp lực lớn",
+      "headline": "BIDV tăng rồi giảm lãi suất huy động về mức cũ",
       "bullets": [
-        "Đến 31/7, giải ngân vốn đầu tư công đạt 425.312 tỷ đồng, chỉ 41,9% kế hoạch.",
-        "24 bộ, 11 địa phương giải ngân dưới mức bình quân cả nước.",
-        "Áp lực giải ngân hơn 117.000 tỷ đồng/tháng trong 5 tháng cuối năm."
+        "BIDV tăng lãi suất huy động trực tuyến 0,4-0,6 điểm phần trăm, sau đó nhanh chóng đưa về mức cũ.",
+        "Lãi suất kỳ hạn 6-12 tháng trở lại 6,6%/năm, 13-36 tháng về 6,8%/năm."
       ],
-      "insight": "Tiến độ chậm tạo thách thức cho mục tiêu tăng trưởng GDP, đòi hỏi đẩy mạnh thực hiện.",
-      "source": "Bộ Tài chính · Chinhphu.vn · VnEconomy"
+      "insight": "Biến động lãi suất cho thấy áp lực cạnh tranh huy động vốn vẫn hiện hữu trong hệ thống.",
+      "source": "VietnamNet, Ngôi sao"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent tăng sau tấn công tàu dầu Ả Rập Xê Út",
+      "headline": "Giá dầu Brent tăng mạnh do lo ngại Hormuz",
       "bullets": [
-        "Giá dầu Brent tăng khi Houthi tấn công tàu dầu Ả Rập Xê Út trên Biển Đỏ.",
-        "Làm suy giảm kỳ vọng hạ nhiệt căng thẳng Mỹ-Iran, đẩy giá dầu tăng.",
-        "Rủi ro địa chính trị Trung Đông ảnh hưởng lớn đến giá dầu toàn cầu."
+        "Giá dầu Brent tăng 3,83% lên 82,49 USD/thùng cuối phiên 6/8.",
+        "Iran xem xét dự luật cấm tàu Mỹ, Israel qua eo biển Hormuz, gây lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Căng thẳng địa chính trị đẩy giá dầu tăng, gây áp lực lên chi phí sản xuất, lạm phát.",
-      "source": "Reuters · VOV · Eva.vn"
+      "insight": "Căng thẳng địa chính trị Trung Đông tiếp tục là yếu tố chính đẩy giá dầu lên cao.",
+      "source": "Reuters, Thethao247, VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Vàng thế giới vượt 4.200 USD, Fed có thể chỉ tăng 1 lần",
+      "headline": "Mỹ hoàn trả 100 tỷ USD thuế quan sau phán quyết",
       "bullets": [
-        "Giá vàng thế giới giao ngay tăng mạnh, vượt ngưỡng 4.200 USD/ounce.",
-        "Thị trường kỳ vọng Fed chỉ còn một lần điều chỉnh lãi suất năm nay.",
-        "Chi phí cơ hội nắm giữ vàng giảm, thúc đẩy dòng tiền trú ẩn."
+        "Chính phủ Mỹ hoàn trả khoảng 100 tỷ USD thuế quan thu theo Đạo luật IEEPA.",
+        "Phán quyết của Tòa án Tối cao cho rằng các mức thuế này là bất hợp pháp."
       ],
-      "insight": "Kỳ vọng chính sách Fed nới lỏng hơn hỗ trợ giá vàng, phản ánh tâm lý thận trọng thị trường.",
-      "source": "Kitco · PetroTimes · VOV"
+      "insight": "Quyết định này có thể tác động tích cực đến các nhà nhập khẩu, giảm chi phí thương mại.",
+      "source": "Bnews.vn, The Economist"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FDI",
-    "#ĐầuTưCông",
-    "#GiáDầu",
-    "#GiáVàng"
+    "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
