@@ -1,86 +1,87 @@
 {
-  "date": "07/8/2026",
+  "date": "08/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · VietnamNet · VOV · Thanh Niên · Thethao247 · Eva.vn · Web Giá",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.430",
-      "change": "+0.04%",
-      "dir": "up"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "142,7tr",
-      "change": "-0.42%",
+      "value": "26.410",
+      "change": "-0,08%",
       "dir": "down"
     },
     {
+      "label": "Vàng SJC",
+      "value": "142,2tr",
+      "change": "0%",
+      "dir": "flat"
+    },
+    {
       "label": "Dầu Brent",
-      "value": "82.49$",
-      "change": "+3.83%",
+      "value": "83,48$",
+      "change": "+1,90%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường chờ đợi báo cáo việc làm tháng 7 của Mỹ công bố hôm nay.",
+  "today_watch": "Thị trường chờ đợi tín hiệu mới từ dòng tiền và vĩ mô toàn cầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index điều chỉnh, thanh khoản HoSE suy yếu",
+      "headline": "VN-Index tăng nhẹ, thanh khoản cải thiện",
       "bullets": [
-        "VN-Index giảm 11,68 điểm (0,66%) xuống 1.764,78 điểm phiên 6/8.",
-        "Thanh khoản HoSE chỉ đạt 15.100 tỷ đồng, giảm 25% so phiên trước.",
-        "Khối ngoại bán ròng 120 tỷ đồng trên HoSE."
+        "Phiên 7/8, VN-Index tăng 3,28 điểm lên 1.768,06 điểm, nhờ nhóm dầu khí, hóa chất và ngân hàng nâng đỡ.",
+        "Thanh khoản HOSE đạt 18.141,5 tỷ đồng, tăng 20% so với phiên trước nhưng vẫn ở mức thấp.",
+        "Khối ngoại bán ròng mạnh VHM, TCB, VPB, cho thấy sự thận trọng của dòng vốn."
       ],
-      "insight": "Thị trường đang điều chỉnh tích lũy, dòng tiền thận trọng chờ xu hướng rõ ràng hơn.",
-      "source": "Vietstock, Thời báo Tài chính Việt Nam"
+      "insight": "Thị trường tiếp tục tích lũy, dòng tiền phân hóa mạnh vào các nhóm ngành có câu chuyện riêng.",
+      "source": "VnExpress, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dư nợ margin toàn thị trường lập kỷ lục mới",
+      "headline": "Dư nợ tín dụng tăng 8,38% đến cuối tháng 7",
       "bullets": [
-        "Dư nợ margin trên thị trường đạt khoảng 435.000 tỷ đồng cuối quý II/2026.",
-        "Con số này tăng mạnh dù thanh khoản thị trường có dấu hiệu suy giảm."
+        "Đến ngày 29/7/2026, dư nợ tín dụng toàn hệ thống đạt trên 20,15 triệu tỷ đồng, tăng 8,38% so với cuối 2025.",
+        "Dòng vốn tiếp tục tập trung vào sản xuất kinh doanh và các lĩnh vực ưu tiên, hỗ trợ tăng trưởng kinh tế."
       ],
-      "insight": "Mức margin cao tiềm ẩn rủi ro điều chỉnh mạnh nếu thị trường biến động bất lợi.",
-      "source": "TTXVN"
+      "insight": "Tín dụng tăng trưởng tích cực cho thấy khả năng hấp thụ vốn của nền kinh tế đang cải thiện.",
+      "source": "Báo Điện tử Chính phủ, VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "BIDV tăng rồi giảm lãi suất huy động về mức cũ",
+      "headline": "Xuất khẩu nông, lâm, thủy sản đạt 42,8 tỷ USD",
       "bullets": [
-        "BIDV tăng lãi suất huy động trực tuyến 0,4-0,6 điểm phần trăm, sau đó nhanh chóng đưa về mức cũ.",
-        "Lãi suất kỳ hạn 6-12 tháng trở lại 6,6%/năm, 13-36 tháng về 6,8%/năm."
+        "Trong 7 tháng đầu năm 2026, kim ngạch xuất khẩu nông, lâm, thủy sản đạt gần 42,8 tỷ USD, tăng 7,5% so cùng kỳ.",
+        "Ngành nông nghiệp đang nỗ lực để đạt mục tiêu xuất khẩu 74 tỷ USD trong năm nay."
       ],
-      "insight": "Biến động lãi suất cho thấy áp lực cạnh tranh huy động vốn vẫn hiện hữu trong hệ thống.",
-      "source": "VietnamNet, Ngôi sao"
+      "insight": "Xuất khẩu nông sản là điểm sáng, đóng góp quan trọng vào cán cân thương mại và tăng trưởng kinh tế Việt Nam.",
+      "source": "Báo Lao Động, Báo Chính phủ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh do lo ngại Hormuz",
+      "headline": "Kinh tế Mỹ bất ngờ mất 23.000 việc làm tháng 7",
       "bullets": [
-        "Giá dầu Brent tăng 3,83% lên 82,49 USD/thùng cuối phiên 6/8.",
-        "Iran xem xét dự luật cấm tàu Mỹ, Israel qua eo biển Hormuz, gây lo ngại gián đoạn nguồn cung."
+        "Kinh tế Mỹ bất ngờ mất 23.000 việc làm trong tháng 7/2026, đặc biệt ở lĩnh vực tài chính.",
+        "Dữ liệu này có thể ảnh hưởng đến quyết định chính sách tiền tệ của Cục Dự trữ Liên bang Mỹ (Fed)."
       ],
-      "insight": "Căng thẳng địa chính trị Trung Đông tiếp tục là yếu tố chính đẩy giá dầu lên cao.",
-      "source": "Reuters, Thethao247, VOV"
+      "insight": "Thị trường lao động Mỹ suy yếu có thể khiến Fed thận trọng hơn với lộ trình tăng lãi suất.",
+      "source": "Báo Tin tức, VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ hoàn trả 100 tỷ USD thuế quan sau phán quyết",
+      "headline": "Xuất khẩu Trung Quốc tăng 23% trong tháng 7",
       "bullets": [
-        "Chính phủ Mỹ hoàn trả khoảng 100 tỷ USD thuế quan thu theo Đạo luật IEEPA.",
-        "Phán quyết của Tòa án Tối cao cho rằng các mức thuế này là bất hợp pháp."
+        "Xuất khẩu của Trung Quốc tăng 23% so với cùng kỳ trong tháng 7/2026, vượt dự báo của giới phân tích.",
+        "Nhập khẩu tăng 27,5% và thặng dư thương mại đạt 112,5 tỷ USD, cho thấy nhu cầu toàn cầu ổn định."
       ],
-      "insight": "Quyết định này có thể tác động tích cực đến các nhà nhập khẩu, giảm chi phí thương mại.",
-      "source": "Bnews.vn, The Economist"
+      "insight": "Hoạt động thương mại mạnh mẽ của Trung Quốc hỗ trợ chuỗi cung ứng toàn cầu và nhu cầu hàng hóa.",
+      "source": "Fili.vn, Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#KinhTếThếGiới",
+    "#TinTức"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
