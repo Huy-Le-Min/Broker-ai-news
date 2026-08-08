@@ -1,87 +1,88 @@
 {
-  "date": "07/8/2026",
+  "date": "08/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · Báo Lao Động · VOV · VietnamBiz · Báo Thanh Niên · Eva.vn · Fili · Báo Thanh tra Việt Nam · 24HMoney",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.768,06",
-    "vnindex_change": "+0,19%",
-    "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 59 tỷ",
+    "vnindex_change": "-0,19%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 59,44 tỷ",
     "foreign_dir": "sell",
-    "volume": "18.141 tỷ",
-    "top_gainer": "Dầu khí, Ngân hàng"
+    "volume": "≈18.500 tỷ",
+    "top_gainer": "Năng lượng/Dầu khí"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.430",
-      "change": "+30 đồng",
-      "dir": "up"
+      "value": "26.410",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "142,2tr",
-      "change": "-500.000đ",
-      "dir": "down"
+      "value": "144 triệu",
+      "change": "+1,27%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "82,49$",
-      "change": "+3,83%",
+      "value": "83,55$",
+      "change": "+1,3%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Tiếp tục theo dõi diễn biến giá dầu, tỷ giá và dòng vốn ngoại.",
+  "tomorrow_watch": "Trung Quốc công bố CPI và PPI tháng 7.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp nhỏ",
+      "headline": "VN-Index điều chỉnh nhẹ, khối ngoại bán ròng.",
       "bullets": [
-        "Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và doanh nghiệp cho hộ kinh doanh, doanh nghiệp có doanh thu dưới 10 tỷ đồng.",
-        "Chính sách áp dụng cho kỳ tính thuế năm 2026-2027, nhằm hỗ trợ doanh nghiệp vượt khó khăn, tái đầu tư và tăng năng lực cạnh tranh."
+        "VN-Index đóng cửa tại 1.768,06 điểm, giảm 0,19% sau phiên giằng co.",
+        "Khối ngoại bán ròng 59,44 tỷ đồng trên HoSE, tập trung một số mã lớn.",
+        "Thanh khoản thị trường duy trì ở mức trung bình, đạt khoảng 18.500 tỷ đồng."
       ],
-      "insight": "Đề xuất này có thể hỗ trợ đáng kể cho các doanh nghiệp nhỏ, thúc đẩy phục hồi và tăng trưởng kinh tế trong nước.",
-      "source": "PetroTimes"
+      "insight": "Thị trường cho thấy sự thận trọng sau đà hồi phục, dòng tiền phân hóa rõ rệt.",
+      "source": "CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thị trường BĐS nửa đầu 2026 phục hồi, dòng tiền tìm giá trị thực",
+      "headline": "Chính sách mới thúc đẩy tín dụng, ưu đãi đầu tư xanh.",
       "bullets": [
-        "Thị trường bất động sản 6 tháng đầu năm 2026 ghi nhận tín hiệu tích cực, niềm tin người mua cải thiện rõ rệt.",
-        "Dòng tiền tập trung vào sản phẩm đáp ứng nhu cầu ở thực, pháp lý minh bạch và hạ tầng tốt, không còn theo kỳ vọng tăng giá ngắn hạn."
+        "Thông tư 29/2026/TT-NHNN nâng giới hạn cho vay nhỏ lên 200 triệu đồng, hiệu lực 15/8.",
+        "Nghị định 274/2026/NĐ-CP ưu đãi 5% cho nhà đầu tư công nghệ cao, xanh."
       ],
-      "insight": "Phục hồi bền vững hơn khi thị trường hướng về giá trị thực, nhưng thanh khoản cuối năm vẫn phân hóa.",
-      "source": "Nhân Dân · Báo Lao Động"
+      "insight": "Chính sách mới kỳ vọng hỗ trợ doanh nghiệp nhỏ, thúc đẩy dòng vốn vào công nghệ xanh.",
+      "source": "VOV · 24H"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nam A Bank huy động gần 350 triệu USD vốn ngoại cho tín dụng xanh",
+      "headline": "Thanh khoản thị trường chờ bứt phá, định giá hấp dẫn.",
       "bullets": [
-        "Nam A Bank ký thỏa thuận tín dụng với SIFEM AG và các quỹ của responsAbility Investments AG.",
-        "Tổng vốn ngoại huy động từ đầu năm đạt gần 350 triệu USD, mở rộng nguồn lực cho tín dụng xanh."
+        "Thanh khoản HoSE tháng 7 đạt bình quân 19.348 tỷ đồng/phiên, thấp nhất từ đầu năm.",
+        "Định giá P/E thị trường giảm xuống 10,5 lần (trừ nhóm Vingroup), hấp dẫn hơn."
       ],
-      "insight": "Dòng vốn ngoại vào ngân hàng hỗ trợ tín dụng xanh, phù hợp định hướng phát triển bền vững của Việt Nam.",
-      "source": "Doanh nghiệp và Đầu tư"
+      "insight": "Dòng tiền có thể quay lại khi định giá hấp dẫn và kỳ vọng chính sách hỗ trợ.",
+      "source": "VnEconomy · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh do Iran xem xét cấm tàu qua Hormuz",
+      "headline": "Mỹ mất việc làm, Fed giảm kỳ vọng tăng lãi suất.",
       "bullets": [
-        "Giá dầu Brent tăng lên 82,49 USD/thùng sau thông tin Iran xem xét dự luật cấm tàu Mỹ/Israel qua eo biển Hormuz.",
-        "Động thái này làm dấy lên lo ngại về nguy cơ gián đoạn nguồn cung tại tuyến hàng hải chiến lược toàn cầu."
+        "Kinh tế Mỹ mất 23.000 việc làm tháng 7, trái dự báo tăng 80.000.",
+        "Kỳ vọng Fed tăng lãi suất tháng 9 giảm từ 57% xuống 43,9% sau báo cáo."
       ],
-      "insight": "Căng thẳng địa chính trị Trung Đông tiếp tục là yếu tố chính gây biến động khó lường cho giá dầu thế giới.",
-      "source": "Eva.vn · VietNamNet"
+      "insight": "Dữ liệu lao động yếu có thể khiến Fed thận trọng hơn, hỗ trợ các tài sản rủi ro.",
+      "source": "Thanh Niên · Thời báo Tài chính"
     },
     {
       "cat": "Quốc tế",
-      "headline": "IMF/OECD hạ dự báo tăng trưởng kinh tế toàn cầu năm 2026",
+      "headline": "OPEC+ tăng sản lượng, giá dầu Brent biến động.",
       "bullets": [
-        "IMF dự báo kinh tế toàn cầu tăng 3,1% trong năm 2026, giảm nhẹ so với 2025 do xung đột Trung Đông.",
-        "OECD cũng hạ dự báo tăng trưởng toàn cầu xuống 2,8% năm 2026, chịu ảnh hưởng từ địa chính trị và thuế quan."
+        "OPEC+ thông qua kế hoạch nâng sản lượng khai thác dầu từ tháng 9.",
+        "Giá dầu Brent chốt phiên tăng lên 83,55 USD/thùng, nhưng giảm 7% cả tuần."
       ],
-      "insight": "Triển vọng kinh tế toàn cầu đối mặt nhiều thách thức, tác động gián tiếp đến các nền kinh tế có độ mở cao như Việt Nam.",
-      "source": "IMF · OECD · baotintuc.vn"
+      "insight": "Quyết định của OPEC+ sẽ ảnh hưởng đến cân bằng cung cầu, định hình giá dầu toàn cầu.",
+      "source": "Reuters · VOH"
     }
   ],
   "hashtags": [
@@ -89,9 +90,8 @@
     "#ChứngKhoán",
     "#Vietcap",
     "#VNIndex",
-    "#GiáDầu",
-    "#VàngSJC",
-    "#TỷGiá"
+    "#KinhTếViệtNam",
+    "#TinTứcThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
