@@ -1,97 +1,98 @@
 {
-  "date": "08/8/2026",
+  "date": "09/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.768,06",
-    "vnindex_change": "-0,19%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 59,44 tỷ",
-    "foreign_dir": "sell",
-    "volume": "≈18.500 tỷ",
-    "top_gainer": "Năng lượng/Dầu khí"
+    "vnindex_change": "+0,19%",
+    "vnindex_dir": "up",
+    "foreign_net": "Mua ròng 2.249,5 tỷ đồng",
+    "foreign_dir": "buy",
+    "volume": "≈14.842 tỷ đồng/phiên",
+    "top_gainer": "Ngân hàng, Thép, Công nghệ, Bán lẻ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.410",
-      "change": "0%",
-      "dir": "flat"
+      "value": "26.410 VND",
+      "change": "Giảm nhẹ",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144 triệu",
-      "change": "+1,27%",
+      "value": "144 triệu đồng/lượng",
+      "change": "+1,8 triệu đồng/lượng",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
       "value": "83,55$",
-      "change": "+1,3%",
+      "change": "+1,29%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Trung Quốc công bố CPI và PPI tháng 7.",
+  "tomorrow_watch": "Cập nhật tình hình kinh tế vĩ mô và diễn biến thị trường quốc tế.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index điều chỉnh nhẹ, khối ngoại bán ròng.",
+      "headline": "Vốn FDI 7 tháng đạt 38 tỷ USD, giải ngân kỷ lục 5 năm.",
       "bullets": [
-        "VN-Index đóng cửa tại 1.768,06 điểm, giảm 0,19% sau phiên giằng co.",
-        "Khối ngoại bán ròng 59,44 tỷ đồng trên HoSE, tập trung một số mã lớn.",
-        "Thanh khoản thị trường duy trì ở mức trung bình, đạt khoảng 18.500 tỷ đồng."
+        "Tổng vốn FDI đăng ký 7 tháng đầu năm 2026 đạt 38,06 tỷ USD, tăng 58% so với cùng kỳ.",
+        "Vốn thực hiện đạt 15,2 tỷ USD, mức giải ngân cao nhất 7 tháng trong 5 năm qua."
       ],
-      "insight": "Thị trường cho thấy sự thận trọng sau đà hồi phục, dòng tiền phân hóa rõ rệt.",
-      "source": "CafeF · Vietstock"
+      "insight": "Dòng vốn ngoại mạnh mẽ củng cố niềm tin, hỗ trợ tăng trưởng kinh tế và thị trường.",
+      "source": "Báo Mới · Báo Tin Tức"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính sách mới thúc đẩy tín dụng, ưu đãi đầu tư xanh.",
+      "headline": "Xuất khẩu rau quả vượt 1 tỷ USD/tháng lần đầu.",
       "bullets": [
-        "Thông tư 29/2026/TT-NHNN nâng giới hạn cho vay nhỏ lên 200 triệu đồng, hiệu lực 15/8.",
-        "Nghị định 274/2026/NĐ-CP ưu đãi 5% cho nhà đầu tư công nghệ cao, xanh."
+        "Tháng 7/2026, kim ngạch xuất khẩu rau quả đạt 1,06 - 1,12 tỷ USD, tăng 38% so với 2025.",
+        "Đây là lần đầu tiên ngành hàng này vượt mốc 1 tỷ USD trong một tháng."
       ],
-      "insight": "Chính sách mới kỳ vọng hỗ trợ doanh nghiệp nhỏ, thúc đẩy dòng vốn vào công nghệ xanh.",
-      "source": "VOV · 24H"
+      "insight": "Dấu mốc quan trọng cho thấy tiềm năng lớn của nông sản Việt trên thị trường quốc tế.",
+      "source": "24H · 24HMoney"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thanh khoản thị trường chờ bứt phá, định giá hấp dẫn.",
+      "headline": "Chính phủ đề xuất giảm 30% thuế cho DN nhỏ.",
       "bullets": [
-        "Thanh khoản HoSE tháng 7 đạt bình quân 19.348 tỷ đồng/phiên, thấp nhất từ đầu năm.",
-        "Định giá P/E thị trường giảm xuống 10,5 lần (trừ nhóm Vingroup), hấp dẫn hơn."
+        "Chính phủ khẩn trương hoàn thiện đề xuất giảm 30% thuế TNDN, TNCN 2026-2027.",
+        "Áp dụng cho hộ, cá nhân kinh doanh và doanh nghiệp có doanh thu đến 10 tỷ đồng."
       ],
-      "insight": "Dòng tiền có thể quay lại khi định giá hấp dẫn và kỳ vọng chính sách hỗ trợ.",
-      "source": "VnEconomy · Vietstock"
+      "insight": "Chính sách này sẽ giảm gánh nặng, thúc đẩy phục hồi và phát triển doanh nghiệp.",
+      "source": "Tin Nhanh Chứng Khoán · Báo Tin Tức"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ mất việc làm, Fed giảm kỳ vọng tăng lãi suất.",
+      "headline": "Chứng khoán Mỹ tăng mạnh nhờ KQKD quý II tốt.",
       "bullets": [
-        "Kinh tế Mỹ mất 23.000 việc làm tháng 7, trái dự báo tăng 80.000.",
-        "Kỳ vọng Fed tăng lãi suất tháng 9 giảm từ 57% xuống 43,9% sau báo cáo."
+        "S&P 500 tăng 0,6% lên kỷ lục 7.757,64 điểm, Nasdaq Composite tăng 1,3%.",
+        "86% công ty S&P 500 vượt dự báo lợi nhuận quý II, xoa dịu lo ngại về đà tăng."
       ],
-      "insight": "Dữ liệu lao động yếu có thể khiến Fed thận trọng hơn, hỗ trợ các tài sản rủi ro.",
-      "source": "Thanh Niên · Thời báo Tài chính"
+      "insight": "Kết quả kinh doanh tích cực củng cố niềm tin, hỗ trợ tâm lý nhà đầu tư toàn cầu.",
+      "source": "Investing.com · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "OPEC+ tăng sản lượng, giá dầu Brent biến động.",
+      "headline": "USD giảm mạnh tuần qua, Yên Nhật phục hồi.",
       "bullets": [
-        "OPEC+ thông qua kế hoạch nâng sản lượng khai thác dầu từ tháng 9.",
-        "Giá dầu Brent chốt phiên tăng lên 83,55 USD/thùng, nhưng giảm 7% cả tuần."
+        "Chỉ số DXY giảm 0,31% xuống 99,6 điểm tuần qua, đồng USD chịu áp lực bán tháo.",
+        "Yên Nhật phục hồi mạnh 5% sau can thiệp ngoại hối của Mỹ và Nhật Bản."
       ],
-      "insight": "Quyết định của OPEC+ sẽ ảnh hưởng đến cân bằng cung cầu, định hình giá dầu toàn cầu.",
-      "source": "Reuters · VOH"
+      "insight": "Đồng USD yếu hỗ trợ xuất khẩu Việt Nam, nhưng cũng làm tăng giá hàng nhập khẩu.",
+      "source": "Báo Mới · Báo Thanh Niên"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#Vietcap",
-    "#VNIndex",
-    "#KinhTếViệtNam",
-    "#TinTứcThịTrường"
+    "#FDI",
+    "#XuấtKhẩu",
+    "#ChínhSáchThuế",
+    "#ChứngKhoánMỹ",
+    "#TỷGiá"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
