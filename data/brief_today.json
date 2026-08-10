@@ -1,88 +1,94 @@
 {
-  "date": "09/8/2026",
+  "date": "10/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lâm Đồng · Báo Mới",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Tin Tức · VOV · PetroTimes · Chợ Giá",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.410",
-      "change": "-0,31%",
+      "value": "26.450",
+      "change": "-0,07%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,00 triệu",
-      "change": "+2,13%",
-      "dir": "up"
+      "value": "144,00 tr",
+      "change": "0,00%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "83,55$",
-      "change": "+1,3%",
+      "value": "83,94$",
+      "change": "+1,29%",
       "dir": "up"
     }
   ],
-  "today_watch": "Trung Quốc công bố chỉ số CPI tháng 7/2026 vào sáng nay.",
+  "today_watch": "Kỳ họp Quốc hội bất thường về chính sách thuế, diễn biến thị trường quốc tế.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "PMI sản xuất Việt Nam tháng 7 đạt đỉnh 5 tháng, củng cố đà phục hồi",
+      "headline": "Đề xuất giảm 30% thuế thu nhập cho hộ kinh doanh, DN nhỏ",
       "bullets": [
-        "Chỉ số PMI tháng 7/2026 tăng lên 52,9 điểm, cao nhất từ tháng 2, nhờ đơn hàng mới và xuất khẩu tăng mạnh.",
-        "Áp lực lạm phát giảm giúp doanh nghiệp tăng quy mô lao động lần đầu sau 5 tháng, chi phí đầu vào tăng chậm nhất 10 tháng."
+        "Chính phủ đề xuất giảm 30% thuế thu nhập cá nhân cho hộ kinh doanh có doanh thu đến 10 tỷ đồng trong 2026-2027.",
+        "Đồng thời, giảm 30% thuế thu nhập doanh nghiệp cho doanh nghiệp siêu nhỏ có doanh thu đến 10 tỷ đồng.",
+        "Giải pháp này nhằm hỗ trợ phát triển sản xuất kinh doanh, thúc đẩy tăng trưởng kinh tế."
       ],
-      "insight": "PMI tích cực cho thấy sức khỏe sản xuất cải thiện, tạo nền tảng tăng trưởng tốt cho nửa cuối năm.",
-      "source": "S&P Global · VnEconomy · CafeF"
+      "insight": "Chính sách hỗ trợ thuế trực tiếp có thể cải thiện lợi nhuận, thúc đẩy hoạt động sản xuất kinh doanh của khối doanh nghiệp nhỏ.",
+      "source": "Báo Lao Động · Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam nhập siêu 20,52 tỷ USD sau 7 tháng, tổng kim ngạch tăng 28,1%",
+      "headline": "Giải ngân đầu tư công 7 tháng đạt 41,9%, áp lực lớn cuối năm",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 7 tháng đạt 659,58 tỷ USD, tăng 28,1% so với cùng kỳ năm trước.",
-        "Kim ngạch nhập khẩu tăng 34,8% lên 340,05 tỷ USD, cao hơn mức tăng 21,7% của xuất khẩu, dẫn đến nhập siêu lớn."
+        "Đến hết tháng 7/2026, giải ngân vốn đầu tư công đạt 425.312 tỷ đồng, tương ứng 41,9% kế hoạch Thủ tướng giao.",
+        "Tỷ lệ này cải thiện 3,6% so với cùng kỳ 2025, nhưng vẫn còn 5 bộ, ngành giải ngân dưới 10%.",
+        "Áp lực hoàn thành mục tiêu giải ngân dồn vào những tháng cuối năm, đòi hỏi đẩy nhanh tiến độ."
       ],
-      "insight": "Nhập siêu lớn phản ánh nhu cầu nguyên vật liệu đầu vào tăng, nhưng cũng gây áp lực lên tỷ giá và cán cân thanh toán.",
-      "source": "ANTD.VN · Dân Trí · TTXVN"
+      "insight": "Tiến độ giải ngân chậm có thể ảnh hưởng đến tăng trưởng kinh tế và các ngành hưởng lợi từ đầu tư công như xây dựng, vật liệu.",
+      "source": "Bộ Tài chính · VnEconomy · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất huy động một số ngân hàng tăng, có nơi lên đến 9,4%",
+      "headline": "NHNN điều chỉnh tỷ lệ tiền gửi KBNN, tạo dư địa tín dụng",
       "bullets": [
-        "Cake by VPBank ưu đãi lãi suất lên tới 9,4%/năm cho kỳ hạn 10-24 tháng, tăng 0,2% so với tháng trước.",
-        "LPBank cũng điều chỉnh tăng lãi suất huy động trực tuyến, kỳ hạn 6-11 tháng lên 7,1%/năm."
+        "NHNN điều chỉnh tỷ lệ tiền gửi Kho bạc Nhà nước từ 20% lên 50% từ 1/8/2026 đến 31/7/2028.",
+        "Chính sách này tạo thêm dư địa vốn cho các ngân hàng thương mại cấp tín dụng.",
+        "NHNN tiếp tục điều hành chính sách tiền tệ chủ động, linh hoạt để hỗ trợ tăng trưởng."
       ],
-      "insight": "Xu hướng tăng lãi suất huy động có thể làm tăng chi phí vốn cho ngân hàng, ảnh hưởng đến biên lợi nhuận.",
-      "source": "Báo Thanh Niên · Doanh Nhân & Công Lý"
+      "insight": "Việc tăng dư địa tín dụng có thể thúc đẩy tăng trưởng tín dụng, hỗ trợ thanh khoản hệ thống ngân hàng và nền kinh tế.",
+      "source": "NHNN · CafeF · VGP"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ lập kỷ lục mới khi dữ liệu việc làm yếu giảm áp lực Fed",
+      "headline": "Chứng khoán Mỹ lập kỷ lục mới, kỳ vọng Fed nới lỏng gia tăng",
       "bullets": [
-        "S&P 500 đạt mức kỷ lục 7.757,64 điểm phiên 7/8, Nasdaq tăng 1,3% sau báo cáo việc làm tháng 7.",
-        "Kinh tế Mỹ mất 23.000 việc làm tháng 7, trái ngược dự báo tăng, khiến kỳ vọng Fed tăng lãi suất tháng 9 giảm còn 44%."
+        "Thị trường chứng khoán Mỹ khép lại tuần đầu tháng 8/2026 với nhiều kỷ lục mới.",
+        "Dữ liệu việc làm yếu kém đã thúc đẩy kỳ vọng Fed sớm nới lỏng chính sách tiền tệ.",
+        "Diễn biến này hỗ trợ tâm lý nhà đầu tư toàn cầu, bao gồm thị trường Việt Nam."
       ],
-      "insight": "Thị trường phản ứng tích cực với tín hiệu Fed có thể nới lỏng chính sách, thúc đẩy dòng vốn tìm kiếm tài sản rủi ro.",
-      "source": "Bnews.vn · VnEconomy · VietnamBiz"
+      "insight": "Tâm lý tích cực từ Mỹ và kỳ vọng Fed nới lỏng có thể lan tỏa, thúc đẩy dòng vốn và tâm lý nhà đầu tư trên TTCK Việt Nam.",
+      "source": "Báo Tin Tức"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm 8% tuần này, bất ổn Hormuz tiếp tục chi phối",
+      "headline": "Giá dầu Brent tăng nhẹ sau tuần giảm mạnh",
       "bullets": [
-        "Giá dầu Brent chốt phiên 7/8 ở 83,55 USD/thùng, tăng 1,3% trong phiên nhưng giảm hơn 8% cả tuần.",
-        "Thị trường biến động mạnh do kỳ vọng thỏa thuận Hormuz nhưng vẫn còn bất định về quyền kiểm soát tuyến vận tải biển."
+        "Giá dầu Brent giao dịch ở ngưỡng 83,55 USD/thùng vào 9/8, tăng 1,29% so với phiên trước.",
+        "Đà tăng nhẹ diễn ra sau khi giá dầu thế giới chịu áp lực giảm đáng kể trong tuần qua.",
+        "Căng thẳng địa chính trị Trung Đông tiếp tục là yếu tố chi phối giá dầu."
       ],
-      "insight": "Giá dầu biến động mạnh tạo rủi ro cho lạm phát và chi phí doanh nghiệp, ảnh hưởng đến triển vọng kinh tế toàn cầu.",
-      "source": "VOV · Vietstock · Báo Mới"
+      "insight": "Biến động giá dầu có thể ảnh hưởng đến chi phí sản xuất, lạm phát và nhóm cổ phiếu dầu khí, vận tải tại Việt Nam.",
+      "source": "VOV · PetroTimes · Oilprice"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngQuốcTế",
-    "#GiáDầu",
-    "#GiáVàng",
-    "#LãiSuất"
+    "#ChínhSáchThuế",
+    "#ĐầuTưCông",
+    "#ChínhSáchTiềnTệ",
+    "#ChứngKhoánMỹ",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
