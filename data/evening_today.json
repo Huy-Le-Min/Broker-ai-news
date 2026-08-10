@@ -1,98 +1,95 @@
 {
-  "date": "09/8/2026",
+  "date": "10/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.768,06",
-    "vnindex_change": "+0,19%",
+    "vnindex_close": "1.776,77",
+    "vnindex_change": "+0,49%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 2.249,5 tỷ đồng",
-    "foreign_dir": "buy",
-    "volume": "≈14.842 tỷ đồng/phiên",
-    "top_gainer": "Ngân hàng, Thép, Công nghệ, Bán lẻ"
+    "foreign_net": "Bán ròng 281 tỷ",
+    "foreign_dir": "sell",
+    "volume": "17.769 tỷ",
+    "top_gainer": "Ngân hàng, Năng lượng, Công nghệ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.410 VND",
-      "change": "Giảm nhẹ",
+      "value": "26.400",
+      "change": "-0,04%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144 triệu đồng/lượng",
-      "change": "+1,8 triệu đồng/lượng",
+      "value": "144,1 triệu",
+      "change": "+0,07%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "83,55$",
-      "change": "+1,29%",
+      "value": "84,9$",
+      "change": "+1,62%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Cập nhật tình hình kinh tế vĩ mô và diễn biến thị trường quốc tế.",
+  "tomorrow_watch": "Thị trường tiếp tục theo dõi diễn biến dòng tiền, chính sách vĩ mô.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Vốn FDI 7 tháng đạt 38 tỷ USD, giải ngân kỷ lục 5 năm.",
+      "headline": "NHNN yêu cầu giảm lãi suất cho vay DNNVV tối thiểu 1%.",
       "bullets": [
-        "Tổng vốn FDI đăng ký 7 tháng đầu năm 2026 đạt 38,06 tỷ USD, tăng 58% so với cùng kỳ.",
-        "Vốn thực hiện đạt 15,2 tỷ USD, mức giải ngân cao nhất 7 tháng trong 5 năm qua."
+        "NHNN ban hành văn bản 7125/NHNN-TD ngày 7/8, yêu cầu ngân hàng thương mại giảm lãi suất cho vay ưu đãi.",
+        "Mức giảm tối thiểu 1%/năm so với lãi suất bình quân, áp dụng cho DNNVV và lĩnh vực ưu tiên."
       ],
-      "insight": "Dòng vốn ngoại mạnh mẽ củng cố niềm tin, hỗ trợ tăng trưởng kinh tế và thị trường.",
-      "source": "Báo Mới · Báo Tin Tức"
+      "insight": "Chính sách này hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng tín dụng vào các ngành trọng điểm.",
+      "source": "VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất khẩu rau quả vượt 1 tỷ USD/tháng lần đầu.",
+      "headline": "Quyết định mới về cơ cấu vốn nhà nước thúc đẩy nhóm cổ phiếu.",
       "bullets": [
-        "Tháng 7/2026, kim ngạch xuất khẩu rau quả đạt 1,06 - 1,12 tỷ USD, tăng 38% so với 2025.",
-        "Đây là lần đầu tiên ngành hàng này vượt mốc 1 tỷ USD trong một tháng."
+        "Quyết định 40/2026/QĐ-TTg ngày 5/8 về tiêu chí cơ cấu lại vốn nhà nước tại doanh nghiệp.",
+        "Tạo động lực cho cổ phiếu doanh nghiệp có vốn nhà nước, đặc biệt BĐS khu công nghiệp."
       ],
-      "insight": "Dấu mốc quan trọng cho thấy tiềm năng lớn của nông sản Việt trên thị trường quốc tế.",
-      "source": "24H · 24HMoney"
+      "insight": "Chính sách này mở ra kỳ vọng thoái vốn, thu hút dòng tiền vào các doanh nghiệp lớn.",
+      "source": "Báo Mới · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đề xuất giảm 30% thuế cho DN nhỏ.",
+      "headline": "USD tự do lao dốc, chênh lệch với ngân hàng thu hẹp nhanh.",
       "bullets": [
-        "Chính phủ khẩn trương hoàn thiện đề xuất giảm 30% thuế TNDN, TNCN 2026-2027.",
-        "Áp dụng cho hộ, cá nhân kinh doanh và doanh nghiệp có doanh thu đến 10 tỷ đồng."
+        "Giá USD tự do giảm 270 đồng trong ngày 10/8, giao dịch quanh 25.830 VND/USD.",
+        "Nguyên nhân do kiểm soát chặt hoạt động giao dịch tiền điện tử, rửa tiền qua USDT."
       ],
-      "insight": "Chính sách này sẽ giảm gánh nặng, thúc đẩy phục hồi và phát triển doanh nghiệp.",
-      "source": "Tin Nhanh Chứng Khoán · Báo Tin Tức"
+      "insight": "Việc siết chặt quản lý giúp ổn định thị trường ngoại hối, giảm rủi ro đầu cơ.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ tăng mạnh nhờ KQKD quý II tốt.",
+      "headline": "Iran đưa điều kiện mới, eo biển Hormuz chưa chắc mở lại.",
       "bullets": [
-        "S&P 500 tăng 0,6% lên kỷ lục 7.757,64 điểm, Nasdaq Composite tăng 1,3%.",
-        "86% công ty S&P 500 vượt dự báo lợi nhuận quý II, xoa dịu lo ngại về đà tăng."
+        "Iran tiến gần thỏa thuận với Oman nhưng yêu cầu Mỹ bồi thường, dỡ trừng phạt.",
+        "Sự không chắc chắn này khiến giá dầu Brent tăng 1,09% lên 84,46 USD/thùng."
       ],
-      "insight": "Kết quả kinh doanh tích cực củng cố niềm tin, hỗ trợ tâm lý nhà đầu tư toàn cầu.",
-      "source": "Investing.com · Bnews.vn"
+      "insight": "Căng thẳng địa chính trị tiếp tục duy trì rủi ro nguồn cung, tác động giá dầu toàn cầu.",
+      "source": "VOV · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "USD giảm mạnh tuần qua, Yên Nhật phục hồi.",
+      "headline": "Thời tiết cực đoan gây thiệt hại hàng trăm tỷ euro cho kinh tế châu Âu.",
       "bullets": [
-        "Chỉ số DXY giảm 0,31% xuống 99,6 điểm tuần qua, đồng USD chịu áp lực bán tháo.",
-        "Yên Nhật phục hồi mạnh 5% sau can thiệp ngoại hối của Mỹ và Nhật Bản."
+        "Mức nhiệt kỷ lục và hạn hán Hè 2026 gây thiệt hại lớn cho kinh tế châu Âu.",
+        "Tàn phá sản xuất điện, vận tải đường thủy và hệ thống y tế công cộng."
       ],
-      "insight": "Đồng USD yếu hỗ trợ xuất khẩu Việt Nam, nhưng cũng làm tăng giá hàng nhập khẩu.",
-      "source": "Báo Mới · Báo Thanh Niên"
+      "insight": "Biến đổi khí hậu đang tạo ra rủi ro kinh tế đáng kể, ảnh hưởng chuỗi cung ứng toàn cầu.",
+      "source": "Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#Vietcap",
-    "#FDI",
-    "#XuấtKhẩu",
-    "#ChínhSáchThuế",
-    "#ChứngKhoánMỹ",
-    "#TỷGiá"
+    "#VNIndex",
+    "#KinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
