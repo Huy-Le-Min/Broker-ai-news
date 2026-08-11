@@ -1,95 +1,94 @@
 {
-  "date": "10/8/2026",
+  "date": "11/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Báo Lao Động · Tiền Phong · VietnamBiz · Báo Thời Báo Ngân Hàng · VOV · Standard Chartered",
   "session": {
-    "vnindex_close": "1.776,77",
-    "vnindex_change": "+0,49%",
-    "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 281 tỷ",
+    "vnindex_close": "1.773,41",
+    "vnindex_change": "-0,19%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 769 tỷ",
     "foreign_dir": "sell",
-    "volume": "17.769 tỷ",
-    "top_gainer": "Ngân hàng, Năng lượng, Công nghệ"
+    "volume": "16.006 tỷ",
+    "top_gainer": "Thủy sản, Bán lẻ, Chứng khoán"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.400",
-      "change": "-0,04%",
+      "value": "26.350",
+      "change": "-0,19%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,1 triệu",
-      "change": "+0,07%",
-      "dir": "up"
+      "value": "145 tr/lượng",
+      "change": "-0,41%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "84,9$",
-      "change": "+1,62%",
+      "value": "87,8$",
+      "change": "+4,99%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Thị trường tiếp tục theo dõi diễn biến dòng tiền, chính sách vĩ mô.",
+  "tomorrow_watch": "Mỹ công bố chỉ số giá tiêu dùng (CPI) tháng 7, ảnh hưởng kỳ vọng Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN yêu cầu giảm lãi suất cho vay DNNVV tối thiểu 1%.",
+      "headline": "Sản xuất công nghiệp 7 tháng tăng 11,4%, lập đỉnh nhiều năm.",
       "bullets": [
-        "NHNN ban hành văn bản 7125/NHNN-TD ngày 7/8, yêu cầu ngân hàng thương mại giảm lãi suất cho vay ưu đãi.",
-        "Mức giảm tối thiểu 1%/năm so với lãi suất bình quân, áp dụng cho DNNVV và lĩnh vực ưu tiên."
+        "Chỉ số IIP 7 tháng đầu năm 2026 tăng 11,4% so với cùng kỳ, mức cao nhất trong nhiều năm qua.",
+        "Ngành chế biến, chế tạo đóng góp lớn nhất với mức tăng 12%, thúc đẩy đà phục hồi kinh tế."
       ],
-      "insight": "Chính sách này hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng tín dụng vào các ngành trọng điểm.",
-      "source": "VietNamNet"
+      "insight": "Dữ liệu này củng cố niềm tin vào đà phục hồi kinh tế Việt Nam, hỗ trợ triển vọng lợi nhuận doanh nghiệp.",
+      "source": "VnEconomy · VietnamPlus"
     },
     {
       "cat": "Trong nước",
-      "headline": "Quyết định mới về cơ cấu vốn nhà nước thúc đẩy nhóm cổ phiếu.",
+      "headline": "Khối ngoại bán ròng gần 800 tỷ; TCB bị \"xả\" mạnh nhất.",
       "bullets": [
-        "Quyết định 40/2026/QĐ-TTg ngày 5/8 về tiêu chí cơ cấu lại vốn nhà nước tại doanh nghiệp.",
-        "Tạo động lực cho cổ phiếu doanh nghiệp có vốn nhà nước, đặc biệt BĐS khu công nghiệp."
+        "Phiên 11/8, khối ngoại bán ròng 762-769 tỷ đồng trên toàn thị trường, cao nhất 2 tuần qua.",
+        "TCB dẫn đầu danh sách bán ròng với 222 tỷ đồng, nâng tổng mức bán ròng tuần qua lên 835 tỷ."
       ],
-      "insight": "Chính sách này mở ra kỳ vọng thoái vốn, thu hút dòng tiền vào các doanh nghiệp lớn.",
-      "source": "Báo Mới · Vietstock"
+      "insight": "Áp lực bán ròng từ khối ngoại tiếp diễn có thể tạo tâm lý thận trọng, đặc biệt với cổ phiếu vốn hóa lớn.",
+      "source": "CafeF · Tiền Phong · VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "USD tự do lao dốc, chênh lệch với ngân hàng thu hẹp nhanh.",
+      "headline": "Nhiều ngân hàng tung gói tín dụng ưu đãi hàng chục nghìn tỷ cho SME.",
       "bullets": [
-        "Giá USD tự do giảm 270 đồng trong ngày 10/8, giao dịch quanh 25.830 VND/USD.",
-        "Nguyên nhân do kiểm soát chặt hoạt động giao dịch tiền điện tử, rửa tiền qua USDT."
+        "Loạt ngân hàng triển khai gói tín dụng quy mô hàng chục nghìn tỷ đồng cho DNNVV.",
+        "Lãi suất cho vay thấp hơn tối thiểu 1%/năm, mở rộng cơ hội tiếp cận vốn cho doanh nghiệp."
       ],
-      "insight": "Việc siết chặt quản lý giúp ổn định thị trường ngoại hối, giảm rủi ro đầu cơ.",
-      "source": "VnEconomy"
+      "insight": "Chính sách hỗ trợ vốn giúp khơi thông nguồn lực sản xuất, kinh doanh, thúc đẩy tăng trưởng kinh tế.",
+      "source": "Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Iran đưa điều kiện mới, eo biển Hormuz chưa chắc mở lại.",
+      "headline": "IMF, UOB nâng dự báo GDP Việt Nam 2026 lên 7,5-8,5%.",
       "bullets": [
-        "Iran tiến gần thỏa thuận với Oman nhưng yêu cầu Mỹ bồi thường, dỡ trừng phạt.",
-        "Sự không chắc chắn này khiến giá dầu Brent tăng 1,09% lên 84,46 USD/thùng."
+        "UOB nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 8,5% từ 7% nhờ động lực AI.",
+        "IMF cũng điều chỉnh dự báo GDP Việt Nam 2026 lên 7,5%, tăng 0,4 điểm phần trăm."
       ],
-      "insight": "Căng thẳng địa chính trị tiếp tục duy trì rủi ro nguồn cung, tác động giá dầu toàn cầu.",
-      "source": "VOV · Báo Mới"
+      "insight": "Dự báo tích cực từ các tổ chức quốc tế củng cố niềm tin vào triển vọng kinh tế Việt Nam.",
+      "source": "VnEconomy · Standard Chartered"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Thời tiết cực đoan gây thiệt hại hàng trăm tỷ euro cho kinh tế châu Âu.",
+      "headline": "Yên Nhật chịu áp lực giảm giá dù can thiệp kỷ lục.",
       "bullets": [
-        "Mức nhiệt kỷ lục và hạn hán Hè 2026 gây thiệt hại lớn cho kinh tế châu Âu.",
-        "Tàn phá sản xuất điện, vận tải đường thủy và hệ thống y tế công cộng."
+        "Đồng Yên tiếp tục chịu áp lực giảm giá, giao dịch quanh 158,93 JPY/USD dù can thiệp mạnh.",
+        "Chênh lệch lãi suất Mỹ - Nhật Bản vẫn là yếu tố chi phối, thử thách quyết tâm can thiệp."
       ],
-      "insight": "Biến đổi khí hậu đang tạo ra rủi ro kinh tế đáng kể, ảnh hưởng chuỗi cung ứng toàn cầu.",
-      "source": "Báo Mới"
+      "insight": "Diễn biến tiền tệ toàn cầu, đặc biệt tại các nền kinh tế lớn, có thể ảnh hưởng gián tiếp dòng vốn.",
+      "source": "Báo Thời Báo Ngân Hàng · VOV"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#VNIndex",
-    "#KinhTế"
+    "#KinhTếViệtNam",
+    "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
