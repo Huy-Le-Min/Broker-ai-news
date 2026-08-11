@@ -1,94 +1,86 @@
 {
-  "date": "10/8/2026",
+  "date": "11/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Tin Tức · VOV · PetroTimes · Chợ Giá",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Investing.com · Bnews · Báo Mới",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.450",
-      "change": "-0,07%",
+      "value": "26.350",
+      "change": "-0.19%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,00 tr",
-      "change": "0,00%",
-      "dir": "flat"
+      "value": "144,10 triệu",
+      "change": "+0.07%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "83,94$",
-      "change": "+1,29%",
+      "value": "87.72$",
+      "change": "+4.99%",
       "dir": "up"
     }
   ],
-  "today_watch": "Kỳ họp Quốc hội bất thường về chính sách thuế, diễn biến thị trường quốc tế.",
+  "today_watch": "Mỹ công bố chỉ số giá tiêu dùng (CPI) tháng 7 vào ngày 12/8.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Đề xuất giảm 30% thuế thu nhập cho hộ kinh doanh, DN nhỏ",
+      "headline": "NHNN chỉ đạo giảm lãi suất cho vay DNNVV tối thiểu 1%",
       "bullets": [
-        "Chính phủ đề xuất giảm 30% thuế thu nhập cá nhân cho hộ kinh doanh có doanh thu đến 10 tỷ đồng trong 2026-2027.",
-        "Đồng thời, giảm 30% thuế thu nhập doanh nghiệp cho doanh nghiệp siêu nhỏ có doanh thu đến 10 tỷ đồng.",
-        "Giải pháp này nhằm hỗ trợ phát triển sản xuất kinh doanh, thúc đẩy tăng trưởng kinh tế."
+        "Ngân hàng Nhà nước ban hành văn bản 7125/NHNN-TD yêu cầu các ngân hàng thương mại giảm lãi suất cho vay DNNVV tối thiểu 1%/năm.",
+        "Chương trình tín dụng ưu đãi hướng đến các động lực tăng trưởng kinh tế và doanh nghiệp nhỏ và vừa."
       ],
-      "insight": "Chính sách hỗ trợ thuế trực tiếp có thể cải thiện lợi nhuận, thúc đẩy hoạt động sản xuất kinh doanh của khối doanh nghiệp nhỏ.",
-      "source": "Báo Lao Động · Chính phủ"
+      "insight": "Giúp doanh nghiệp tiếp cận vốn dễ hơn, hỗ trợ tăng trưởng kinh tế, có thể thúc đẩy tín dụng.",
+      "source": "Bnews · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công 7 tháng đạt 41,9%, áp lực lớn cuối năm",
+      "headline": "Xuất khẩu tháng 7 đạt 53,08 tỷ USD, Mỹ là thị trường lớn nhất",
       "bullets": [
-        "Đến hết tháng 7/2026, giải ngân vốn đầu tư công đạt 425.312 tỷ đồng, tương ứng 41,9% kế hoạch Thủ tướng giao.",
-        "Tỷ lệ này cải thiện 3,6% so với cùng kỳ 2025, nhưng vẫn còn 5 bộ, ngành giải ngân dưới 10%.",
-        "Áp lực hoàn thành mục tiêu giải ngân dồn vào những tháng cuối năm, đòi hỏi đẩy nhanh tiến độ."
+        "Kim ngạch xuất khẩu hàng hóa tháng 7/2026 của Việt Nam đạt 53,08 tỷ USD, tăng 4,5% so với tháng trước.",
+        "Hoa Kỳ tiếp tục là thị trường xuất khẩu lớn nhất của Việt Nam, đạt 104,7 tỷ USD sau 7 tháng."
       ],
-      "insight": "Tiến độ giải ngân chậm có thể ảnh hưởng đến tăng trưởng kinh tế và các ngành hưởng lợi từ đầu tư công như xây dựng, vật liệu.",
-      "source": "Bộ Tài chính · VnEconomy · Thời báo Tài chính Việt Nam"
+      "insight": "Xuất khẩu duy trì đà tăng trưởng tích cực, hỗ trợ các ngành sản xuất và logistics.",
+      "source": "Báo Cần Thơ · VOV"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN điều chỉnh tỷ lệ tiền gửi KBNN, tạo dư địa tín dụng",
+      "headline": "Nhiều chính sách tín dụng, cho thuê tài chính mới có hiệu lực",
       "bullets": [
-        "NHNN điều chỉnh tỷ lệ tiền gửi Kho bạc Nhà nước từ 20% lên 50% từ 1/8/2026 đến 31/7/2028.",
-        "Chính sách này tạo thêm dư địa vốn cho các ngân hàng thương mại cấp tín dụng.",
-        "NHNN tiếp tục điều hành chính sách tiền tệ chủ động, linh hoạt để hỗ trợ tăng trưởng."
+        "Nhiều thông tư mới của NHNN có hiệu lực từ tháng 8, nâng ngưỡng cho vay nhỏ lên 400 triệu đồng.",
+        "Bãi bỏ trần 100 triệu đồng cho vay online, mở rộng tài sản cho thuê tài chính gồm cả quyền tài sản."
       ],
-      "insight": "Việc tăng dư địa tín dụng có thể thúc đẩy tăng trưởng tín dụng, hỗ trợ thanh khoản hệ thống ngân hàng và nền kinh tế.",
-      "source": "NHNN · CafeF · VGP"
+      "insight": "Tạo điều kiện thuận lợi hơn cho doanh nghiệp, cá nhân tiếp cận vốn, thúc đẩy hoạt động ngân hàng.",
+      "source": "LuatVietnam · Tạp chí Tiếp thị & Gia đình"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ lập kỷ lục mới, kỳ vọng Fed nới lỏng gia tăng",
+      "headline": "Xuất khẩu Trung Quốc tháng 7 tăng 23,9% nhờ AI, công nghệ xanh",
       "bullets": [
-        "Thị trường chứng khoán Mỹ khép lại tuần đầu tháng 8/2026 với nhiều kỷ lục mới.",
-        "Dữ liệu việc làm yếu kém đã thúc đẩy kỳ vọng Fed sớm nới lỏng chính sách tiền tệ.",
-        "Diễn biến này hỗ trợ tâm lý nhà đầu tư toàn cầu, bao gồm thị trường Việt Nam."
+        "Kim ngạch xuất khẩu tháng 7/2026 của Trung Quốc tăng 23,9% so với cùng kỳ, vượt kỳ vọng thị trường.",
+        "Sản phẩm AI (25%) và công nghệ xanh (15%) là động lực chính, chiếm 40% tổng kim ngạch xuất khẩu."
       ],
-      "insight": "Tâm lý tích cực từ Mỹ và kỳ vọng Fed nới lỏng có thể lan tỏa, thúc đẩy dòng vốn và tâm lý nhà đầu tư trên TTCK Việt Nam.",
-      "source": "Báo Tin Tức"
+      "insight": "Đà tăng trưởng xuất khẩu mạnh của Trung Quốc hỗ trợ chuỗi cung ứng toàn cầu, có lợi cho Việt Nam.",
+      "source": "Investing.com · Barclays"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng nhẹ sau tuần giảm mạnh",
+      "headline": "Giá dầu Brent tăng mạnh 5% do bất ổn Hormuz; Mỹ chờ CPI tháng 7",
       "bullets": [
-        "Giá dầu Brent giao dịch ở ngưỡng 83,55 USD/thùng vào 9/8, tăng 1,29% so với phiên trước.",
-        "Đà tăng nhẹ diễn ra sau khi giá dầu thế giới chịu áp lực giảm đáng kể trong tuần qua.",
-        "Căng thẳng địa chính trị Trung Đông tiếp tục là yếu tố chi phối giá dầu."
+        "Giá dầu Brent tăng gần 5% lên 87,72 USD/thùng do Iran nêu điều kiện mở lại eo biển Hormuz.",
+        "Thị trường chờ báo cáo CPI tháng 7 của Mỹ (12/8) để đánh giá triển vọng chính sách lãi suất Fed."
       ],
-      "insight": "Biến động giá dầu có thể ảnh hưởng đến chi phí sản xuất, lạm phát và nhóm cổ phiếu dầu khí, vận tải tại Việt Nam.",
-      "source": "VOV · PetroTimes · Oilprice"
+      "insight": "Giá dầu tăng có thể gây áp lực lạm phát, trong khi dữ liệu CPI Mỹ sẽ định hình kỳ vọng Fed.",
+      "source": "Báo Mới · Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ChínhSáchThuế",
-    "#ĐầuTưCông",
-    "#ChínhSáchTiềnTệ",
-    "#ChứngKhoánMỹ",
-    "#GiáDầu"
+    "#KinhTếThếGiới",
+    "#ChínhSáchTiềnTệ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
