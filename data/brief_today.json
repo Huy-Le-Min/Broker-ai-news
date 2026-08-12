@@ -1,86 +1,91 @@
 {
-  "date": "11/8/2026",
+  "date": "12/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Investing.com · Bnews · Báo Mới",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Báo Mới · Dân Việt",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.350",
-      "change": "-0.19%",
+      "value": "26.320",
+      "change": "-0,32%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,10 triệu",
-      "change": "+0.07%",
-      "dir": "up"
+      "value": "143,5 triệu",
+      "change": "-1,37%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "87.72$",
-      "change": "+4.99%",
+      "value": "89,30$",
+      "change": "+1,62%",
       "dir": "up"
     }
   ],
-  "today_watch": "Mỹ công bố chỉ số giá tiêu dùng (CPI) tháng 7 vào ngày 12/8.",
+  "today_watch": "Mỹ công bố chỉ số CPI tháng 7, định hình kỳ vọng chính sách Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN chỉ đạo giảm lãi suất cho vay DNNVV tối thiểu 1%",
+      "headline": "Huy động trái phiếu Chính phủ 7 tháng vượt 201.000 tỷ đồng",
       "bullets": [
-        "Ngân hàng Nhà nước ban hành văn bản 7125/NHNN-TD yêu cầu các ngân hàng thương mại giảm lãi suất cho vay DNNVV tối thiểu 1%/năm.",
-        "Chương trình tín dụng ưu đãi hướng đến các động lực tăng trưởng kinh tế và doanh nghiệp nhỏ và vừa."
+        "Kho bạc Nhà nước đã huy động 201.165 tỷ đồng qua đấu thầu trái phiếu Chính phủ đến hết tháng 7/2026.",
+        "Số liệu này hoàn thành 40% kế hoạch phát hành trái phiếu Chính phủ năm 2026.",
+        "Kỳ hạn phát hành chủ yếu tập trung vào 10 năm (51%) và 5 năm (46%) trong tháng 7."
       ],
-      "insight": "Giúp doanh nghiệp tiếp cận vốn dễ hơn, hỗ trợ tăng trưởng kinh tế, có thể thúc đẩy tín dụng.",
-      "source": "Bnews · VnEconomy"
+      "insight": "Việc huy động vốn ổn định cho thấy khả năng tài chính của Chính phủ, hỗ trợ đầu tư công và niềm tin thị trường.",
+      "source": "PetroTimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất khẩu tháng 7 đạt 53,08 tỷ USD, Mỹ là thị trường lớn nhất",
+      "headline": "Khối ngoại bán ròng 769 tỷ đồng trên HOSE phiên 11/8",
       "bullets": [
-        "Kim ngạch xuất khẩu hàng hóa tháng 7/2026 của Việt Nam đạt 53,08 tỷ USD, tăng 4,5% so với tháng trước.",
-        "Hoa Kỳ tiếp tục là thị trường xuất khẩu lớn nhất của Việt Nam, đạt 104,7 tỷ USD sau 7 tháng."
+        "Khối ngoại tiếp tục bán ròng mạnh trên sàn HOSE với tổng giá trị 769 tỷ đồng trong phiên 11/8.",
+        "Các mã TCB (-222 tỷ), VHM (-185 tỷ) và FPT (-105 tỷ) bị xả ròng mạnh nhất.",
+        "Ngược lại, VNM (61 tỷ), FRT (60 tỷ) và LPB (55 tỷ) được mua ròng tích cực."
       ],
-      "insight": "Xuất khẩu duy trì đà tăng trưởng tích cực, hỗ trợ các ngành sản xuất và logistics.",
-      "source": "Báo Cần Thơ · VOV"
+      "insight": "Áp lực bán ròng từ khối ngoại có thể tạo tâm lý thận trọng, ảnh hưởng đến diễn biến ngắn hạn của thị trường.",
+      "source": "CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhiều chính sách tín dụng, cho thuê tài chính mới có hiệu lực",
+      "headline": "5 dự án cao tốc Bắc-Nam về đích, thu phí từ 15/8",
       "bullets": [
-        "Nhiều thông tư mới của NHNN có hiệu lực từ tháng 8, nâng ngưỡng cho vay nhỏ lên 400 triệu đồng.",
-        "Bãi bỏ trần 100 triệu đồng cho vay online, mở rộng tài sản cho thuê tài chính gồm cả quyền tài sản."
+        "Cục Đường bộ Việt Nam sẽ tổ chức thu phí 5 dự án cao tốc Bắc-Nam từ Quảng Ngãi đến Nha Trang.",
+        "Các đoạn cao tốc này thuộc giai đoạn 2021-2025, bắt đầu thu phí từ 14 giờ ngày 15/8/2026."
       ],
-      "insight": "Tạo điều kiện thuận lợi hơn cho doanh nghiệp, cá nhân tiếp cận vốn, thúc đẩy hoạt động ngân hàng.",
-      "source": "LuatVietnam · Tạp chí Tiếp thị & Gia đình"
+      "insight": "Hoàn thành cao tốc thúc đẩy kết nối vùng, giảm chi phí logistics, hỗ trợ tăng trưởng kinh tế và du lịch.",
+      "source": "Báo Mới · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Xuất khẩu Trung Quốc tháng 7 tăng 23,9% nhờ AI, công nghệ xanh",
+      "headline": "Giá dầu Brent vượt 89 USD/thùng do bất ổn eo biển Hormuz",
       "bullets": [
-        "Kim ngạch xuất khẩu tháng 7/2026 của Trung Quốc tăng 23,9% so với cùng kỳ, vượt kỳ vọng thị trường.",
-        "Sản phẩm AI (25%) và công nghệ xanh (15%) là động lực chính, chiếm 40% tổng kim ngạch xuất khẩu."
+        "Giá dầu Brent đạt 89,30 USD/thùng, tăng 1,62% so với ngày 11/8.",
+        "Diễn biến này do lo ngại gián đoạn nguồn cung tại Trung Đông và bất ổn quanh eo biển Hormuz.",
+        "Mỹ và Iran đưa ra các yêu cầu bồi thường, làm giảm triển vọng thỏa thuận hòa bình."
       ],
-      "insight": "Đà tăng trưởng xuất khẩu mạnh của Trung Quốc hỗ trợ chuỗi cung ứng toàn cầu, có lợi cho Việt Nam.",
-      "source": "Investing.com · Barclays"
+      "insight": "Giá dầu tăng có thể gây áp lực lên chi phí sản xuất, vận tải và lạm phát toàn cầu, ảnh hưởng lợi nhuận doanh nghiệp.",
+      "source": "Báo Mới · Dân Việt · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh 5% do bất ổn Hormuz; Mỹ chờ CPI tháng 7",
+      "headline": "Mỹ chờ CPI tháng 7, kỳ vọng Fed tăng lãi suất tháng 9 giảm",
       "bullets": [
-        "Giá dầu Brent tăng gần 5% lên 87,72 USD/thùng do Iran nêu điều kiện mở lại eo biển Hormuz.",
-        "Thị trường chờ báo cáo CPI tháng 7 của Mỹ (12/8) để đánh giá triển vọng chính sách lãi suất Fed."
+        "Thị trường đang chờ báo cáo lạm phát tiêu dùng (CPI) tháng 7 của Mỹ, dự kiến công bố hôm nay.",
+        "Kỳ vọng Fed tăng lãi suất vào tháng 9 đã giảm xuống 50% sau dữ liệu việc làm yếu kém tháng 7.",
+        "Chỉ số DXY ổn định ở mức 99,81 điểm trong bối cảnh chờ đợi dữ liệu."
       ],
-      "insight": "Giá dầu tăng có thể gây áp lực lạm phát, trong khi dữ liệu CPI Mỹ sẽ định hình kỳ vọng Fed.",
-      "source": "Báo Mới · Investing.com"
+      "insight": "Dữ liệu CPI sẽ tác động mạnh đến chính sách tiền tệ của Fed, ảnh hưởng trực tiếp đến dòng vốn và tỷ giá toàn cầu.",
+      "source": "Báo Mới · CafeF"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
-    "#ChínhSáchTiềnTệ"
+    "#ThịTrườngDầu",
+    "#Fed",
+    "#TráiPhiếuCP"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
