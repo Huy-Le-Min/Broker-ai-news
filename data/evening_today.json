@@ -1,94 +1,97 @@
 {
-  "date": "11/8/2026",
+  "date": "12/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Báo Lao Động · Tiền Phong · VietnamBiz · Báo Thời Báo Ngân Hàng · VOV · Standard Chartered",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.773,41",
-    "vnindex_change": "-0,19%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 769 tỷ",
-    "foreign_dir": "sell",
-    "volume": "16.006 tỷ",
-    "top_gainer": "Thủy sản, Bán lẻ, Chứng khoán"
+    "vnindex_close": "1.793,18",
+    "vnindex_change": "+1,11%",
+    "vnindex_dir": "up",
+    "foreign_net": "Mua ròng 335 tỷ đồng",
+    "foreign_dir": "buy",
+    "volume": "15.099 tỷ",
+    "top_gainer": "Nhóm Bất động sản, cổ phiếu họ Vin"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.350",
-      "change": "-0,19%",
-      "dir": "down"
+      "value": "26.065",
+      "change": "+0,09%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "145 tr/lượng",
-      "change": "-0,41%",
-      "dir": "down"
+      "value": "144,3 triệu",
+      "change": "+0,56%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "87,8$",
-      "change": "+4,99%",
+      "value": "89,63$",
+      "change": "+0,81%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Mỹ công bố chỉ số giá tiêu dùng (CPI) tháng 7, ảnh hưởng kỳ vọng Fed.",
+  "tomorrow_watch": "Kỳ điều hành giá xăng dầu trong nước (chiều 13/8).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất công nghiệp 7 tháng tăng 11,4%, lập đỉnh nhiều năm.",
+      "headline": "Dự thảo Luật Đất đai sửa đổi: Thỏa thuận trên 75% có thể thu hồi đất còn lại",
       "bullets": [
-        "Chỉ số IIP 7 tháng đầu năm 2026 tăng 11,4% so với cùng kỳ, mức cao nhất trong nhiều năm qua.",
-        "Ngành chế biến, chế tạo đóng góp lớn nhất với mức tăng 12%, thúc đẩy đà phục hồi kinh tế."
+        "Dự thảo Luật Đất đai sửa đổi đề xuất thu hồi phần đất còn lại khi chủ đầu tư đã thỏa thuận trên 75% diện tích và số người sử dụng đất.",
+        "Quy định mới này nhằm tháo gỡ vướng mắc cho các dự án đã đạt thỏa thuận với phần lớn người dân nhưng chưa hoàn tất quỹ đất."
       ],
-      "insight": "Dữ liệu này củng cố niềm tin vào đà phục hồi kinh tế Việt Nam, hỗ trợ triển vọng lợi nhuận doanh nghiệp.",
-      "source": "VnEconomy · VietnamPlus"
+      "insight": "Quy định này có thể đẩy nhanh tiến độ triển khai dự án, tác động tích cực đến nhóm cổ phiếu bất động sản.",
+      "source": "Người Quan Sát · Báo Nhân Dân"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng gần 800 tỷ; TCB bị \"xả\" mạnh nhất.",
+      "headline": "CPI tháng 7 giảm 0,12%, áp lực lạm phát cuối năm vẫn hiện hữu",
       "bullets": [
-        "Phiên 11/8, khối ngoại bán ròng 762-769 tỷ đồng trên toàn thị trường, cao nhất 2 tuần qua.",
-        "TCB dẫn đầu danh sách bán ròng với 222 tỷ đồng, nâng tổng mức bán ròng tuần qua lên 835 tỷ."
+        "Chỉ số giá tiêu dùng (CPI) tháng 7/2026 giảm 0,12% so với tháng trước, nhờ giá xăng dầu và lương thực giảm.",
+        "Tuy nhiên, CPI bình quân 7 tháng tăng 4,39% so với cùng kỳ, nhiều yếu tố tiếp tục gây sức ép giá."
       ],
-      "insight": "Áp lực bán ròng từ khối ngoại tiếp diễn có thể tạo tâm lý thận trọng, đặc biệt với cổ phiếu vốn hóa lớn.",
-      "source": "CafeF · Tiền Phong · VietnamBiz"
+      "insight": "Lạm phát hạ nhiệt tạo dư địa chính sách tiền tệ, nhưng rủi ro cuối năm đòi hỏi theo dõi sát sao.",
+      "source": "TBTCO · VietnamBiz · Cục Thống kê"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhiều ngân hàng tung gói tín dụng ưu đãi hàng chục nghìn tỷ cho SME.",
+      "headline": "Cổ phiếu công nghệ lạc nhịp, nhiều mã giảm sâu dù VN-Index tăng",
       "bullets": [
-        "Loạt ngân hàng triển khai gói tín dụng quy mô hàng chục nghìn tỷ đồng cho DNNVV.",
-        "Lãi suất cho vay thấp hơn tối thiểu 1%/năm, mở rộng cơ hội tiếp cận vốn cho doanh nghiệp."
+        "Nhóm cổ phiếu công nghệ giảm 0,11%, với giá trị giao dịch ở nhóm giảm giá cao hơn nhóm tăng giá.",
+        "DDG giảm 9,09% và VTH giảm 7,78%, cho thấy áp lực chốt lời hoặc cơ cấu danh mục."
       ],
-      "insight": "Chính sách hỗ trợ vốn giúp khơi thông nguồn lực sản xuất, kinh doanh, thúc đẩy tăng trưởng kinh tế.",
-      "source": "Bnews.vn"
+      "insight": "Sự phân hóa dòng tiền cho thấy nhà đầu tư đang thận trọng, tìm kiếm cơ hội ở nhóm ngành khác.",
+      "source": "Dân Việt"
     },
     {
       "cat": "Quốc tế",
-      "headline": "IMF, UOB nâng dự báo GDP Việt Nam 2026 lên 7,5-8,5%.",
+      "headline": "Chứng khoán Mỹ giảm phiên thứ hai, chờ dữ liệu lạm phát tháng 7",
       "bullets": [
-        "UOB nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 8,5% từ 7% nhờ động lực AI.",
-        "IMF cũng điều chỉnh dự báo GDP Việt Nam 2026 lên 7,5%, tăng 0,4 điểm phần trăm."
+        "S&P 500 giảm 0,32%, Nasdaq trượt 0,6%, Dow Jones mất 0,34% trong phiên 11/8 (giờ Mỹ).",
+        "Nhà đầu tư chờ báo cáo lạm phát tiêu dùng tháng 7 của Mỹ, dự kiến công bố trong hôm nay."
       ],
-      "insight": "Dự báo tích cực từ các tổ chức quốc tế củng cố niềm tin vào triển vọng kinh tế Việt Nam.",
-      "source": "VnEconomy · Standard Chartered"
+      "insight": "Diễn biến tiêu cực của Phố Wall có thể ảnh hưởng tâm lý nhà đầu tư toàn cầu, bao gồm Việt Nam.",
+      "source": "VnEconomy · TheStreet · Bloomberg"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Yên Nhật chịu áp lực giảm giá dù can thiệp kỷ lục.",
+      "headline": "Giá dầu Brent vượt 89 USD, lo ngại gián đoạn nguồn cung Trung Đông",
       "bullets": [
-        "Đồng Yên tiếp tục chịu áp lực giảm giá, giao dịch quanh 158,93 JPY/USD dù can thiệp mạnh.",
-        "Chênh lệch lãi suất Mỹ - Nhật Bản vẫn là yếu tố chi phối, thử thách quyết tâm can thiệp."
+        "Dầu Brent tăng 0,81% lên 89,63 USD/thùng, WTI tăng 0,85% lên 83,91 USD/thùng.",
+        "Lo ngại gián đoạn nguồn cung từ Trung Đông do bất ổn Mỹ-Iran và các vụ tấn công tàu hàng đẩy giá dầu lên cao."
       ],
-      "insight": "Diễn biến tiền tệ toàn cầu, đặc biệt tại các nền kinh tế lớn, có thể ảnh hưởng gián tiếp dòng vốn.",
-      "source": "Báo Thời Báo Ngân Hàng · VOV"
+      "insight": "Giá dầu tăng cao có thể gây áp lực lên chi phí sản xuất và lạm phát toàn cầu, ảnh hưởng kinh tế Việt Nam.",
+      "source": "VOV · Báo Mới · Oilprice · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#Vietcap",
+    "#VNIndex",
+    "#LuatDatDai",
+    "#LạmPhát",
+    "#GiaDau"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
