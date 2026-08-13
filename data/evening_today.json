@@ -1,87 +1,87 @@
 {
-  "date": "12/8/2026",
+  "date": "13/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Báo Lao Động · Bộ Tài chính · UBCKNN · VnEconomy",
   "session": {
-    "vnindex_close": "1.793,18",
-    "vnindex_change": "+1,11%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 335 tỷ đồng",
-    "foreign_dir": "buy",
-    "volume": "15.099 tỷ",
-    "top_gainer": "Nhóm Bất động sản, cổ phiếu họ Vin"
+    "vnindex_close": "1.765,63",
+    "vnindex_change": "-1,54%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 570 tỷ",
+    "foreign_dir": "sell",
+    "volume": "18.600 tỷ",
+    "top_gainer": "Đường, Nhựa"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.065",
-      "change": "+0,09%",
-      "dir": "up"
+      "value": "26.290",
+      "change": "-0,1%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,3 triệu",
-      "change": "+0,56%",
+      "value": "144,30 triệu",
+      "change": "+0,35%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "89,63$",
-      "change": "+0,81%",
-      "dir": "up"
+      "value": "87,7$",
+      "change": "-0,7%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Kỳ điều hành giá xăng dầu trong nước (chiều 13/8).",
+  "tomorrow_watch": "Chờ báo cáo sản xuất công nghiệp EU tháng 7; họp chính sách ECB.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Dự thảo Luật Đất đai sửa đổi: Thỏa thuận trên 75% có thể thu hồi đất còn lại",
+      "headline": "Chính phủ thúc đẩy giải ngân đầu tư công quý 3",
       "bullets": [
-        "Dự thảo Luật Đất đai sửa đổi đề xuất thu hồi phần đất còn lại khi chủ đầu tư đã thỏa thuận trên 75% diện tích và số người sử dụng đất.",
-        "Quy định mới này nhằm tháo gỡ vướng mắc cho các dự án đã đạt thỏa thuận với phần lớn người dân nhưng chưa hoàn tất quỹ đất."
+        "Thủ tướng yêu cầu tăng tốc giải ngân vốn, phấn đấu đạt 95% kế hoạch 2026.",
+        "Tỷ lệ giải ngân đến tháng 7 đạt 41,9%, còn chậm so với mục tiêu."
       ],
-      "insight": "Quy định này có thể đẩy nhanh tiến độ triển khai dự án, tác động tích cực đến nhóm cổ phiếu bất động sản.",
-      "source": "Người Quan Sát · Báo Nhân Dân"
+      "insight": "Đầu tư công đẩy mạnh thúc đẩy GDP, hỗ trợ nhóm vật liệu, hạ tầng.",
+      "source": "VnEconomy, Bộ Tài chính"
     },
     {
       "cat": "Trong nước",
-      "headline": "CPI tháng 7 giảm 0,12%, áp lực lạm phát cuối năm vẫn hiện hữu",
+      "headline": "Nghị định mới tháo gỡ khó khăn trái phiếu doanh nghiệp",
       "bullets": [
-        "Chỉ số giá tiêu dùng (CPI) tháng 7/2026 giảm 0,12% so với tháng trước, nhờ giá xăng dầu và lương thực giảm.",
-        "Tuy nhiên, CPI bình quân 7 tháng tăng 4,39% so với cùng kỳ, nhiều yếu tố tiếp tục gây sức ép giá."
+        "Nghị định 200/2026/NĐ-CP quy định rõ mục đích phát hành, quản lý vốn.",
+        "Cho phép giãn nợ, hoán đổi, tái cấu trúc nợ, tăng minh bạch thị trường."
       ],
-      "insight": "Lạm phát hạ nhiệt tạo dư địa chính sách tiền tệ, nhưng rủi ro cuối năm đòi hỏi theo dõi sát sao.",
-      "source": "TBTCO · VietnamBiz · Cục Thống kê"
+      "insight": "Chính sách hỗ trợ giảm rủi ro, cải thiện tâm lý nhà đầu tư nhóm BĐS.",
+      "source": "UBCKNN, Bộ Tài chính"
     },
     {
       "cat": "Trong nước",
-      "headline": "Cổ phiếu công nghệ lạc nhịp, nhiều mã giảm sâu dù VN-Index tăng",
+      "headline": "Thanh khoản thị trường suy giảm, lực cầu yếu",
       "bullets": [
-        "Nhóm cổ phiếu công nghệ giảm 0,11%, với giá trị giao dịch ở nhóm giảm giá cao hơn nhóm tăng giá.",
-        "DDG giảm 9,09% và VTH giảm 7,78%, cho thấy áp lực chốt lời hoặc cơ cấu danh mục."
+        "Thanh khoản HOSE giảm 2 phiên liên tiếp, cho thấy dòng tiền suy yếu.",
+        "Lực cầu thận trọng khi VN-Index tiệm cận vùng kháng cự."
       ],
-      "insight": "Sự phân hóa dòng tiền cho thấy nhà đầu tư đang thận trọng, tìm kiếm cơ hội ở nhóm ngành khác.",
-      "source": "Dân Việt"
+      "insight": "Thanh khoản thấp, lực cầu yếu hạn chế đà tăng thị trường ngắn hạn.",
+      "source": "CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ giảm phiên thứ hai, chờ dữ liệu lạm phát tháng 7",
+      "headline": "Lợi suất trái phiếu Mỹ 10 năm cao nhất từ 2007",
       "bullets": [
-        "S&P 500 giảm 0,32%, Nasdaq trượt 0,6%, Dow Jones mất 0,34% trong phiên 11/8 (giờ Mỹ).",
-        "Nhà đầu tư chờ báo cáo lạm phát tiêu dùng tháng 7 của Mỹ, dự kiến công bố trong hôm nay."
+        "Lợi suất trái phiếu Chính phủ Mỹ 10 năm tăng lên mức cao nhất kể từ 2007.",
+        "Phản ánh kỳ vọng lạm phát dai dẳng, áp lực lên chính sách Fed."
       ],
-      "insight": "Diễn biến tiêu cực của Phố Wall có thể ảnh hưởng tâm lý nhà đầu tư toàn cầu, bao gồm Việt Nam.",
-      "source": "VnEconomy · TheStreet · Bloomberg"
+      "insight": "Lợi suất tăng gây áp lực chi phí vay toàn cầu, ảnh hưởng dòng vốn.",
+      "source": "Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 89 USD, lo ngại gián đoạn nguồn cung Trung Đông",
+      "headline": "Tổng thống Mỹ tuyên bố kiểm soát hoàn toàn eo biển Hormuz",
       "bullets": [
-        "Dầu Brent tăng 0,81% lên 89,63 USD/thùng, WTI tăng 0,85% lên 83,91 USD/thùng.",
-        "Lo ngại gián đoạn nguồn cung từ Trung Đông do bất ổn Mỹ-Iran và các vụ tấn công tàu hàng đẩy giá dầu lên cao."
+        "Tổng thống Mỹ Donald Trump tuyên bố lực lượng Mỹ kiểm soát hoàn toàn Hormuz.",
+        "Tuyên bố trong bối cảnh căng thẳng địa chính trị, biến động giá dầu."
       ],
-      "insight": "Giá dầu tăng cao có thể gây áp lực lên chi phí sản xuất và lạm phát toàn cầu, ảnh hưởng kinh tế Việt Nam.",
-      "source": "VOV · Báo Mới · Oilprice · Reuters"
+      "insight": "Kiểm soát Hormuz giảm rủi ro gián đoạn nguồn cung dầu, ổn định thị trường.",
+      "source": "Báo Lao Động, TASS"
     }
   ],
   "hashtags": [
@@ -89,9 +89,7 @@
     "#ChứngKhoán",
     "#Vietcap",
     "#VNIndex",
-    "#LuatDatDai",
-    "#LạmPhát",
-    "#GiaDau"
+    "#KinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
