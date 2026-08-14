@@ -1,95 +1,103 @@
 {
-  "date": "13/8/2026",
+  "date": "14/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Báo Lao Động · Bộ Tài chính · UBCKNN · VnEconomy",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · VOV · Bnews",
   "session": {
-    "vnindex_close": "1.765,63",
-    "vnindex_change": "-1,54%",
+    "vnindex_close": "1.729,08",
+    "vnindex_change": "-2,07%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 570 tỷ",
+    "foreign_net": "Bán ròng 856 tỷ",
     "foreign_dir": "sell",
-    "volume": "18.600 tỷ",
-    "top_gainer": "Đường, Nhựa"
+    "volume": "20.773 tỷ",
+    "top_gainer": "Bất động sản (DXG)"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.290",
-      "change": "-0,1%",
-      "dir": "down"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "144,30 triệu",
-      "change": "+0,35%",
+      "value": "26.270",
+      "change": "+0,08%",
       "dir": "up"
     },
     {
+      "label": "Vàng SJC",
+      "value": "143,3 triệu",
+      "change": "-0,69%",
+      "dir": "down"
+    },
+    {
       "label": "Dầu Brent",
-      "value": "87,7$",
-      "change": "-0,7%",
+      "value": "87,07$",
+      "change": "-2,15%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Chờ báo cáo sản xuất công nghiệp EU tháng 7; họp chính sách ECB.",
+  "tomorrow_watch": "Thị trường chờ đợi phản ứng từ dữ liệu doanh số bán lẻ Mỹ tháng 7.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ thúc đẩy giải ngân đầu tư công quý 3",
+      "headline": "VN-Index giảm sâu, khối ngoại bán ròng kỷ lục",
       "bullets": [
-        "Thủ tướng yêu cầu tăng tốc giải ngân vốn, phấn đấu đạt 95% kế hoạch 2026.",
-        "Tỷ lệ giải ngân đến tháng 7 đạt 41,9%, còn chậm so với mục tiêu."
+        "VN-Index giảm 36,55 điểm (-2,07%) xuống 1.729,08 điểm, đánh dấu phiên giảm mạnh thứ hai liên tiếp.",
+        "Khối ngoại bán ròng hơn 856 tỷ đồng trên toàn thị trường, tập trung xả mạnh VIC và VHM.",
+        "Thanh khoản HOSE đạt hơn 20.773 tỷ đồng, cho thấy áp lực bán gia tăng trên diện rộng."
       ],
-      "insight": "Đầu tư công đẩy mạnh thúc đẩy GDP, hỗ trợ nhóm vật liệu, hạ tầng.",
-      "source": "VnEconomy, Bộ Tài chính"
+      "insight": "Áp lực bán mạnh từ khối ngoại cùng tâm lý thận trọng trong nước gây đà giảm sâu.",
+      "source": "Vietstock · CafeF · VietnamFinance"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nghị định mới tháo gỡ khó khăn trái phiếu doanh nghiệp",
+      "headline": "Nhiều ngân hàng giảm lãi suất cho vay, tung gói ưu đãi",
       "bullets": [
-        "Nghị định 200/2026/NĐ-CP quy định rõ mục đích phát hành, quản lý vốn.",
-        "Cho phép giãn nợ, hoán đổi, tái cấu trúc nợ, tăng minh bạch thị trường."
+        "Nhiều ngân hàng thương mại đồng loạt điều chỉnh giảm lãi suất huy động và cho vay.",
+        "Các ngân hàng triển khai nhiều gói tín dụng ưu đãi quy mô lớn, hướng vốn vào lĩnh vực ưu tiên.",
+        "Động thái này nhằm hỗ trợ doanh nghiệp và nền kinh tế tiếp cận nguồn vốn với chi phí thấp hơn."
       ],
-      "insight": "Chính sách hỗ trợ giảm rủi ro, cải thiện tâm lý nhà đầu tư nhóm BĐS.",
-      "source": "UBCKNN, Bộ Tài chính"
+      "insight": "Chính sách tiền tệ nới lỏng đang được các ngân hàng thương mại cụ thể hóa, hỗ trợ tăng trưởng.",
+      "source": "HTV Tin tức · VietnamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thanh khoản thị trường suy giảm, lực cầu yếu",
+      "headline": "Phú Thọ khởi công 5 dự án trọng điểm hơn 7.200 tỷ đồng",
       "bullets": [
-        "Thanh khoản HOSE giảm 2 phiên liên tiếp, cho thấy dòng tiền suy yếu.",
-        "Lực cầu thận trọng khi VN-Index tiệm cận vùng kháng cự."
+        "Tỉnh Phú Thọ khởi công tổ hợp 5 dự án về công nghiệp, đô thị và an sinh xã hội.",
+        "Tổng vốn đầu tư đăng ký trên 7.200 tỷ đồng, quy mô gần 600 ha.",
+        "Các dự án được kỳ vọng tạo động lực mới cho phát triển kinh tế - xã hội khu vực."
       ],
-      "insight": "Thanh khoản thấp, lực cầu yếu hạn chế đà tăng thị trường ngắn hạn.",
-      "source": "CafeF"
-    },
-    {
-      "cat": "Quốc tế",
-      "headline": "Lợi suất trái phiếu Mỹ 10 năm cao nhất từ 2007",
-      "bullets": [
-        "Lợi suất trái phiếu Chính phủ Mỹ 10 năm tăng lên mức cao nhất kể từ 2007.",
-        "Phản ánh kỳ vọng lạm phát dai dẳng, áp lực lên chính sách Fed."
-      ],
-      "insight": "Lợi suất tăng gây áp lực chi phí vay toàn cầu, ảnh hưởng dòng vốn.",
+      "insight": "Đầu tư công và tư nhân vào hạ tầng, đô thị tiếp tục là động lực tăng trưởng kinh tế địa phương.",
       "source": "Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Tổng thống Mỹ tuyên bố kiểm soát hoàn toàn eo biển Hormuz",
+      "headline": "Lạm phát PPI Mỹ hạ nhiệt, S&P 500 lập kỷ lục mới",
       "bullets": [
-        "Tổng thống Mỹ Donald Trump tuyên bố lực lượng Mỹ kiểm soát hoàn toàn Hormuz.",
-        "Tuyên bố trong bối cảnh căng thẳng địa chính trị, biến động giá dầu."
+        "Chỉ số giá sản xuất (PPI) Mỹ tháng 7 không thay đổi, thấp hơn dự báo tăng 0,2%.",
+        "Dữ liệu này củng cố kỳ vọng Fed có thể giữ nguyên lãi suất tại cuộc họp tháng tới.",
+        "S&P 500 tăng 0,7% lên 7.798,99 điểm, thiết lập mức đỉnh mới trong phiên 13/8."
       ],
-      "insight": "Kiểm soát Hormuz giảm rủi ro gián đoạn nguồn cung dầu, ổn định thị trường.",
-      "source": "Báo Lao Động, TASS"
+      "insight": "Lạm phát hạ nhiệt giúp chứng khoán Mỹ tăng điểm, giảm áp lực lên chính sách tiền tệ của Fed.",
+      "source": "Bnews.vn · ACB · VietnamNet"
+    },
+    {
+      "cat": "Quốc tế",
+      "headline": "EU thúc đẩy Euro kỹ thuật số, giảm phụ thuộc thanh toán Mỹ",
+      "bullets": [
+        "EU nỗ lực giảm sự phụ thuộc vào các mạng lưới thanh toán Mỹ như Visa, Mastercard.",
+        "Đồng euro kỹ thuật số dự kiến đi vào hoạt động từ năm 2029, đảm bảo tự chủ chiến lược.",
+        "Mục tiêu là cung cấp phương thức thanh toán điện tử nội địa an toàn, chi phí thấp."
+      ],
+      "insight": "Động thái này có thể định hình lại hệ thống thanh toán toàn cầu, ảnh hưởng đến các tập đoàn tài chính lớn.",
+      "source": "Bnews.vn"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#KinhTế"
+    "#KhốiNgoại",
+    "#LãiSuất",
+    "#KinhTếViệtNam",
+    "#LạmPhátMỹ",
+    "#EuroKỹThuậtSố"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
