@@ -1,78 +1,78 @@
 {
-  "date": "13/8/2026",
+  "date": "14/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Chính Phủ · VOV",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam · Báo Mới · VOV",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.270",
-      "change": "-0,19%",
+      "value": "26.345",
+      "change": "-0,06%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,3 tr",
-      "change": "+0,35%",
-      "dir": "up"
+      "value": "144,3tr",
+      "change": "±0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,98$",
-      "change": "+0,08%",
-      "dir": "up"
+      "value": "87,16$",
+      "change": "-2,15%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Thị trường phản ứng CPI Mỹ; diễn biến dòng vốn tự doanh.",
+  "today_watch": "Dữ liệu doanh số bán lẻ tháng 7 của Mỹ (dự kiến công bố hôm nay).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng gần 20 điểm, thanh khoản thấp",
+      "headline": "Thủ tướng chỉ đạo ngân hàng giảm thực chất lãi suất cho vay",
       "bullets": [
-        "Phiên 12/8, VN-Index tăng 19,77 điểm (1,11%) lên 1.793,18 điểm, tiến sát mốc 1.800 điểm.",
-        "Thanh khoản khớp lệnh HOSE đạt 14.113 tỷ đồng, giảm 12,02% so với phiên trước và thấp hơn mức bình quân 20 phiên."
+        "Sáng 13/8, Thủ tướng yêu cầu NHNN và các ngân hàng thương mại giảm lãi suất cho vay, ổn định mặt bằng lãi suất.",
+        "Chỉ đạo nhấn mạnh chia sẻ trách nhiệm với người dân, doanh nghiệp, đưa tín dụng vào đúng lĩnh vực."
       ],
-      "insight": "Đà tăng của thị trường chủ yếu nhờ nhóm vốn hóa lớn, thanh khoản thấp cho thấy tâm lý nhà đầu tư vẫn thận trọng.",
-      "source": "VnEconomy, VOV"
+      "insight": "Chỉ đạo quyết liệt từ cấp cao nhất kỳ vọng thúc đẩy dòng vốn giá rẻ hơn vào nền kinh tế, hỗ trợ doanh nghiệp.",
+      "source": "VietNamNet · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tự doanh CTCK mua ròng hơn 1.000 tỷ đồng",
+      "headline": "Lãi suất liên ngân hàng VND đồng loạt giảm mạnh",
       "bullets": [
-        "Phiên 12/8, nhóm tự doanh công ty chứng khoán mua ròng mạnh 1.090 tỷ đồng trên HOSE.",
-        "Dòng tiền tập trung vào NVL (260 tỷ), SBT (229 tỷ), HPG (92 tỷ) và MWG (70 tỷ)."
+        "Trong phiên 12/8, lãi suất bình quân liên ngân hàng VND giảm trên toàn bộ các kỳ hạn ngắn.",
+        "Lãi suất qua đêm về 4,5%/năm, tiếp tục xu hướng hạ nhiệt sau giai đoạn duy trì ở mức cao."
       ],
-      "insight": "Hoạt động mua ròng mạnh của tự doanh có thể hỗ trợ tâm lý thị trường, đặc biệt ở các mã vốn hóa lớn.",
-      "source": "CafeF"
+      "insight": "Mặt bằng lãi suất liên ngân hàng giảm cho thấy thanh khoản hệ thống cải thiện, tạo điều kiện giảm chi phí vốn cho ngân hàng.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN yêu cầu triển khai tín dụng ưu đãi DNNVV",
+      "headline": "Tiền gửi dân cư lập kỷ lục mới, vượt 11 triệu tỷ đồng",
       "bullets": [
-        "NHNN yêu cầu các ngân hàng triển khai chương trình tín dụng ưu đãi cho DNNVV từ tháng 8/2026.",
-        "Lãi suất cho vay bằng VND thấp hơn tối thiểu 1%/năm so với mức bình quân của chính ngân hàng."
+        "Đến hết tháng 6/2026, tiền gửi dân cư đạt hơn 11 triệu tỷ đồng, tăng 7,1% so với cuối năm 2025.",
+        "Tiền gửi của các tổ chức kinh tế cũng tăng 3,09% sau 5 tháng giảm, cho thấy cung tiền cải thiện."
       ],
-      "insight": "Chính sách này kỳ vọng thúc đẩy tăng trưởng tín dụng, hỗ trợ doanh nghiệp và nền kinh tế trong những tháng cuối năm.",
-      "source": "Báo Chính Phủ"
+      "insight": "Dòng tiền nhàn rỗi trong dân cư tiếp tục tăng, là nguồn lực quan trọng cho hệ thống ngân hàng và nền kinh tế.",
+      "source": "PetroTimes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ tháng 7 đúng dự báo, Fed có lý do giữ lãi suất",
+      "headline": "Lạm phát giá sản xuất (PPI) Mỹ hạ nhiệt hơn dự báo",
       "bullets": [
-        "CPI Mỹ tháng 7 tăng 0,1% so với tháng trước và 3,4% so với cùng kỳ, đúng dự báo.",
-        "CPI lõi tăng 0,2% so với tháng trước và 2,5% so với cùng kỳ, củng cố kỳ vọng Fed giữ nguyên lãi suất."
+        "Chỉ số giá sản xuất (PPI) tháng 7 của Mỹ không đổi so với tháng trước, thấp hơn dự báo tăng 0,2%.",
+        "PPI lõi cũng chỉ tăng 0,2%, tiếp nối báo cáo CPI hạ nhiệt, củng cố kỳ vọng Fed giữ nguyên lãi suất."
       ],
-      "insight": "Dữ liệu lạm phát hạ nhiệt giúp giảm áp lực tăng lãi suất, tạo tâm lý tích cực cho thị trường toàn cầu.",
-      "source": "VietnamBiz, VietnamPlus"
+      "insight": "Dữ liệu lạm phát hạ nhiệt củng cố khả năng Fed duy trì lãi suất, giảm áp lực lên tỷ giá và dòng vốn toàn cầu.",
+      "source": "Bnews.vn · Báo Mới · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent gần 89 USD, OPEC/IEA hạ dự báo nhu cầu",
+      "headline": "Giá dầu Brent giảm mạnh hơn 2% do nhu cầu yếu",
       "bullets": [
-        "Giá dầu Brent đạt 88,98 USD/thùng sáng 13/8, tăng nhẹ do lo ngại gián đoạn nguồn cung Trung Đông.",
-        "OPEC và IEA đồng loạt hạ dự báo tăng trưởng nhu cầu dầu toàn cầu năm 2026, hạn chế đà tăng."
+        "Giá dầu Brent giảm 2,15% xuống 87,07 USD/thùng phiên 13/8, chấm dứt chuỗi tăng 6 phiên liên tiếp.",
+        "Nguyên nhân do triển vọng nhu cầu toàn cầu suy yếu và tồn kho dầu thô Mỹ tăng 17,4 triệu thùng."
       ],
-      "insight": "Giá dầu duy trì ở mức cao do địa chính trị, nhưng triển vọng nhu cầu yếu hơn có thể kiềm chế áp lực lạm phát dài hạn.",
-      "source": "Eva.vn, PetroTimes"
+      "insight": "Giá dầu giảm có thể làm dịu áp lực lạm phát toàn cầu, nhưng phản ánh lo ngại về tăng trưởng kinh tế thế giới.",
+      "source": "Báo Mới · VOV · VietNamNet"
     }
   ],
   "hashtags": [
@@ -80,7 +80,7 @@
     "#ChứngKhoán",
     "#KinhTếViệtNam",
     "#KinhTếThếGiới",
-    "#LạmPhátMỹ",
+    "#LãiSuất",
     "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
