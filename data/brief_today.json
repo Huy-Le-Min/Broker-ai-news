@@ -1,85 +1,88 @@
 {
-  "date": "15/8/2026",
+  "date": "16/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Tin Tức · Báo Mới · Chợ Giá",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.330",
-      "change": "+0.23%",
+      "change": "+0,04%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "143,30tr",
-      "change": "±0%",
-      "dir": "flat"
+      "value": "144.000.000",
+      "change": "+0,49%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88.52$",
-      "change": "+1.67%",
+      "value": "88,60$",
+      "change": "+1,75%",
       "dir": "up"
     }
   ],
-  "today_watch": "Diễn biến thị trường chứng khoán toàn cầu và giá hàng hóa.",
+  "today_watch": "Thị trường chờ tín hiệu mới từ phiên giao dịch đầu tuần tới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Thủ tướng yêu cầu ngân hàng giảm thực chất lãi suất cho vay",
+      "headline": "NHNN nới giới hạn cho vay nhỏ lên 200 triệu đồng",
       "bullets": [
-        "Thủ tướng Lê Minh Hưng chỉ đạo NHNN và các TCTD ổn định mặt bằng lãi suất, giảm thực chất lãi suất cho vay.",
-        "Mục tiêu là đưa tín dụng vào đúng lĩnh vực, phục vụ tăng trưởng và kiểm soát chặt chẽ rủi ro."
+        "Thông tư 29/2026/TT-NHNN có hiệu lực từ 15/8/2026, nâng giới hạn khoản vay nhỏ không cần bảo đảm lên 200 triệu đồng.",
+        "Quy định mới áp dụng cho các tổ chức tín dụng cho vay phục vụ nhu cầu đời sống, tiêu dùng của cá nhân."
       ],
-      "insight": "Chỉ đạo này nhấn mạnh áp lực giảm chi phí vốn cho doanh nghiệp, có thể hỗ trợ sản xuất kinh doanh và tăng trưởng kinh tế.",
-      "source": "Chính phủ · VnEconomy"
+      "insight": "Chính sách này kỳ vọng tăng khả năng tiếp cận vốn cho người dân, thúc đẩy tiêu dùng và hoạt động kinh tế.",
+      "source": "LuatVietnam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thông tư mới về cho thuê tài chính có hiệu lực từ 15/8",
+      "headline": "Việt Nam top 15 nền kinh tế thương mại toàn cầu",
       "bullets": [
-        "Thông tư 31/2026/TT-NHNN có hiệu lực hôm nay, quy định chi tiết hoạt động cho thuê tài chính.",
-        "Các 'quyền tài sản' như phần mềm, dữ liệu, quyền khai thác được đưa vào danh mục tài sản cho thuê tài chính."
+        "Việt Nam đã lọt vào nhóm 15 nền kinh tế có quy mô thương mại lớn nhất thế giới.",
+        "Tổng kim ngạch xuất nhập khẩu 7 tháng đầu năm 2026 đạt gần 660 tỷ USD, xuất khẩu gần 320 tỷ USD."
       ],
-      "insight": "Chính sách mới mở rộng tài sản cho thuê tài chính, tạo điều kiện tiếp cận vốn cho doanh nghiệp công nghệ và sáng tạo.",
-      "source": "Thông tấn xã Việt Nam"
+      "insight": "Vị thế thương mại quốc tế củng cố niềm tin, thu hút FDI, hỗ trợ tăng trưởng kinh tế bền vững.",
+      "source": "Sputnik"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá USD/VND tăng nhẹ, đạt 26.330 đồng/USD tại Vietcombank",
+      "headline": "TP.HCM khởi công 10.000 căn nhà ở xã hội",
       "bullets": [
-        "Tỷ giá bán ra USD tại Vietcombank chiều 14/8 đạt 26.330 đồng/USD, tăng 60 đồng so với phiên trước.",
-        "Chỉ số US Dollar Index (DXY) tiếp tục duy trì dưới mốc 100 điểm."
+        "TP.HCM chuẩn bị khởi công 5 dự án nhà ở xã hội với khoảng 10.000 căn dịp Quốc khánh 2/9.",
+        "Trong quý 3/2026, thành phố dự kiến khởi công tổng cộng 57 dự án với khoảng 56.400 căn."
       ],
-      "insight": "USD/VND tăng nhẹ có thể ảnh hưởng đến chi phí nhập khẩu và lợi nhuận của các doanh nghiệp xuất khẩu, cần theo dõi sát.",
-      "source": "CafeF · VOV"
+      "insight": "Động thái này góp phần tháo gỡ khó khăn thị trường BĐS, tạo việc làm và kích thích các ngành liên quan.",
+      "source": "Báo Đầu tư"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm mạnh sau chuỗi tăng 6 phiên liên tiếp",
+      "headline": "S&P 500 lập kỷ lục 4 năm nhờ AI, cảnh báo bong bóng",
       "bullets": [
-        "Giá dầu Brent chốt phiên 14/8 ở 88,52 USD/thùng, giảm sau khi tăng 6 phiên liên tiếp.",
-        "Tồn kho dầu thô Mỹ tăng 17,4 triệu thùng; OPEC và IEA hạ dự báo tăng trưởng nhu cầu dầu toàn cầu 2026."
+        "Chỉ số S&P 500 hướng tới 4 năm tăng trưởng hai con số liên tiếp, vượt 7.700 điểm nhờ làn sóng AI.",
+        "Các chuyên gia cảnh báo về rủi ro 'bong bóng AI', gợi nhắc giai đoạn bùng nổ internet cuối 1990."
       ],
-      "insight": "Giá dầu giảm có thể giúp giảm áp lực lạm phát và chi phí sản xuất, hỗ trợ các ngành phụ thuộc năng lượng.",
-      "source": "Báo Mới · Oilprice · Reuters"
+      "insight": "Dù AI thúc đẩy thị trường, nhà đầu tư cần thận trọng trước định giá cao và rủi ro điều chỉnh mạnh.",
+      "source": "Báo Mới · Báo Tin Tức TTXVN"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Hoạt động sản xuất Trung Quốc giảm lần đầu sau 5 tháng",
+      "headline": "Dầu Brent neo cao 88,6 USD/thùng do Trung Đông",
       "bullets": [
-        "Chỉ số PMI sản xuất chính thức của Trung Quốc tháng 7/2026 giảm xuống 49,2, dưới ngưỡng 50.",
-        "Đây là lần giảm đầu tiên sau 5 tháng, cho thấy áp lực lên nền kinh tế lớn thứ hai thế giới."
+        "Giá dầu Brent duy trì mức cao 88,60 USD/thùng do căng thẳng địa chính trị tại Trung Đông leo thang.",
+        "Các vụ tấn công tàu chở dầu và đàm phán Mỹ-Iran đình trệ làm gia tăng lo ngại về nguồn cung."
       ],
-      "insight": "Sản xuất Trung Quốc suy yếu có thể ảnh hưởng đến chuỗi cung ứng toàn cầu và nhu cầu xuất khẩu của Việt Nam.",
-      "source": "Bloomberg · TTXVN"
+      "insight": "Giá dầu cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
+      "source": "VOV · Reuters · Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới"
+    "#ThịTrườngQuốcTế",
+    "#GiáDầu",
+    "#VàngSJC",
+    "#USDVND"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
