@@ -1,95 +1,95 @@
 {
-  "date": "15/8/2026",
+  "date": "16/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.729,08",
-    "vnindex_change": "-2,20%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 2.186 tỷ",
-    "foreign_dir": "sell",
-    "volume": "23,5 nghìn tỷ",
-    "top_gainer": "một số mã vốn hóa nhỏ và vừa"
+    "vnindex_close": "1.775,50",
+    "vnindex_change": "+0,56%",
+    "vnindex_dir": "up",
+    "foreign_net": "Mua ròng 280 tỷ",
+    "foreign_dir": "buy",
+    "volume": "20.500 tỷ",
+    "top_gainer": "Nhóm Bất động sản, Ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.330",
-      "change": "+0,23%",
+      "value": "26.350",
+      "change": "+0,05%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,00 triệu",
+      "value": "144,00 tr",
       "change": "+0,49%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,52$",
-      "change": "+1,67%",
+      "value": "89,50$",
+      "change": "+1,02%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Dữ liệu lạm phát khu vực Eurozone tháng 8/2026.",
+  "tomorrow_watch": "Chờ đợi số liệu PMI sản xuất Việt Nam tháng 8 và tin KQKD quý 3 từ các doanh nghiệp lớn.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm sâu, khối ngoại bán ròng hơn 2.100 tỷ",
+      "headline": "NHNN cân nhắc nới room tín dụng toàn hệ thống 2026",
       "bullets": [
-        "VN-Index đóng cửa tại 1.729,08 điểm, giảm 2,20% trong phiên 15/8.",
-        "Khối ngoại bán ròng 2.186 tỷ đồng trên HoSE, tập trung vào nhóm vốn hóa lớn."
+        "Ngân hàng Nhà nước có thể điều chỉnh chỉ tiêu tăng trưởng tín dụng cả năm 2026.",
+        "Nhu cầu vốn sản xuất kinh doanh cuối năm được dự báo tăng mạnh."
       ],
-      "insight": "Áp lực chốt lời gia tăng cùng động thái khối ngoại gây tâm lý thận trọng.",
-      "source": "CafeF · Vietstock"
+      "insight": "Động thái này có thể hỗ trợ tăng trưởng kinh tế và thúc đẩy dòng tiền vào thị trường.",
+      "source": "CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN tăng cường quản lý rủi ro tín dụng",
+      "headline": "Tập đoàn Vingroup công bố dự án năng lượng tái tạo nghìn tỷ",
       "bullets": [
-        "Thông tư 29/2026/TT-NHNN có hiệu lực từ 15/8, sửa đổi quy định cho vay.",
-        "Mục tiêu kiểm soát chặt chẽ hơn hoạt động tín dụng, đặc biệt lĩnh vực tiềm ẩn rủi ro."
+        "Vingroup dự kiến đầu tư 15.000 tỷ đồng vào các dự án điện gió, mặt trời.",
+        "Mục tiêu đạt công suất 2GW đến năm 2030, góp phần vào mục tiêu xanh quốc gia."
       ],
-      "insight": "Giúp ổn định hệ thống ngân hàng nhưng có thể ảnh hưởng đến dòng vốn vào các ngành nhạy cảm.",
-      "source": "Ngân hàng Nhà nước · Tạp chí Tiếp thị & Gia đình"
+      "insight": "Tin tức tích cực cho nhóm ngành năng lượng sạch và thu hút vốn đầu tư dài hạn.",
+      "source": "VnExpress"
     },
     {
       "cat": "Trong nước",
-      "headline": "Kinh tế số được đẩy mạnh, hướng tới 30% GDP",
+      "headline": "UBCKNN đề xuất rút ngắn chu kỳ thanh toán chứng khoán",
       "bullets": [
-        "Diễn đàn Kinh doanh 2026 nhấn mạnh kinh tế số phải đạt tối thiểu 30% GDP vào 2030.",
-        "Chính phủ cam kết tháo gỡ điểm nghẽn, tạo động lực tăng trưởng mới."
+        "UBCKNN đang nghiên cứu rút ngắn thời gian thanh toán từ T+2,5 xuống T+2.",
+        "Thay đổi này nhằm tăng thanh khoản, tiệm cận chuẩn quốc tế."
       ],
-      "insight": "Mở ra cơ hội lớn cho các doanh nghiệp công nghệ, thu hút đầu tư vào lĩnh vực này.",
-      "source": "Báo Tin Tức TTXVN · VnEconomy"
+      "insight": "Bước tiến quan trọng hướng tới nâng hạng thị trường, thu hút nhà đầu tư ngoại.",
+      "source": "Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh do căng thẳng Trung Đông",
+      "headline": "Fed phát tín hiệu giữ lãi suất cao lâu hơn dự kiến",
       "bullets": [
-        "Giá dầu Brent chốt phiên ở mức 88,52 USD/thùng, tăng 1,67% trong ngày 15/8.",
-        "Nguyên nhân do các vụ tấn công tàu chở dầu và bất ổn tại eo biển Hormuz."
+        "Biên bản họp FOMC cho thấy các thành viên lo ngại lạm phát dai dẳng.",
+        "Thị trường điều chỉnh kỳ vọng về thời điểm cắt giảm lãi suất đầu tiên."
       ],
-      "insight": "Gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí vận tải và sản xuất trong nước.",
-      "source": "Reuters · VOV"
+      "insight": "Có thể gây áp lực lên tỷ giá USD/VND và dòng vốn ngoại vào Việt Nam.",
+      "source": "Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá lương thực toàn cầu đứng trước nguy cơ tăng mạnh",
+      "headline": "Saudi Arabia lập liên minh bảo vệ hàng hải Biển Đỏ",
       "bullets": [
-        "FAO cảnh báo thế giới có thể bước vào chu kỳ lạm phát lương thực mới.",
-        "Xung đột địa chính trị, chi phí đầu vào và El Niño gây áp lực lên nguồn cung."
+        "Saudi Arabia khởi động liên minh đa quốc gia bảo vệ vận tải Biển Đỏ và Vịnh Aden.",
+        "Động thái sau khi Houthi tuyên bố phong tỏa hàng hải với Saudi Arabia."
       ],
-      "insight": "Tăng rủi ro lạm phát cho các nền kinh tế nhập khẩu, ảnh hưởng đến chi phí sinh hoạt.",
-      "source": "FAO · VOV · Bloomberg"
+      "insight": "Giảm rủi ro gián đoạn chuỗi cung ứng nhưng căng thẳng khu vực vẫn cao.",
+      "source": "Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#KinhTếViệtNam",
-    "#TinTứcQuốcTế"
+    "#TinTucKinhTe"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
