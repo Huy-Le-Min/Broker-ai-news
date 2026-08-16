@@ -1,88 +1,86 @@
 {
-  "date": "16/8/2026",
+  "date": "17/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Báo Quân đội nhân dân · VietnamBiz · Báo Lâm Đồng · Web Giá · Chợ Giá · Znews · Báo Tin Tức",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.330",
-      "change": "+0,04%",
-      "dir": "up"
+      "change": "0.00%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
       "value": "144.000.000",
-      "change": "+0,49%",
+      "change": "+0.49%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,60$",
-      "change": "+1,75%",
-      "dir": "up"
+      "value": "86.99$",
+      "change": "-1.73%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Thị trường chờ tín hiệu mới từ phiên giao dịch đầu tuần tới.",
+  "today_watch": "Trung Quốc công bố chỉ số sản xuất công nghiệp tháng 7/2026.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới giới hạn cho vay nhỏ lên 200 triệu đồng",
+      "headline": "Bộ Tài chính giảm chi phí, tiếp sức doanh nghiệp",
       "bullets": [
-        "Thông tư 29/2026/TT-NHNN có hiệu lực từ 15/8/2026, nâng giới hạn khoản vay nhỏ không cần bảo đảm lên 200 triệu đồng.",
-        "Quy định mới áp dụng cho các tổ chức tín dụng cho vay phục vụ nhu cầu đời sống, tiêu dùng của cá nhân."
+        "Bộ Tài chính triển khai đồng bộ giải pháp giảm thuế, gia hạn nộp, cắt giảm thủ tục hành chính.",
+        "Mục tiêu hỗ trợ doanh nghiệp tăng trưởng GDP từ 10% trở lên cho năm 2026 và dài hạn."
       ],
-      "insight": "Chính sách này kỳ vọng tăng khả năng tiếp cận vốn cho người dân, thúc đẩy tiêu dùng và hoạt động kinh tế.",
-      "source": "LuatVietnam"
+      "insight": "Chính sách tài khóa chủ động giúp giảm gánh nặng, thúc đẩy hoạt động sản xuất kinh doanh của doanh nghiệp.",
+      "source": "Báo Quân đội nhân dân"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam top 15 nền kinh tế thương mại toàn cầu",
+      "headline": "Tiền gửi tăng kỷ lục, tín dụng BĐS vẫn cao",
       "bullets": [
-        "Việt Nam đã lọt vào nhóm 15 nền kinh tế có quy mô thương mại lớn nhất thế giới.",
-        "Tổng kim ngạch xuất nhập khẩu 7 tháng đầu năm 2026 đạt gần 660 tỷ USD, xuất khẩu gần 320 tỷ USD."
+        "Tiền gửi dân cư tiếp tục tăng mạnh, tạo điều kiện mở rộng tín dụng cho các tổ chức.",
+        "Tuy nhiên, tốc độ tăng trưởng tín dụng bất động sản vẫn cao hơn tín dụng sản xuất kinh doanh."
       ],
-      "insight": "Vị thế thương mại quốc tế củng cố niềm tin, thu hút FDI, hỗ trợ tăng trưởng kinh tế bền vững.",
-      "source": "Sputnik"
+      "insight": "Dòng vốn huy động dồi dào nhưng cần định hướng hiệu quả hơn vào sản xuất để tránh rủi ro tập trung.",
+      "source": "Znews"
     },
     {
       "cat": "Trong nước",
-      "headline": "TP.HCM khởi công 10.000 căn nhà ở xã hội",
+      "headline": "Việt Nam thúc đẩy kinh tế số, xanh, tuần hoàn",
       "bullets": [
-        "TP.HCM chuẩn bị khởi công 5 dự án nhà ở xã hội với khoảng 10.000 căn dịp Quốc khánh 2/9.",
-        "Trong quý 3/2026, thành phố dự kiến khởi công tổng cộng 57 dự án với khoảng 56.400 căn."
+        "Việt Nam hướng tới kết nối các mô hình kinh tế mới như kinh tế số, kinh tế xanh và kinh tế tuần hoàn.",
+        "Mục tiêu là tạo động lực, mở rộng không gian tăng trưởng GDP từ 10% trở lên giai đoạn 2026-2030."
       ],
-      "insight": "Động thái này góp phần tháo gỡ khó khăn thị trường BĐS, tạo việc làm và kích thích các ngành liên quan.",
-      "source": "Báo Đầu tư"
+      "insight": "Đa dạng hóa mô hình tăng trưởng giúp nền kinh tế thích ứng, nâng cao năng lực cạnh tranh dài hạn.",
+      "source": "Báo Tin Tức"
     },
     {
       "cat": "Quốc tế",
-      "headline": "S&P 500 lập kỷ lục 4 năm nhờ AI, cảnh báo bong bóng",
+      "headline": "Lạm phát Mỹ hạ nhiệt, giảm áp lực tăng lãi suất Fed",
       "bullets": [
-        "Chỉ số S&P 500 hướng tới 4 năm tăng trưởng hai con số liên tiếp, vượt 7.700 điểm nhờ làn sóng AI.",
-        "Các chuyên gia cảnh báo về rủi ro 'bong bóng AI', gợi nhắc giai đoạn bùng nổ internet cuối 1990."
+        "Chỉ số giá tiêu dùng (CPI) Mỹ tháng 7 tăng 0,1% so với tháng trước, 3,4% so với cùng kỳ, phù hợp dự báo.",
+        "Dữ liệu này làm giảm đáng kể kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất trong tháng 9."
       ],
-      "insight": "Dù AI thúc đẩy thị trường, nhà đầu tư cần thận trọng trước định giá cao và rủi ro điều chỉnh mạnh.",
-      "source": "Báo Mới · Báo Tin Tức TTXVN"
+      "insight": "Lạm phát hạ nhiệt củng cố khả năng Fed tạm dừng tăng lãi suất, hỗ trợ tâm lý thị trường toàn cầu.",
+      "source": "VietnamBiz · VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent neo cao 88,6 USD/thùng do Trung Đông",
+      "headline": "Dầu Brent tăng mạnh do căng thẳng Eo biển Hormuz",
       "bullets": [
-        "Giá dầu Brent duy trì mức cao 88,60 USD/thùng do căng thẳng địa chính trị tại Trung Đông leo thang.",
-        "Các vụ tấn công tàu chở dầu và đàm phán Mỹ-Iran đình trệ làm gia tăng lo ngại về nguồn cung."
+        "Giá dầu thế giới ghi nhận tuần tăng mạnh, Brent tăng 6,0% do đàm phán Mỹ-Iran bế tắc.",
+        "Mỹ tuyên bố phong tỏa hải quân Iran 'vô thời hạn', làm dấy lên lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Giá dầu cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
-      "source": "VOV · Reuters · Investing.com"
+      "insight": "Căng thẳng địa chính trị leo thang tiếp tục đẩy giá dầu, gây áp lực lên chi phí sản xuất và lạm phát.",
+      "source": "Báo Quân đội nhân dân · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngQuốcTế",
-    "#GiáDầu",
-    "#VàngSJC",
-    "#USDVND"
+    "#KinhTếThếGiới",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
