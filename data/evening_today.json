@@ -1,87 +1,87 @@
 {
-  "date": "16/8/2026",
+  "date": "17/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.775,50",
-    "vnindex_change": "+0,56%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 280 tỷ",
-    "foreign_dir": "buy",
-    "volume": "20.500 tỷ",
-    "top_gainer": "Nhóm Bất động sản, Ngân hàng"
+    "vnindex_close": "1.727,46",
+    "vnindex_change": "-0,09%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 587 tỷ",
+    "foreign_dir": "sell",
+    "volume": "14.822 tỷ",
+    "top_gainer": "Dầu khí, Cao su"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.350",
-      "change": "+0,05%",
+      "value": "26.400",
+      "change": "tăng nhẹ",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,00 tr",
-      "change": "+0,49%",
-      "dir": "up"
+      "value": "144,2tr",
+      "change": "-0,41%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "89,50$",
-      "change": "+1,02%",
+      "value": "89.21$",
+      "change": "+0,78%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Chờ đợi số liệu PMI sản xuất Việt Nam tháng 8 và tin KQKD quý 3 từ các doanh nghiệp lớn.",
+  "tomorrow_watch": "Thị trường theo dõi sát diễn biến công bố danh mục nâng hạng của FTSE Russell tuần này.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN cân nhắc nới room tín dụng toàn hệ thống 2026",
+      "headline": "VCBNeo bất ngờ giảm lãi suất huy động tới 0,8%/năm.",
       "bullets": [
-        "Ngân hàng Nhà nước có thể điều chỉnh chỉ tiêu tăng trưởng tín dụng cả năm 2026.",
-        "Nhu cầu vốn sản xuất kinh doanh cuối năm được dự báo tăng mạnh."
+        "VCBNeo giảm lãi suất huy động trực tuyến kỳ hạn 12-60 tháng tới 0,8%/năm, về 7%/năm.",
+        "Động thái này diễn ra chỉ vài ngày sau khi ngân hàng này tăng mạnh lãi suất ở nhiều kỳ hạn."
       ],
-      "insight": "Động thái này có thể hỗ trợ tăng trưởng kinh tế và thúc đẩy dòng tiền vào thị trường.",
-      "source": "CafeF"
+      "insight": "Việc một ngân hàng lớn đảo chiều giảm lãi suất có thể báo hiệu xu hướng hạ nhiệt mặt bằng lãi suất chung.",
+      "source": "VietNamNet · TheLEADER"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tập đoàn Vingroup công bố dự án năng lượng tái tạo nghìn tỷ",
+      "headline": "FDI 7 tháng đầu năm 2026 tăng 58%, đạt 38,06 tỷ USD.",
       "bullets": [
-        "Vingroup dự kiến đầu tư 15.000 tỷ đồng vào các dự án điện gió, mặt trời.",
-        "Mục tiêu đạt công suất 2GW đến năm 2030, góp phần vào mục tiêu xanh quốc gia."
+        "Tổng vốn FDI đăng ký vào Việt Nam 7 tháng đầu năm đạt 38,06 tỷ USD, tăng 58% so với cùng kỳ.",
+        "Vốn đăng ký mới tăng gấp 2,1 lần, tập trung vào các dự án công nghệ cao quy mô lớn."
       ],
-      "insight": "Tin tức tích cực cho nhóm ngành năng lượng sạch và thu hút vốn đầu tư dài hạn.",
-      "source": "VnExpress"
+      "insight": "Dòng vốn ngoại mạnh mẽ củng cố niềm tin nhà đầu tư, thúc đẩy tăng trưởng kinh tế bền vững.",
+      "source": "VnEconomy · Viet Research · Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "UBCKNN đề xuất rút ngắn chu kỳ thanh toán chứng khoán",
+      "headline": "Mỹ tăng mạnh thuế chống bán phá giá cá tra Việt Nam.",
       "bullets": [
-        "UBCKNN đang nghiên cứu rút ngắn thời gian thanh toán từ T+2,5 xuống T+2.",
-        "Thay đổi này nhằm tăng thanh khoản, tiệm cận chuẩn quốc tế."
+        "Mỹ chốt mức thuế chống bán phá giá POR21 với cá tra Nam Việt, Caseamex ở 0,84 USD/kg.",
+        "Mức thuế này cao gấp 3,6 lần so với kết quả sơ bộ và đảo chiều từ mức 0 của kỳ rà soát trước."
       ],
-      "insight": "Bước tiến quan trọng hướng tới nâng hạng thị trường, thu hút nhà đầu tư ngoại.",
+      "insight": "Quyết định này gây áp lực lớn lên các doanh nghiệp xuất khẩu cá tra, ảnh hưởng lợi nhuận ngành.",
       "source": "Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed phát tín hiệu giữ lãi suất cao lâu hơn dự kiến",
+      "headline": "Fitch hạ dự báo tăng trưởng toàn cầu 2026 xuống 2,4% do xung đột.",
       "bullets": [
-        "Biên bản họp FOMC cho thấy các thành viên lo ngại lạm phát dai dẳng.",
-        "Thị trường điều chỉnh kỳ vọng về thời điểm cắt giảm lãi suất đầu tiên."
+        "Fitch Ratings giảm dự báo tăng trưởng toàn cầu năm 2026 xuống 2,4% từ mức trước đó.",
+        "Nguyên nhân chính là cú sốc dầu mỏ từ xung đột Mỹ-Iran và chi phí năng lượng tăng cao."
       ],
-      "insight": "Có thể gây áp lực lên tỷ giá USD/VND và dòng vốn ngoại vào Việt Nam.",
-      "source": "Reuters"
+      "insight": "Triển vọng kinh tế toàn cầu kém khả quan có thể ảnh hưởng tâm lý nhà đầu tư quốc tế.",
+      "source": "Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Saudi Arabia lập liên minh bảo vệ hàng hải Biển Đỏ",
+      "headline": "Thị trường dầu mỏ biến động: Nga giảm sản lượng, nguồn cung thay đổi.",
       "bullets": [
-        "Saudi Arabia khởi động liên minh đa quốc gia bảo vệ vận tải Biển Đỏ và Vịnh Aden.",
-        "Động thái sau khi Houthi tuyên bố phong tỏa hàng hải với Saudi Arabia."
+        "Sản lượng dầu thô của Nga dự kiến giảm xuống 8,95 triệu thùng/ngày năm 2026.",
+        "Lô dầu nhiên liệu từ Malaysia đến Mỹ, cho thấy sự điều chỉnh nguồn cung do căng thẳng Hormuz."
       ],
-      "insight": "Giảm rủi ro gián đoạn chuỗi cung ứng nhưng căng thẳng khu vực vẫn cao.",
-      "source": "Reuters"
+      "insight": "Biến động nguồn cung và địa chính trị tiếp tục là yếu tố chính định hình giá dầu toàn cầu.",
+      "source": "PetroTimes · Trading Economics"
     }
   ],
   "hashtags": [
@@ -89,7 +89,9 @@
     "#ChứngKhoán",
     "#Vietcap",
     "#VNIndex",
-    "#TinTucKinhTe"
+    "#FDI",
+    "#LãiSuất",
+    "#DầuBrent"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
