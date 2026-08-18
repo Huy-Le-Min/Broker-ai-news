@@ -1,88 +1,89 @@
 {
-  "date": "18/8/2026",
+  "date": "19/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnEconomy · TTXVN · S&P Global · VOV · PetroTimes · Báo Mới · VietNamNet · TradingKey",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Dân trí · VOV",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.450",
-      "change": "+0,45%",
-      "dir": "up"
+      "value": "26.448",
+      "change": "-0,13%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,2 tr",
-      "change": "+0,13%",
+      "value": "144,20tr",
+      "change": "+0,14%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,95$",
-      "change": "+0,5%",
+      "value": "91,22$",
+      "change": "+0,39%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường tìm kiếm động lực mới sau phiên giằng co, chờ đợi thông tin vĩ mô rõ ràng hơn.",
+  "today_watch": "Thị trường chờ đợi danh mục GEIS của FTSE Russell; theo dõi diễn biến giá dầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm nhẹ, thanh khoản thấp; khối ngoại bán ròng.",
+      "headline": "FTSE Russell sắp công bố danh mục GEIS, kỳ vọng hút vốn ngoại.",
       "bullets": [
-        "VN-Index phiên 17/8 giảm 1,62 điểm xuống 1.727,46 điểm; thanh khoản HoSE đạt hơn 10.555 tỷ đồng, giảm mạnh.",
-        "Khối ngoại bán ròng hơn 587 tỷ đồng trên cả 3 sàn, tập trung vào VIC, VHM và ACB."
+        "FTSE Russell sẽ công bố danh mục cổ phiếu cho chỉ số GEIS vào rạng sáng 21/8.",
+        "Việt Nam được xác nhận nâng hạng lên thị trường mới nổi hạng hai, có hiệu lực từ 21/9.",
+        "Dòng vốn thụ động ước tính 1,5 tỷ USD, có thể lên tới 6 tỷ USD nếu tính vốn chủ động."
       ],
-      "insight": "Thị trường giằng co tìm điểm cân bằng, tâm lý thận trọng trước đáo hạn phái sinh và thiếu động lực mới.",
-      "source": "TTXVN · VnEconomy"
+      "insight": "Thông tin này có thể kích hoạt dòng vốn ngoại lớn, tạo động lực tăng trưởng cho thị trường chứng khoán Việt Nam.",
+      "source": "Dân trí · Tin nhanh chứng khoán"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất Việt Nam khởi sắc: PMI tháng 7 cao nhất 5 tháng.",
+      "headline": "Lợi nhuận Q2/2026 doanh nghiệp HOSE tăng 46%, định giá hấp dẫn.",
       "bullets": [
-        "Chỉ số PMI ngành sản xuất Việt Nam đạt 52,9 điểm tháng 7, mức cao nhất kể từ tháng 2/2026.",
-        "Đơn hàng mới, đặc biệt xuất khẩu, tăng tốc độ cao nhất ghi nhận từ tháng 7/2024."
+        "Lợi nhuận ròng quý 2/2026 của doanh nghiệp trên HOSE tăng mạnh 46% so với cùng kỳ.",
+        "Bất động sản, Ngân hàng, Dầu khí là động lực tăng trưởng chính.",
+        "Mặt bằng định giá thị trường chứng khoán Việt Nam đã trở lại vùng hấp dẫn."
       ],
-      "insight": "Nhu cầu khách hàng cải thiện, đặc biệt từ nước ngoài, thúc đẩy tăng trưởng sản xuất và xuất khẩu của Việt Nam.",
-      "source": "S&P Global · Vietstock"
+      "insight": "Kết quả kinh doanh tích cực củng cố niềm tin, thu hút dòng tiền vào các nhóm ngành chủ lực.",
+      "source": "CafeF · VnDirect"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhiều chính sách kinh tế mới có hiệu lực từ tháng 8/2026.",
+      "headline": "Bộ Tài chính đề xuất giảm 30% thuế TNDN cho doanh nghiệp nhỏ.",
       "bullets": [
-        "Hạn mức cho vay nhỏ nâng lên 200-400 triệu đồng; mở rộng tài sản cho thuê tài chính gồm quyền sở hữu trí tuệ.",
-        "Quy định mới về kinh doanh hàng miễn thuế tạo thuận lợi qua khai thác dữ liệu điện tử."
+        "Bộ Tài chính đề xuất giảm 30% thuế TNDN cho doanh nghiệp doanh thu đến 10 tỷ đồng.",
+        "Chính sách này dự kiến áp dụng cho kỳ tính thuế năm 2026 và 2027."
       ],
-      "insight": "Các chính sách hỗ trợ tiếp cận vốn, hiện đại hóa quản lý, thúc đẩy đa dạng hóa nguồn vốn trung dài hạn cho doanh nghiệp.",
-      "source": "Báo Mới · TTXVN"
+      "insight": "Đề xuất này giúp giảm gánh nặng tài chính, thúc đẩy phục hồi và tăng trưởng của khối doanh nghiệp nhỏ.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dữ liệu kinh tế Mỹ trái chiều, Fed có thể giữ lãi suất.",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 91 USD.",
       "bullets": [
-        "Khảo sát Empire State cho thấy sản xuất New York mạnh lên, trái ngược doanh số bán lẻ yếu hơn dự kiến.",
-        "Thị trường nghiêng về khả năng Fed giữ nguyên lãi suất tháng 9, xác suất tăng khoảng 30-31%."
+        "Giá dầu Brent tăng lên 91,22 USD/thùng sau khi Mỹ không gia hạn thỏa thuận ngừng bắn.",
+        "Iran tuyên bố lập trường “tấn công toàn diện”, dọa cấm tàu Mỹ qua eo biển Hormuz.",
+        "Lo ngại về gián đoạn nguồn cung năng lượng kéo dài tiếp tục gia tăng."
       ],
-      "insight": "Dữ liệu kinh tế hỗn hợp tạo áp lực lên quyết định của Fed, ảnh hưởng tâm lý nhà đầu tư toàn cầu.",
-      "source": "VietNamNet · Báo Mới · TradingKey"
+      "insight": "Giá dầu cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
+      "source": "Reuters · VOV · PetroTimes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu biến động trái chiều do bế tắc đàm phán Iran.",
+      "headline": "IMF: Khoảng cách kinh tế Mỹ-EU ngày càng rộng năm 2026.",
       "bullets": [
-        "Giá dầu Brent tăng nhẹ lên 88,95 USD/thùng; dầu WTI giảm nhẹ trong phiên đầu ngày 18/8.",
-        "Nỗ lực ngoại giao Mỹ-Iran bế tắc, nhưng nguồn cung qua Eo biển Hormuz vẫn ổn định."
+        "IMF dự báo GDP danh nghĩa của EU năm 2026 chỉ bằng 71% GDP của Mỹ.",
+        "Khoảng cách mở rộng do tăng trưởng yếu hơn của EU và biến động tỷ giá."
       ],
-      "insight": "Căng thẳng địa chính trị tiếp diễn nhưng nguồn cung ổn định giữ giá dầu trong biên độ, giảm lo ngại sốc cung.",
-      "source": "VOV · PetroTimes · Dân Việt"
+      "insight": "Xu hướng này cho thấy sự phân hóa kinh tế toàn cầu, ảnh hưởng đến dòng chảy thương mại và đầu tư.",
+      "source": "Investing.com · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
-    "#GiáDầu",
-    "#GiáVàng",
-    "#TỷGiá"
+    "#ThịTrườngDầuMỏ",
+    "#KinhTếToànCầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
