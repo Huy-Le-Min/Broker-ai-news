@@ -1,102 +1,96 @@
 {
-  "date": "18/8/2026",
+  "date": "19/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · VOV · VietnamBiz · Báo Mới · Báo Lao Động · Báo Thanh Niên · VnEconomy · baodautu · Bnews.vn · Chợ Giá · Kinh tế Xây Dựng · ttbc-hcm.gov.vn · VietNamNet · Báo Tuổi Trẻ",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · VietnamBiz · Báo Mới · Báo Thanh Niên · VOV",
   "session": {
-    "vnindex_close": "1.732,02",
-    "vnindex_change": "+0,26%",
-    "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 767 tỷ đồng",
+    "vnindex_close": "1.726,69",
+    "vnindex_change": "-0,31%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 685 tỷ",
     "foreign_dir": "sell",
-    "volume": "14.872 tỷ",
-    "top_gainer": "Dầu khí, Năng lượng"
+    "volume": "≈15.700 tỷ",
+    "top_gainer": "Dầu khí, Thép, một số mã Ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.483",
-      "change": "+0,3%",
-      "dir": "up"
+      "value": "26.370",
+      "change": "-40đ",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,30 triệu",
-      "change": "-0,3%",
+      "value": "142,70 tr.đ/lượng",
+      "change": "-1,6 tr.đ",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "91,14$",
-      "change": "+0,3%",
+      "value": "91,44$",
+      "change": "+0,5%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Thị trường chờ đợi công bố danh mục nâng hạng FTSE Russell (21/8).",
+  "tomorrow_watch": "Kỳ điều hành giá xăng dầu trong nước (20/8) có thể điều chỉnh tăng.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Thanh khoản thấp trước thềm nâng hạng FTSE Russell",
+      "headline": "Gần 39.000 doanh nghiệp TP.HCM rời thị trường 7 tháng đầu năm",
       "bullets": [
-        "Thanh khoản HOSE đạt 14.872 tỷ đồng, thấp hơn mức bình quân 20 phiên.",
-        "Diễn ra trước ngày FTSE Russell dự kiến công bố danh mục nâng hạng (21/8).",
-        "Dòng tiền nội địa chịu áp lực từ nhu cầu vốn và ách tắc bất động sản."
+        "Trong 7 tháng đầu năm 2026, gần 39.000 doanh nghiệp tại TP.HCM tạm ngừng hoạt động hoặc giải thể.",
+        "Con số này cao hơn số doanh nghiệp thành lập mới (hơn 34.000), đặt ra câu hỏi về sức khỏe thực chất của khu vực doanh nghiệp."
       ],
-      "insight": "Thanh khoản yếu cho thấy tâm lý thận trọng, dù thị trường chờ đợi tín hiệu nâng hạng.",
-      "source": "CafeF · Vietstock · VnEconomy"
+      "insight": "Diễn biến này phản ánh quá trình tái cấu trúc, nhưng cũng cho thấy áp lực lớn về chi phí và thị trường lên doanh nghiệp.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng mạnh phiên thứ 4 liên tiếp",
+      "headline": "Chính phủ rà soát toàn diện Luật Đất đai 2024, xử lý điểm nghẽn",
       "bullets": [
-        "Nhà đầu tư nước ngoài bán ròng 767 tỷ đồng trên HOSE.",
-        "Đây là phiên bán ròng thứ tư liên tiếp của khối ngoại.",
-        "Áp lực bán tập trung vào các mã bluechip như VIC, VPB, SSI."
+        "Chính phủ ban hành Nghị quyết 229/NQ-CP, yêu cầu rà soát toàn diện Luật Đất đai 2024 và các luật liên quan.",
+        "Trọng tâm rà soát gồm quy hoạch, giao đất, thu hồi đất, giá đất, tài chính đất đai và thị trường quyền sử dụng đất."
       ],
-      "insight": "Dòng vốn ngoại tiếp tục rút ròng gây áp lực lên các cổ phiếu vốn hóa lớn.",
-      "source": "VietnamBiz · CafeF · baodautu"
+      "insight": "Việc sửa đổi đồng bộ, thống nhất luật đất đai kỳ vọng tháo gỡ vướng mắc, tạo động lực mới cho thị trường bất động sản.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản phía Nam đối mặt áp lực dòng tiền",
+      "headline": "Việt Nam mở rộng cơ hội đón dòng vốn đầu tư từ Đức",
       "bullets": [
-        "Giá căn hộ bình quân phía Nam 108 triệu đồng/m2, cao so với thu nhập.",
-        "Khả năng hấp thụ kém do chi phí vốn cao và dòng tiền hạn chế.",
-        "Doanh nghiệp cần điều chỉnh chiến lược, tập trung nhà ở xã hội."
+        "Việt Nam khẳng định coi Đức là đối tác hàng đầu, sẵn sàng tạo điều kiện cho doanh nghiệp Đức mở rộng đầu tư.",
+        "Các lĩnh vực ưu tiên gồm hạ tầng, cảng biển thông minh, năng lượng tái tạo, đường sắt tốc độ cao và khoa học-công nghệ."
       ],
-      "insight": "Thị trường BĐS vẫn khó khăn, đòi hỏi tái cấu trúc sản phẩm và chính sách hỗ trợ.",
-      "source": "Bnews.vn · baotintuc.vn"
+      "insight": "Động thái này kỳ vọng thu hút thêm vốn FDI chất lượng cao, thúc đẩy phát triển các ngành trọng điểm của Việt Nam.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Quốc tế",
       "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 91 USD",
       "bullets": [
-        "Iran tuyên bố lập trường tấn công, Mỹ loại trừ gia hạn ngừng bắn.",
-        "Đàm phán hòa bình bế tắc, làm gia tăng lo ngại về nguồn cung năng lượng.",
-        "Giá dầu Brent kỳ hạn tăng lên 91,14 USD/thùng, mức cao nhất gần đây."
+        "Iran tuyên bố đóng cửa eo biển Hormuz nếu Mỹ không dỡ bỏ các biện pháp trừng phạt, Mỹ loại trừ gia hạn thỏa thuận ngừng bắn.",
+        "Giá dầu Brent tăng lên 91,44 USD/thùng, đạt mức cao nhất trong hơn ba tuần do lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Rủi ro địa chính trị tiếp tục đẩy giá dầu lên cao, ảnh hưởng chi phí sản xuất toàn cầu.",
-      "source": "VOV · Reuters · Báo Thanh Niên"
+      "insight": "Xung đột địa chính trị gia tăng có thể đẩy giá dầu tiếp tục tăng, gây áp lực lên lạm phát toàn cầu và chi phí doanh nghiệp.",
+      "source": "Bnews.vn · Thanh Niên · Eva.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dữ liệu kinh tế Mỹ hạ nhiệt, giảm kỳ vọng Fed tăng lãi suất",
+      "headline": "Lợi suất trái phiếu Mỹ chạm đỉnh 19 năm, gây áp lực thị trường",
       "bullets": [
-        "Chỉ số DXY nhích nhẹ, nhưng dữ liệu kinh tế Mỹ kém khả quan.",
-        "Thị trường giảm kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tiếp tục nâng lãi suất.",
-        "Lợi suất trái phiếu kho bạc tăng do giá dầu cao, gây áp lực lên chứng khoán."
+        "Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 30 năm đã chạm mức cao nhất trong 19 năm, đạt 5,31%.",
+        "Diễn biến này gây áp lực lên thị trường chứng khoán Mỹ và vàng, khi nhà đầu tư chờ biên bản cuộc họp Fed."
       ],
-      "insight": "Tín hiệu từ Mỹ có thể giảm áp lực lãi suất, nhưng lạm phát và lợi suất vẫn là thách thức.",
-      "source": "Thời báo Tài chính · Báo Tuổi Trẻ · Bnews.vn"
+      "insight": "Lợi suất tăng cao có thể ảnh hưởng đến dòng vốn ngoại vào thị trường mới nổi, bao gồm Việt Nam, và tạo áp lực tỷ giá.",
+      "source": "Báo Thanh Niên · Báo Thời Báo Ngân Hàng"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#KhốiNgoại",
     "#GiáDầu",
-    "#BấtĐộngSản",
-    "#Fed"
+    "#GiáVàng",
+    "#TỷGiá"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
