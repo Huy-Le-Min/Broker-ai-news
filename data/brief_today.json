@@ -1,89 +1,92 @@
 {
-  "date": "19/8/2026",
+  "date": "20/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Dân trí · VOV",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Mới · VOV · VietnamBiz · Bnews.vn",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.448",
-      "change": "-0,13%",
-      "dir": "down"
+      "value": "26.370",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,20tr",
-      "change": "+0,14%",
-      "dir": "up"
+      "value": "142,7tr",
+      "change": "-1,1%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "91,22$",
-      "change": "+0,39%",
+      "value": "92,20$",
+      "change": "+1,3%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường chờ đợi danh mục GEIS của FTSE Russell; theo dõi diễn biến giá dầu.",
+  "today_watch": "Tiếp tục theo dõi diễn biến thị trường chứng khoán và giá hàng hóa toàn cầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FTSE Russell sắp công bố danh mục GEIS, kỳ vọng hút vốn ngoại.",
+      "headline": "VN-Index giảm nhẹ, thanh khoản thấp; khối ngoại bán ròng mạnh",
       "bullets": [
-        "FTSE Russell sẽ công bố danh mục cổ phiếu cho chỉ số GEIS vào rạng sáng 21/8.",
-        "Việt Nam được xác nhận nâng hạng lên thị trường mới nổi hạng hai, có hiệu lực từ 21/9.",
-        "Dòng vốn thụ động ước tính 1,5 tỷ USD, có thể lên tới 6 tỷ USD nếu tính vốn chủ động."
+        "Phiên 19/8, VN-Index giảm 5,33 điểm (-0,31%) xuống 1.726,69 điểm; thanh khoản HoSE chỉ đạt gần 13.900 tỷ đồng.",
+        "Khối ngoại tiếp tục bán ròng 711,44 tỷ đồng trên HoSE, tập trung vào VIC, STB, VPB và GMD.",
+        "Nhiều cổ phiếu ngân hàng và bất động sản chịu áp lực bán, trong khi một số mã bluechip hồi phục cuối phiên."
       ],
-      "insight": "Thông tin này có thể kích hoạt dòng vốn ngoại lớn, tạo động lực tăng trưởng cho thị trường chứng khoán Việt Nam.",
-      "source": "Dân trí · Tin nhanh chứng khoán"
+      "insight": "Thị trường thiếu động lực rõ ràng, dòng tiền thận trọng và áp lực bán ròng từ khối ngoại tiếp tục đè nặng.",
+      "source": "Vietstock · Báo Mới · baodautu"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lợi nhuận Q2/2026 doanh nghiệp HOSE tăng 46%, định giá hấp dẫn.",
+      "headline": "Nhập siêu Việt Nam lập kỷ lục gần 22 tỷ USD tính đến giữa tháng 8",
       "bullets": [
-        "Lợi nhuận ròng quý 2/2026 của doanh nghiệp trên HOSE tăng mạnh 46% so với cùng kỳ.",
-        "Bất động sản, Ngân hàng, Dầu khí là động lực tăng trưởng chính.",
-        "Mặt bằng định giá thị trường chứng khoán Việt Nam đã trở lại vùng hấp dẫn."
+        "Tính đến 15/8, cán cân thương mại Việt Nam thâm hụt kỷ lục 21,88 tỷ USD, lần đầu nhập siêu lớn như vậy.",
+        "Tổng kim ngạch xuất nhập khẩu đạt 712,72 tỷ USD, tăng 28,3% so với cùng kỳ 2025.",
+        "Xuất khẩu tăng 22,2% đạt 345,4 tỷ USD, nhưng nhập khẩu tăng mạnh hơn 34,7% lên 367,3 tỷ USD."
       ],
-      "insight": "Kết quả kinh doanh tích cực củng cố niềm tin, thu hút dòng tiền vào các nhóm ngành chủ lực.",
-      "source": "CafeF · VnDirect"
+      "insight": "Nhập siêu lớn cho thấy nhu cầu nguyên liệu sản xuất tăng, nhưng cũng gây áp lực lên tỷ giá và cán cân thanh toán.",
+      "source": "VietnamBiz · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bộ Tài chính đề xuất giảm 30% thuế TNDN cho doanh nghiệp nhỏ.",
+      "headline": "Giải ngân đầu tư công 7 tháng đạt 42,7%; tuần đầu tháng 8 giảm mạnh",
       "bullets": [
-        "Bộ Tài chính đề xuất giảm 30% thuế TNDN cho doanh nghiệp doanh thu đến 10 tỷ đồng.",
-        "Chính sách này dự kiến áp dụng cho kỳ tính thuế năm 2026 và 2027."
+        "Đến 6/8/2026, giải ngân đầu tư công đạt 433.453,9 tỷ đồng, bằng 42,7% kế hoạch Thủ tướng giao.",
+        "Tuần đầu tháng 8, vốn giải ngân chỉ đạt 8.141,9 tỷ đồng, bằng 24% mức giải ngân tuần trước đó.",
+        "Vẫn còn 25 bộ, cơ quan trung ương và 12 địa phương có tỷ lệ giải ngân dưới mức bình quân."
       ],
-      "insight": "Đề xuất này giúp giảm gánh nặng tài chính, thúc đẩy phục hồi và tăng trưởng của khối doanh nghiệp nhỏ.",
-      "source": "Báo Mới"
+      "insight": "Tiến độ giải ngân chậm, đặc biệt ở một số đơn vị, có thể ảnh hưởng đến động lực tăng trưởng kinh tế cuối năm.",
+      "source": "Thời báo Tài chính Việt Nam · Bnews.vn · Chinhphu.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 91 USD.",
+      "headline": "Giá dầu Brent vượt 91 USD, đạt mức cao nhất 3 tuần do căng thẳng Hormuz",
       "bullets": [
-        "Giá dầu Brent tăng lên 91,22 USD/thùng sau khi Mỹ không gia hạn thỏa thuận ngừng bắn.",
-        "Iran tuyên bố lập trường “tấn công toàn diện”, dọa cấm tàu Mỹ qua eo biển Hormuz.",
-        "Lo ngại về gián đoạn nguồn cung năng lượng kéo dài tiếp tục gia tăng."
+        "Giá dầu Brent giao sau tăng lên 92,20 USD/thùng, mức cao nhất kể từ cuối tháng 7.",
+        "Căng thẳng tiếp diễn tại Eo biển Hormuz và gián đoạn nguồn cung hỗ trợ giá dầu.",
+        "Mỹ và Iran vẫn bất đồng về tình trạng hoạt động của tuyến đường thủy quan trọng này."
       ],
-      "insight": "Giá dầu cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
-      "source": "Reuters · VOV · PetroTimes"
+      "insight": "Giá dầu tăng cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng đến chi phí sản xuất và vận tải.",
+      "source": "VOV · PetroTimes · Investing.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "IMF: Khoảng cách kinh tế Mỹ-EU ngày càng rộng năm 2026.",
+      "headline": "Lạm phát Mỹ tháng 7 tiếp tục hạ nhiệt, củng cố khả năng Fed giữ lãi suất",
       "bullets": [
-        "IMF dự báo GDP danh nghĩa của EU năm 2026 chỉ bằng 71% GDP của Mỹ.",
-        "Khoảng cách mở rộng do tăng trưởng yếu hơn của EU và biến động tỷ giá."
+        "Chỉ số giá tiêu dùng (CPI) Mỹ tháng 7/2026 tăng nhẹ 0,1%, sau khi giảm 0,4% vào tháng 6.",
+        "So với cùng kỳ, CPI tăng 3,4% trong tháng 7, giảm nhẹ so với mức 3,5% của tháng 6.",
+        "Dữ liệu này có thể làm suy yếu lập luận Fed tăng lãi suất tại cuộc họp tháng 9 tới."
       ],
-      "insight": "Xu hướng này cho thấy sự phân hóa kinh tế toàn cầu, ảnh hưởng đến dòng chảy thương mại và đầu tư.",
-      "source": "Investing.com · VnEconomy"
+      "insight": "Lạm phát hạ nhiệt giúp giảm áp lực tăng lãi suất của Fed, hỗ trợ tâm lý thị trường toàn cầu.",
+      "source": "Báo Mới · VietnamPlus · Vietstock · VOV"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngDầuMỏ",
-    "#KinhTếToànCầu"
+    "#ThịTrườngTàiChính",
+    "#GiáDầu",
+    "#LạmPhátMỹ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
