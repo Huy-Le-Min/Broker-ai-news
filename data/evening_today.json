@@ -1,87 +1,88 @@
 {
-  "date": "19/8/2026",
+  "date": "20/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · VietnamBiz · Báo Mới · Báo Thanh Niên · VOV",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.726,69",
-    "vnindex_change": "-0,31%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng 685 tỷ",
+    "vnindex_close": "1.734,24",
+    "vnindex_change": "+0,44%",
+    "vnindex_dir": "up",
+    "foreign_net": "Bán ròng 616 tỷ",
     "foreign_dir": "sell",
-    "volume": "≈15.700 tỷ",
-    "top_gainer": "Dầu khí, Thép, một số mã Ngân hàng"
+    "volume": "9.800 tỷ",
+    "top_gainer": "Vốn hóa lớn, ngân hàng, công nghệ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.370",
-      "change": "-40đ",
+      "change": "giảm",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "142,70 tr.đ/lượng",
-      "change": "-1,6 tr.đ",
-      "dir": "down"
+      "value": "146,00 tr",
+      "change": "+3,3 tr",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "91,44$",
-      "change": "+0,5%",
+      "value": "91,62$",
+      "change": "+0,7%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Kỳ điều hành giá xăng dầu trong nước (20/8) có thể điều chỉnh tăng.",
+  "tomorrow_watch": "Thị trường chờ FTSE Russell công bố danh mục GEIS.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Gần 39.000 doanh nghiệp TP.HCM rời thị trường 7 tháng đầu năm",
+      "headline": "VN-Index tăng nhẹ, thanh khoản thấp; khối ngoại bán ròng",
       "bullets": [
-        "Trong 7 tháng đầu năm 2026, gần 39.000 doanh nghiệp tại TP.HCM tạm ngừng hoạt động hoặc giải thể.",
-        "Con số này cao hơn số doanh nghiệp thành lập mới (hơn 34.000), đặt ra câu hỏi về sức khỏe thực chất của khu vực doanh nghiệp."
+        "VN-Index đóng cửa tăng 7,55 điểm (+0,44%) lên 1.734,24 điểm, nhờ nhóm vốn hóa lớn và ngân hàng nâng đỡ.",
+        "Thanh khoản HOSE đạt khoảng 9.800 tỷ đồng, mức thấp thứ hai kể từ đầu năm.",
+        "Khối ngoại tiếp tục bán ròng mạnh 616 tỷ đồng trên HOSE, kéo dài chuỗi bán ròng."
       ],
-      "insight": "Diễn biến này phản ánh quá trình tái cấu trúc, nhưng cũng cho thấy áp lực lớn về chi phí và thị trường lên doanh nghiệp.",
-      "source": "Báo Mới"
+      "insight": "Thị trường thiếu động lực tăng bền vững khi dòng tiền vẫn thận trọng, chờ thông tin mới.",
+      "source": "CafeF · Vietstock · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ rà soát toàn diện Luật Đất đai 2024, xử lý điểm nghẽn",
+      "headline": "Sản xuất thép thô 7 tháng đầu năm tăng mạnh 28%",
       "bullets": [
-        "Chính phủ ban hành Nghị quyết 229/NQ-CP, yêu cầu rà soát toàn diện Luật Đất đai 2024 và các luật liên quan.",
-        "Trọng tâm rà soát gồm quy hoạch, giao đất, thu hồi đất, giá đất, tài chính đất đai và thị trường quyền sử dụng đất."
+        "Trong 7 tháng đầu năm 2026, sản lượng thép thô Việt Nam đạt 17,92 triệu tấn, tăng 28% so với cùng kỳ 2025.",
+        "Tốc độ tăng trưởng này vượt xa mức chung của ngành công nghiệp chế biến."
       ],
-      "insight": "Việc sửa đổi đồng bộ, thống nhất luật đất đai kỳ vọng tháo gỡ vướng mắc, tạo động lực mới cho thị trường bất động sản.",
-      "source": "Báo Mới"
+      "insight": "Ngành thép Việt Nam cho thấy dấu hiệu phục hồi tích cực, có thể hỗ trợ các mã cổ phiếu liên quan.",
+      "source": "PetroTimes"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam mở rộng cơ hội đón dòng vốn đầu tư từ Đức",
+      "headline": "Trung Quốc phê duyệt 140 mã số vùng trồng sầu riêng Đắk Lắk",
       "bullets": [
-        "Việt Nam khẳng định coi Đức là đối tác hàng đầu, sẵn sàng tạo điều kiện cho doanh nghiệp Đức mở rộng đầu tư.",
-        "Các lĩnh vực ưu tiên gồm hạ tầng, cảng biển thông minh, năng lượng tái tạo, đường sắt tốc độ cao và khoa học-công nghệ."
+        "Tổng cục Hải quan Trung Quốc chấp thuận 140 mã số vùng trồng sầu riêng Đắk Lắk, với hơn 4.321 ha.",
+        "Thêm 31 cơ sở đóng gói được phê duyệt, nâng cao năng lực xuất khẩu sầu riêng."
       ],
-      "insight": "Động thái này kỳ vọng thu hút thêm vốn FDI chất lượng cao, thúc đẩy phát triển các ngành trọng điểm của Việt Nam.",
-      "source": "Báo Mới"
+      "insight": "Đây là tin tích cực cho ngành nông nghiệp, mở rộng cơ hội xuất khẩu cho sầu riêng Việt Nam.",
+      "source": "Báo Tin Tức"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 91 USD",
+      "headline": "Lợi suất trái phiếu Mỹ giảm sau động thái mua lại của Bộ Tài chính",
       "bullets": [
-        "Iran tuyên bố đóng cửa eo biển Hormuz nếu Mỹ không dỡ bỏ các biện pháp trừng phạt, Mỹ loại trừ gia hạn thỏa thuận ngừng bắn.",
-        "Giá dầu Brent tăng lên 91,44 USD/thùng, đạt mức cao nhất trong hơn ba tuần do lo ngại gián đoạn nguồn cung."
+        "Bộ Tài chính Mỹ tăng gấp đôi quy mô mua lại trái phiếu dài hạn, từ 2 tỷ lên 4 tỷ USD mỗi đợt.",
+        "Động thái này giúp lợi suất trái phiếu 10 năm lùi về 4,65%, 30 năm giảm xuống 5,20%."
       ],
-      "insight": "Xung đột địa chính trị gia tăng có thể đẩy giá dầu tiếp tục tăng, gây áp lực lên lạm phát toàn cầu và chi phí doanh nghiệp.",
-      "source": "Bnews.vn · Thanh Niên · Eva.vn"
+      "insight": "Quyết định của Bộ Tài chính Mỹ giảm áp lực lên lợi suất, hỗ trợ tâm lý thị trường toàn cầu.",
+      "source": "Thời báo Ngân hàng · VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lợi suất trái phiếu Mỹ chạm đỉnh 19 năm, gây áp lực thị trường",
+      "headline": "Giá dầu Brent tăng mạnh do UAE đình chỉ giao dịch với Iran",
       "bullets": [
-        "Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 30 năm đã chạm mức cao nhất trong 19 năm, đạt 5,31%.",
-        "Diễn biến này gây áp lực lên thị trường chứng khoán Mỹ và vàng, khi nhà đầu tư chờ biên bản cuộc họp Fed."
+        "Giá dầu Brent tăng lên 91,62 USD/thùng, đạt mức cao nhất gần 4 tuần.",
+        "UAE đình chỉ mọi giao dịch thương mại, tài chính với Iran, làm tăng lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Lợi suất tăng cao có thể ảnh hưởng đến dòng vốn ngoại vào thị trường mới nổi, bao gồm Việt Nam, và tạo áp lực tỷ giá.",
-      "source": "Báo Thanh Niên · Báo Thời Báo Ngân Hàng"
+      "insight": "Căng thẳng địa chính trị Trung Đông tiếp tục đẩy giá dầu lên cao, ảnh hưởng chi phí năng lượng toàn cầu.",
+      "source": "VOV · VietNamNet · Báo Lao Động"
     }
   ],
   "hashtags": [
@@ -89,8 +90,7 @@
     "#ChứngKhoán",
     "#VNIndex",
     "#GiáDầu",
-    "#GiáVàng",
-    "#TỷGiá"
+    "#GiáVàng"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
