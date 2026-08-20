@@ -1,92 +1,92 @@
 {
-  "date": "20/8/2026",
+  "date": "21/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Mới · VOV · VietnamBiz · Bnews.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chinhphu.vn · VTV.vn · PetroTimes · Bnews.vn · Báo Mới",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.370",
-      "change": "0%",
-      "dir": "flat"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "142,7tr",
-      "change": "-1,1%",
+      "change": "-0.04%",
       "dir": "down"
     },
     {
+      "label": "Vàng SJC",
+      "value": "146,00 triệu",
+      "change": "+2.32%",
+      "dir": "up"
+    },
+    {
       "label": "Dầu Brent",
-      "value": "92,20$",
-      "change": "+1,3%",
+      "value": "93,81$",
+      "change": "+2.39%",
       "dir": "up"
     }
   ],
-  "today_watch": "Tiếp tục theo dõi diễn biến thị trường chứng khoán và giá hàng hóa toàn cầu.",
+  "today_watch": "FTSE Russell công bố danh mục GEIS, kỳ vọng hút vốn ngoại.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm nhẹ, thanh khoản thấp; khối ngoại bán ròng mạnh",
+      "headline": "VN-Index hồi phục nhẹ, khối ngoại bán ròng",
       "bullets": [
-        "Phiên 19/8, VN-Index giảm 5,33 điểm (-0,31%) xuống 1.726,69 điểm; thanh khoản HoSE chỉ đạt gần 13.900 tỷ đồng.",
-        "Khối ngoại tiếp tục bán ròng 711,44 tỷ đồng trên HoSE, tập trung vào VIC, STB, VPB và GMD.",
-        "Nhiều cổ phiếu ngân hàng và bất động sản chịu áp lực bán, trong khi một số mã bluechip hồi phục cuối phiên."
+        "VN-Index tăng 0,44% lên 1.734,24 điểm phiên 20/8, nhờ nhóm vốn hóa lớn và ngân hàng.",
+        "Thanh khoản HOSE đạt 13.471 tỷ đồng, giảm 9,21% so với phiên trước, duy trì mức thấp.",
+        "Khối ngoại tiếp tục bán ròng 711 tỷ đồng trên HOSE, tập trung nhóm Ngân hàng, Tài chính."
       ],
-      "insight": "Thị trường thiếu động lực rõ ràng, dòng tiền thận trọng và áp lực bán ròng từ khối ngoại tiếp tục đè nặng.",
-      "source": "Vietstock · Báo Mới · baodautu"
+      "insight": "Dù chỉ số tăng, dòng tiền yếu và áp lực bán ròng ngoại cho thấy tâm lý thị trường còn thận trọng.",
+      "source": "CafeF, Vietstock, Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu Việt Nam lập kỷ lục gần 22 tỷ USD tính đến giữa tháng 8",
+      "headline": "Chính phủ thúc đẩy xuất khẩu, kiểm soát nhập siêu",
       "bullets": [
-        "Tính đến 15/8, cán cân thương mại Việt Nam thâm hụt kỷ lục 21,88 tỷ USD, lần đầu nhập siêu lớn như vậy.",
-        "Tổng kim ngạch xuất nhập khẩu đạt 712,72 tỷ USD, tăng 28,3% so với cùng kỳ 2025.",
-        "Xuất khẩu tăng 22,2% đạt 345,4 tỷ USD, nhưng nhập khẩu tăng mạnh hơn 34,7% lên 367,3 tỷ USD."
+        "Phó Thủ tướng yêu cầu các bộ ngành triển khai giải pháp đẩy mạnh xuất khẩu, kiểm soát nhập siêu.",
+        "Kim ngạch xuất khẩu 7 tháng đạt 319,7 tỷ USD (+21,7%), nhưng nhập siêu vẫn 20,3 tỷ USD.",
+        "Nhập siêu chủ yếu do linh kiện điện tử, năng lượng và nguyên liệu sản xuất."
       ],
-      "insight": "Nhập siêu lớn cho thấy nhu cầu nguyên liệu sản xuất tăng, nhưng cũng gây áp lực lên tỷ giá và cán cân thanh toán.",
-      "source": "VietnamBiz · VnEconomy"
+      "insight": "Chính sách nhằm cân bằng thương mại, giảm phụ thuộc nhập khẩu, hỗ trợ tăng trưởng bền vững.",
+      "source": "Chinhphu.vn, VTV.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công 7 tháng đạt 42,7%; tuần đầu tháng 8 giảm mạnh",
+      "headline": "Nghị quyết Luật Đất đai mới, định hướng BĐS",
       "bullets": [
-        "Đến 6/8/2026, giải ngân đầu tư công đạt 433.453,9 tỷ đồng, bằng 42,7% kế hoạch Thủ tướng giao.",
-        "Tuần đầu tháng 8, vốn giải ngân chỉ đạt 8.141,9 tỷ đồng, bằng 24% mức giải ngân tuần trước đó.",
-        "Vẫn còn 25 bộ, cơ quan trung ương và 12 địa phương có tỷ lệ giải ngân dưới mức bình quân."
+        "Nghị quyết 21-NQ/TW sửa đổi Luật Đất đai 2024 đặt mục tiêu hoàn thiện pháp luật đất đai.",
+        "Mục tiêu hoàn thành cơ sở dữ liệu số đất đai cuối 2026, đo đạc địa chính cuối 2027.",
+        "Thị trường BĐS phía Nam đang chuyển dịch sang đầu tư giá trị thực, minh bạch hơn."
       ],
-      "insight": "Tiến độ giải ngân chậm, đặc biệt ở một số đơn vị, có thể ảnh hưởng đến động lực tăng trưởng kinh tế cuối năm.",
-      "source": "Thời báo Tài chính Việt Nam · Bnews.vn · Chinhphu.vn"
+      "insight": "Khung pháp lý rõ ràng hơn kỳ vọng thúc đẩy thị trường BĐS phát triển minh bạch, bền vững.",
+      "source": "Tạp chí Diễn đàn Doanh nghiệp, VCCI"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 91 USD, đạt mức cao nhất 3 tuần do căng thẳng Hormuz",
+      "headline": "Fed có thể tăng lãi suất nếu lạm phát dai dẳng",
       "bullets": [
-        "Giá dầu Brent giao sau tăng lên 92,20 USD/thùng, mức cao nhất kể từ cuối tháng 7.",
-        "Căng thẳng tiếp diễn tại Eo biển Hormuz và gián đoạn nguồn cung hỗ trợ giá dầu.",
-        "Mỹ và Iran vẫn bất đồng về tình trạng hoạt động của tuyến đường thủy quan trọng này."
+        "Biên bản FOMC (28-29/7) cho thấy nhiều thành viên sẵn sàng tăng lãi suất nếu lạm phát không hạ nhiệt.",
+        "Một số thành viên cho rằng điều kiện tài chính hiện chưa đủ thắt chặt để đạt mục tiêu 2%.",
+        "Lãi suất mục tiêu 3,5%-3,75% duy trì, nhưng có 3 phiếu phản đối muốn tăng 25 điểm."
       ],
-      "insight": "Giá dầu tăng cao duy trì áp lực lạm phát toàn cầu, ảnh hưởng đến chi phí sản xuất và vận tải.",
-      "source": "VOV · PetroTimes · Investing.com"
+      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên thị trường tài chính toàn cầu và tỷ giá.",
+      "source": "Vietstock, Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ tháng 7 tiếp tục hạ nhiệt, củng cố khả năng Fed giữ lãi suất",
+      "headline": "Dầu Brent tăng mạnh do căng thẳng Trung Đông",
       "bullets": [
-        "Chỉ số giá tiêu dùng (CPI) Mỹ tháng 7/2026 tăng nhẹ 0,1%, sau khi giảm 0,4% vào tháng 6.",
-        "So với cùng kỳ, CPI tăng 3,4% trong tháng 7, giảm nhẹ so với mức 3,5% của tháng 6.",
-        "Dữ liệu này có thể làm suy yếu lập luận Fed tăng lãi suất tại cuộc họp tháng 9 tới."
+        "Giá dầu Brent tăng 2,39% lên 93,81 USD/thùng (phiên 20/8) do lo ngại gián đoạn nguồn cung.",
+        "Căng thẳng Mỹ-Iran leo thang sau tuyên bố \"chiến tranh kinh tế\" của Tổng thống Trump.",
+        "UAE đình chỉ mọi giao dịch tài chính, kinh tế với Iran, làm gia tăng rủi ro nguồn cung."
       ],
-      "insight": "Lạm phát hạ nhiệt giúp giảm áp lực tăng lãi suất của Fed, hỗ trợ tâm lý thị trường toàn cầu.",
-      "source": "Báo Mới · VietnamPlus · Vietstock · VOV"
+      "insight": "Giá dầu tăng cao có thể gây áp lực lạm phát, ảnh hưởng chi phí sản xuất và vận tải.",
+      "source": "PetroTimes, Reuters, Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
+    "#Fed",
     "#GiáDầu",
-    "#LạmPhátMỹ"
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
