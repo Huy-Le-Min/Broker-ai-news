@@ -1,96 +1,97 @@
 {
-  "date": "20/8/2026",
+  "date": "21/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.734,24",
-    "vnindex_change": "+0,44%",
+    "vnindex_close": "1.768,12",
+    "vnindex_change": "+1,95%",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 616 tỷ",
-    "foreign_dir": "sell",
-    "volume": "9.800 tỷ",
-    "top_gainer": "Vốn hóa lớn, ngân hàng, công nghệ"
+    "foreign_net": "Mua ròng 39 tỷ",
+    "foreign_dir": "buy",
+    "volume": "18.356 tỷ",
+    "top_gainer": "Nhóm Chứng khoán"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.370",
-      "change": "giảm",
+      "value": "26.300",
+      "change": "-70 đồng",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,00 tr",
-      "change": "+3,3 tr",
+      "value": "146,6 triệu",
+      "change": "+600.000 đồng",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "91,62$",
-      "change": "+0,7%",
+      "value": "93,78$",
+      "change": "+2,16 USD/thùng",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Thị trường chờ FTSE Russell công bố danh mục GEIS.",
+  "tomorrow_watch": "FTSE Russell công bố danh mục GEIS chính thức (rạng sáng 22/8 giờ VN).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng nhẹ, thanh khoản thấp; khối ngoại bán ròng",
+      "headline": "VN-Index tăng mạnh, khối ngoại mua ròng",
       "bullets": [
-        "VN-Index đóng cửa tăng 7,55 điểm (+0,44%) lên 1.734,24 điểm, nhờ nhóm vốn hóa lớn và ngân hàng nâng đỡ.",
-        "Thanh khoản HOSE đạt khoảng 9.800 tỷ đồng, mức thấp thứ hai kể từ đầu năm.",
-        "Khối ngoại tiếp tục bán ròng mạnh 616 tỷ đồng trên HOSE, kéo dài chuỗi bán ròng."
+        "VN-Index tăng 33,88 điểm (+1,95%) lên 1.768,12 điểm, thanh khoản HOSE đạt 18.356 tỷ đồng.",
+        "Khối ngoại quay lại mua ròng nhẹ khoảng 39 tỷ đồng, chấm dứt chuỗi bán ròng trước đó.",
+        "Nhóm chứng khoán dẫn dắt với nhiều mã tăng trần; ngân hàng, bất động sản cũng khởi sắc."
       ],
-      "insight": "Thị trường thiếu động lực tăng bền vững khi dòng tiền vẫn thận trọng, chờ thông tin mới.",
-      "source": "CafeF · Vietstock · VnEconomy"
+      "insight": "Dòng tiền trở lại mạnh mẽ cùng tâm lý tích cực củng cố đà phục hồi thị trường.",
+      "source": "Vietstock · CafeF · VnExpress"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất thép thô 7 tháng đầu năm tăng mạnh 28%",
+      "headline": "Việt Nam chính thức bước vào lộ trình nâng hạng FTSE",
       "bullets": [
-        "Trong 7 tháng đầu năm 2026, sản lượng thép thô Việt Nam đạt 17,92 triệu tấn, tăng 28% so với cùng kỳ 2025.",
-        "Tốc độ tăng trưởng này vượt xa mức chung của ngành công nghiệp chế biến."
+        "FTSE Russell đã công bố danh mục GEIS, Việt Nam bắt đầu quá trình chuyển đổi lên thị trường mới nổi từ 21/9/2026.",
+        "Dòng vốn thụ động dự kiến khoảng 1,54 tỷ USD sẽ chảy vào TTCK Việt Nam theo 4 đợt."
       ],
-      "insight": "Ngành thép Việt Nam cho thấy dấu hiệu phục hồi tích cực, có thể hỗ trợ các mã cổ phiếu liên quan.",
-      "source": "PetroTimes"
+      "insight": "Sự kiện này mở ra cơ hội thu hút dòng vốn ngoại lớn, cải thiện chất lượng thị trường.",
+      "source": "VietnamFinance · Dân trí · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Trung Quốc phê duyệt 140 mã số vùng trồng sầu riêng Đắk Lắk",
+      "headline": "Chính phủ đề xuất giảm 30% thuế cho doanh nghiệp nhỏ",
       "bullets": [
-        "Tổng cục Hải quan Trung Quốc chấp thuận 140 mã số vùng trồng sầu riêng Đắk Lắk, với hơn 4.321 ha.",
-        "Thêm 31 cơ sở đóng gói được phê duyệt, nâng cao năng lực xuất khẩu sầu riêng."
+        "Đề xuất giảm 30% thuế TNDN cho doanh nghiệp có doanh thu không quá 10 tỷ đồng/năm.",
+        "Chính sách cũng áp dụng cho cá nhân kinh doanh, dự kiến giảm thu ngân sách 3.191 tỷ đồng năm 2026."
       ],
-      "insight": "Đây là tin tích cực cho ngành nông nghiệp, mở rộng cơ hội xuất khẩu cho sầu riêng Việt Nam.",
-      "source": "Báo Tin Tức"
+      "insight": "Hỗ trợ khu vực kinh tế nhỏ, thúc đẩy sản xuất kinh doanh trong bối cảnh khó khăn.",
+      "source": "Báo Mới · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lợi suất trái phiếu Mỹ giảm sau động thái mua lại của Bộ Tài chính",
+      "headline": "Dầu Brent vượt 93 USD, cao nhất gần một tháng",
       "bullets": [
-        "Bộ Tài chính Mỹ tăng gấp đôi quy mô mua lại trái phiếu dài hạn, từ 2 tỷ lên 4 tỷ USD mỗi đợt.",
-        "Động thái này giúp lợi suất trái phiếu 10 năm lùi về 4,65%, 30 năm giảm xuống 5,20%."
+        "Giá dầu Brent tăng lên 93,78 USD/thùng, đạt mức cao nhất trong gần 4 tuần qua.",
+        "Căng thẳng tại Trung Đông và lo ngại gián đoạn nguồn cung tiếp tục hỗ trợ giá dầu."
       ],
-      "insight": "Quyết định của Bộ Tài chính Mỹ giảm áp lực lên lợi suất, hỗ trợ tâm lý thị trường toàn cầu.",
-      "source": "Thời báo Ngân hàng · VOV"
+      "insight": "Giá dầu tăng gây áp lực lên chi phí sản xuất, vận tải và lạm phát toàn cầu.",
+      "source": "VOV · Bnews.vn · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh do UAE đình chỉ giao dịch với Iran",
+      "headline": "Lợi suất trái phiếu Mỹ vẫn cao dù Fed mua lại",
       "bullets": [
-        "Giá dầu Brent tăng lên 91,62 USD/thùng, đạt mức cao nhất gần 4 tuần.",
-        "UAE đình chỉ mọi giao dịch thương mại, tài chính với Iran, làm tăng lo ngại gián đoạn nguồn cung."
+        "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm và 30 năm vẫn duy trì ở mức cao.",
+        "Bộ Tài chính Mỹ tăng gấp đôi quy mô mua lại trái phiếu dài hạn, lên ít nhất 4 tỷ USD/đợt."
       ],
-      "insight": "Căng thẳng địa chính trị Trung Đông tiếp tục đẩy giá dầu lên cao, ảnh hưởng chi phí năng lượng toàn cầu.",
-      "source": "VOV · VietNamNet · Báo Lao Động"
+      "insight": "Lợi suất cao có thể ảnh hưởng đến dòng vốn toàn cầu, tăng áp lực lên các thị trường mới nổi.",
+      "source": "Bnews.vn · Markettimes · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#GiáDầu",
-    "#GiáVàng"
+    "#FTSE",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
