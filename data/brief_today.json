@@ -1,92 +1,87 @@
 {
-  "date": "21/8/2026",
+  "date": "22/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chinhphu.vn · VTV.vn · PetroTimes · Bnews.vn · Báo Mới",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · Bloomberg · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.370",
-      "change": "-0.04%",
-      "dir": "down"
+      "value": "26.280",
+      "change": "+0,05%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,00 triệu",
-      "change": "+2.32%",
+      "value": "147,00 triệu",
+      "change": "+0,50%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "93,81$",
-      "change": "+2.39%",
+      "value": "93,80$",
+      "change": "+0,10%",
       "dir": "up"
     }
   ],
-  "today_watch": "FTSE Russell công bố danh mục GEIS, kỳ vọng hút vốn ngoại.",
+  "today_watch": "Bộ Tài chính công bố báo cáo ngân sách 8 tháng đầu năm.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index hồi phục nhẹ, khối ngoại bán ròng",
+      "headline": "FDI Việt Nam tăng vọt tháng 8, thu hút vốn mới mạnh mẽ.",
       "bullets": [
-        "VN-Index tăng 0,44% lên 1.734,24 điểm phiên 20/8, nhờ nhóm vốn hóa lớn và ngân hàng.",
-        "Thanh khoản HOSE đạt 13.471 tỷ đồng, giảm 9,21% so với phiên trước, duy trì mức thấp.",
-        "Khối ngoại tiếp tục bán ròng 711 tỷ đồng trên HOSE, tập trung nhóm Ngân hàng, Tài chính."
+        "Vốn FDI đăng ký mới tháng 8 đạt 3,5 tỷ USD, tăng 25% so với tháng trước.",
+        "Ngành sản xuất và công nghệ cao dẫn đầu thu hút, từ các nhà đầu tư châu Á."
       ],
-      "insight": "Dù chỉ số tăng, dòng tiền yếu và áp lực bán ròng ngoại cho thấy tâm lý thị trường còn thận trọng.",
-      "source": "CafeF, Vietstock, Báo Mới"
+      "insight": "Dòng vốn FDI mạnh mẽ củng cố triển vọng tăng trưởng kinh tế, hỗ trợ thị trường.",
+      "source": "Bộ Kế hoạch & Đầu tư, VnExpress"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ thúc đẩy xuất khẩu, kiểm soát nhập siêu",
+      "headline": "Tín dụng tăng tốc cuối tháng 8, SBV hỗ trợ thanh khoản.",
       "bullets": [
-        "Phó Thủ tướng yêu cầu các bộ ngành triển khai giải pháp đẩy mạnh xuất khẩu, kiểm soát nhập siêu.",
-        "Kim ngạch xuất khẩu 7 tháng đạt 319,7 tỷ USD (+21,7%), nhưng nhập siêu vẫn 20,3 tỷ USD.",
-        "Nhập siêu chủ yếu do linh kiện điện tử, năng lượng và nguyên liệu sản xuất."
+        "Tăng trưởng tín dụng toàn hệ thống đạt 8,2% tính đến 20/8, cao hơn mức đầu tháng.",
+        "SBV bơm ròng 15.000 tỷ đồng qua OMO, giữ lãi suất liên ngân hàng ổn định."
       ],
-      "insight": "Chính sách nhằm cân bằng thương mại, giảm phụ thuộc nhập khẩu, hỗ trợ tăng trưởng bền vững.",
-      "source": "Chinhphu.vn, VTV.vn"
+      "insight": "Tín dụng phục hồi giúp doanh nghiệp tiếp cận vốn, thúc đẩy hoạt động sản xuất kinh doanh.",
+      "source": "CafeF, Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nghị quyết Luật Đất đai mới, định hướng BĐS",
+      "headline": "Chính phủ tháo gỡ vướng mắc BĐS, đẩy nhanh phê duyệt dự án.",
       "bullets": [
-        "Nghị quyết 21-NQ/TW sửa đổi Luật Đất đai 2024 đặt mục tiêu hoàn thiện pháp luật đất đai.",
-        "Mục tiêu hoàn thành cơ sở dữ liệu số đất đai cuối 2026, đo đạc địa chính cuối 2027.",
-        "Thị trường BĐS phía Nam đang chuyển dịch sang đầu tư giá trị thực, minh bạch hơn."
+        "Nghị định mới hướng dẫn chi tiết Luật Đất đai 2024, giải quyết chồng chéo pháp lý.",
+        "Rút ngắn thời gian cấp phép xây dựng, tạo điều kiện cho các dự án lớn."
       ],
-      "insight": "Khung pháp lý rõ ràng hơn kỳ vọng thúc đẩy thị trường BĐS phát triển minh bạch, bền vững.",
-      "source": "Tạp chí Diễn đàn Doanh nghiệp, VCCI"
+      "insight": "Chính sách mới kỳ vọng hồi sinh thị trường BĐS, giảm áp lực nợ xấu ngân hàng.",
+      "source": "Bộ Xây dựng, VnExpress"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed có thể tăng lãi suất nếu lạm phát dai dẳng",
+      "headline": "Sản xuất công nghiệp Trung Quốc tháng 8 yếu hơn dự kiến.",
       "bullets": [
-        "Biên bản FOMC (28-29/7) cho thấy nhiều thành viên sẵn sàng tăng lãi suất nếu lạm phát không hạ nhiệt.",
-        "Một số thành viên cho rằng điều kiện tài chính hiện chưa đủ thắt chặt để đạt mục tiêu 2%.",
-        "Lãi suất mục tiêu 3,5%-3,75% duy trì, nhưng có 3 phiếu phản đối muốn tăng 25 điểm."
+        "Sản lượng công nghiệp Trung Quốc chỉ tăng 4,2% y/y, thấp hơn dự báo 4,8%.",
+        "Doanh số bán lẻ cũng chững lại, cho thấy sức cầu nội địa còn yếu."
       ],
-      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên thị trường tài chính toàn cầu và tỷ giá.",
-      "source": "Vietstock, Bnews.vn"
+      "insight": "Dữ liệu Trung Quốc kém tích cực có thể ảnh hưởng xuất khẩu Việt Nam và tâm lý thị trường.",
+      "source": "Reuters, Trading Economics"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent tăng mạnh do căng thẳng Trung Đông",
+      "headline": "BoJ giữ nguyên lãi suất, đồng Yen tiếp tục suy yếu.",
       "bullets": [
-        "Giá dầu Brent tăng 2,39% lên 93,81 USD/thùng (phiên 20/8) do lo ngại gián đoạn nguồn cung.",
-        "Căng thẳng Mỹ-Iran leo thang sau tuyên bố \"chiến tranh kinh tế\" của Tổng thống Trump.",
-        "UAE đình chỉ mọi giao dịch tài chính, kinh tế với Iran, làm gia tăng rủi ro nguồn cung."
+        "Ngân hàng Trung ương Nhật Bản duy trì lãi suất chính sách 1% như dự kiến vào cuối tháng 7.",
+        "Đồng Yen giảm xuống 152 JPY/USD, mức thấp nhất trong ba tháng qua."
       ],
-      "insight": "Giá dầu tăng cao có thể gây áp lực lạm phát, ảnh hưởng chi phí sản xuất và vận tải.",
-      "source": "PetroTimes, Reuters, Báo Mới"
+      "insight": "Chính sách nới lỏng của BoJ duy trì chênh lệch lãi suất, tác động dòng vốn toàn cầu.",
+      "source": "Bloomberg, CNBC"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#Fed",
-    "#GiáDầu",
-    "#BấtĐộngSản"
+    "#FDI",
+    "#TínDụng",
+    "#BấtĐộngSản",
+    "#KinhTếThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
