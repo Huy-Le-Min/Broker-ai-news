@@ -1,87 +1,88 @@
 {
-  "date": "22/8/2026",
+  "date": "23/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · Bloomberg · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bộ Xây dựng · Ngân hàng Nhà nước · Oxford Economics · Energies Media · Forbes · Enerdata · KuCoin · BEA · Báo Mới · VietNamNet",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.280",
-      "change": "+0,05%",
+      "value": "26.310",
+      "change": "+0.04%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,00 triệu",
-      "change": "+0,50%",
+      "value": "147,6tr",
+      "change": "+0.41%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "93,80$",
-      "change": "+0,10%",
+      "value": "94.39$",
+      "change": "+0.65%",
       "dir": "up"
     }
   ],
-  "today_watch": "Bộ Tài chính công bố báo cáo ngân sách 8 tháng đầu năm.",
+  "today_watch": "Báo cáo lạm phát PCE tháng 7 của Mỹ (26/8) và Hội nghị Jackson Hole sẽ định hướng chính sách Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FDI Việt Nam tăng vọt tháng 8, thu hút vốn mới mạnh mẽ.",
+      "headline": "Dự thảo Luật BĐS sửa đổi: Tập trung gỡ vướng pháp lý",
       "bullets": [
-        "Vốn FDI đăng ký mới tháng 8 đạt 3,5 tỷ USD, tăng 25% so với tháng trước.",
-        "Ngành sản xuất và công nghệ cao dẫn đầu thu hút, từ các nhà đầu tư châu Á."
+        "Bộ Xây dựng công bố dự thảo Luật Kinh doanh Bất động sản (sửa đổi) phiên bản tháng 7/2026, giảm 21-23 điều so với luật cũ.",
+        "Dự thảo tập trung chuẩn hóa khái niệm, quy trình giao dịch, và yêu cầu công khai giá thực tế để minh bạch thị trường."
       ],
-      "insight": "Dòng vốn FDI mạnh mẽ củng cố triển vọng tăng trưởng kinh tế, hỗ trợ thị trường.",
-      "source": "Bộ Kế hoạch & Đầu tư, VnExpress"
+      "insight": "Các sửa đổi này kỳ vọng tháo gỡ điểm nghẽn pháp lý, thúc đẩy thị trường bất động sản phát triển lành mạnh hơn.",
+      "source": "Bộ Xây dựng, Chinhphu.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng tăng tốc cuối tháng 8, SBV hỗ trợ thanh khoản.",
+      "headline": "Giá vàng SJC tăng mạnh, vượt mốc 147 triệu đồng/lượng",
       "bullets": [
-        "Tăng trưởng tín dụng toàn hệ thống đạt 8,2% tính đến 20/8, cao hơn mức đầu tháng.",
-        "SBV bơm ròng 15.000 tỷ đồng qua OMO, giữ lãi suất liên ngân hàng ổn định."
+        "Giá vàng SJC chốt phiên 22/8 ở mức 147,6 triệu đồng/lượng bán ra, tăng 600.000 đồng/lượng so với phiên trước.",
+        "Tính từ cuối tuần trước, giá vàng miếng SJC đã tăng tổng cộng 3,6 triệu đồng/lượng."
       ],
-      "insight": "Tín dụng phục hồi giúp doanh nghiệp tiếp cận vốn, thúc đẩy hoạt động sản xuất kinh doanh.",
-      "source": "CafeF, Vietstock"
+      "insight": "Đà tăng mạnh của vàng phản ánh tâm lý tìm kiếm tài sản trú ẩn và lo ngại lạm phát trong nước.",
+      "source": "VietNamNet, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ tháo gỡ vướng mắc BĐS, đẩy nhanh phê duyệt dự án.",
+      "headline": "SBV giữ tỷ giá trung tâm, USD/VND biến động nhẹ",
       "bullets": [
-        "Nghị định mới hướng dẫn chi tiết Luật Đất đai 2024, giải quyết chồng chéo pháp lý.",
-        "Rút ngắn thời gian cấp phép xây dựng, tạo điều kiện cho các dự án lớn."
+        "Ngân hàng Nhà nước công bố tỷ giá trung tâm USD/VND ở mức 25.600 đồng vào ngày 22/8, không đổi so với phiên trước.",
+        "Tỷ giá tại các ngân hàng thương mại tăng nhẹ, Vietcombank bán ra 26.310 đồng/USD."
       ],
-      "insight": "Chính sách mới kỳ vọng hồi sinh thị trường BĐS, giảm áp lực nợ xấu ngân hàng.",
-      "source": "Bộ Xây dựng, VnExpress"
+      "insight": "Việc giữ ổn định tỷ giá trung tâm cho thấy nỗ lực của SBV nhằm kiểm soát lạm phát và ổn định thị trường.",
+      "source": "Ngân hàng Nhà nước, Vietcombank, Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Sản xuất công nghiệp Trung Quốc tháng 8 yếu hơn dự kiến.",
+      "headline": "Dự báo lạm phát PCE cốt lõi Mỹ tháng 7 giữ ổn định",
       "bullets": [
-        "Sản lượng công nghiệp Trung Quốc chỉ tăng 4,2% y/y, thấp hơn dự báo 4,8%.",
-        "Doanh số bán lẻ cũng chững lại, cho thấy sức cầu nội địa còn yếu."
+        "Oxford Economics dự báo lạm phát PCE cốt lõi của Mỹ tháng 7 ở mức 3,3%, không đổi so với tháng trước.",
+        "Dữ liệu chính thức sẽ được công bố vào ngày 26/8, ảnh hưởng đến kỳ vọng chính sách của Fed."
       ],
-      "insight": "Dữ liệu Trung Quốc kém tích cực có thể ảnh hưởng xuất khẩu Việt Nam và tâm lý thị trường.",
-      "source": "Reuters, Trading Economics"
+      "insight": "Lạm phát dai dẳng có thể khiến Fed duy trì lãi suất cao, tác động đến dòng vốn toàn cầu.",
+      "source": "Oxford Economics, KuCoin, BEA"
     },
     {
       "cat": "Quốc tế",
-      "headline": "BoJ giữ nguyên lãi suất, đồng Yen tiếp tục suy yếu.",
+      "headline": "OPEC+ tăng sản lượng dầu tháng 8 thêm 188.000 thùng/ngày",
       "bullets": [
-        "Ngân hàng Trung ương Nhật Bản duy trì lãi suất chính sách 1% như dự kiến vào cuối tháng 7.",
-        "Đồng Yen giảm xuống 152 JPY/USD, mức thấp nhất trong ba tháng qua."
+        "OPEC+ quyết định tăng sản lượng dầu 188.000 thùng/ngày từ tháng 8/2026, là bước thứ năm trong việc nới lỏng cắt giảm tự nguyện.",
+        "Quyết định này diễn ra trong bối cảnh giá dầu Brent đã vượt 94 USD/thùng do lo ngại nguồn cung."
       ],
-      "insight": "Chính sách nới lỏng của BoJ duy trì chênh lệch lãi suất, tác động dòng vốn toàn cầu.",
-      "source": "Bloomberg, CNBC"
+      "insight": "Việc tăng sản lượng có thể giúp ổn định nguồn cung, nhưng căng thẳng địa chính trị vẫn giữ giá dầu ở mức cao.",
+      "source": "Energies Media, Forbes, Enerdata"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#FDI",
-    "#TínDụng",
+    "#KinhTếViệtNam",
+    "#ThịTrườngQuốcTế",
     "#BấtĐộngSản",
-    "#KinhTếThếGiới"
+    "#GiáVàng",
+    "#TỷGiá"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
