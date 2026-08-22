@@ -1,7 +1,7 @@
 {
-  "date": "21/8/2026",
+  "date": "22/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam",
   "session": {
     "vnindex_close": "1.768,12",
     "vnindex_change": "+1,95%",
@@ -9,89 +9,92 @@
     "foreign_net": "Mua ròng 39 tỷ",
     "foreign_dir": "buy",
     "volume": "18.356 tỷ",
-    "top_gainer": "Nhóm Chứng khoán"
+    "top_gainer": "Chứng khoán, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.300",
-      "change": "-70 đồng",
-      "dir": "down"
+      "value": "26.310",
+      "change": "+10 đồng",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6 triệu",
-      "change": "+600.000 đồng",
+      "value": "147,6tr",
+      "change": "+600 nghìn",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "93,78$",
-      "change": "+2,16 USD/thùng",
+      "value": "94,39$",
+      "change": "+0,65%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "FTSE Russell công bố danh mục GEIS chính thức (rạng sáng 22/8 giờ VN).",
+  "tomorrow_watch": "Hội nghị Jackson Hole; số liệu lạm phát PCE Mỹ",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng mạnh, khối ngoại mua ròng",
+      "headline": "Quốc hội thảo luận giảm 30% thuế cho DN nhỏ",
       "bullets": [
-        "VN-Index tăng 33,88 điểm (+1,95%) lên 1.768,12 điểm, thanh khoản HOSE đạt 18.356 tỷ đồng.",
-        "Khối ngoại quay lại mua ròng nhẹ khoảng 39 tỷ đồng, chấm dứt chuỗi bán ròng trước đó.",
-        "Nhóm chứng khoán dẫn dắt với nhiều mã tăng trần; ngân hàng, bất động sản cũng khởi sắc."
+        "Chiều 22/8, Quốc hội thảo luận dự thảo Nghị quyết giảm 30% thuế TNDN, TNCN cho doanh nghiệp nhỏ và hộ kinh doanh.",
+        "Đề xuất áp dụng cho kỳ tính thuế 2026-2027 với doanh thu không quá 10 tỷ đồng/năm.",
+        "Nhiều đại biểu đề nghị làm rõ cơ sở ngưỡng 10 tỷ đồng, tránh tạo tâm lý ngại tăng quy mô."
       ],
-      "insight": "Dòng tiền trở lại mạnh mẽ cùng tâm lý tích cực củng cố đà phục hồi thị trường.",
-      "source": "Vietstock · CafeF · VnExpress"
+      "insight": "Chính sách này có thể hỗ trợ doanh nghiệp vượt khó, nhưng cần cơ chế chuyển tiếp để khuyến khích tăng trưởng.",
+      "source": "Báo Thanh tra · Báo Điện tử Chính phủ · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam chính thức bước vào lộ trình nâng hạng FTSE",
+      "headline": "Nhập siêu Việt Nam chạm mốc gần 22 tỷ USD",
       "bullets": [
-        "FTSE Russell đã công bố danh mục GEIS, Việt Nam bắt đầu quá trình chuyển đổi lên thị trường mới nổi từ 21/9/2026.",
-        "Dòng vốn thụ động dự kiến khoảng 1,54 tỷ USD sẽ chảy vào TTCK Việt Nam theo 4 đợt."
+        "Tính đến giữa tháng 8, Việt Nam nhập siêu 21,88 tỷ USD, cao hơn xuất khẩu 1,5 tỷ USD trong nửa đầu tháng.",
+        "Xuất khẩu tăng chủ yếu nhờ điện tử, điện thoại; nhập khẩu linh kiện, nguyên liệu vẫn ở mức cao.",
+        "Cán cân thương mại cả năm có thể nhập siêu 5-7 tỷ USD."
       ],
-      "insight": "Sự kiện này mở ra cơ hội thu hút dòng vốn ngoại lớn, cải thiện chất lượng thị trường.",
-      "source": "VietnamFinance · Dân trí · Báo Mới"
+      "insight": "Nhập siêu lớn cho thấy nhu cầu nguyên liệu sản xuất cao, nhưng cũng đặt ra thách thức về cân bằng thương mại.",
+      "source": "Sputnik · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đề xuất giảm 30% thuế cho doanh nghiệp nhỏ",
+      "headline": "27 cổ phiếu Việt Nam vào rổ FTSE Global All Cap",
       "bullets": [
-        "Đề xuất giảm 30% thuế TNDN cho doanh nghiệp có doanh thu không quá 10 tỷ đồng/năm.",
-        "Chính sách cũng áp dụng cho cá nhân kinh doanh, dự kiến giảm thu ngân sách 3.191 tỷ đồng năm 2026."
+        "FTSE Russell công bố 27 cổ phiếu Việt Nam vào FTSE Global All Cap, hiệu lực từ 21/9/2026.",
+        "Dòng vốn thụ động có thể lên tới 1,5 tỷ USD, chia thành 4 giai đoạn đến 9/2027.",
+        "VCB, VIC, VHM, BID, HPG, VPB vào FTSE All-World, thu hút vốn lớn."
       ],
-      "insight": "Hỗ trợ khu vực kinh tế nhỏ, thúc đẩy sản xuất kinh doanh trong bối cảnh khó khăn.",
-      "source": "Báo Mới · Bnews.vn"
+      "insight": "Việc nâng hạng thị trường và thu hút dòng vốn thụ động sẽ hỗ trợ tích cực cho các mã bluechip.",
+      "source": "VietNamNet · Báo Lao Động · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 93 USD, cao nhất gần một tháng",
+      "headline": "PMI Eurozone tháng 8 tăng mạnh hơn dự kiến",
       "bullets": [
-        "Giá dầu Brent tăng lên 93,78 USD/thùng, đạt mức cao nhất trong gần 4 tuần qua.",
-        "Căng thẳng tại Trung Đông và lo ngại gián đoạn nguồn cung tiếp tục hỗ trợ giá dầu."
+        "PMI Composite sơ bộ Eurozone tháng 8 đạt 52,1 điểm, vượt dự báo 51,7 điểm.",
+        "Lĩnh vực sản xuất tăng trưởng mạnh nhất 4,5 năm, sản lượng đạt 53,4 điểm.",
+        "Dữ liệu này tạo tiền đề cho tăng trưởng GDP Eurozone khoảng 0,3% quý III."
       ],
-      "insight": "Giá dầu tăng gây áp lực lên chi phí sản xuất, vận tải và lạm phát toàn cầu.",
-      "source": "VOV · Bnews.vn · VietNamNet"
+      "insight": "Kinh tế Eurozone phục hồi tích cực, giảm lo ngại suy thoái, hỗ trợ tâm lý thị trường toàn cầu.",
+      "source": "XTB · Investing.com · S&P Global"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lợi suất trái phiếu Mỹ vẫn cao dù Fed mua lại",
+      "headline": "Căng thẳng Mỹ-Iran đẩy giá dầu Brent vượt 94 USD",
       "bullets": [
-        "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm và 30 năm vẫn duy trì ở mức cao.",
-        "Bộ Tài chính Mỹ tăng gấp đôi quy mô mua lại trái phiếu dài hạn, lên ít nhất 4 tỷ USD/đợt."
+        "Giá dầu Brent đạt 94,39 USD/thùng, tăng 0,65% do lo ngại gián đoạn nguồn cung.",
+        "Mỹ đe dọa trừng phạt các nước giao thương với Iran, Iran cáo buộc Mỹ 'khủng bố kinh tế'.",
+        "Một tàu chở dầu liên quan Iran bị bắt giữ ngoài khơi Yemen, làm tăng rủi ro địa chính trị."
       ],
-      "insight": "Lợi suất cao có thể ảnh hưởng đến dòng vốn toàn cầu, tăng áp lực lên các thị trường mới nổi.",
-      "source": "Bnews.vn · Markettimes · VnEconomy"
+      "insight": "Xung đột địa chính trị tiếp tục là yếu tố chính đẩy giá dầu tăng, ảnh hưởng chi phí sản xuất toàn cầu.",
+      "source": "Reuters · VOH · Báo Thanh Niên"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#VNIndex",
-    "#FTSE",
-    "#GiáDầu"
+    "#KinhTếViệtNam",
+    "#GiáDầu",
+    "#ThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
