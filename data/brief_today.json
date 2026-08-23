@@ -1,88 +1,87 @@
 {
-  "date": "23/8/2026",
+  "date": "24/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bộ Xây dựng · Ngân hàng Nhà nước · Oxford Economics · Energies Media · Forbes · Enerdata · KuCoin · BEA · Báo Mới · VietNamNet",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · S&P Global · Cục Hải quan · NHNN",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.310",
-      "change": "+0.04%",
-      "dir": "up"
+      "change": "ổn định",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
       "value": "147,6tr",
-      "change": "+0.41%",
+      "change": "+0,41%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "94.39$",
-      "change": "+0.65%",
+      "value": "94,39$",
+      "change": "+0,65%",
       "dir": "up"
     }
   ],
-  "today_watch": "Báo cáo lạm phát PCE tháng 7 của Mỹ (26/8) và Hội nghị Jackson Hole sẽ định hướng chính sách Fed.",
+  "today_watch": "Thị trường tiếp tục theo dõi diễn biến vĩ mô toàn cầu và chính sách hỗ trợ kinh tế trong nước.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Dự thảo Luật BĐS sửa đổi: Tập trung gỡ vướng pháp lý",
+      "headline": "Quốc hội thảo luận giảm 30% thuế cho doanh nghiệp nhỏ",
       "bullets": [
-        "Bộ Xây dựng công bố dự thảo Luật Kinh doanh Bất động sản (sửa đổi) phiên bản tháng 7/2026, giảm 21-23 điều so với luật cũ.",
-        "Dự thảo tập trung chuẩn hóa khái niệm, quy trình giao dịch, và yêu cầu công khai giá thực tế để minh bạch thị trường."
+        "Quốc hội thảo luận dự thảo Nghị quyết giảm 30% thuế TNCN và TNDN cho cá nhân, doanh nghiệp.",
+        "Áp dụng cho doanh nghiệp có doanh thu dưới 10 tỷ đồng/năm trong kỳ tính thuế 2026-2027."
       ],
-      "insight": "Các sửa đổi này kỳ vọng tháo gỡ điểm nghẽn pháp lý, thúc đẩy thị trường bất động sản phát triển lành mạnh hơn.",
-      "source": "Bộ Xây dựng, Chinhphu.vn"
+      "insight": "Chính sách này kỳ vọng giảm áp lực chi phí, thúc đẩy doanh nghiệp nhỏ phục hồi và mở rộng sản xuất.",
+      "source": "Chinhphu.vn · Báo Tin Tức"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá vàng SJC tăng mạnh, vượt mốc 147 triệu đồng/lượng",
+      "headline": "Cán cân thương mại Việt Nam: Nhập siêu kỳ 1 tháng 8 giảm",
       "bullets": [
-        "Giá vàng SJC chốt phiên 22/8 ở mức 147,6 triệu đồng/lượng bán ra, tăng 600.000 đồng/lượng so với phiên trước.",
-        "Tính từ cuối tuần trước, giá vàng miếng SJC đã tăng tổng cộng 3,6 triệu đồng/lượng."
+        "Nửa đầu tháng 8/2026, nhập siêu giảm còn 1,5 tỷ USD, xuất khẩu tăng 6,11%, nhập khẩu giảm 2,43%.",
+        "Tuy nhiên, lũy kế đến 15/8, cán cân thương mại vẫn nhập siêu gần 22 tỷ USD."
       ],
-      "insight": "Đà tăng mạnh của vàng phản ánh tâm lý tìm kiếm tài sản trú ẩn và lo ngại lạm phát trong nước.",
-      "source": "VietNamNet, CafeF"
+      "insight": "Dù có cải thiện ngắn hạn, áp lực nhập siêu tích lũy vẫn lớn, đòi hỏi thúc đẩy sản xuất nội địa.",
+      "source": "VnEconomy · Cục Hải quan"
     },
     {
       "cat": "Trong nước",
-      "headline": "SBV giữ tỷ giá trung tâm, USD/VND biến động nhẹ",
+      "headline": "Ngân hàng kỳ vọng lợi nhuận cải thiện trong quý III/2026",
       "bullets": [
-        "Ngân hàng Nhà nước công bố tỷ giá trung tâm USD/VND ở mức 25.600 đồng vào ngày 22/8, không đổi so với phiên trước.",
-        "Tỷ giá tại các ngân hàng thương mại tăng nhẹ, Vietcombank bán ra 26.310 đồng/USD."
+        "Các tổ chức tín dụng (TCTD) dự báo hoạt động kinh doanh và lợi nhuận trước thuế tiếp tục cải thiện.",
+        "Triển vọng tích cực duy trì cho quý III và cả năm 2026, theo khảo sát của NHNN."
       ],
-      "insight": "Việc giữ ổn định tỷ giá trung tâm cho thấy nỗ lực của SBV nhằm kiểm soát lạm phát và ổn định thị trường.",
-      "source": "Ngân hàng Nhà nước, Vietcombank, Báo Mới"
+      "insight": "Dự báo lạc quan từ ngành ngân hàng có thể củng cố niềm tin vào triển vọng kinh tế vĩ mô.",
+      "source": "NHNN · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dự báo lạm phát PCE cốt lõi Mỹ tháng 7 giữ ổn định",
+      "headline": "PMI Eurozone tháng 8 tăng, sản xuất phục hồi mạnh",
       "bullets": [
-        "Oxford Economics dự báo lạm phát PCE cốt lõi của Mỹ tháng 7 ở mức 3,3%, không đổi so với tháng trước.",
-        "Dữ liệu chính thức sẽ được công bố vào ngày 26/8, ảnh hưởng đến kỳ vọng chính sách của Fed."
+        "Chỉ số PMI Eurozone tháng 8/2026 đạt 52,1, tăng tháng thứ hai liên tiếp.",
+        "Lĩnh vực sản xuất ghi nhận mức phục hồi mạnh nhất trong 4,5 năm qua."
       ],
-      "insight": "Lạm phát dai dẳng có thể khiến Fed duy trì lãi suất cao, tác động đến dòng vốn toàn cầu.",
-      "source": "Oxford Economics, KuCoin, BEA"
+      "insight": "Hoạt động kinh tế khu vực đồng euro cải thiện hỗ trợ nhu cầu toàn cầu, tác động tích cực xuất khẩu Việt Nam.",
+      "source": "S&P Global · Bnews"
     },
     {
       "cat": "Quốc tế",
-      "headline": "OPEC+ tăng sản lượng dầu tháng 8 thêm 188.000 thùng/ngày",
+      "headline": "Báo cáo việc làm Mỹ tháng 7 bất ngờ sụt giảm",
       "bullets": [
-        "OPEC+ quyết định tăng sản lượng dầu 188.000 thùng/ngày từ tháng 8/2026, là bước thứ năm trong việc nới lỏng cắt giảm tự nguyện.",
-        "Quyết định này diễn ra trong bối cảnh giá dầu Brent đã vượt 94 USD/thùng do lo ngại nguồn cung."
+        "Kinh tế Mỹ mất 23.000 việc làm phi nông nghiệp trong tháng 7, thấp hơn nhiều dự báo.",
+        "Số liệu này làm giảm đáng kể kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất trong tháng 9."
       ],
-      "insight": "Việc tăng sản lượng có thể giúp ổn định nguồn cung, nhưng căng thẳng địa chính trị vẫn giữ giá dầu ở mức cao.",
-      "source": "Energies Media, Forbes, Enerdata"
+      "insight": "Thị trường lao động Mỹ yếu hơn có thể khiến Fed thận trọng hơn, giảm áp lực lên dòng vốn toàn cầu.",
+      "source": "Cục Thống kê Lao động Mỹ · CafeF"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngQuốcTế",
-    "#BấtĐộngSản",
-    "#GiáVàng",
-    "#TỷGiá"
+    "#ThịTrườngTàiChính",
+    "#ChínhSáchThuế",
+    "#VĩMô"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
