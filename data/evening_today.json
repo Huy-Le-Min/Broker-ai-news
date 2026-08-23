@@ -1,100 +1,99 @@
 {
-  "date": "22/8/2026",
+  "date": "23/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Thời báo Tài chính Việt Nam",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Chinhphu.vn",
   "session": {
     "vnindex_close": "1.768,12",
     "vnindex_change": "+1,95%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 39 tỷ",
-    "foreign_dir": "buy",
-    "volume": "18.356 tỷ",
-    "top_gainer": "Chứng khoán, Bất động sản"
+    "foreign_net": "Bán ròng 2.663 tỷ",
+    "foreign_dir": "sell",
+    "volume": "≈19.924 tỷ",
+    "top_gainer": "Chứng khoán, Ngân hàng, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.310",
-      "change": "+10 đồng",
-      "dir": "up"
+      "change": "-20 đồng/tuần",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6tr",
-      "change": "+600 nghìn",
+      "value": "147,6 triệu",
+      "change": "+3,6 triệu/lượng",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
       "value": "94,39$",
-      "change": "+0,65%",
+      "change": "+6,39%/tuần",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Hội nghị Jackson Hole; số liệu lạm phát PCE Mỹ",
+  "tomorrow_watch": "Thị trường phản ứng thông tin nâng hạng FTSE; diễn biến dòng vốn ngoại.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Quốc hội thảo luận giảm 30% thuế cho DN nhỏ",
+      "headline": "VN-Index tăng mạnh, 27 cổ phiếu Việt vào rổ FTSE GEIS",
       "bullets": [
-        "Chiều 22/8, Quốc hội thảo luận dự thảo Nghị quyết giảm 30% thuế TNDN, TNCN cho doanh nghiệp nhỏ và hộ kinh doanh.",
-        "Đề xuất áp dụng cho kỳ tính thuế 2026-2027 với doanh thu không quá 10 tỷ đồng/năm.",
-        "Nhiều đại biểu đề nghị làm rõ cơ sở ngưỡng 10 tỷ đồng, tránh tạo tâm lý ngại tăng quy mô."
+        "VN-Index tăng 1,95% lên 1.768,12 điểm phiên 21/8, cả tuần tăng 2,26%.",
+        "FTSE Russell công bố 27 cổ phiếu Việt vào FTSE Global All Cap, có hiệu lực từ 21/9.",
+        "Dòng vốn thụ động dự kiến 1,45 tỷ USD, đợt đầu tháng 9 khoảng 145 triệu USD."
       ],
-      "insight": "Chính sách này có thể hỗ trợ doanh nghiệp vượt khó, nhưng cần cơ chế chuyển tiếp để khuyến khích tăng trưởng.",
-      "source": "Báo Thanh tra · Báo Điện tử Chính phủ · Thời báo Tài chính Việt Nam"
+      "insight": "Thông tin nâng hạng thị trường củng cố kỳ vọng dòng vốn ngoại quay lại, hỗ trợ tâm lý nhà đầu tư.",
+      "source": "VnExpress · CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu Việt Nam chạm mốc gần 22 tỷ USD",
+      "headline": "Nhập siêu nửa đầu tháng 8 giảm, nhưng vẫn là thách thức",
       "bullets": [
-        "Tính đến giữa tháng 8, Việt Nam nhập siêu 21,88 tỷ USD, cao hơn xuất khẩu 1,5 tỷ USD trong nửa đầu tháng.",
-        "Xuất khẩu tăng chủ yếu nhờ điện tử, điện thoại; nhập khẩu linh kiện, nguyên liệu vẫn ở mức cao.",
-        "Cán cân thương mại cả năm có thể nhập siêu 5-7 tỷ USD."
+        "Nửa đầu tháng 8, nhập siêu khoảng 1,5 tỷ USD, giảm một nửa so với nửa đầu tháng 7.",
+        "Lũy kế đến 15/8, tổng kim ngạch xuất nhập khẩu đạt 712,72 tỷ USD, nhập siêu gần 22 tỷ USD.",
+        "Xuất khẩu tăng tốc nhờ điện tử, điện thoại; nhập khẩu nguyên liệu sản xuất vẫn cao."
       ],
-      "insight": "Nhập siêu lớn cho thấy nhu cầu nguyên liệu sản xuất cao, nhưng cũng đặt ra thách thức về cân bằng thương mại.",
-      "source": "Sputnik · CafeF"
+      "insight": "Nhập siêu giảm ngắn hạn là tín hiệu tích cực, song cần nâng cao giá trị gia tăng nội địa bền vững.",
+      "source": "VnEconomy · Cục Hải quan"
     },
     {
       "cat": "Trong nước",
-      "headline": "27 cổ phiếu Việt Nam vào rổ FTSE Global All Cap",
+      "headline": "Quốc hội thông qua Luật Dầu khí, Luật Hải quan sửa đổi",
       "bullets": [
-        "FTSE Russell công bố 27 cổ phiếu Việt Nam vào FTSE Global All Cap, hiệu lực từ 21/9/2026.",
-        "Dòng vốn thụ động có thể lên tới 1,5 tỷ USD, chia thành 4 giai đoạn đến 9/2027.",
-        "VCB, VIC, VHM, BID, HPG, VPB vào FTSE All-World, thu hút vốn lớn."
+        "Sáng 23/8, Quốc hội thông qua Luật Dầu khí (sửa đổi) với tỷ lệ tán thành cao.",
+        "Luật Hải quan (sửa đổi) cũng được thông qua, hướng tới hải quan số hiện đại."
       ],
-      "insight": "Việc nâng hạng thị trường và thu hút dòng vốn thụ động sẽ hỗ trợ tích cực cho các mã bluechip.",
-      "source": "VietNamNet · Báo Lao Động · CafeF"
+      "insight": "Các luật mới tạo khung pháp lý ổn định, thúc đẩy phát triển ngành năng lượng và cải cách hành chính hải quan.",
+      "source": "Chinhphu.vn · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PMI Eurozone tháng 8 tăng mạnh hơn dự kiến",
+      "headline": "Dầu Brent vượt 94 USD, căng thẳng Trung Đông đẩy giá",
       "bullets": [
-        "PMI Composite sơ bộ Eurozone tháng 8 đạt 52,1 điểm, vượt dự báo 51,7 điểm.",
-        "Lĩnh vực sản xuất tăng trưởng mạnh nhất 4,5 năm, sản lượng đạt 53,4 điểm.",
-        "Dữ liệu này tạo tiền đề cho tăng trưởng GDP Eurozone khoảng 0,3% quý III."
+        "Giá dầu Brent chốt ở 94,39 USD/thùng sáng 23/8, tăng 6,39% cả tuần.",
+        "Lo ngại gián đoạn nguồn cung từ Trung Đông và căng thẳng liên quan Iran gia tăng.",
+        "UAE đình chỉ giao dịch với Iran, làm dấy lên lo ngại nguồn cung."
       ],
-      "insight": "Kinh tế Eurozone phục hồi tích cực, giảm lo ngại suy thoái, hỗ trợ tâm lý thị trường toàn cầu.",
-      "source": "XTB · Investing.com · S&P Global"
+      "insight": "Giá dầu cao tiếp tục gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
+      "source": "VOV · Reuters · Eva.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran đẩy giá dầu Brent vượt 94 USD",
+      "headline": "Lợi suất trái phiếu Mỹ tăng, nợ công vượt 40.000 tỷ USD",
       "bullets": [
-        "Giá dầu Brent đạt 94,39 USD/thùng, tăng 0,65% do lo ngại gián đoạn nguồn cung.",
-        "Mỹ đe dọa trừng phạt các nước giao thương với Iran, Iran cáo buộc Mỹ 'khủng bố kinh tế'.",
-        "Một tàu chở dầu liên quan Iran bị bắt giữ ngoài khơi Yemen, làm tăng rủi ro địa chính trị."
+        "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 và 30 năm tăng trở lại phiên 21/8.",
+        "Động thái mua lại trái phiếu của Bộ Tài chính Mỹ chưa đủ hạ nhiệt lợi suất.",
+        "Nợ công Mỹ đã vượt 40.000 tỷ USD, gây lo ngại về lạm phát dai dẳng."
       ],
-      "insight": "Xung đột địa chính trị tiếp tục là yếu tố chính đẩy giá dầu tăng, ảnh hưởng chi phí sản xuất toàn cầu.",
-      "source": "Reuters · VOH · Báo Thanh Niên"
+      "insight": "Lợi suất cao duy trì áp lực lên chi phí vay toàn cầu, có thể ảnh hưởng dòng vốn đầu tư.",
+      "source": "CafeF · Báo Thanh Niên"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#VNIndex",
     "#KinhTếViệtNam",
-    "#GiáDầu",
-    "#ThếGiới"
+    "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
