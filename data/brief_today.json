@@ -1,87 +1,91 @@
 {
-  "date": "24/8/2026",
+  "date": "25/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · S&P Global · Cục Hải quan · NHNN",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Báo Mới · Báo Lâm Đồng · Investing.com · baodautu · Thời báo Tài chính · VOV · Báo Nhân Dân · Emirates News Agency · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.310",
-      "change": "ổn định",
-      "dir": "flat"
+      "value": "26.360",
+      "change": "+0,19%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6tr",
-      "change": "+0,41%",
+      "value": "150,00 tr",
+      "change": "+0,67%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "94,39$",
-      "change": "+0,65%",
-      "dir": "up"
+      "value": "92,17$",
+      "change": "-2,35%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Thị trường tiếp tục theo dõi diễn biến vĩ mô toàn cầu và chính sách hỗ trợ kinh tế trong nước.",
+  "today_watch": "Thị trường theo dõi diễn biến giá vàng, dầu và động thái chính sách từ các ngân hàng trung ương lớn.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Quốc hội thảo luận giảm 30% thuế cho doanh nghiệp nhỏ",
+      "headline": "VN-Index tăng 20,66 điểm, nhóm BĐS dẫn dắt, khối ngoại mua ròng",
       "bullets": [
-        "Quốc hội thảo luận dự thảo Nghị quyết giảm 30% thuế TNCN và TNDN cho cá nhân, doanh nghiệp.",
-        "Áp dụng cho doanh nghiệp có doanh thu dưới 10 tỷ đồng/năm trong kỳ tính thuế 2026-2027."
+        "Phiên 24/8, VN-Index tăng 20,66 điểm (1,17%) lên 1.788,78 điểm, tiến sát mốc 1.800 điểm.",
+        "Thanh khoản HoSE đạt gần 19.400 tỷ đồng. Nhóm BĐS dẫn dắt với VIC, VHM tăng mạnh.",
+        "Khối ngoại mua ròng hơn 176,3 tỷ đồng trên HoSE, tập trung HPG, VIC, VPB."
       ],
-      "insight": "Chính sách này kỳ vọng giảm áp lực chi phí, thúc đẩy doanh nghiệp nhỏ phục hồi và mở rộng sản xuất.",
-      "source": "Chinhphu.vn · Báo Tin Tức"
+      "insight": "Đà tăng của VN-Index được hỗ trợ bởi dòng tiền lớn và sự bứt phá của nhóm vốn hóa lớn, đặc biệt là BĐS.",
+      "source": "baodautu, Vietstock, VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Cán cân thương mại Việt Nam: Nhập siêu kỳ 1 tháng 8 giảm",
+      "headline": "Nhập siêu nửa đầu tháng 8 đạt 1,5 tỷ USD, lũy kế 21,88 tỷ USD",
       "bullets": [
-        "Nửa đầu tháng 8/2026, nhập siêu giảm còn 1,5 tỷ USD, xuất khẩu tăng 6,11%, nhập khẩu giảm 2,43%.",
-        "Tuy nhiên, lũy kế đến 15/8, cán cân thương mại vẫn nhập siêu gần 22 tỷ USD."
+        "Nửa đầu tháng 8/2026, Việt Nam nhập siêu khoảng 1,5 tỷ USD, giảm một nửa so với kỳ trước.",
+        "Lũy kế đến 15/8, tổng kim ngạch xuất nhập khẩu đạt 712,72 tỷ USD, nhập siêu 21,88 tỷ USD.",
+        "Xuất khẩu tăng 6,11% nhờ máy vi tính, điện tử; nhập khẩu giảm 2,43%."
       ],
-      "insight": "Dù có cải thiện ngắn hạn, áp lực nhập siêu tích lũy vẫn lớn, đòi hỏi thúc đẩy sản xuất nội địa.",
-      "source": "VnEconomy · Cục Hải quan"
+      "insight": "Nhập siêu tích lũy lớn đặt ra thách thức về năng lực sản xuất trong nước và chuyển hóa đầu vào thành giá trị gia tăng.",
+      "source": "Investing.com, VnEconomy, Thời báo Tài chính"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ngân hàng kỳ vọng lợi nhuận cải thiện trong quý III/2026",
+      "headline": "Thị trường BĐS quý II/2026: Nguồn cung tăng, giao dịch đất nền giảm sâu",
       "bullets": [
-        "Các tổ chức tín dụng (TCTD) dự báo hoạt động kinh doanh và lợi nhuận trước thuế tiếp tục cải thiện.",
-        "Triển vọng tích cực duy trì cho quý III và cả năm 2026, theo khảo sát của NHNN."
+        "Quý II/2026, nguồn cung nhà ở thương mại tăng đáng kể, với 113 dự án mới được cấp phép.",
+        "Tuy nhiên, giao dịch đất nền giảm hơn 40%, tồn kho gia tăng và giá bắt đầu điều chỉnh.",
+        "Người mua thận trọng hơn, ưu tiên BĐS có pháp lý rõ ràng, vị trí tốt, giá trị thực."
       ],
-      "insight": "Dự báo lạc quan từ ngành ngân hàng có thể củng cố niềm tin vào triển vọng kinh tế vĩ mô.",
-      "source": "NHNN · VietnamBiz"
+      "insight": "Thị trường BĐS đang phục hồi chọn lọc, với nguồn cung cải thiện nhưng thanh khoản vẫn yếu và áp lực giảm giá ở một số phân khúc.",
+      "source": "Bộ Xây dựng, VOV, Báo Nhân Dân"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PMI Eurozone tháng 8 tăng, sản xuất phục hồi mạnh",
+      "headline": "Khủng hoảng BĐS Trung Quốc kéo dài sang năm thứ 6, chưa có dấu hiệu kết thúc",
       "bullets": [
-        "Chỉ số PMI Eurozone tháng 8/2026 đạt 52,1, tăng tháng thứ hai liên tiếp.",
-        "Lĩnh vực sản xuất ghi nhận mức phục hồi mạnh nhất trong 4,5 năm qua."
+        "Khủng hoảng BĐS Trung Quốc đã bước sang năm thứ 6, tiếp tục kìm hãm kinh tế.",
+        "Hàng triệu căn nhà xây dở dang bị bỏ hoang, gây khó khăn cho hàng triệu hộ gia đình.",
+        "Các nhà phân tích cho rằng chưa có dấu hiệu rõ ràng cho thấy khủng hoảng sẽ sớm kết thúc."
       ],
-      "insight": "Hoạt động kinh tế khu vực đồng euro cải thiện hỗ trợ nhu cầu toàn cầu, tác động tích cực xuất khẩu Việt Nam.",
-      "source": "S&P Global · Bnews"
+      "insight": "Tình hình BĐS Trung Quốc tiếp tục là rủi ro lớn cho tăng trưởng kinh tế toàn cầu và chuỗi cung ứng, ảnh hưởng gián tiếp tới Việt Nam.",
+      "source": "Bnews.vn, Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Báo cáo việc làm Mỹ tháng 7 bất ngờ sụt giảm",
+      "headline": "G7 chi kỷ lục 2.000 tỷ USD lãi vay ứng phó khủng hoảng nợ công",
       "bullets": [
-        "Kinh tế Mỹ mất 23.000 việc làm phi nông nghiệp trong tháng 7, thấp hơn nhiều dự báo.",
-        "Số liệu này làm giảm đáng kể kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất trong tháng 9."
+        "Các nền kinh tế G7 đối mặt khủng hoảng nợ công nghiêm trọng, chi lãi vay kỷ lục.",
+        "Theo Il Sole 24 Ore, G7 sẽ chi khoảng 2.000 tỷ USD tiền lãi gộp trong năm nay.",
+        "Áp lực nợ công gia tăng có thể ảnh hưởng đến ổn định tài chính toàn cầu."
       ],
-      "insight": "Thị trường lao động Mỹ yếu hơn có thể khiến Fed thận trọng hơn, giảm áp lực lên dòng vốn toàn cầu.",
-      "source": "Cục Thống kê Lao động Mỹ · CafeF"
+      "insight": "Mức chi lãi vay khổng lồ của G7 cho thấy rủi ro nợ công toàn cầu, có thể tác động đến chính sách tiền tệ và dòng vốn quốc tế.",
+      "source": "Bnews.vn, Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
-    "#ChínhSáchThuế",
-    "#VĩMô"
+    "#ThịTrườngBĐS",
+    "#KinhTếThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
