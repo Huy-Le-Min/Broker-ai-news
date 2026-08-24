@@ -1,99 +1,96 @@
 {
-  "date": "23/8/2026",
+  "date": "24/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Chinhphu.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.768,12",
-    "vnindex_change": "+1,95%",
+    "vnindex_close": "1.788,78",
+    "vnindex_change": "+1,17%",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 2.663 tỷ",
-    "foreign_dir": "sell",
-    "volume": "≈19.924 tỷ",
-    "top_gainer": "Chứng khoán, Ngân hàng, Bất động sản"
+    "foreign_net": "Mua ròng 188 tỷ",
+    "foreign_dir": "buy",
+    "volume": "19.400 tỷ",
+    "top_gainer": "Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.310",
-      "change": "-20 đồng/tuần",
-      "dir": "down"
+      "change": "0,00%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6 triệu",
-      "change": "+3,6 triệu/lượng",
+      "value": "150,00 tr/lượng",
+      "change": "+1,63%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "94,39$",
-      "change": "+6,39%/tuần",
-      "dir": "up"
+      "value": "93,17$",
+      "change": "-1,29%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Thị trường phản ứng thông tin nâng hạng FTSE; diễn biến dòng vốn ngoại.",
+  "tomorrow_watch": "Mỹ công bố chỉ số niềm tin tiêu dùng tháng 8.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng mạnh, 27 cổ phiếu Việt vào rổ FTSE GEIS",
+      "headline": "VN-Index tăng mạnh, khối ngoại mua ròng.",
       "bullets": [
-        "VN-Index tăng 1,95% lên 1.768,12 điểm phiên 21/8, cả tuần tăng 2,26%.",
-        "FTSE Russell công bố 27 cổ phiếu Việt vào FTSE Global All Cap, có hiệu lực từ 21/9.",
-        "Dòng vốn thụ động dự kiến 1,45 tỷ USD, đợt đầu tháng 9 khoảng 145 triệu USD."
+        "VN-Index đóng cửa 1.788,78 điểm, tăng 20,66 điểm (+1,17%).",
+        "Khối ngoại mua ròng 188 tỷ đồng, tập trung BĐS, thép, chứng khoán.",
+        "Thanh khoản HOSE đạt gần 19.400 tỷ đồng, dòng tiền cải thiện."
       ],
-      "insight": "Thông tin nâng hạng thị trường củng cố kỳ vọng dòng vốn ngoại quay lại, hỗ trợ tâm lý nhà đầu tư.",
-      "source": "VnExpress · CafeF · Vietstock"
+      "insight": "Dòng tiền ngoại và nhóm vốn hóa lớn hỗ trợ đà tăng thị trường.",
+      "source": "CafeF · Vietstock · VnExpress"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu nửa đầu tháng 8 giảm, nhưng vẫn là thách thức",
+      "headline": "Thủ tướng yêu cầu xử lý dự án tồn đọng.",
       "bullets": [
-        "Nửa đầu tháng 8, nhập siêu khoảng 1,5 tỷ USD, giảm một nửa so với nửa đầu tháng 7.",
-        "Lũy kế đến 15/8, tổng kim ngạch xuất nhập khẩu đạt 712,72 tỷ USD, nhập siêu gần 22 tỷ USD.",
-        "Xuất khẩu tăng tốc nhờ điện tử, điện thoại; nhập khẩu nguyên liệu sản xuất vẫn cao."
+        "Thủ tướng chỉ đạo xử lý dứt điểm 4.619 dự án tồn đọng, kéo dài.",
+        "Nhấn mạnh tháo gỡ vướng mắc pháp lý, đẩy nhanh tiến độ thực hiện."
       ],
-      "insight": "Nhập siêu giảm ngắn hạn là tín hiệu tích cực, song cần nâng cao giá trị gia tăng nội địa bền vững.",
-      "source": "VnEconomy · Cục Hải quan"
+      "insight": "Động thái này kỳ vọng cải thiện môi trường đầu tư, thúc đẩy thị trường BĐS.",
+      "source": "VnExpress · Báo Thanh Niên"
     },
     {
       "cat": "Trong nước",
-      "headline": "Quốc hội thông qua Luật Dầu khí, Luật Hải quan sửa đổi",
+      "headline": "Lãi suất liên ngân hàng tiếp tục giảm.",
       "bullets": [
-        "Sáng 23/8, Quốc hội thông qua Luật Dầu khí (sửa đổi) với tỷ lệ tán thành cao.",
-        "Luật Hải quan (sửa đổi) cũng được thông qua, hướng tới hải quan số hiện đại."
+        "Lãi suất tiền đồng liên ngân hàng giảm 0,3-2,5% ở một số kỳ hạn.",
+        "Thanh khoản thị trường \"dễ thở\" hơn, hỗ trợ hoạt động tín dụng."
       ],
-      "insight": "Các luật mới tạo khung pháp lý ổn định, thúc đẩy phát triển ngành năng lượng và cải cách hành chính hải quan.",
-      "source": "Chinhphu.vn · Báo Mới"
+      "insight": "Giảm chi phí vốn cho ngân hàng, tạo điều kiện tăng trưởng tín dụng cuối năm.",
+      "source": "Báo Thanh Niên · Thời báo Tài chính"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 94 USD, căng thẳng Trung Đông đẩy giá",
+      "headline": "EU đề xuất thuế siêu lợi nhuận dầu khí.",
       "bullets": [
-        "Giá dầu Brent chốt ở 94,39 USD/thùng sáng 23/8, tăng 6,39% cả tuần.",
-        "Lo ngại gián đoạn nguồn cung từ Trung Đông và căng thẳng liên quan Iran gia tăng.",
-        "UAE đình chỉ giao dịch với Iran, làm dấy lên lo ngại nguồn cung."
+        "EU đề nghị đánh thuế siêu lợi nhuận các tập đoàn dầu khí.",
+        "Nhằm chia sẻ gánh nặng chi phí năng lượng trong khủng hoảng."
       ],
-      "insight": "Giá dầu cao tiếp tục gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
-      "source": "VOV · Reuters · Eva.vn"
+      "insight": "Chính sách này có thể ảnh hưởng đến lợi nhuận doanh nghiệp dầu khí toàn cầu.",
+      "source": "Báo Mới · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lợi suất trái phiếu Mỹ tăng, nợ công vượt 40.000 tỷ USD",
+      "headline": "Mỹ áp thuế 50% hàng hóa Canada.",
       "bullets": [
-        "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 và 30 năm tăng trở lại phiên 21/8.",
-        "Động thái mua lại trái phiếu của Bộ Tài chính Mỹ chưa đủ hạ nhiệt lợi suất.",
-        "Nợ công Mỹ đã vượt 40.000 tỷ USD, gây lo ngại về lạm phát dai dẳng."
+        "Mỹ áp thuế 50% với 28 tỷ USD hàng hóa Canada có hiệu lực.",
+        "Tổng thống Trump chỉ trích Canada, Ottawa tuyên bố đáp trả."
       ],
-      "insight": "Lợi suất cao duy trì áp lực lên chi phí vay toàn cầu, có thể ảnh hưởng dòng vốn đầu tư.",
-      "source": "CafeF · Báo Thanh Niên"
+      "insight": "Căng thẳng thương mại có thể ảnh hưởng chuỗi cung ứng, tâm lý đầu tư toàn cầu.",
+      "source": "Reuters · Bloomberg"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#TinTucKinhTe"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
