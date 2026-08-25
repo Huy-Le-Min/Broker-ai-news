@@ -1,96 +1,102 @@
 {
-  "date": "24/8/2026",
+  "date": "25/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo An Giang · Bnews.vn · PetroTimes · VietnamBiz · FiinGroup",
   "session": {
-    "vnindex_close": "1.788,78",
-    "vnindex_change": "+1,17%",
+    "vnindex_close": "1.791,41",
+    "vnindex_change": "+0,15%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 188 tỷ",
+    "foreign_net": "Mua ròng 328 tỷ",
     "foreign_dir": "buy",
-    "volume": "19.400 tỷ",
-    "top_gainer": "Bất động sản"
+    "volume": "21.300 tỷ",
+    "top_gainer": "VIC, nhóm Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.310",
-      "change": "0,00%",
-      "dir": "flat"
+      "value": "26.360",
+      "change": "+50đ",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "150,00 tr/lượng",
-      "change": "+1,63%",
+      "value": "150,60tr",
+      "change": "+600.000đ",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "93,17$",
-      "change": "-1,29%",
+      "value": "92,17$",
+      "change": "-2,35%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Mỹ công bố chỉ số niềm tin tiêu dùng tháng 8.",
+  "tomorrow_watch": "Dữ liệu lạm phát PCE cốt lõi Mỹ, quyết định lãi suất của Ngân hàng Trung ương Nhật Bản.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng mạnh, khối ngoại mua ròng.",
+      "headline": "VN-Index tăng nhẹ, VIC dẫn dắt dù thị trường phân hóa",
       "bullets": [
-        "VN-Index đóng cửa 1.788,78 điểm, tăng 20,66 điểm (+1,17%).",
-        "Khối ngoại mua ròng 188 tỷ đồng, tập trung BĐS, thép, chứng khoán.",
-        "Thanh khoản HOSE đạt gần 19.400 tỷ đồng, dòng tiền cải thiện."
+        "VN-Index đóng cửa 1.791,41 điểm, tăng 0,15% sau phiên giao dịch rung lắc.",
+        "Thanh khoản HOSE đạt hơn 21.300 tỷ đồng; khối ngoại mua ròng 328 tỷ đồng.",
+        "Cổ phiếu VIC tăng 2,8%, đóng góp hơn 9 điểm cho chỉ số chính."
       ],
-      "insight": "Dòng tiền ngoại và nhóm vốn hóa lớn hỗ trợ đà tăng thị trường.",
-      "source": "CafeF · Vietstock · VnExpress"
+      "insight": "Dòng tiền tập trung vào nhóm vốn hóa lớn, cho thấy tâm lý thận trọng trước ngưỡng kháng cự 1.800 điểm.",
+      "source": "VnExpress · CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thủ tướng yêu cầu xử lý dự án tồn đọng.",
+      "headline": "FDI Việt Nam 7 tháng đạt 38 tỷ USD, tăng mạnh 58%",
       "bullets": [
-        "Thủ tướng chỉ đạo xử lý dứt điểm 4.619 dự án tồn đọng, kéo dài.",
-        "Nhấn mạnh tháo gỡ vướng mắc pháp lý, đẩy nhanh tiến độ thực hiện."
+        "Tổng vốn FDI đăng ký 7 tháng đầu năm 2026 đạt hơn 38,05 tỷ USD.",
+        "Mức tăng 58% so với cùng kỳ 2025, cho thấy sức hấp dẫn thị trường.",
+        "Dòng vốn mở rộng sang công nghệ, năng lượng, khoa học."
       ],
-      "insight": "Động thái này kỳ vọng cải thiện môi trường đầu tư, thúc đẩy thị trường BĐS.",
-      "source": "VnExpress · Báo Thanh Niên"
+      "insight": "Dòng vốn FDI chất lượng cao tiếp tục đổ vào, hỗ trợ tăng trưởng kinh tế bền vững.",
+      "source": "CafeF · VietnamBiz · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất liên ngân hàng tiếp tục giảm.",
+      "headline": "Trái phiếu doanh nghiệp: Áp lực đáo hạn cuối năm tăng",
       "bullets": [
-        "Lãi suất tiền đồng liên ngân hàng giảm 0,3-2,5% ở một số kỳ hạn.",
-        "Thanh khoản thị trường \"dễ thở\" hơn, hỗ trợ hoạt động tín dụng."
+        "Khoảng 174,4 nghìn tỷ đồng trái phiếu đáo hạn từ tháng 8 đến cuối năm 2026.",
+        "Áp lực tập trung đáng kể ở nhóm bất động sản với 79,3 nghìn tỷ đồng.",
+        "Thị trường đang bước vào giai đoạn sàng lọc, ưu tiên chất lượng."
       ],
-      "insight": "Giảm chi phí vốn cho ngân hàng, tạo điều kiện tăng trưởng tín dụng cuối năm.",
-      "source": "Báo Thanh Niên · Thời báo Tài chính"
+      "insight": "Áp lực đáo hạn đòi hỏi các doanh nghiệp tăng cường minh bạch và khả năng tái cấu trúc.",
+      "source": "FiinGroup · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "EU đề xuất thuế siêu lợi nhuận dầu khí.",
+      "headline": "Quan chức Fed gợi ý duy trì lãi suất cao hơn",
       "bullets": [
-        "EU đề nghị đánh thuế siêu lợi nhuận các tập đoàn dầu khí.",
-        "Nhằm chia sẻ gánh nặng chi phí năng lượng trong khủng hoảng."
+        "Một số quan chức Cục Dự trữ Liên bang Mỹ (Fed) phát tín hiệu duy trì lãi suất cao.",
+        "Lo ngại lạm phát dai dẳng có thể khiến Fed thận trọng hơn trong việc cắt giảm lãi suất.",
+        "Thị trường đang theo dõi sát các dữ liệu kinh tế Mỹ để đánh giá động thái tiếp theo."
       ],
-      "insight": "Chính sách này có thể ảnh hưởng đến lợi nhuận doanh nghiệp dầu khí toàn cầu.",
-      "source": "Báo Mới · Reuters"
+      "insight": "Chính sách tiền tệ thắt chặt kéo dài của Fed có thể ảnh hưởng đến dòng vốn toàn cầu.",
+      "source": "Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ áp thuế 50% hàng hóa Canada.",
+      "headline": "Giá khí đốt châu Âu lập kỷ lục mới do xung đột",
       "bullets": [
-        "Mỹ áp thuế 50% với 28 tỷ USD hàng hóa Canada có hiệu lực.",
-        "Tổng thống Trump chỉ trích Canada, Ottawa tuyên bố đáp trả."
+        "Giá khí đốt tự nhiên châu Âu (TTF) đạt 68,5 euro/MWh, mức cao nhất từ 2022.",
+        "Tăng hơn gấp đôi từ cuối tháng 2/2026 do xung đột Trung Đông, gián đoạn nguồn cung.",
+        "Kho dự trữ khí đốt châu Âu chỉ đạt 62%, thấp bất thường trước mùa đông."
       ],
-      "insight": "Căng thẳng thương mại có thể ảnh hưởng chuỗi cung ứng, tâm lý đầu tư toàn cầu.",
-      "source": "Reuters · Bloomberg"
+      "insight": "Giá năng lượng tăng cao có thể gây áp lực lạm phát, ảnh hưởng kinh tế toàn cầu.",
+      "source": "Báo An Giang · Bnews.vn · PetroTimes"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#TinTucKinhTe"
+    "#FDI",
+    "#TráiPhiếuDoanhNghiệp",
+    "#Fed",
+    "#KhíĐốtChâuÂu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
