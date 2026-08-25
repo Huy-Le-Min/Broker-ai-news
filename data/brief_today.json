@@ -1,91 +1,87 @@
 {
-  "date": "25/8/2026",
+  "date": "26/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · Báo Mới · Báo Lâm Đồng · Investing.com · baodautu · Thời báo Tài chính · VOV · Báo Nhân Dân · Emirates News Agency · Trading Economics",
+  "sources": "VnEconomy · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Thanh Niên · Báo Lao Động · Investing.com · Báo Lâm Đồng · Báo Mới · Thời báo Tài chính Việt Nam",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.360",
-      "change": "+0,19%",
+      "change": "+0,06%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "150,00 tr",
-      "change": "+0,67%",
-      "dir": "up"
+      "value": "150,6tr",
+      "change": "±0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
       "value": "92,17$",
-      "change": "-2,35%",
+      "change": "-1,6%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường theo dõi diễn biến giá vàng, dầu và động thái chính sách từ các ngân hàng trung ương lớn.",
+  "today_watch": "Kết quả kinh doanh Nvidia; Diễn biến tỷ giá trung tâm, lãi suất liên ngân hàng.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng 20,66 điểm, nhóm BĐS dẫn dắt, khối ngoại mua ròng",
+      "headline": "Giải ngân đầu tư công đạt 45,3% kế hoạch, địa phương tăng tốc",
       "bullets": [
-        "Phiên 24/8, VN-Index tăng 20,66 điểm (1,17%) lên 1.788,78 điểm, tiến sát mốc 1.800 điểm.",
-        "Thanh khoản HoSE đạt gần 19.400 tỷ đồng. Nhóm BĐS dẫn dắt với VIC, VHM tăng mạnh.",
-        "Khối ngoại mua ròng hơn 176,3 tỷ đồng trên HoSE, tập trung HPG, VIC, VPB."
+        "Đến giữa tháng 8/2026, cả nước giải ngân 45,3% kế hoạch Thủ tướng Chính phủ giao.",
+        "Nhiều địa phương đặt mục tiêu giải ngân cao hơn, tập trung gỡ vướng mặt bằng, thủ tục."
       ],
-      "insight": "Đà tăng của VN-Index được hỗ trợ bởi dòng tiền lớn và sự bứt phá của nhóm vốn hóa lớn, đặc biệt là BĐS.",
-      "source": "baodautu, Vietstock, VietNamNet"
+      "insight": "Tăng tốc giải ngân vốn đầu tư công hỗ trợ tăng trưởng kinh tế, tạo động lực cho các ngành liên quan.",
+      "source": "Thời báo Tài chính Việt Nam · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu nửa đầu tháng 8 đạt 1,5 tỷ USD, lũy kế 21,88 tỷ USD",
+      "headline": "Khối ngoại mua ròng 3 phiên liên tiếp, VIC dẫn đầu",
       "bullets": [
-        "Nửa đầu tháng 8/2026, Việt Nam nhập siêu khoảng 1,5 tỷ USD, giảm một nửa so với kỳ trước.",
-        "Lũy kế đến 15/8, tổng kim ngạch xuất nhập khẩu đạt 712,72 tỷ USD, nhập siêu 21,88 tỷ USD.",
-        "Xuất khẩu tăng 6,11% nhờ máy vi tính, điện tử; nhập khẩu giảm 2,43%."
+        "Phiên 25/8, khối ngoại mua ròng hơn 322 tỷ đồng trên toàn thị trường chứng khoán Việt Nam.",
+        "Cổ phiếu VIC của Vingroup dẫn đầu với 362 tỷ đồng mua ròng, liên quan kỳ vọng nâng hạng thị trường."
       ],
-      "insight": "Nhập siêu tích lũy lớn đặt ra thách thức về năng lực sản xuất trong nước và chuyển hóa đầu vào thành giá trị gia tăng.",
-      "source": "Investing.com, VnEconomy, Thời báo Tài chính"
+      "insight": "Dòng vốn ngoại tích cực củng cố niềm tin, đặc biệt vào các mã hưởng lợi từ nâng hạng thị trường.",
+      "source": "VietnamBiz · Thời báo Tài chính Việt Nam · Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thị trường BĐS quý II/2026: Nguồn cung tăng, giao dịch đất nền giảm sâu",
+      "headline": "Lãi suất huy động một số ngân hàng tăng, có nơi trên 8%",
       "bullets": [
-        "Quý II/2026, nguồn cung nhà ở thương mại tăng đáng kể, với 113 dự án mới được cấp phép.",
-        "Tuy nhiên, giao dịch đất nền giảm hơn 40%, tồn kho gia tăng và giá bắt đầu điều chỉnh.",
-        "Người mua thận trọng hơn, ưu tiên BĐS có pháp lý rõ ràng, vị trí tốt, giá trị thực."
+        "Nhiều ngân hàng lớn giữ ổn định, nhưng một số ngân hàng nhỏ tăng lãi suất tiền gửi.",
+        "SCB niêm yết 8,7% cho kỳ hạn 13 tháng, PVcomBank 10% cho 12-13 tháng với điều kiện."
       ],
-      "insight": "Thị trường BĐS đang phục hồi chọn lọc, với nguồn cung cải thiện nhưng thanh khoản vẫn yếu và áp lực giảm giá ở một số phân khúc.",
-      "source": "Bộ Xây dựng, VOV, Báo Nhân Dân"
+      "insight": "Xu hướng tăng lãi suất huy động có thể gây áp lực lên chi phí vốn ngân hàng, ảnh hưởng lợi nhuận.",
+      "source": "Báo Lao Động · Kenh14.vn · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Khủng hoảng BĐS Trung Quốc kéo dài sang năm thứ 6, chưa có dấu hiệu kết thúc",
+      "headline": "Phố Wall tăng điểm, nhóm công nghệ phục hồi mạnh",
       "bullets": [
-        "Khủng hoảng BĐS Trung Quốc đã bước sang năm thứ 6, tiếp tục kìm hãm kinh tế.",
-        "Hàng triệu căn nhà xây dở dang bị bỏ hoang, gây khó khăn cho hàng triệu hộ gia đình.",
-        "Các nhà phân tích cho rằng chưa có dấu hiệu rõ ràng cho thấy khủng hoảng sẽ sớm kết thúc."
+        "Dow Jones tăng 0,30%, S&P 500 tăng 0,32%, Nasdaq tăng 0,66% trong phiên 25/8.",
+        "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn dài giảm, hỗ trợ tâm lý nhà đầu tư."
       ],
-      "insight": "Tình hình BĐS Trung Quốc tiếp tục là rủi ro lớn cho tăng trưởng kinh tế toàn cầu và chuỗi cung ứng, ảnh hưởng gián tiếp tới Việt Nam.",
-      "source": "Bnews.vn, Báo Mới"
+      "insight": "Đà phục hồi của Phố Wall và giảm lợi suất trái phiếu Mỹ tạo tâm lý tích cực cho thị trường toàn cầu.",
+      "source": "VnEconomy · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "G7 chi kỷ lục 2.000 tỷ USD lãi vay ứng phó khủng hoảng nợ công",
+      "headline": "Giá dầu Brent giảm mạnh, căng thẳng Mỹ-Iran chưa rõ tác động",
       "bullets": [
-        "Các nền kinh tế G7 đối mặt khủng hoảng nợ công nghiêm trọng, chi lãi vay kỷ lục.",
-        "Theo Il Sole 24 Ore, G7 sẽ chi khoảng 2.000 tỷ USD tiền lãi gộp trong năm nay.",
-        "Áp lực nợ công gia tăng có thể ảnh hưởng đến ổn định tài chính toàn cầu."
+        "Dầu Brent giảm 1,49 USD xuống 92,17 USD/thùng sau đợt tăng mạnh tuần trước.",
+        "Mỹ gia tăng trừng phạt Iran nhưng tác động tức thời lên nguồn cung dầu còn hạn chế."
       ],
-      "insight": "Mức chi lãi vay khổng lồ của G7 cho thấy rủi ro nợ công toàn cầu, có thể tác động đến chính sách tiền tệ và dòng vốn quốc tế.",
-      "source": "Bnews.vn, Báo Mới"
+      "insight": "Giá dầu giảm có thể giảm áp lực lạm phát, nhưng rủi ro địa chính trị vẫn tiềm ẩn.",
+      "source": "Eva.vn · Báo Thanh Niên · Báo Lao Động"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#ThịTrườngBĐS",
-    "#KinhTếThếGiới"
+    "#Vietcap",
+    "#ĐầuTưCông",
+    "#LãiSuất",
+    "#DầuThô"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
