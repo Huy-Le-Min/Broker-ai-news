@@ -1,102 +1,96 @@
 {
-  "date": "25/8/2026",
+  "date": "26/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo An Giang · Bnews.vn · PetroTimes · VietnamBiz · FiinGroup",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Lao Động · Thời báo Tài chính Việt Nam · VOV",
   "session": {
-    "vnindex_close": "1.791,41",
-    "vnindex_change": "+0,15%",
+    "vnindex_close": "1.821,32",
+    "vnindex_change": "+1,67%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 328 tỷ",
+    "foreign_net": "Mua ròng 21 tỷ",
     "foreign_dir": "buy",
-    "volume": "21.300 tỷ",
-    "top_gainer": "VIC, nhóm Bất động sản"
+    "volume": "20.959 tỷ",
+    "top_gainer": "Ngân hàng, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.360",
-      "change": "+50đ",
-      "dir": "up"
+      "value": "26.067",
+      "change": "-0,02%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "150,60tr",
-      "change": "+600.000đ",
-      "dir": "up"
+      "value": "150,6 triệu",
+      "change": "-0,2%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "92,17$",
-      "change": "-2,35%",
+      "value": "86,80$",
+      "change": "-2,0%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Dữ liệu lạm phát PCE cốt lõi Mỹ, quyết định lãi suất của Ngân hàng Trung ương Nhật Bản.",
+  "tomorrow_watch": "Diễn biến căng thẳng thương mại Mỹ-Canada.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng nhẹ, VIC dẫn dắt dù thị trường phân hóa",
+      "headline": "FTSE Russell công bố tỷ trọng dự kiến của Việt Nam",
       "bullets": [
-        "VN-Index đóng cửa 1.791,41 điểm, tăng 0,15% sau phiên giao dịch rung lắc.",
-        "Thanh khoản HOSE đạt hơn 21.300 tỷ đồng; khối ngoại mua ròng 328 tỷ đồng.",
-        "Cổ phiếu VIC tăng 2,8%, đóng góp hơn 9 điểm cho chỉ số chính."
+        "Việt Nam sẽ vào FTSE Emerging All Cap Index từ 21/9/2026, hoàn tất vào 9/2027.",
+        "Dự kiến chiếm 0,488% chỉ số khi hoàn tất lộ trình, giai đoạn đầu 0,049%."
       ],
-      "insight": "Dòng tiền tập trung vào nhóm vốn hóa lớn, cho thấy tâm lý thận trọng trước ngưỡng kháng cự 1.800 điểm.",
-      "source": "VnExpress · CafeF · Vietstock"
+      "insight": "Thông tin này củng cố kỳ vọng về dòng vốn ngoại, hỗ trợ tâm lý thị trường dài hạn.",
+      "source": "Báo Lao Động · Doanh Nhân Trẻ"
     },
     {
       "cat": "Trong nước",
-      "headline": "FDI Việt Nam 7 tháng đạt 38 tỷ USD, tăng mạnh 58%",
+      "headline": "NHNN: Hơn 400.000 tỷ đồng tín dụng hỗ trợ tăng trưởng",
       "bullets": [
-        "Tổng vốn FDI đăng ký 7 tháng đầu năm 2026 đạt hơn 38,05 tỷ USD.",
-        "Mức tăng 58% so với cùng kỳ 2025, cho thấy sức hấp dẫn thị trường.",
-        "Dòng vốn mở rộng sang công nghệ, năng lượng, khoa học."
+        "12 ngân hàng thương mại tham gia chương trình tín dụng quy mô 408.000 tỷ đồng.",
+        "Vốn hướng tới các động lực tăng trưởng kinh tế và doanh nghiệp nhỏ, vừa."
       ],
-      "insight": "Dòng vốn FDI chất lượng cao tiếp tục đổ vào, hỗ trợ tăng trưởng kinh tế bền vững.",
-      "source": "CafeF · VietnamBiz · VnEconomy"
+      "insight": "Gói tín dụng lớn kỳ vọng thúc đẩy tăng trưởng, đặc biệt cho các ngành ưu tiên.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Trái phiếu doanh nghiệp: Áp lực đáo hạn cuối năm tăng",
+      "headline": "Lạm phát Việt Nam có thể vượt 5% trong quý II/2026",
       "bullets": [
-        "Khoảng 174,4 nghìn tỷ đồng trái phiếu đáo hạn từ tháng 8 đến cuối năm 2026.",
-        "Áp lực tập trung đáng kể ở nhóm bất động sản với 79,3 nghìn tỷ đồng.",
-        "Thị trường đang bước vào giai đoạn sàng lọc, ưu tiên chất lượng."
+        "Standard Chartered dự báo lạm phát quý II/2026 vượt 5%, cao hơn 3,5% quý I.",
+        "CPI bình quân 6 tháng đầu năm tăng 4,38%, áp lực giá cả hiện hữu."
       ],
-      "insight": "Áp lực đáo hạn đòi hỏi các doanh nghiệp tăng cường minh bạch và khả năng tái cấu trúc.",
-      "source": "FiinGroup · VietnamBiz"
+      "insight": "Áp lực lạm phát đòi hỏi chính sách tiền tệ linh hoạt, có thể ảnh hưởng sức mua.",
+      "source": "24HMoney · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Quan chức Fed gợi ý duy trì lãi suất cao hơn",
+      "headline": "Mỹ phát động chiến dịch cô lập kinh tế mới với Iran",
       "bullets": [
-        "Một số quan chức Cục Dự trữ Liên bang Mỹ (Fed) phát tín hiệu duy trì lãi suất cao.",
-        "Lo ngại lạm phát dai dẳng có thể khiến Fed thận trọng hơn trong việc cắt giảm lãi suất.",
-        "Thị trường đang theo dõi sát các dữ liệu kinh tế Mỹ để đánh giá động thái tiếp theo."
+        "Mỹ chuyển hướng trừng phạt kinh tế thay vì quân sự, giảm lo ngại gián đoạn dầu.",
+        "Giá dầu Brent giảm 2,0% xuống 86,80 USD/thùng sau thông tin này."
       ],
-      "insight": "Chính sách tiền tệ thắt chặt kéo dài của Fed có thể ảnh hưởng đến dòng vốn toàn cầu.",
-      "source": "Reuters"
+      "insight": "Động thái này giúp hạ nhiệt giá dầu, giảm áp lực chi phí đầu vào cho doanh nghiệp.",
+      "source": "VOV · Báo Mới · Bongdaplus"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá khí đốt châu Âu lập kỷ lục mới do xung đột",
+      "headline": "Canada dọa cắt nguồn cung điện cho Mỹ",
       "bullets": [
-        "Giá khí đốt tự nhiên châu Âu (TTF) đạt 68,5 euro/MWh, mức cao nhất từ 2022.",
-        "Tăng hơn gấp đôi từ cuối tháng 2/2026 do xung đột Trung Đông, gián đoạn nguồn cung.",
-        "Kho dự trữ khí đốt châu Âu chỉ đạt 62%, thấp bất thường trước mùa đông."
+        "Canada công bố thuế quan trả đũa sau khi Mỹ áp thuế 50% hàng hóa.",
+        "Căng thẳng thương mại Mỹ-Canada leo thang, ảnh hưởng tâm lý thị trường."
       ],
-      "insight": "Giá năng lượng tăng cao có thể gây áp lực lạm phát, ảnh hưởng kinh tế toàn cầu.",
-      "source": "Báo An Giang · Bnews.vn · PetroTimes"
+      "insight": "Xung đột thương mại có thể gây bất ổn chuỗi cung ứng, tác động đến xuất nhập khẩu.",
+      "source": "Báo Lao Động · Doanh Nhân Trẻ"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#FDI",
-    "#TráiPhiếuDoanhNghiệp",
-    "#Fed",
-    "#KhíĐốtChâuÂu"
+    "#KinhTếViệtNam",
+    "#TinTứcThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
