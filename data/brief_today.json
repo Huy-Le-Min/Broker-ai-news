@@ -1,87 +1,87 @@
 {
-  "date": "26/8/2026",
+  "date": "28/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnEconomy · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Thanh Niên · Báo Lao Động · Investing.com · Báo Lâm Đồng · Báo Mới · Thời báo Tài chính Việt Nam",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Thời báo Tài chính Việt Nam · baotintuc.vn · Bnews.vn · PetroTimes · Báo Thanh Niên · VOV",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.360",
-      "change": "+0,06%",
-      "dir": "up"
+      "value": "26.270",
+      "change": "-0.08%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "150,6tr",
-      "change": "±0%",
-      "dir": "flat"
+      "value": "149,7tr",
+      "change": "-0.2%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "92,17$",
-      "change": "-1,6%",
+      "value": "88,45$",
+      "change": "-0.1%",
       "dir": "down"
     }
   ],
-  "today_watch": "Kết quả kinh doanh Nvidia; Diễn biến tỷ giá trung tâm, lãi suất liên ngân hàng.",
+  "today_watch": "Thị trường chờ thông điệp từ Chủ tịch Fed tại Hội nghị Jackson Hole.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công đạt 45,3% kế hoạch, địa phương tăng tốc",
+      "headline": "Quốc hội định hướng kiến tạo, giảm gánh nặng cho DNNVV",
       "bullets": [
-        "Đến giữa tháng 8/2026, cả nước giải ngân 45,3% kế hoạch Thủ tướng Chính phủ giao.",
-        "Nhiều địa phương đặt mục tiêu giải ngân cao hơn, tập trung gỡ vướng mặt bằng, thủ tục."
+        "UBTV Quốc hội thảo luận Luật DNNVV, chuyển từ 'hỗ trợ' sang 'kiến tạo điều kiện thuận lợi'.",
+        "Luật nhấn mạnh công khai, minh bạch, giảm thủ tục hành chính, không phát sinh 'xin-cho'."
       ],
-      "insight": "Tăng tốc giải ngân vốn đầu tư công hỗ trợ tăng trưởng kinh tế, tạo động lực cho các ngành liên quan.",
-      "source": "Thời báo Tài chính Việt Nam · Báo Mới"
+      "insight": "Chính sách rõ ràng hơn sẽ thúc đẩy môi trường kinh doanh, hỗ trợ tăng trưởng doanh nghiệp.",
+      "source": "baotintuc.vn · Quốc hội"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại mua ròng 3 phiên liên tiếp, VIC dẫn đầu",
+      "headline": "Việt Nam cần đủ vốn, đủ điện cho tăng trưởng 2 con số",
       "bullets": [
-        "Phiên 25/8, khối ngoại mua ròng hơn 322 tỷ đồng trên toàn thị trường chứng khoán Việt Nam.",
-        "Cổ phiếu VIC của Vingroup dẫn đầu với 362 tỷ đồng mua ròng, liên quan kỳ vọng nâng hạng thị trường."
+        "GDP 6 tháng đầu 2026 tăng 8,18%; cần tăng 11,5-12% cuối năm để đạt mục tiêu 10% cả năm.",
+        "Tín dụng 7 tháng tăng 8,98% (20,3 triệu tỷ đồng), nhưng nhu cầu vốn dài hạn lớn hơn khả năng huy động.",
+        "Quy hoạch Điện VIII điều chỉnh nhằm đảm bảo đủ điện cho tăng trưởng kinh tế 10%/năm đến 2030."
       ],
-      "insight": "Dòng vốn ngoại tích cực củng cố niềm tin, đặc biệt vào các mã hưởng lợi từ nâng hạng thị trường.",
-      "source": "VietnamBiz · Thời báo Tài chính Việt Nam · Bnews.vn"
+      "insight": "Áp lực vốn và điện đòi hỏi giải pháp đồng bộ, mở ra cơ hội cho ngành ngân hàng, năng lượng.",
+      "source": "CafeF · Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất huy động một số ngân hàng tăng, có nơi trên 8%",
+      "headline": "SSI chính thức có vốn điều lệ vượt 30.000 tỷ đồng",
       "bullets": [
-        "Nhiều ngân hàng lớn giữ ổn định, nhưng một số ngân hàng nhỏ tăng lãi suất tiền gửi.",
-        "SCB niêm yết 8,7% cho kỳ hạn 13 tháng, PVcomBank 10% cho 12-13 tháng với điều kiện."
+        "SSI hoàn tất phát hành cổ phiếu, vốn điều lệ tăng từ 25.030 tỷ lên hơn 30.032,9 tỷ đồng.",
+        "Đây là công ty chứng khoán đầu tiên tại Việt Nam đạt quy mô vốn điều lệ trên 30.000 tỷ đồng."
       ],
-      "insight": "Xu hướng tăng lãi suất huy động có thể gây áp lực lên chi phí vốn ngân hàng, ảnh hưởng lợi nhuận.",
-      "source": "Báo Lao Động · Kenh14.vn · VietNamNet"
+      "insight": "Vốn hóa lớn củng cố vị thế SSI, tạo nền tảng cho mở rộng hoạt động và cạnh tranh.",
+      "source": "CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Phố Wall tăng điểm, nhóm công nghệ phục hồi mạnh",
+      "headline": "USD chờ Fed tại Jackson Hole; ECB có thể tiếp tục tăng lãi suất",
       "bullets": [
-        "Dow Jones tăng 0,30%, S&P 500 tăng 0,32%, Nasdaq tăng 0,66% trong phiên 25/8.",
-        "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn dài giảm, hỗ trợ tâm lý nhà đầu tư."
+        "Thị trường chờ phát biểu Chủ tịch Fed tại Jackson Hole để tìm tín hiệu chính sách tiền tệ.",
+        "Xác suất ECB tăng lãi suất tháng 9 gần 96%, thành viên ECB gợi ý tiếp tục thắt chặt."
       ],
-      "insight": "Đà phục hồi của Phố Wall và giảm lợi suất trái phiếu Mỹ tạo tâm lý tích cực cho thị trường toàn cầu.",
-      "source": "VnEconomy · Reuters"
+      "insight": "Định hướng chính sách từ các ngân hàng trung ương lớn sẽ tác động mạnh tới tỷ giá và dòng vốn.",
+      "source": "Thời báo Tài chính Việt Nam · VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm mạnh, căng thẳng Mỹ-Iran chưa rõ tác động",
+      "headline": "Dầu Brent tăng mạnh do căng thẳng Mỹ-Iran, Nga-Ukraine",
       "bullets": [
-        "Dầu Brent giảm 1,49 USD xuống 92,17 USD/thùng sau đợt tăng mạnh tuần trước.",
-        "Mỹ gia tăng trừng phạt Iran nhưng tác động tức thời lên nguồn cung dầu còn hạn chế."
+        "Giá dầu Brent tăng hơn 2% phiên 27/8, do Mỹ không muốn khôi phục thỏa thuận Iran tháng 6.",
+        "Căng thẳng Nga-Ukraine leo thang cũng góp phần đẩy giá dầu lên cao."
       ],
-      "insight": "Giá dầu giảm có thể giảm áp lực lạm phát, nhưng rủi ro địa chính trị vẫn tiềm ẩn.",
-      "source": "Eva.vn · Báo Thanh Niên · Báo Lao Động"
+      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố chính chi phối giá dầu toàn cầu.",
+      "source": "PetroTimes · Báo Thanh Niên · Thời báo Tài chính Việt Nam"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#ĐầuTưCông",
-    "#LãiSuất",
-    "#DầuThô"
+    "#KinhTếViệtNam",
+    "#ChínhSáchTiềnTệ",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
