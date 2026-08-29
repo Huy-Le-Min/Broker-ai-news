@@ -1,97 +1,98 @@
 {
-  "date": "28/8/2026",
+  "date": "29/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · VOV · Webgia.com · Investing.com",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.832",
-    "vnindex_change": "+0,03%",
+    "vnindex_close": "1.845,20",
+    "vnindex_change": "+0,71%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 240 tỷ",
+    "foreign_net": "Mua ròng 450 tỷ",
     "foreign_dir": "buy",
-    "volume": "643 triệu CP",
-    "top_gainer": "Nhóm ngân hàng"
+    "volume": "21.500 tỷ",
+    "top_gainer": "Ngân hàng, Công nghệ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.054",
-      "change": "-0,02%",
-      "dir": "down"
+      "value": "26.085",
+      "change": "+0,05%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "150,2tr",
-      "change": "+0,33%",
+      "value": "148,9tr",
+      "change": "+0,13%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,18$",
-      "change": "-0,38%",
+      "value": "88,90$",
+      "change": "-0,27%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Tiếp tục theo dõi diễn biến Hội nghị Jackson Hole.",
+  "tomorrow_watch": "Dữ liệu PMI sản xuất khu vực Eurozone tháng 8",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính sách mới tài chính ngân hàng có hiệu lực tháng 9",
+      "headline": "Chính phủ thúc đẩy kinh tế số, đặt mục tiêu AI 6% GDP 2030",
       "bullets": [
-        "Nghị định 284/2026/NĐ-CP phạt vi phạm tài sản mã hóa đến 200 triệu đồng, hiệu lực 1/9.",
-        "NHNN nâng ngưỡng khoản vay online lên 400 triệu đồng, bãi bỏ trần 100 triệu."
+        "Doanh thu công nghiệp công nghệ số Việt Nam đạt gần 27 tỷ USD trong tháng 8/2026, tăng 36% so với cùng kỳ 2025.",
+        "Việt Nam đặt mục tiêu kinh tế AI đạt khoảng 6% GDP vào năm 2030, phấn đấu top 3 Đông Nam Á về phát triển AI."
       ],
-      "insight": "Quy định mới tạo hành lang pháp lý rõ ràng cho thị trường tài sản mã hóa, hỗ trợ cho vay tiêu dùng.",
-      "source": "LuatVietnam · Công an"
+      "insight": "Động lực từ kinh tế số và AI có thể thu hút dòng vốn vào nhóm công nghệ, hỗ trợ tăng trưởng dài hạn.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Doanh nghiệp SME khó tiếp cận vốn, chỉ 20% được vay",
+      "headline": "Thị trường bất động sản tái cơ cấu, hướng tới minh bạch, bền vững",
       "bullets": [
-        "Chỉ hơn 20% doanh nghiệp nhỏ và vừa (SME) tiếp cận được vốn vay ngân hàng.",
-        "SME chiếm 94% tổng số doanh nghiệp nhưng đóng góp doanh thu còn khiêm tốn."
+        "Thị trường BĐS Việt Nam đang trong giai đoạn thanh lọc mạnh mẽ, tái định vị giá trị sản phẩm theo nhu cầu thực.",
+        "Các quy định mới siết chặt điều kiện kinh doanh, công khai thông tin dự án, loại bỏ chủ đầu tư yếu kém."
       ],
-      "insight": "Khó khăn tiếp cận vốn là rào cản lớn, ảnh hưởng đến khả năng phục hồi và tăng trưởng của SME.",
-      "source": "Báo Thanh Niên"
+      "insight": "Quá trình tái cơ cấu giúp thị trường BĐS phát triển lành mạnh hơn, giảm rủi ro cho nhà đầu tư dài hạn.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Gần 39.000 doanh nghiệp TP.HCM rút lui khỏi thị trường",
+      "headline": "NHNN nhấn mạnh kiểm soát tín dụng rủi ro, hỗ trợ tăng trưởng",
       "bullets": [
-        "38.800 doanh nghiệp tại TP.HCM rút lui khỏi thị trường trong 7 tháng đầu năm.",
-        "Con số này phản ánh khó khăn hoặc tái cơ cấu kỹ thuật của doanh nghiệp."
+        "Ngân hàng Nhà nước tiếp tục chỉ đạo tăng trưởng tín dụng an toàn, hiệu quả, ưu tiên lĩnh vực sản xuất kinh doanh.",
+        "Kiểm soát chặt chẽ tín dụng đối với các lĩnh vực tiềm ẩn rủi ro, đảm bảo an toàn hệ thống ngân hàng."
       ],
-      "insight": "Số lượng doanh nghiệp rút lui lớn cho thấy áp lực kinh tế vẫn hiện hữu, cần giải pháp hỗ trợ.",
-      "source": "Thời sự VTV"
+      "insight": "Chính sách này định hướng dòng vốn vào sản xuất, giảm thiểu rủi ro nợ xấu, củng cố nền tảng kinh tế vĩ mô.",
+      "source": "VnEconomy · Báo Điện tử Chính phủ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ tăng mạnh nhờ Nvidia và nhóm công nghệ",
+      "headline": "ECB tăng lãi suất mạnh, lạm phát Đức đạt kỷ lục 7,9% tháng 8",
       "bullets": [
-        "Nasdaq tăng 1,57%, S&P 500 tăng 0,72% trong phiên 27/8 nhờ cổ phiếu Nvidia.",
-        "Nvidia tăng 8,7% sau kết quả kinh doanh vượt dự báo, dự kiến tăng trưởng doanh thu 70%."
+        "Ngân hàng Trung ương châu Âu (ECB) tăng lãi suất thêm 0,5 điểm phần trăm, lên 2,75%, vượt dự báo thị trường.",
+        "Lạm phát tại Đức tăng lên mức cao kỷ lục 7,9% trong tháng 8, gây áp lực lên chính sách tiền tệ khu vực."
       ],
-      "insight": "Kết quả kinh doanh tích cực của các hãng công nghệ lớn thúc đẩy tâm lý lạc quan toàn cầu.",
-      "source": "VnEconomy · CNBC"
+      "insight": "Động thái cứng rắn của ECB có thể làm tăng lo ngại suy thoái toàn cầu, ảnh hưởng tâm lý nhà đầu tư.",
+      "source": "Reuters · CNBC"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu tăng do bế tắc đàm phán Mỹ-Iran, Hormuz căng thẳng",
+      "headline": "Căng thẳng thương mại Mỹ-Trung leo thang với thuế quan mới",
       "bullets": [
-        "Giá dầu thô tăng 2% sau khi Mỹ xác nhận không đàm phán với Iran.",
-        "Eo biển Hormuz vẫn bế tắc, làm suy yếu hy vọng về việc mở cửa trở lại sớm."
+        "Mỹ áp đặt thuế quan bổ sung lên một số mặt hàng công nghệ cao từ Trung Quốc, gây ra phản ứng từ Bắc Kinh.",
+        "Trung Quốc tuyên bố sẽ có biện pháp đáp trả tương xứng, làm dấy lên lo ngại về chiến tranh thương mại mới."
       ],
-      "insight": "Căng thẳng địa chính trị tiếp tục là yếu tố chính đẩy giá dầu lên cao, gây áp lực lạm phát.",
-      "source": "VnEconomy · VOV"
+      "insight": "Xung đột thương mại gia tăng có thể ảnh hưởng chuỗi cung ứng toàn cầu, tạo biến động cho thị trường xuất khẩu Việt Nam.",
+      "source": "Reuters · Bloomberg"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
-    "#GiáDầu",
-    "#VàngSJC"
+    "#VNIndex",
+    "#KinhTếSố",
+    "#BấtĐộngSản",
+    "#ChínhSáchTiềnTệ",
+    "#ECB",
+    "#ThươngMạiMỹTrung"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
