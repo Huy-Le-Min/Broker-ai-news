@@ -1,87 +1,89 @@
 {
-  "date": "28/8/2026",
+  "date": "29/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Thời báo Tài chính Việt Nam · baotintuc.vn · Bnews.vn · PetroTimes · Báo Thanh Niên · VOV",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Lao Động · Bnews.vn · Báo Tin Tức · 24H · VOV · Báo Đầu Tư · Quốc hội",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.270",
-      "change": "-0.08%",
+      "value": "26.260",
+      "change": "-20đ",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "149,7tr",
-      "change": "-0.2%",
+      "value": "148,7tr",
+      "change": "-1,0%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,45$",
-      "change": "-0.1%",
+      "value": "88,1$",
+      "change": "-0,3%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường chờ thông điệp từ Chủ tịch Fed tại Hội nghị Jackson Hole.",
+  "today_watch": "Phản ứng thị trường trước thông điệp Fed và diễn biến giá hàng hóa; dòng tiền nội sau chuỗi tăng điểm.",
   "items": [
     {
-      "cat": "Trong nước",
-      "headline": "Quốc hội định hướng kiến tạo, giảm gánh nặng cho DNNVV",
+      "cat": "Quốc tế",
+      "headline": "Chủ tịch Fed ám chỉ tăng lãi suất nếu lạm phát dai dẳng",
       "bullets": [
-        "UBTV Quốc hội thảo luận Luật DNNVV, chuyển từ 'hỗ trợ' sang 'kiến tạo điều kiện thuận lợi'.",
-        "Luật nhấn mạnh công khai, minh bạch, giảm thủ tục hành chính, không phát sinh 'xin-cho'."
+        "Chủ tịch Fed Kevin Warsh tại Jackson Hole nhấn mạnh lạm phát vẫn cao hơn mục tiêu 2% và Fed 'còn việc phải làm'.",
+        "Thị trường tăng đặt cược khả năng Fed tăng lãi suất tháng 9 lên 56%; USD mạnh lên, vàng giảm giá."
       ],
-      "insight": "Chính sách rõ ràng hơn sẽ thúc đẩy môi trường kinh doanh, hỗ trợ tăng trưởng doanh nghiệp.",
-      "source": "baotintuc.vn · Quốc hội"
+      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên các thị trường mới nổi, bao gồm Việt Nam, qua tỷ giá và dòng vốn.",
+      "source": "Reuters, Vietstock, VOV"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam cần đủ vốn, đủ điện cho tăng trưởng 2 con số",
+      "headline": "Giá vàng SJC 'bốc hơi' 1,5 triệu đồng/lượng theo đà thế giới",
       "bullets": [
-        "GDP 6 tháng đầu 2026 tăng 8,18%; cần tăng 11,5-12% cuối năm để đạt mục tiêu 10% cả năm.",
-        "Tín dụng 7 tháng tăng 8,98% (20,3 triệu tỷ đồng), nhưng nhu cầu vốn dài hạn lớn hơn khả năng huy động.",
-        "Quy hoạch Điện VIII điều chỉnh nhằm đảm bảo đủ điện cho tăng trưởng kinh tế 10%/năm đến 2030."
+        "Sáng 29/8, giá vàng miếng SJC giảm 1,5 triệu đồng/lượng, xuống 148,7 triệu đồng/lượng (bán ra).",
+        "Giá vàng thế giới lao dốc gần 140 USD/ounce sau phát biểu của Chủ tịch Fed."
       ],
-      "insight": "Áp lực vốn và điện đòi hỏi giải pháp đồng bộ, mở ra cơ hội cho ngành ngân hàng, năng lượng.",
-      "source": "CafeF · Bnews.vn"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "SSI chính thức có vốn điều lệ vượt 30.000 tỷ đồng",
-      "bullets": [
-        "SSI hoàn tất phát hành cổ phiếu, vốn điều lệ tăng từ 25.030 tỷ lên hơn 30.032,9 tỷ đồng.",
-        "Đây là công ty chứng khoán đầu tiên tại Việt Nam đạt quy mô vốn điều lệ trên 30.000 tỷ đồng."
-      ],
-      "insight": "Vốn hóa lớn củng cố vị thế SSI, tạo nền tảng cho mở rộng hoạt động và cạnh tranh.",
-      "source": "CafeF"
+      "insight": "Đà giảm của vàng phản ánh kỳ vọng lãi suất cao hơn, ảnh hưởng tâm lý nhà đầu tư và chênh lệch giá trong nước.",
+      "source": "Báo Lao Động, CafeF, 24H"
     },
     {
       "cat": "Quốc tế",
-      "headline": "USD chờ Fed tại Jackson Hole; ECB có thể tiếp tục tăng lãi suất",
+      "headline": "Giá dầu Brent giảm mạnh, lo ngại nguồn cung dịu bớt",
       "bullets": [
-        "Thị trường chờ phát biểu Chủ tịch Fed tại Jackson Hole để tìm tín hiệu chính sách tiền tệ.",
-        "Xác suất ECB tăng lãi suất tháng 9 gần 96%, thành viên ECB gợi ý tiếp tục thắt chặt."
+        "Dầu Brent giảm hơn 4% trong tuần, chốt phiên cuối tuần ở mức khoảng 88,1 USD/thùng.",
+        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz hạ nhiệt, cùng chính sách Fed thắt chặt, gây áp lực giảm giá."
       ],
-      "insight": "Định hướng chính sách từ các ngân hàng trung ương lớn sẽ tác động mạnh tới tỷ giá và dòng vốn.",
-      "source": "Thời báo Tài chính Việt Nam · VOV"
+      "insight": "Giá dầu giảm có thể hỗ trợ kiểm soát lạm phát toàn cầu và giảm chi phí đầu vào cho doanh nghiệp Việt Nam.",
+      "source": "Báo Lao Động, Eva.vn, VOV"
     },
     {
-      "cat": "Quốc tế",
-      "headline": "Dầu Brent tăng mạnh do căng thẳng Mỹ-Iran, Nga-Ukraine",
+      "cat": "Trong nước",
+      "headline": "Chính phủ đề xuất Luật DNNVV mới, mở rộng ưu đãi",
       "bullets": [
-        "Giá dầu Brent tăng hơn 2% phiên 27/8, do Mỹ không muốn khôi phục thỏa thuận Iran tháng 6.",
-        "Căng thẳng Nga-Ukraine leo thang cũng góp phần đẩy giá dầu lên cao."
+        "Ủy ban Thường vụ Quốc hội thảo luận dự thảo Luật Phát triển DNNVV, thay thế Luật 2017.",
+        "Đề xuất nới rộng tiêu chí DNNVV (doanh thu tối đa 400 tỷ đồng) và hỗ trợ trọng tâm, gắn kết quả đầu ra."
       ],
-      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố chính chi phối giá dầu toàn cầu.",
-      "source": "PetroTimes · Báo Thanh Niên · Thời báo Tài chính Việt Nam"
+      "insight": "Luật mới kỳ vọng tạo điều kiện thuận lợi hơn, thúc đẩy tăng trưởng và nâng cao năng lực cạnh tranh cho khối doanh nghiệp lớn này.",
+      "source": "Báo Tin Tức, Báo Đầu Tư, Quốc hội"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Hà Nội khởi công đường sắt, Tây Ninh hút 28 tỷ USD đầu tư",
+      "bullets": [
+        "Hà Nội khởi công hai dự án đường sắt quốc gia trọng điểm, tăng cường kết nối và logistics.",
+        "Tây Ninh thu hút sự quan tâm đầu tư 28 tỷ USD cho 59 dự án KCN, đô thị, nông nghiệp công nghệ cao."
+      ],
+      "insight": "Các dự án đầu tư công và thu hút FDI lớn là động lực quan trọng cho tăng trưởng kinh tế và thị trường bất động sản, vật liệu.",
+      "source": "Bnews.vn, Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ChínhSáchTiềnTệ",
-    "#GiáDầu"
+    "#Fed",
+    "#GiáVàng",
+    "#GiáDầu",
+    "#DNNVV",
+    "#ĐầuTưCông"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
