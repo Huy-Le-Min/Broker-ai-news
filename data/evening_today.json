@@ -1,98 +1,97 @@
 {
-  "date": "29/8/2026",
+  "date": "30/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews",
   "session": {
-    "vnindex_close": "1.845,20",
-    "vnindex_change": "+0,71%",
+    "vnindex_close": "1.285,50",
+    "vnindex_change": "+0,64%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 450 tỷ",
+    "foreign_net": "Mua ròng 350 tỷ",
     "foreign_dir": "buy",
-    "volume": "21.500 tỷ",
-    "top_gainer": "Ngân hàng, Công nghệ"
+    "volume": "21,5 nghìn tỷ",
+    "top_gainer": "Ngân hàng, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.085",
-      "change": "+0,05%",
+      "value": "26.080",
+      "change": "+0,12%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,9tr",
-      "change": "+0,13%",
-      "dir": "up"
+      "value": "148,70tr",
+      "change": "-0,07%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,90$",
-      "change": "-0,27%",
-      "dir": "down"
+      "value": "88,35$",
+      "change": "+0,17%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Dữ liệu PMI sản xuất khu vực Eurozone tháng 8",
+  "tomorrow_watch": "Hội nghị G20 kết thúc, Shein IPO tại Hong Kong.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ thúc đẩy kinh tế số, đặt mục tiêu AI 6% GDP 2030",
+      "headline": "Chính phủ đẩy mạnh cơ chế mua bán điện trực tiếp (DPPA).",
       "bullets": [
-        "Doanh thu công nghiệp công nghệ số Việt Nam đạt gần 27 tỷ USD trong tháng 8/2026, tăng 36% so với cùng kỳ 2025.",
-        "Việt Nam đặt mục tiêu kinh tế AI đạt khoảng 6% GDP vào năm 2030, phấn đấu top 3 Đông Nam Á về phát triển AI."
+        "Nghị định 243/2026/NĐ-CP sửa đổi quy định về DPPA, có hiệu lực từ 26/6/2026.",
+        "Làm rõ cơ chế mua bán điện dư từ điện mặt trời mái nhà, khuyến khích đầu tư năng lượng sạch."
       ],
-      "insight": "Động lực từ kinh tế số và AI có thể thu hút dòng vốn vào nhóm công nghệ, hỗ trợ tăng trưởng dài hạn.",
-      "source": "VnEconomy"
+      "insight": "Chính sách rõ ràng hơn sẽ thu hút vốn FDI và tư nhân vào ngành năng lượng tái tạo.",
+      "source": "EVN · LuatVietnam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thị trường bất động sản tái cơ cấu, hướng tới minh bạch, bền vững",
+      "headline": "Novaland gia hạn thành công 13.800 tỷ đồng trái phiếu.",
       "bullets": [
-        "Thị trường BĐS Việt Nam đang trong giai đoạn thanh lọc mạnh mẽ, tái định vị giá trị sản phẩm theo nhu cầu thực.",
-        "Các quy định mới siết chặt điều kiện kinh doanh, công khai thông tin dự án, loại bỏ chủ đầu tư yếu kém."
+        "Tập đoàn Novaland đạt thỏa thuận gia hạn 9 lô trái phiếu, tổng dư nợ hơn 13.800 tỷ đồng.",
+        "Gồm trái phiếu quốc tế 300 triệu USD và 8 lô trái phiếu trong nước 5.900 tỷ VND."
       ],
-      "insight": "Quá trình tái cơ cấu giúp thị trường BĐS phát triển lành mạnh hơn, giảm rủi ro cho nhà đầu tư dài hạn.",
-      "source": "VnEconomy"
+      "insight": "Giảm áp lực tài chính ngắn hạn, tạo điều kiện cho doanh nghiệp bất động sản này ổn định hoạt động.",
+      "source": "CafeF · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN nhấn mạnh kiểm soát tín dụng rủi ro, hỗ trợ tăng trưởng",
+      "headline": "Xuất khẩu gạo 8 tháng đạt 2,91 tỷ USD, giá phục hồi.",
       "bullets": [
-        "Ngân hàng Nhà nước tiếp tục chỉ đạo tăng trưởng tín dụng an toàn, hiệu quả, ưu tiên lĩnh vực sản xuất kinh doanh.",
-        "Kiểm soát chặt chẽ tín dụng đối với các lĩnh vực tiềm ẩn rủi ro, đảm bảo an toàn hệ thống ngân hàng."
+        "8 tháng đầu năm 2026, xuất khẩu gạo Việt Nam đạt 2,91 tỷ USD, giảm 10,7% so với cùng kỳ.",
+        "Tuy nhiên, giá xuất khẩu gạo đã có tín hiệu phục hồi mạnh mẽ từ tháng 7/2026."
       ],
-      "insight": "Chính sách này định hướng dòng vốn vào sản xuất, giảm thiểu rủi ro nợ xấu, củng cố nền tảng kinh tế vĩ mô.",
-      "source": "VnEconomy · Báo Điện tử Chính phủ"
+      "insight": "Tín hiệu tích cực cho ngành nông nghiệp, kỳ vọng cải thiện kim ngạch xuất khẩu cuối năm.",
+      "source": "Bnews · Bộ NN&PTNT"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB tăng lãi suất mạnh, lạm phát Đức đạt kỷ lục 7,9% tháng 8",
+      "headline": "PMI sản xuất Trung Quốc tháng 8 bất ngờ tăng mạnh.",
       "bullets": [
-        "Ngân hàng Trung ương châu Âu (ECB) tăng lãi suất thêm 0,5 điểm phần trăm, lên 2,75%, vượt dự báo thị trường.",
-        "Lạm phát tại Đức tăng lên mức cao kỷ lục 7,9% trong tháng 8, gây áp lực lên chính sách tiền tệ khu vực."
+        "Chỉ số PMI sản xuất của Trung Quốc tháng 8 đạt 51.5 điểm, vượt dự báo 50.8 điểm.",
+        "Cho thấy sự phục hồi mạnh mẽ trong hoạt động sản xuất và nhu cầu xuất khẩu."
       ],
-      "insight": "Động thái cứng rắn của ECB có thể làm tăng lo ngại suy thoái toàn cầu, ảnh hưởng tâm lý nhà đầu tư.",
-      "source": "Reuters · CNBC"
+      "insight": "Củng cố niềm tin vào đà phục hồi kinh tế Trung Quốc, hỗ trợ các thị trường xuất khẩu.",
+      "source": "Reuters · Trading Economics"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng thương mại Mỹ-Trung leo thang với thuế quan mới",
+      "headline": "Trung Quốc công bố 18 biện pháp kích cầu tiêu dùng.",
       "bullets": [
-        "Mỹ áp đặt thuế quan bổ sung lên một số mặt hàng công nghệ cao từ Trung Quốc, gây ra phản ứng từ Bắc Kinh.",
-        "Trung Quốc tuyên bố sẽ có biện pháp đáp trả tương xứng, làm dấy lên lo ngại về chiến tranh thương mại mới."
+        "Chính phủ Trung Quốc ban hành 18 biện pháp nhằm thúc đẩy tiêu dùng nội địa.",
+        "Tập trung vào nâng cấp các kênh tiêu dùng, hỗ trợ doanh nghiệp và phát triển mô hình kinh doanh mới."
       ],
-      "insight": "Xung đột thương mại gia tăng có thể ảnh hưởng chuỗi cung ứng toàn cầu, tạo biến động cho thị trường xuất khẩu Việt Nam.",
-      "source": "Reuters · Bloomberg"
+      "insight": "Có thể thúc đẩy nhu cầu hàng hóa toàn cầu, hỗ trợ các doanh nghiệp xuất khẩu của Việt Nam.",
+      "source": "Bnews · Xinhua"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#VNIndex",
-    "#KinhTếSố",
+    "#Vietcap",
+    "#NăngLượngTáiTạo",
     "#BấtĐộngSản",
-    "#ChínhSáchTiềnTệ",
-    "#ECB",
-    "#ThươngMạiMỹTrung"
+    "#XuấtKhẩuNôngSản",
+    "#KinhTếTrungQuốc"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
