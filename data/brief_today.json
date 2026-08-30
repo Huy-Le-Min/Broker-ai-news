@@ -1,89 +1,87 @@
 {
-  "date": "29/8/2026",
+  "date": "30/8/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Lao Động · Bnews.vn · Báo Tin Tức · 24H · VOV · Báo Đầu Tư · Quốc hội",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Baodautu.vn · Tapchikinhtetaichinh.vn · Bnews.vn · Báo Lao Động · Eva.vn",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.260",
-      "change": "-20đ",
-      "dir": "down"
+      "value": "26.022",
+      "change": "Flat",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,7tr",
-      "change": "-1,0%",
+      "value": "148,7 tr VND/lượng",
+      "change": "-1.01%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,1$",
-      "change": "-0,3%",
+      "value": "88.10$",
+      "change": "-0.48%",
       "dir": "down"
     }
   ],
-  "today_watch": "Phản ứng thị trường trước thông điệp Fed và diễn biến giá hàng hóa; dòng tiền nội sau chuỗi tăng điểm.",
+  "today_watch": "Thị trường theo dõi dòng vốn ngoại sau nâng tỷ trọng FTSE, tiến độ đầu tư công và diễn biến giá dầu.",
   "items": [
     {
+      "cat": "Trong nước",
+      "headline": "Việt Nam nhập siêu gần 22 tỷ USD đến giữa tháng 8",
+      "bullets": [
+        "Tổng kim ngạch xuất nhập khẩu đạt hơn 712 tỷ USD tính đến 15/8/2026.",
+        "Cán cân thương mại thâm hụt gần 22 tỷ USD, nhập khẩu tăng nhanh hơn xuất khẩu."
+      ],
+      "insight": "Nhập siêu lớn cho thấy nhu cầu sản xuất trong nước tăng, nhưng cần nâng cao giá trị gia tăng nội địa.",
+      "source": "Baodautu.vn, VnEconomy"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Giải ngân đầu tư công đạt 46,7% kế hoạch đến 20/8",
+      "bullets": [
+        "Lũy kế đến 20/8/2026, giải ngân đạt 477.177,9 tỷ đồng vốn ngân sách nhà nước.",
+        "Tốc độ giải ngân cải thiện trong tháng 8, thêm khoảng 43.724 tỷ đồng được đưa vào nền kinh tế."
+      ],
+      "insight": "Tiến độ giải ngân tăng tốc là động lực thúc đẩy tổng cầu, hỗ trợ tăng trưởng kinh tế cuối năm.",
+      "source": "Tapchikinhtetaichinh.vn, VnEconomy"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "FTSE Russell nâng tỷ trọng, dự kiến hút tỷ USD vốn ngoại",
+      "bullets": [
+        "FTSE Russell nâng tỷ trọng Việt Nam trong FTSE Emerging All Cap Index lên 0,49%.",
+        "Dự kiến thu hút 2,21 tỷ USD vốn thụ động theo kịch bản cơ sở, có thể lên 4,28 tỷ USD."
+      ],
+      "insight": "Tăng tỷ trọng khẳng định vị thế, mở ra cơ hội lớn cho dòng vốn ngoại vào TTCK Việt Nam.",
+      "source": "CafeF, Vietcap"
+    },
+    {
       "cat": "Quốc tế",
-      "headline": "Chủ tịch Fed ám chỉ tăng lãi suất nếu lạm phát dai dẳng",
+      "headline": "Kinh tế Mỹ tăng trưởng chậm lại 1,5% trong quý II",
       "bullets": [
-        "Chủ tịch Fed Kevin Warsh tại Jackson Hole nhấn mạnh lạm phát vẫn cao hơn mục tiêu 2% và Fed 'còn việc phải làm'.",
-        "Thị trường tăng đặt cược khả năng Fed tăng lãi suất tháng 9 lên 56%; USD mạnh lên, vàng giảm giá."
+        "GDP Mỹ quý II/2026 chỉ tăng 1,5%, giảm so với mức 2,1% của quý I.",
+        "Chi tiêu tiêu dùng và đầu tư vào AI vẫn là động lực chính hỗ trợ tăng trưởng."
       ],
-      "insight": "Tín hiệu diều hâu từ Fed có thể gây áp lực lên các thị trường mới nổi, bao gồm Việt Nam, qua tỷ giá và dòng vốn.",
-      "source": "Reuters, Vietstock, VOV"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "Giá vàng SJC 'bốc hơi' 1,5 triệu đồng/lượng theo đà thế giới",
-      "bullets": [
-        "Sáng 29/8, giá vàng miếng SJC giảm 1,5 triệu đồng/lượng, xuống 148,7 triệu đồng/lượng (bán ra).",
-        "Giá vàng thế giới lao dốc gần 140 USD/ounce sau phát biểu của Chủ tịch Fed."
-      ],
-      "insight": "Đà giảm của vàng phản ánh kỳ vọng lãi suất cao hơn, ảnh hưởng tâm lý nhà đầu tư và chênh lệch giá trong nước.",
-      "source": "Báo Lao Động, CafeF, 24H"
+      "insight": "Tăng trưởng chậm lại của Mỹ có thể ảnh hưởng đến nhu cầu xuất khẩu toàn cầu, tác động gián tiếp VN.",
+      "source": "Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm mạnh, lo ngại nguồn cung dịu bớt",
+      "headline": "Căng thẳng Mỹ-Iran tiếp diễn, giá dầu Brent giảm",
       "bullets": [
-        "Dầu Brent giảm hơn 4% trong tuần, chốt phiên cuối tuần ở mức khoảng 88,1 USD/thùng.",
-        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz hạ nhiệt, cùng chính sách Fed thắt chặt, gây áp lực giảm giá."
+        "Mỹ áp trừng phạt mới lên ngân hàng liên quan Iran, nhưng thị trường ít lo ngại nguồn cung.",
+        "Giá dầu Brent giảm hơn 6% trong tuần, xuống 88,1 USD/thùng, do áp lực chốt lời và đàm phán Hormuz."
       ],
-      "insight": "Giá dầu giảm có thể hỗ trợ kiểm soát lạm phát toàn cầu và giảm chi phí đầu vào cho doanh nghiệp Việt Nam.",
-      "source": "Báo Lao Động, Eva.vn, VOV"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "Chính phủ đề xuất Luật DNNVV mới, mở rộng ưu đãi",
-      "bullets": [
-        "Ủy ban Thường vụ Quốc hội thảo luận dự thảo Luật Phát triển DNNVV, thay thế Luật 2017.",
-        "Đề xuất nới rộng tiêu chí DNNVV (doanh thu tối đa 400 tỷ đồng) và hỗ trợ trọng tâm, gắn kết quả đầu ra."
-      ],
-      "insight": "Luật mới kỳ vọng tạo điều kiện thuận lợi hơn, thúc đẩy tăng trưởng và nâng cao năng lực cạnh tranh cho khối doanh nghiệp lớn này.",
-      "source": "Báo Tin Tức, Báo Đầu Tư, Quốc hội"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "Hà Nội khởi công đường sắt, Tây Ninh hút 28 tỷ USD đầu tư",
-      "bullets": [
-        "Hà Nội khởi công hai dự án đường sắt quốc gia trọng điểm, tăng cường kết nối và logistics.",
-        "Tây Ninh thu hút sự quan tâm đầu tư 28 tỷ USD cho 59 dự án KCN, đô thị, nông nghiệp công nghệ cao."
-      ],
-      "insight": "Các dự án đầu tư công và thu hút FDI lớn là động lực quan trọng cho tăng trưởng kinh tế và thị trường bất động sản, vật liệu.",
-      "source": "Bnews.vn, Báo Mới"
+      "insight": "Giá dầu giảm bớt áp lực lạm phát, nhưng rủi ro địa chính trị vẫn tiềm ẩn biến động.",
+      "source": "Báo Lao Động, Eva.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#Fed",
-    "#GiáVàng",
-    "#GiáDầu",
-    "#DNNVV",
-    "#ĐầuTưCông"
+    "#ĐầuTưCông",
+    "#FTSE",
+    "#ThịTrườngDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
