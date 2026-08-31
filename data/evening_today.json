@@ -1,97 +1,97 @@
 {
-  "date": "30/8/2026",
+  "date": "31/8/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.285,50",
-    "vnindex_change": "+0,64%",
+    "vnindex_close": "1.837,50",
+    "vnindex_change": "+0,29%",
     "vnindex_dir": "up",
     "foreign_net": "Mua ròng 350 tỷ",
     "foreign_dir": "buy",
-    "volume": "21,5 nghìn tỷ",
+    "volume": "17.500 tỷ",
     "top_gainer": "Ngân hàng, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.080",
-      "change": "+0,12%",
+      "value": "26.260",
+      "change": "+0,58%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,70tr",
-      "change": "-0,07%",
-      "dir": "down"
+      "value": "148,7tr",
+      "change": "0,00%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,35$",
-      "change": "+0,17%",
+      "value": "90,35$",
+      "change": "+4,91%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Hội nghị G20 kết thúc, Shein IPO tại Hong Kong.",
+  "tomorrow_watch": "Mỹ công bố báo cáo việc làm tháng 8, ảnh hưởng chính sách Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đẩy mạnh cơ chế mua bán điện trực tiếp (DPPA).",
+      "headline": "VN-Index tăng nhẹ, khối ngoại mua ròng phiên đầu tháng 9",
       "bullets": [
-        "Nghị định 243/2026/NĐ-CP sửa đổi quy định về DPPA, có hiệu lực từ 26/6/2026.",
-        "Làm rõ cơ chế mua bán điện dư từ điện mặt trời mái nhà, khuyến khích đầu tư năng lượng sạch."
+        "VN-Index đóng cửa ở 1.837,50 điểm, tăng 0,29% với thanh khoản 17.500 tỷ đồng.",
+        "Khối ngoại mua ròng 350 tỷ đồng, tập trung vào nhóm Ngân hàng và Bất động sản."
       ],
-      "insight": "Chính sách rõ ràng hơn sẽ thu hút vốn FDI và tư nhân vào ngành năng lượng tái tạo.",
-      "source": "EVN · LuatVietnam"
+      "insight": "Thị trường duy trì đà tăng từ cuối tháng 8, dòng tiền ngoại hỗ trợ tâm lý tích cực.",
+      "source": "Tổng hợp"
     },
     {
       "cat": "Trong nước",
-      "headline": "Novaland gia hạn thành công 13.800 tỷ đồng trái phiếu.",
+      "headline": "Dòng vốn ngoại bắt đầu giải ngân theo lộ trình nâng hạng FTSE",
       "bullets": [
-        "Tập đoàn Novaland đạt thỏa thuận gia hạn 9 lô trái phiếu, tổng dư nợ hơn 13.800 tỷ đồng.",
-        "Gồm trái phiếu quốc tế 300 triệu USD và 8 lô trái phiếu trong nước 5.900 tỷ VND."
+        "Các quỹ chỉ số bắt đầu giải ngân 10% vốn vào cổ phiếu Việt Nam từ 01/9/2026 theo lộ trình FTSE Russell.",
+        "Sự kiện này dự kiến thu hút hơn 2,2 tỷ USD vốn thụ động vào thị trường Việt Nam."
       ],
-      "insight": "Giảm áp lực tài chính ngắn hạn, tạo điều kiện cho doanh nghiệp bất động sản này ổn định hoạt động.",
-      "source": "CafeF · Vietstock"
+      "insight": "Dòng tiền mới từ khối ngoại kỳ vọng sẽ là động lực tăng trưởng chính cho thị trường trong tháng 9.",
+      "source": "Nhadautu.vn · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất khẩu gạo 8 tháng đạt 2,91 tỷ USD, giá phục hồi.",
+      "headline": "Chính phủ đẩy mạnh cải cách thủ tục hành chính, hướng tới tăng trưởng",
       "bullets": [
-        "8 tháng đầu năm 2026, xuất khẩu gạo Việt Nam đạt 2,91 tỷ USD, giảm 10,7% so với cùng kỳ.",
-        "Tuy nhiên, giá xuất khẩu gạo đã có tín hiệu phục hồi mạnh mẽ từ tháng 7/2026."
+        "Nghị quyết 258/NQ-CP ngày 31/8/2026 được ban hành nhằm cắt giảm thủ tục, thúc đẩy tăng trưởng hai con số giai đoạn 2026-2030.",
+        "Mục tiêu đến 2030 là 100% dịch vụ công thiết yếu được thực hiện không phụ thuộc địa giới hành chính."
       ],
-      "insight": "Tín hiệu tích cực cho ngành nông nghiệp, kỳ vọng cải thiện kim ngạch xuất khẩu cuối năm.",
-      "source": "Bnews · Bộ NN&PTNT"
+      "insight": "Cải cách hành chính tạo môi trường kinh doanh thuận lợi, thu hút đầu tư, hỗ trợ tăng trưởng kinh tế bền vững.",
+      "source": "Báo Công an TP.HCM"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PMI sản xuất Trung Quốc tháng 8 bất ngờ tăng mạnh.",
+      "headline": "Indonesia và Singapore triển khai thanh toán song phương bằng nội tệ",
       "bullets": [
-        "Chỉ số PMI sản xuất của Trung Quốc tháng 8 đạt 51.5 điểm, vượt dự báo 50.8 điểm.",
-        "Cho thấy sự phục hồi mạnh mẽ trong hoạt động sản xuất và nhu cầu xuất khẩu."
+        "Hai quốc gia chính thức vận hành cơ chế thanh toán giao dịch bằng rupiah và đôla Singapore từ 31/8.",
+        "Doanh nghiệp không cần quy đổi qua USD, giảm rủi ro tỷ giá và chi phí giao dịch."
       ],
-      "insight": "Củng cố niềm tin vào đà phục hồi kinh tế Trung Quốc, hỗ trợ các thị trường xuất khẩu.",
-      "source": "Reuters · Trading Economics"
+      "insight": "Động thái này thúc đẩy thương mại khu vực, giảm phụ thuộc USD và tăng cường ổn định tài chính nội khối.",
+      "source": "Báo Tin Tức"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc công bố 18 biện pháp kích cầu tiêu dùng.",
+      "headline": "Chứng khoán châu Á giảm mạnh do lo ngại Fed tăng lãi suất",
       "bullets": [
-        "Chính phủ Trung Quốc ban hành 18 biện pháp nhằm thúc đẩy tiêu dùng nội địa.",
-        "Tập trung vào nâng cấp các kênh tiêu dùng, hỗ trợ doanh nghiệp và phát triển mô hình kinh doanh mới."
+        "Thị trường châu Á chìm trong sắc đỏ sáng 31/8, Nikkei và KOSPI giảm mạnh.",
+        "Nhà đầu tư thận trọng trước khả năng Fed tăng lãi suất sau phát biểu của Chủ tịch Kevin Warsh."
       ],
-      "insight": "Có thể thúc đẩy nhu cầu hàng hóa toàn cầu, hỗ trợ các doanh nghiệp xuất khẩu của Việt Nam.",
-      "source": "Bnews · Xinhua"
+      "insight": "Lo ngại về chính sách tiền tệ thắt chặt của Fed tiếp tục gây áp lực lên tâm lý nhà đầu tư toàn cầu.",
+      "source": "CafeF · Báo Tin Tức"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#NăngLượngTáiTạo",
-    "#BấtĐộngSản",
-    "#XuấtKhẩuNôngSản",
-    "#KinhTếTrungQuốc"
+    "#VNIndex",
+    "#FTSE",
+    "#CảiCáchHànhChính",
+    "#ThanhToánNộiTệ",
+    "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
