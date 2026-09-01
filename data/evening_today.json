@@ -1,97 +1,102 @@
 {
-  "date": "31/8/2026",
+  "date": "01/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · VOV · Chợ Giá · Báo Lao Động",
   "session": {
-    "vnindex_close": "1.837,50",
-    "vnindex_change": "+0,29%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 350 tỷ",
-    "foreign_dir": "buy",
-    "volume": "17.500 tỷ",
-    "top_gainer": "Ngân hàng, Bất động sản"
+    "vnindex_close": "Thị trường nghỉ lễ",
+    "vnindex_change": "Thị trường nghỉ lễ",
+    "vnindex_dir": "flat",
+    "foreign_net": "Thị trường nghỉ lễ",
+    "foreign_dir": "flat",
+    "volume": "Thị trường nghỉ lễ",
+    "top_gainer": "Thị trường nghỉ lễ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.260",
-      "change": "+0,58%",
-      "dir": "up"
+      "change": "flat",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,7tr",
-      "change": "0,00%",
+      "value": "148,7 tr",
+      "change": "flat",
       "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "90,35$",
-      "change": "+4,91%",
+      "value": "92,66$",
+      "change": "+2,4%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Mỹ công bố báo cáo việc làm tháng 8, ảnh hưởng chính sách Fed.",
+  "tomorrow_watch": "Theo dõi dữ liệu việc làm Mỹ và diễn biến căng thẳng Trung Đông.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng nhẹ, khối ngoại mua ròng phiên đầu tháng 9",
+      "headline": "FDI vào TP.HCM, Hà Nội tăng mạnh, hướng tới chất lượng cao.",
       "bullets": [
-        "VN-Index đóng cửa ở 1.837,50 điểm, tăng 0,29% với thanh khoản 17.500 tỷ đồng.",
-        "Khối ngoại mua ròng 350 tỷ đồng, tập trung vào nhóm Ngân hàng và Bất động sản."
+        "TP.HCM thu hút hơn 10 tỷ USD FDI trong 8 tháng, đạt 91% kế hoạch năm.",
+        "Hà Nội hút 3,74 tỷ USD FDI đến 24/8, tập trung khoa học – công nghệ.",
+        "Việt Nam đang chủ động thu hút FDI chất lượng cao, có điều kiện."
       ],
-      "insight": "Thị trường duy trì đà tăng từ cuối tháng 8, dòng tiền ngoại hỗ trợ tâm lý tích cực.",
-      "source": "Tổng hợp"
+      "insight": "Dòng vốn FDI chất lượng cao cho thấy sức hấp dẫn của Việt Nam và tiềm năng tăng trưởng bền vững.",
+      "source": "hanoimoi.com · Thời Báo Ngân Hàng · BBWV"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dòng vốn ngoại bắt đầu giải ngân theo lộ trình nâng hạng FTSE",
+      "headline": "Loạt chính sách kinh tế mới có hiệu lực từ tháng 9/2026.",
       "bullets": [
-        "Các quỹ chỉ số bắt đầu giải ngân 10% vốn vào cổ phiếu Việt Nam từ 01/9/2026 theo lộ trình FTSE Russell.",
-        "Sự kiện này dự kiến thu hút hơn 2,2 tỷ USD vốn thụ động vào thị trường Việt Nam."
+        "Nghị định mới về tài sản mã hóa có hiệu lực, phạt đến 200 triệu đồng.",
+        "Quy định mới về hoạt động ngoại thương có hiệu lực từ 5/9.",
+        "Sở Giao dịch hàng hóa phải có vốn điều lệ tối thiểu 1.500 tỷ đồng."
       ],
-      "insight": "Dòng tiền mới từ khối ngoại kỳ vọng sẽ là động lực tăng trưởng chính cho thị trường trong tháng 9.",
-      "source": "Nhadautu.vn · Thời báo Tài chính Việt Nam"
+      "insight": "Các quy định mới củng cố khung pháp lý, tăng cường minh bạch và quản lý rủi ro thị trường.",
+      "source": "Tạp chí Petrotimes · CafeF · Báo Lào Cai"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đẩy mạnh cải cách thủ tục hành chính, hướng tới tăng trưởng",
+      "headline": "NHNN duy trì chính sách tiền tệ ổn định, tạo dư địa tăng trưởng.",
       "bullets": [
-        "Nghị quyết 258/NQ-CP ngày 31/8/2026 được ban hành nhằm cắt giảm thủ tục, thúc đẩy tăng trưởng hai con số giai đoạn 2026-2030.",
-        "Mục tiêu đến 2030 là 100% dịch vụ công thiết yếu được thực hiện không phụ thuộc địa giới hành chính."
+        "NHNN giữ nguyên lãi suất điều hành, định hướng tín dụng vào sản xuất.",
+        "Không tính dư nợ nhà ở xã hội, BĐS KCN vào chỉ tiêu tăng trưởng tín dụng.",
+        "Tỷ giá được điều hành linh hoạt, can thiệp ngoại tệ khi cần thiết."
       ],
-      "insight": "Cải cách hành chính tạo môi trường kinh doanh thuận lợi, thu hút đầu tư, hỗ trợ tăng trưởng kinh tế bền vững.",
-      "source": "Báo Công an TP.HCM"
+      "insight": "Chính sách ổn định của NHNN hỗ trợ doanh nghiệp tiếp cận vốn, thúc đẩy tăng trưởng kinh tế.",
+      "source": "Bnews.vn · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Indonesia và Singapore triển khai thanh toán song phương bằng nội tệ",
+      "headline": "Lạm phát Mỹ cao, Fed có 64% khả năng tăng lãi suất tháng 9.",
       "bullets": [
-        "Hai quốc gia chính thức vận hành cơ chế thanh toán giao dịch bằng rupiah và đôla Singapore từ 31/8.",
-        "Doanh nghiệp không cần quy đổi qua USD, giảm rủi ro tỷ giá và chi phí giao dịch."
+        "Chủ tịch Fed Kevin Warsh cảnh báo lạm phát vẫn cao hơn mục tiêu 2%.",
+        "Thị trường định giá 64% khả năng Fed tăng lãi suất tại cuộc họp tháng 9.",
+        "Dữ liệu việc làm Mỹ cuối tuần này sẽ là yếu tố quan trọng quyết định."
       ],
-      "insight": "Động thái này thúc đẩy thương mại khu vực, giảm phụ thuộc USD và tăng cường ổn định tài chính nội khối.",
-      "source": "Báo Tin Tức"
+      "insight": "Kỳ vọng tăng lãi suất của Fed gia tăng gây áp lực lên các thị trường tài chính toàn cầu.",
+      "source": "CafeF · Thời báo Tài chính Việt Nam · 24H"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán châu Á giảm mạnh do lo ngại Fed tăng lãi suất",
+      "headline": "Trung Quốc đặt mục tiêu GDP 2026 thấp hơn, ưu tiên chất lượng tăng trưởng.",
       "bullets": [
-        "Thị trường châu Á chìm trong sắc đỏ sáng 31/8, Nikkei và KOSPI giảm mạnh.",
-        "Nhà đầu tư thận trọng trước khả năng Fed tăng lãi suất sau phát biểu của Chủ tịch Kevin Warsh."
+        "Trung Quốc đặt mục tiêu tăng trưởng GDP 2026 ở mức 4,5-5%, thấp hơn 2025.",
+        "Chuyển dịch sang mô hình tăng trưởng chất lượng cao, công nghệ và tiêu dùng nội địa.",
+        "Kế hoạch 5 năm lần thứ 15 tập trung đổi mới sáng tạo, giảm phụ thuộc xuất khẩu."
       ],
-      "insight": "Lo ngại về chính sách tiền tệ thắt chặt của Fed tiếp tục gây áp lực lên tâm lý nhà đầu tư toàn cầu.",
-      "source": "CafeF · Báo Tin Tức"
+      "insight": "Sự thay đổi chiến lược của Trung Quốc có thể tác động đến chuỗi cung ứng và thương mại toàn cầu.",
+      "source": "Vietnam+ · Dân trí · ITPC"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#VNIndex",
-    "#FTSE",
-    "#CảiCáchHànhChính",
-    "#ThanhToánNộiTệ",
-    "#Fed"
+    "#KinhTếViệtNam",
+    "#FDI",
+    "#ChínhSáchTiềnTệ",
+    "#Fed",
+    "#TrungQuốc"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
