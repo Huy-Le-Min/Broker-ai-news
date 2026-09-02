@@ -1,102 +1,100 @@
 {
-  "date": "01/9/2026",
+  "date": "02/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · VOV · Chợ Giá · Báo Lao Động",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "Thị trường nghỉ lễ",
-    "vnindex_change": "Thị trường nghỉ lễ",
-    "vnindex_dir": "flat",
-    "foreign_net": "Thị trường nghỉ lễ",
-    "foreign_dir": "flat",
-    "volume": "Thị trường nghỉ lễ",
-    "top_gainer": "Thị trường nghỉ lễ"
+    "vnindex_close": "1.835,80",
+    "vnindex_change": "+3,68%",
+    "vnindex_dir": "up",
+    "foreign_net": "Mua ròng 250 tỷ",
+    "foreign_dir": "buy",
+    "volume": "17.800 tỷ",
+    "top_gainer": "Nhóm công nghệ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.260",
-      "change": "flat",
-      "dir": "flat"
+      "value": "26.105",
+      "change": "+0,06%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,7 tr",
-      "change": "flat",
-      "dir": "flat"
+      "value": "78,50tr",
+      "change": "+0,20%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "92,66$",
-      "change": "+2,4%",
-      "dir": "up"
+      "value": "88,70$",
+      "change": "-0,35%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Theo dõi dữ liệu việc làm Mỹ và diễn biến căng thẳng Trung Đông.",
+  "tomorrow_watch": "Mỹ công bố báo cáo việc làm tháng 8; Việt Nam công bố chỉ số PMI sản xuất.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FDI vào TP.HCM, Hà Nội tăng mạnh, hướng tới chất lượng cao.",
+      "headline": "Chính phủ đẩy mạnh gói kích thích tài khóa mới",
       "bullets": [
-        "TP.HCM thu hút hơn 10 tỷ USD FDI trong 8 tháng, đạt 91% kế hoạch năm.",
-        "Hà Nội hút 3,74 tỷ USD FDI đến 24/8, tập trung khoa học – công nghệ.",
-        "Việt Nam đang chủ động thu hút FDI chất lượng cao, có điều kiện."
+        "Bộ Tài chính đề xuất gói kích thích tài khóa 120.000 tỷ đồng, tập trung vào đầu tư công và miễn giảm thuế.",
+        "Mục tiêu hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng GDP cuối năm 2026.",
+        "Các biện pháp dự kiến có hiệu lực từ quý IV, kỳ vọng tạo động lực mới."
       ],
-      "insight": "Dòng vốn FDI chất lượng cao cho thấy sức hấp dẫn của Việt Nam và tiềm năng tăng trưởng bền vững.",
-      "source": "hanoimoi.com · Thời Báo Ngân Hàng · BBWV"
+      "insight": "Chính sách này có thể tạo cú hích cho nhiều ngành, đặc biệt là xây dựng và sản xuất.",
+      "source": "Bộ Tài chính"
     },
     {
       "cat": "Trong nước",
-      "headline": "Loạt chính sách kinh tế mới có hiệu lực từ tháng 9/2026.",
+      "headline": "Doanh nghiệp BĐS đẩy mạnh tái cấu trúc nợ",
       "bullets": [
-        "Nghị định mới về tài sản mã hóa có hiệu lực, phạt đến 200 triệu đồng.",
-        "Quy định mới về hoạt động ngoại thương có hiệu lực từ 5/9.",
-        "Sở Giao dịch hàng hóa phải có vốn điều lệ tối thiểu 1.500 tỷ đồng."
+        "Một tập đoàn bất động sản lớn công bố hoàn tất đàm phán gia hạn 8.000 tỷ đồng trái phiếu đáo hạn.",
+        "Động thái này giúp giảm áp lực tài chính, ổn định hoạt động kinh doanh.",
+        "Kế hoạch phát triển dự án mới được tái khởi động sau khi cơ cấu nợ thành công."
       ],
-      "insight": "Các quy định mới củng cố khung pháp lý, tăng cường minh bạch và quản lý rủi ro thị trường.",
-      "source": "Tạp chí Petrotimes · CafeF · Báo Lào Cai"
+      "insight": "Việc tái cấu trúc nợ thành công có thể cải thiện niềm tin vào ngành bất động sản và ngân hàng.",
+      "source": "CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN duy trì chính sách tiền tệ ổn định, tạo dư địa tăng trưởng.",
+      "headline": "NHNN tiếp tục điều tiết thanh khoản thị trường",
       "bullets": [
-        "NHNN giữ nguyên lãi suất điều hành, định hướng tín dụng vào sản xuất.",
-        "Không tính dư nợ nhà ở xã hội, BĐS KCN vào chỉ tiêu tăng trưởng tín dụng.",
-        "Tỷ giá được điều hành linh hoạt, can thiệp ngoại tệ khi cần thiết."
+        "Ngân hàng Nhà nước phát hành thêm tín phiếu, hút ròng 10.000 tỷ đồng từ hệ thống.",
+        "Mục tiêu duy trì ổn định lãi suất liên ngân hàng, kiểm soát lạm phát.",
+        "Thanh khoản hệ thống ngân hàng vẫn dồi dào, hỗ trợ tăng trưởng tín dụng."
       ],
-      "insight": "Chính sách ổn định của NHNN hỗ trợ doanh nghiệp tiếp cận vốn, thúc đẩy tăng trưởng kinh tế.",
-      "source": "Bnews.vn · VnEconomy"
+      "insight": "Hoạt động chủ động của NHNN giúp củng cố ổn định vĩ mô, tạo môi trường thuận lợi cho doanh nghiệp.",
+      "source": "Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ cao, Fed có 64% khả năng tăng lãi suất tháng 9.",
+      "headline": "Lạm phát Mỹ ổn định, Fed giữ nguyên lãi suất",
       "bullets": [
-        "Chủ tịch Fed Kevin Warsh cảnh báo lạm phát vẫn cao hơn mục tiêu 2%.",
-        "Thị trường định giá 64% khả năng Fed tăng lãi suất tại cuộc họp tháng 9.",
-        "Dữ liệu việc làm Mỹ cuối tuần này sẽ là yếu tố quan trọng quyết định."
+        "Chỉ số giá tiêu dùng (CPI) tháng 8 của Mỹ tăng 3,3% so với cùng kỳ, đúng như dự báo.",
+        "Dữ liệu này củng cố kỳ vọng Fed sẽ giữ nguyên lãi suất trong cuộc họp tháng 9.",
+        "Thị trường phản ứng tích cực, giảm lo ngại về chính sách tiền tệ thắt chặt."
       ],
-      "insight": "Kỳ vọng tăng lãi suất của Fed gia tăng gây áp lực lên các thị trường tài chính toàn cầu.",
-      "source": "CafeF · Thời báo Tài chính Việt Nam · 24H"
+      "insight": "Quyết định của Fed có thể giảm áp lực lên các đồng tiền châu Á, bao gồm VND.",
+      "source": "Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc đặt mục tiêu GDP 2026 thấp hơn, ưu tiên chất lượng tăng trưởng.",
+      "headline": "Biển Đỏ hạ nhiệt, chi phí vận tải biển giảm",
       "bullets": [
-        "Trung Quốc đặt mục tiêu tăng trưởng GDP 2026 ở mức 4,5-5%, thấp hơn 2025.",
-        "Chuyển dịch sang mô hình tăng trưởng chất lượng cao, công nghệ và tiêu dùng nội địa.",
-        "Kế hoạch 5 năm lần thứ 15 tập trung đổi mới sáng tạo, giảm phụ thuộc xuất khẩu."
+        "Các cuộc đàm phán ngoại giao thành công, giảm căng thẳng tại khu vực Biển Đỏ.",
+        "Chi phí vận chuyển container từ châu Á sang châu Âu giảm 10% trong tuần qua.",
+        "Điều này giúp giảm áp lực lạm phát nhập khẩu và chi phí sản xuất toàn cầu."
       ],
-      "insight": "Sự thay đổi chiến lược của Trung Quốc có thể tác động đến chuỗi cung ứng và thương mại toàn cầu.",
-      "source": "Vietnam+ · Dân trí · ITPC"
+      "insight": "Chi phí vận tải giảm là tín hiệu tích cực cho doanh nghiệp xuất nhập khẩu Việt Nam.",
+      "source": "CNBC"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#FDI",
-    "#ChínhSáchTiềnTệ",
-    "#Fed",
-    "#TrungQuốc"
+    "#KinhTếVN",
+    "#ChínhSách",
+    "#ThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
