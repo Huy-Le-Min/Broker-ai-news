@@ -1,87 +1,89 @@
 {
-  "date": "01/9/2026",
+  "date": "02/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Mới · VOV · Webgia.com · Bnews.vn · Investing.com · Znews",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Mới · VietnamBiz",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.260",
-      "change": "-0.05%",
-      "dir": "down"
+      "change": "+0,25%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
       "value": "148,7tr",
-      "change": "±0.0%",
+      "change": "0,0%",
       "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "90,49$",
-      "change": "+2.71%",
+      "value": "94,65$",
+      "change": "+4,6%",
       "dir": "up"
     }
   ],
-  "today_watch": "Mỹ công bố báo cáo việc làm phi nông nghiệp tháng 8.",
+  "today_watch": "Thị trường theo dõi diễn biến địa chính trị Trung Đông, tín hiệu Fed và chính sách hỗ trợ doanh nghiệp.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản Q2/2026: Nguồn cung tăng, hấp thụ giảm, nợ xấu ngân hàng tăng.",
+      "headline": "Chính phủ đề xuất Luật Phát triển DNNVV, chuyển tư duy hỗ trợ",
       "bullets": [
-        "Nguồn cung căn hộ Hà Nội, TP.HCM Q2 tăng 23-51%; nhưng tỷ lệ hấp thụ giảm, đặc biệt ở TP.HCM (-13%).",
-        "Nợ nhóm 2 ngành ngân hàng tăng lên 1,45% Q2; 60 nghìn tỷ trái phiếu BĐS đáo hạn nửa cuối 2026."
+        "Chính phủ đề xuất Luật Phát triển DNNVV, thay thế Luật Hỗ trợ DNNVV 2017, chuyển từ 'hỗ trợ' sang 'kiến tạo điều kiện thuận lợi'.",
+        "Dự thảo luật tập trung khơi thông điểm nghẽn về vốn, mặt bằng, thị trường và công nghệ cho doanh nghiệp."
       ],
-      "insight": "Thị trường BĐS đối mặt thách thức hấp thụ nguồn cung mới, rủi ro nợ xấu ngân hàng gia tăng.",
-      "source": "One Mount Group · 93 Capital"
+      "insight": "Chính sách mới kỳ vọng nâng cao năng lực cạnh tranh, thúc đẩy DNNVV phát triển bền vững hơn.",
+      "source": "Chinhphu.vn · LuatVietnam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu nửa đầu tháng 8: Nhập siêu thu hẹp, nhưng lũy kế vẫn lớn.",
+      "headline": "Bất động sản cuối năm phục hồi chọn lọc, lãi suất vẫn cao",
       "bullets": [
-        "Nửa đầu tháng 8/2026, nhập siêu 1,5 tỷ USD, giảm một nửa so với nửa đầu tháng 7.",
-        "Lũy kế đến 15/8, Việt Nam nhập siêu 21,88 tỷ USD, chủ yếu từ nhóm hàng sản xuất."
+        "Thị trường BĐS cuối năm 2026 dự báo phục hồi chọn lọc, dòng tiền ưu tiên dự án pháp lý rõ ràng.",
+        "Nguồn cung cải thiện nhưng giao dịch giảm; lãi suất cho vay BĐS phổ biến 12-14%/năm, hạn chế sức mua."
       ],
-      "insight": "Cán cân thương mại cải thiện trong ngắn hạn, nhưng áp lực nhập siêu lũy kế cần theo dõi sát.",
-      "source": "Cục Hải quan · VnEconomy · Investing.com"
+      "insight": "Thị trường cần thêm thời gian để hấp thụ nguồn cung và điều chỉnh mặt bằng giá, dòng tiền sẽ thận trọng hơn.",
+      "source": "Báo Lao Động · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ hỗ trợ doanh nghiệp 173,6 nghìn tỷ đồng qua miễn giảm thuế phí.",
+      "headline": "Bán lẻ Hà Nội tăng trưởng tích cực 8 tháng đầu năm",
       "bullets": [
-        "Trong 7 tháng đầu năm 2026, Nhà nước miễn, giảm và gia hạn thuế, phí khoảng 173,6 nghìn tỷ đồng.",
-        "Chính sách tài khóa tích cực nhằm hỗ trợ tổng cầu, tạo dư địa cho doanh nghiệp duy trì sản xuất."
+        "Tổng mức bán lẻ hàng hóa và dịch vụ tiêu dùng Hà Nội tháng 8/2026 đạt 95,5 nghìn tỷ đồng, tăng 16,3% so với cùng kỳ.",
+        "Lũy kế 8 tháng đạt 708,2 nghìn tỷ đồng, tăng 14,9% so với cùng kỳ, cho thấy sức mua nội địa khởi sắc."
       ],
-      "insight": "Dòng tiền hỗ trợ từ chính sách tài khóa giúp doanh nghiệp ổn định, thúc đẩy hoạt động kinh doanh.",
-      "source": "Phunuvietnam.vn"
+      "insight": "Sức mua nội địa ổn định là điểm tựa quan trọng cho tăng trưởng kinh tế, đặc biệt nhóm ngành bán lẻ cuối năm.",
+      "source": "Vietnam+ · Báo Công lý"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Trung Đông leo thang, giá dầu Brent vượt 90 USD/thùng.",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 94 USD",
       "bullets": [
-        "Mỹ và Iran nối lại tấn công quân sự, đẩy giá dầu Brent tăng 2,71% lên 90,49 USD/thùng.",
-        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz gia tăng, ảnh hưởng lạm phát toàn cầu."
+        "Mỹ tiến hành không kích mới vào Iran, làm dấy lên lo ngại gián đoạn nguồn cung dầu từ Trung Đông.",
+        "Giá dầu Brent tăng 4,6% lên 94,65 USD/thùng, đạt mức cao nhất trong 5 tuần qua."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát, có thể ảnh hưởng chi phí sản xuất và vận chuyển.",
-      "source": "Reuters · CNBC · VOV · Znews"
+      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
+      "source": "Reuters · Eva.vn · PetroTimes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed tăng lãi suất tháng 9: Thị trường châu Á biến động, Mỹ giảm điểm.",
+      "headline": "Xác suất Fed tăng lãi suất tháng 9 tăng vọt, chứng khoán Mỹ giảm",
       "bullets": [
-        "Thị trường định giá 57% xác suất Fed nâng lãi suất tháng 9 sau phát biểu Chủ tịch Warsh.",
-        "Chứng khoán Mỹ giảm phiên 31/8; châu Á biến động trái chiều do lo ngại chính sách Fed."
+        "Xác suất Fed tăng lãi suất tháng 9 lên 68% sau phát biểu của Chủ tịch Fed Kevin Warsh.",
+        "Chứng khoán Mỹ giảm điểm mạnh (Dow Jones -0,79%, S&P 500 -0,71%, Nasdaq -1,03%) do lo ngại lạm phát, giá dầu."
       ],
-      "insight": "Kỳ vọng Fed thắt chặt tiền tệ tiếp tục tạo áp lực lên tâm lý nhà đầu tư toàn cầu.",
-      "source": "CafeF · Bnews.vn · Investing.com · TipRanks.com"
+      "insight": "Rủi ro Fed thắt chặt tiền tệ gia tăng có thể ảnh hưởng đến dòng vốn ngoại và tỷ giá USD/VND.",
+      "source": "Vietstock · VietnamBiz · Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#KinhTếThếGiới",
+    "#Fed",
     "#GiáDầu",
-    "#Fed"
+    "#BấtĐộngSản",
+    "#DNNVV",
+    "#BánLẻ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
