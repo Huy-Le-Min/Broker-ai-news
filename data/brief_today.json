@@ -1,89 +1,93 @@
 {
-  "date": "02/9/2026",
+  "date": "03/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Mới · VietnamBiz",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Đấu thầu · Báo Mới · VietnamBiz",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.260",
-      "change": "+0,25%",
-      "dir": "up"
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
       "value": "148,7tr",
-      "change": "0,0%",
+      "change": "0%",
       "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "94,65$",
-      "change": "+4,6%",
-      "dir": "up"
+      "value": "95,2$",
+      "change": "-0,45%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Thị trường theo dõi diễn biến địa chính trị Trung Đông, tín hiệu Fed và chính sách hỗ trợ doanh nghiệp.",
+  "today_watch": "Thị trường chờ báo cáo việc làm phi nông nghiệp Mỹ tháng 8 (NFP) vào thứ Sáu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đề xuất Luật Phát triển DNNVV, chuyển tư duy hỗ trợ",
+      "headline": "Sản xuất Việt Nam tháng 8 tăng tốc mạnh nhất 2 năm",
       "bullets": [
-        "Chính phủ đề xuất Luật Phát triển DNNVV, thay thế Luật Hỗ trợ DNNVV 2017, chuyển từ 'hỗ trợ' sang 'kiến tạo điều kiện thuận lợi'.",
-        "Dự thảo luật tập trung khơi thông điểm nghẽn về vốn, mặt bằng, thị trường và công nghệ cho doanh nghiệp."
+        "PMI ngành sản xuất Việt Nam tháng 8 đạt 53,3 điểm, tăng từ 52,9 điểm tháng 7.",
+        "Sản lượng tăng tháng thứ 16 liên tiếp, với tốc độ nhanh nhất trong hơn hai năm.",
+        "Đơn đặt hàng xuất khẩu mới giảm nhẹ lần đầu tiên sau 4 tháng."
       ],
-      "insight": "Chính sách mới kỳ vọng nâng cao năng lực cạnh tranh, thúc đẩy DNNVV phát triển bền vững hơn.",
-      "source": "Chinhphu.vn · LuatVietnam"
+      "insight": "Dù xuất khẩu đối mặt thách thức, ngành sản xuất trong nước vẫn duy trì đà phục hồi tích cực.",
+      "source": "S&P Global, VietnamBiz"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản cuối năm phục hồi chọn lọc, lãi suất vẫn cao",
+      "headline": "Giải ngân đầu tư công đạt 46,7% kế hoạch đến 20/8",
       "bullets": [
-        "Thị trường BĐS cuối năm 2026 dự báo phục hồi chọn lọc, dòng tiền ưu tiên dự án pháp lý rõ ràng.",
-        "Nguồn cung cải thiện nhưng giao dịch giảm; lãi suất cho vay BĐS phổ biến 12-14%/năm, hạn chế sức mua."
+        "Lũy kế đến 20/8/2026, giải ngân vốn đầu tư công đạt 477.177,9 tỷ đồng.",
+        "Tỷ lệ này tương đương 46,7% kế hoạch Thủ tướng Chính phủ giao cho năm 2026.",
+        "Tốc độ giải ngân đã cải thiện rõ rệt trong tháng 8."
       ],
-      "insight": "Thị trường cần thêm thời gian để hấp thụ nguồn cung và điều chỉnh mặt bằng giá, dòng tiền sẽ thận trọng hơn.",
-      "source": "Báo Lao Động · CafeF"
+      "insight": "Dòng vốn đầu tư công đang được đẩy nhanh, tạo động lực cho tăng trưởng kinh tế cuối năm.",
+      "source": "Bộ Tài chính, Báo Đấu thầu"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bán lẻ Hà Nội tăng trưởng tích cực 8 tháng đầu năm",
+      "headline": "Xuất khẩu rau quả 8 tháng đạt gần 5,87 tỷ USD",
       "bullets": [
-        "Tổng mức bán lẻ hàng hóa và dịch vụ tiêu dùng Hà Nội tháng 8/2026 đạt 95,5 nghìn tỷ đồng, tăng 16,3% so với cùng kỳ.",
-        "Lũy kế 8 tháng đạt 708,2 nghìn tỷ đồng, tăng 14,9% so với cùng kỳ, cho thấy sức mua nội địa khởi sắc."
+        "8 tháng đầu năm 2026, kim ngạch xuất khẩu rau quả Việt Nam đạt xấp xỉ 5,87 tỷ USD.",
+        "Con số này tăng 21,8% so với cùng kỳ năm 2025.",
+        "Riêng tháng 8, xuất khẩu rau quả đạt khoảng 1,1 tỷ USD, tháng thứ hai liên tiếp vượt mốc tỷ USD."
       ],
-      "insight": "Sức mua nội địa ổn định là điểm tựa quan trọng cho tăng trưởng kinh tế, đặc biệt nhóm ngành bán lẻ cuối năm.",
-      "source": "Vietnam+ · Báo Công lý"
+      "insight": "Ngành rau quả tiếp tục là điểm sáng, đóng góp tích cực vào cán cân thương mại Việt Nam.",
+      "source": "Báo Mới, Báo Gia Lai"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent vượt 94 USD",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent biến động",
       "bullets": [
-        "Mỹ tiến hành không kích mới vào Iran, làm dấy lên lo ngại gián đoạn nguồn cung dầu từ Trung Đông.",
-        "Giá dầu Brent tăng 4,6% lên 94,65 USD/thùng, đạt mức cao nhất trong 5 tuần qua."
+        "Mỹ và Iran tiếp tục đối đầu quân sự, tấn công lẫn nhau ở Trung Đông.",
+        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz đẩy giá dầu Brent lên 95,63 USD/thùng.",
+        "Giá dầu Brent sau đó giảm nhẹ xuống 95,2 USD/thùng sáng 3/9."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
-      "source": "Reuters · Eva.vn · PetroTimes"
+      "insight": "Xung đột địa chính trị tiếp tục gây áp lực lớn lên thị trường năng lượng toàn cầu.",
+      "source": "Reuters, PetroTimes, VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Xác suất Fed tăng lãi suất tháng 9 tăng vọt, chứng khoán Mỹ giảm",
+      "headline": "Chứng khoán Mỹ phục hồi, Fed vẫn là ẩn số lãi suất",
       "bullets": [
-        "Xác suất Fed tăng lãi suất tháng 9 lên 68% sau phát biểu của Chủ tịch Fed Kevin Warsh.",
-        "Chứng khoán Mỹ giảm điểm mạnh (Dow Jones -0,79%, S&P 500 -0,71%, Nasdaq -1,03%) do lo ngại lạm phát, giá dầu."
+        "Chứng khoán Mỹ tăng điểm phiên 2/9, phục hồi sau 3 phiên giảm liên tiếp.",
+        "Lợi suất trái phiếu chững lại, nhưng lo ngại lạm phát và giá dầu vẫn gây áp lực.",
+        "Dữ liệu việc làm ADP thấp hơn dự kiến làm giảm kỳ vọng Fed tăng lãi suất tháng 9."
       ],
-      "insight": "Rủi ro Fed thắt chặt tiền tệ gia tăng có thể ảnh hưởng đến dòng vốn ngoại và tỷ giá USD/VND.",
-      "source": "Vietstock · VietnamBiz · Báo Mới"
+      "insight": "Thị trường toàn cầu chờ đợi báo cáo việc làm Mỹ để định hình rõ hơn chính sách tiền tệ của Fed.",
+      "source": "CNBC, Vietstock, VietnamBiz"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#Fed",
     "#GiáDầu",
-    "#BấtĐộngSản",
-    "#DNNVV",
-    "#BánLẻ"
+    "#PMIViệtNam",
+    "#ĐầuTưCông",
+    "#XuấtKhẩu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
