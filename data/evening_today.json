@@ -1,100 +1,100 @@
 {
-  "date": "02/9/2026",
+  "date": "03/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Dân trí · Báo Lao Động · VTV",
   "session": {
-    "vnindex_close": "1.835,80",
-    "vnindex_change": "+3,68%",
+    "vnindex_close": "1.835,50",
+    "vnindex_change": "+0,42%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 250 tỷ",
-    "foreign_dir": "buy",
-    "volume": "17.800 tỷ",
-    "top_gainer": "Nhóm công nghệ"
+    "foreign_net": "Bán ròng 950 tỷ VND",
+    "foreign_dir": "sell",
+    "volume": "≈15.8 nghìn tỷ VND",
+    "top_gainer": "Bất động sản (VIC), Ngân hàng (SSB)"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.105",
-      "change": "+0,06%",
+      "value": "25.870",
+      "change": "+0,05%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "78,50tr",
-      "change": "+0,20%",
+      "value": "78,50 triệu VND/lượng",
+      "change": "+0,15%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "88,70$",
-      "change": "-0,35%",
-      "dir": "down"
+      "value": "91,25$",
+      "change": "+0,85%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Mỹ công bố báo cáo việc làm tháng 8; Việt Nam công bố chỉ số PMI sản xuất.",
+  "tomorrow_watch": "Thị trường theo dõi giá dầu, lạm phát toàn cầu và động thái các NHTW.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đẩy mạnh gói kích thích tài khóa mới",
+      "headline": "Thị trường trái phiếu doanh nghiệp sôi động, lãi suất hấp dẫn",
       "bullets": [
-        "Bộ Tài chính đề xuất gói kích thích tài khóa 120.000 tỷ đồng, tập trung vào đầu tư công và miễn giảm thuế.",
-        "Mục tiêu hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng GDP cuối năm 2026.",
-        "Các biện pháp dự kiến có hiệu lực từ quý IV, kỳ vọng tạo động lực mới."
+        "Tháng 8 ghi nhận 28 lô trái phiếu phát hành, tổng giá trị gần 28.700 tỷ VND.",
+        "Lãi suất một số lô đạt 13%/năm, cho thấy nhu cầu huy động vốn cao."
       ],
-      "insight": "Chính sách này có thể tạo cú hích cho nhiều ngành, đặc biệt là xây dựng và sản xuất.",
-      "source": "Bộ Tài chính"
+      "insight": "Dòng vốn tìm kiếm lợi suất cao, nhưng rủi ro thanh khoản vẫn cần đánh giá kỹ lưỡng.",
+      "source": "Dân trí, VBMA"
     },
     {
       "cat": "Trong nước",
-      "headline": "Doanh nghiệp BĐS đẩy mạnh tái cấu trúc nợ",
+      "headline": "Chính sách mới hỗ trợ DNNVV từ 2026",
       "bullets": [
-        "Một tập đoàn bất động sản lớn công bố hoàn tất đàm phán gia hạn 8.000 tỷ đồng trái phiếu đáo hạn.",
-        "Động thái này giúp giảm áp lực tài chính, ổn định hoạt động kinh doanh.",
-        "Kế hoạch phát triển dự án mới được tái khởi động sau khi cơ cấu nợ thành công."
+        "Nghị định 20/2026 miễn thuế TNDN 3 năm cho SME mới, miễn lệ phí môn bài từ 01/01/2026.",
+        "Hộ kinh doanh, cá nhân không áp dụng phương pháp khoán thuế từ 01/01/2026."
       ],
-      "insight": "Việc tái cấu trúc nợ thành công có thể cải thiện niềm tin vào ngành bất động sản và ngân hàng.",
-      "source": "CafeF"
+      "insight": "Các chính sách mới thúc đẩy phát triển doanh nghiệp, tạo môi trường kinh doanh thuận lợi hơn.",
+      "source": "LuatVietnam, SmartSME"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN tiếp tục điều tiết thanh khoản thị trường",
+      "headline": "Thu ngân sách 8 tháng vượt 2 triệu tỷ; xuất khẩu nông sản khởi sắc",
       "bullets": [
-        "Ngân hàng Nhà nước phát hành thêm tín phiếu, hút ròng 10.000 tỷ đồng từ hệ thống.",
-        "Mục tiêu duy trì ổn định lãi suất liên ngân hàng, kiểm soát lạm phát.",
-        "Thanh khoản hệ thống ngân hàng vẫn dồi dào, hỗ trợ tăng trưởng tín dụng."
+        "Thu ngân sách Nhà nước 8 tháng đầu năm 2026 ước đạt 2.023,8 nghìn tỷ VND, tăng 16% so cùng kỳ.",
+        "Xuất khẩu nông, lâm, thủy sản 8 tháng đạt gần 49,31 tỷ USD, tăng 7%."
       ],
-      "insight": "Hoạt động chủ động của NHNN giúp củng cố ổn định vĩ mô, tạo môi trường thuận lợi cho doanh nghiệp.",
-      "source": "Vietstock"
+      "insight": "Kinh tế vĩ mô ổn định, các động lực tăng trưởng tiếp tục phát huy hiệu quả.",
+      "source": "VTV, Bộ Tài chính"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ ổn định, Fed giữ nguyên lãi suất",
+      "headline": "Lạm phát Eurozone tăng mạnh, ECB có thể nâng lãi suất tháng 9",
       "bullets": [
-        "Chỉ số giá tiêu dùng (CPI) tháng 8 của Mỹ tăng 3,3% so với cùng kỳ, đúng như dự báo.",
-        "Dữ liệu này củng cố kỳ vọng Fed sẽ giữ nguyên lãi suất trong cuộc họp tháng 9.",
-        "Thị trường phản ứng tích cực, giảm lo ngại về chính sách tiền tệ thắt chặt."
+        "Lạm phát Eurozone tháng 8 tăng lên 3,3%, mức cao nhất 3 năm, do giá năng lượng tăng.",
+        "Ngân hàng Trung ương châu Âu (ECB) nhiều khả năng sẽ tăng lãi suất trong tháng 9."
       ],
-      "insight": "Quyết định của Fed có thể giảm áp lực lên các đồng tiền châu Á, bao gồm VND.",
-      "source": "Reuters"
+      "insight": "Chính sách tiền tệ thắt chặt tiếp diễn ở châu Âu có thể ảnh hưởng đến tăng trưởng toàn cầu.",
+      "source": "Truyền hình Quảng Ngãi, baotintuc.vn, Investing.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Biển Đỏ hạ nhiệt, chi phí vận tải biển giảm",
+      "headline": "Việc làm tư nhân Mỹ tháng 8 gây thất vọng, Fed đối mặt áp lực mới",
       "bullets": [
-        "Các cuộc đàm phán ngoại giao thành công, giảm căng thẳng tại khu vực Biển Đỏ.",
-        "Chi phí vận chuyển container từ châu Á sang châu Âu giảm 10% trong tuần qua.",
-        "Điều này giúp giảm áp lực lạm phát nhập khẩu và chi phí sản xuất toàn cầu."
+        "Khu vực tư nhân Mỹ chỉ tạo 38.000 việc làm tháng 8, thấp hơn dự báo 47.000.",
+        "Tăng trưởng việc làm yếu 3 tháng liên tiếp, làm dấy lên lo ngại về sức khỏe thị trường lao động."
       ],
-      "insight": "Chi phí vận tải giảm là tín hiệu tích cực cho doanh nghiệp xuất nhập khẩu Việt Nam.",
-      "source": "CNBC"
+      "insight": "Dữ liệu yếu có thể khiến Fed cân nhắc lại chính sách, tác động đến tâm lý thị trường toàn cầu.",
+      "source": "Báo Lao Động, Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#KinhTếVN",
-    "#ChínhSách",
-    "#ThịTrường"
+    "#Vietcap",
+    "#VNIndex",
+    "#KinhTếViệtNam",
+    "#TráiPhiếuDoanhNghiệp",
+    "#DNNVV",
+    "#ECB",
+    "#LạmPhát",
+    "#ThịTrườngLaoĐộngMỹ"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
