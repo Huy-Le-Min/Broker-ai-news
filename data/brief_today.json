@@ -1,93 +1,88 @@
 {
-  "date": "03/9/2026",
+  "date": "04/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Đấu thầu · Báo Mới · VietnamBiz",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Bnews · Chợ Giá",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.260",
-      "change": "0%",
-      "dir": "flat"
+      "value": "26.362",
+      "change": "+5đ",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,7tr",
-      "change": "0%",
-      "dir": "flat"
+      "value": "148,4tr",
+      "change": "+1trđ",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "95,2$",
-      "change": "-0,45%",
+      "value": "95,07$",
+      "change": "-0,6%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường chờ báo cáo việc làm phi nông nghiệp Mỹ tháng 8 (NFP) vào thứ Sáu.",
+  "today_watch": "Mỹ công bố báo cáo việc làm tháng 8, ảnh hưởng quyết định lãi suất Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất Việt Nam tháng 8 tăng tốc mạnh nhất 2 năm",
+      "headline": "Xuất nhập khẩu 8 tháng lập kỷ lục, nhập siêu 20,46 tỷ USD",
       "bullets": [
-        "PMI ngành sản xuất Việt Nam tháng 8 đạt 53,3 điểm, tăng từ 52,9 điểm tháng 7.",
-        "Sản lượng tăng tháng thứ 16 liên tiếp, với tốc độ nhanh nhất trong hơn hai năm.",
-        "Đơn đặt hàng xuất khẩu mới giảm nhẹ lần đầu tiên sau 4 tháng."
+        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD, cao nhất từ trước đến nay, tăng 28,7% so với cùng kỳ 2025.",
+        "Việt Nam nhập siêu 20,46 tỷ USD trong 8 tháng, do nhập khẩu tăng nhanh hơn xuất khẩu (35,3% so với 22,4%)."
       ],
-      "insight": "Dù xuất khẩu đối mặt thách thức, ngành sản xuất trong nước vẫn duy trì đà phục hồi tích cực.",
-      "source": "S&P Global, VietnamBiz"
+      "insight": "Nhập siêu lớn cho thấy nhu cầu nguyên liệu sản xuất tăng, nhưng cũng tạo áp lực lên tỷ giá và cán cân thương mại.",
+      "source": "VOV · VnEconomy · Dân trí"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công đạt 46,7% kế hoạch đến 20/8",
+      "headline": "VN-Index giảm nhẹ phiên 3/9, khối ngoại bán ròng mạnh",
       "bullets": [
-        "Lũy kế đến 20/8/2026, giải ngân vốn đầu tư công đạt 477.177,9 tỷ đồng.",
-        "Tỷ lệ này tương đương 46,7% kế hoạch Thủ tướng Chính phủ giao cho năm 2026.",
-        "Tốc độ giải ngân đã cải thiện rõ rệt trong tháng 8."
+        "VN-Index giảm 4,4 điểm (-0,24%) xuống 1.827,72 điểm phiên 3/9, chấm dứt chuỗi 7 phiên tăng liên tiếp.",
+        "Thanh khoản đạt 17.464 tỷ đồng; khối ngoại bán ròng 1.525,94 tỷ đồng trên HoSE, tập trung VCB, VPB, TCB."
       ],
-      "insight": "Dòng vốn đầu tư công đang được đẩy nhanh, tạo động lực cho tăng trưởng kinh tế cuối năm.",
-      "source": "Bộ Tài chính, Báo Đấu thầu"
+      "insight": "Áp lực chốt lời gia tăng sau kỳ nghỉ lễ, nhưng lực cầu vẫn hỗ trợ chỉ số tại vùng giá thấp.",
+      "source": "Báo Mới · Tuổi Trẻ Online"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất khẩu rau quả 8 tháng đạt gần 5,87 tỷ USD",
+      "headline": "Ngân hàng đầu tiên tăng lãi suất tiền gửi tháng 9",
       "bullets": [
-        "8 tháng đầu năm 2026, kim ngạch xuất khẩu rau quả Việt Nam đạt xấp xỉ 5,87 tỷ USD.",
-        "Con số này tăng 21,8% so với cùng kỳ năm 2025.",
-        "Riêng tháng 8, xuất khẩu rau quả đạt khoảng 1,1 tỷ USD, tháng thứ hai liên tiếp vượt mốc tỷ USD."
+        "Một số ngân hàng thương mại bắt đầu tăng lãi suất tiền gửi trong tháng 9/2026, phá vỡ xu hướng giảm chung.",
+        "Động thái này diễn ra trong bối cảnh thanh khoản thị trường có dấu hiệu căng thẳng cục bộ."
       ],
-      "insight": "Ngành rau quả tiếp tục là điểm sáng, đóng góp tích cực vào cán cân thương mại Việt Nam.",
-      "source": "Báo Mới, Báo Gia Lai"
+      "insight": "Việc tăng lãi suất huy động có thể gây áp lực lên chi phí vốn của doanh nghiệp và thị trường bất động sản.",
+      "source": "Doanh Nhân Trẻ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu Brent biến động",
+      "headline": "Lợi suất trái phiếu Mỹ 10 năm cao kỷ lục 4,818%",
       "bullets": [
-        "Mỹ và Iran tiếp tục đối đầu quân sự, tấn công lẫn nhau ở Trung Đông.",
-        "Lo ngại gián đoạn nguồn cung qua eo biển Hormuz đẩy giá dầu Brent lên 95,63 USD/thùng.",
-        "Giá dầu Brent sau đó giảm nhẹ xuống 95,2 USD/thùng sáng 3/9."
+        "Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 10 năm đạt 4,818% ngày 2/9, cao nhất kể từ tháng 11/2023.",
+        "Mức tăng này phản ánh lo ngại lạm phát và nợ công gia tăng, gây áp lực lên chính sách Fed."
       ],
-      "insight": "Xung đột địa chính trị tiếp tục gây áp lực lớn lên thị trường năng lượng toàn cầu.",
-      "source": "Reuters, PetroTimes, VietnamBiz"
+      "insight": "Lợi suất tăng cao làm tăng chi phí vay toàn cầu, có thể ảnh hưởng đến dòng vốn đầu tư vào các thị trường mới nổi.",
+      "source": "Bnews · Doanh Nhân Trẻ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ phục hồi, Fed vẫn là ẩn số lãi suất",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu biến động",
       "bullets": [
-        "Chứng khoán Mỹ tăng điểm phiên 2/9, phục hồi sau 3 phiên giảm liên tiếp.",
-        "Lợi suất trái phiếu chững lại, nhưng lo ngại lạm phát và giá dầu vẫn gây áp lực.",
-        "Dữ liệu việc làm ADP thấp hơn dự kiến làm giảm kỳ vọng Fed tăng lãi suất tháng 9."
+        "Mỹ tiến hành không kích mới vào Iran đêm 2/9, Israel cảnh báo tấn công Tehran, làm leo thang căng thẳng Trung Đông.",
+        "Giá dầu Brent biến động mạnh, có lúc tăng lên 97,29 USD/thùng do lo ngại gián đoạn nguồn cung."
       ],
-      "insight": "Thị trường toàn cầu chờ đợi báo cáo việc làm Mỹ để định hình rõ hơn chính sách tiền tệ của Fed.",
-      "source": "CNBC, Vietstock, VietnamBiz"
+      "insight": "Xung đột địa chính trị đẩy giá dầu tăng, gia tăng rủi ro lạm phát toàn cầu và chi phí sản xuất trong nước.",
+      "source": "Eva.vn · Năng lượng Quốc tế · VOV"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
+    "#ThịTrườngTàiChính",
     "#GiáDầu",
-    "#PMIViệtNam",
-    "#ĐầuTưCông",
-    "#XuấtKhẩu"
+    "#GiáVàng",
+    "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
