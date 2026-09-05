@@ -1,87 +1,88 @@
 {
-  "date": "04/9/2026",
+  "date": "05/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Bnews · Chợ Giá",
+  "sources": "VnEconomy · Báo Chính phủ · Vietstock · SSI Research · Bnews · CNBC · VietnamBiz · Reuters · Eva.vn · VietNamNet",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.362",
-      "change": "+5đ",
-      "dir": "up"
+      "value": "26.255",
+      "change": "-0.11%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,4tr",
-      "change": "+1trđ",
+      "value": "148,6tr",
+      "change": "+0.13%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "95,07$",
-      "change": "-0,6%",
-      "dir": "down"
+      "value": "96,28$",
+      "change": "+0.8%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Mỹ công bố báo cáo việc làm tháng 8, ảnh hưởng quyết định lãi suất Fed.",
+  "today_watch": "Thị trường chờ đợi dữ liệu lạm phát Mỹ và diễn biến tái cơ cấu ETF trong nước.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu 8 tháng lập kỷ lục, nhập siêu 20,46 tỷ USD",
+      "headline": "FDI 8 tháng vượt 40 tỷ USD, vốn thực hiện cao nhất 5 năm",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD, cao nhất từ trước đến nay, tăng 28,7% so với cùng kỳ 2025.",
-        "Việt Nam nhập siêu 20,46 tỷ USD trong 8 tháng, do nhập khẩu tăng nhanh hơn xuất khẩu (35,3% so với 22,4%)."
+        "Tổng vốn FDI đăng ký vào Việt Nam 8 tháng đạt 40,63 tỷ USD, tăng 55,4% so với cùng kỳ 2025.",
+        "Vốn FDI thực hiện ước đạt 17,25 tỷ USD, mức cao nhất trong 8 tháng qua của 5 năm."
       ],
-      "insight": "Nhập siêu lớn cho thấy nhu cầu nguyên liệu sản xuất tăng, nhưng cũng tạo áp lực lên tỷ giá và cán cân thương mại.",
-      "source": "VOV · VnEconomy · Dân trí"
+      "insight": "Dòng vốn ngoại mạnh mẽ cho thấy niềm tin nhà đầu tư, là động lực quan trọng cho tăng trưởng kinh tế và thị trường.",
+      "source": "VnEconomy, Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm nhẹ phiên 3/9, khối ngoại bán ròng mạnh",
+      "headline": "ETF tái cơ cấu tháng 9, nhiều mã lớn chịu áp lực",
       "bullets": [
-        "VN-Index giảm 4,4 điểm (-0,24%) xuống 1.827,72 điểm phiên 3/9, chấm dứt chuỗi 7 phiên tăng liên tiếp.",
-        "Thanh khoản đạt 17.464 tỷ đồng; khối ngoại bán ròng 1.525,94 tỷ đồng trên HoSE, tập trung VCB, VPB, TCB."
+        "FTSE Vietnam Index loại 21 mã trong kỳ review bán niên, có hiệu lực từ 21/9/2026.",
+        "Fubon ETF dự kiến bán ra hàng chục triệu cổ phiếu VND, VCI; VanEck Vietnam ETF mua ròng SSB."
       ],
-      "insight": "Áp lực chốt lời gia tăng sau kỳ nghỉ lễ, nhưng lực cầu vẫn hỗ trợ chỉ số tại vùng giá thấp.",
-      "source": "Báo Mới · Tuổi Trẻ Online"
+      "insight": "Hoạt động tái cơ cấu ETF sẽ tạo biến động ngắn hạn cho các cổ phiếu bị thêm/bớt, ảnh hưởng dòng tiền.",
+      "source": "Vietstock, SSI Research"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ngân hàng đầu tiên tăng lãi suất tiền gửi tháng 9",
+      "headline": "Dự thảo: Dự án lớn Hà Nội có thể vay tới 52% vốn tự có ngân hàng",
       "bullets": [
-        "Một số ngân hàng thương mại bắt đầu tăng lãi suất tiền gửi trong tháng 9/2026, phá vỡ xu hướng giảm chung.",
-        "Động thái này diễn ra trong bối cảnh thanh khoản thị trường có dấu hiệu căng thẳng cục bộ."
+        "NHNN đang lấy ý kiến dự thảo cho phép các dự án lớn tại Hà Nội vay tối đa 52% vốn tự có của ngân hàng.",
+        "Chính sách này nhằm tháo gỡ khó khăn vốn cho các dự án quan trọng, đặc biệt trong lĩnh vực bất động sản và hạ tầng."
       ],
-      "insight": "Việc tăng lãi suất huy động có thể gây áp lực lên chi phí vốn của doanh nghiệp và thị trường bất động sản.",
-      "source": "Doanh Nhân Trẻ"
+      "insight": "Chính sách mới có thể mở rộng nguồn vốn cho các dự án trọng điểm, hỗ trợ tăng trưởng tín dụng và thị trường BĐS.",
+      "source": "Bnews"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lợi suất trái phiếu Mỹ 10 năm cao kỷ lục 4,818%",
+      "headline": "Chứng khoán Mỹ giảm do việc làm tháng 8 vượt dự báo, tăng lo ngại Fed",
       "bullets": [
-        "Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 10 năm đạt 4,818% ngày 2/9, cao nhất kể từ tháng 11/2023.",
-        "Mức tăng này phản ánh lo ngại lạm phát và nợ công gia tăng, gây áp lực lên chính sách Fed."
+        "Thị trường Mỹ giảm điểm phiên 4/9, Dow Jones mất 0,51%, S&P 500 giảm 0,38%.",
+        "Kinh tế Mỹ tạo thêm 162.000 việc làm phi nông nghiệp tháng 8, cao gấp ba dự báo 56.000.",
+        "Xác suất Fed tăng lãi suất tháng 9 tăng lên 58,4% sau báo cáo việc làm tích cực."
       ],
-      "insight": "Lợi suất tăng cao làm tăng chi phí vay toàn cầu, có thể ảnh hưởng đến dòng vốn đầu tư vào các thị trường mới nổi.",
-      "source": "Bnews · Doanh Nhân Trẻ"
+      "insight": "Dữ liệu việc làm \"nóng\" làm tăng áp lực lên Fed, có thể khiến chính sách tiền tệ thắt chặt hơn dự kiến.",
+      "source": "CNBC, VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Mỹ-Iran leo thang, giá dầu biến động",
+      "headline": "Giá dầu Brent tăng mạnh 7,6% tuần qua do xung đột Mỹ-Iran",
       "bullets": [
-        "Mỹ tiến hành không kích mới vào Iran đêm 2/9, Israel cảnh báo tấn công Tehran, làm leo thang căng thẳng Trung Đông.",
-        "Giá dầu Brent biến động mạnh, có lúc tăng lên 97,29 USD/thùng do lo ngại gián đoạn nguồn cung."
+        "Giá dầu Brent chốt tuần tăng 7,6%, dầu WTI tăng gần 10% do căng thẳng Mỹ-Iran tái diễn.",
+        "Giá dầu diesel bán lẻ tại Mỹ lập kỷ lục mới, gây áp lực lạm phát toàn cầu."
       ],
-      "insight": "Xung đột địa chính trị đẩy giá dầu tăng, gia tăng rủi ro lạm phát toàn cầu và chi phí sản xuất trong nước.",
-      "source": "Eva.vn · Năng lượng Quốc tế · VOV"
+      "insight": "Xung đột địa chính trị tiếp tục là yếu tố chính đẩy giá dầu, gây lo ngại lạm phát và chi phí vận chuyển.",
+      "source": "Reuters, Eva.vn"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
+    "#FDI",
+    "#ETF",
     "#GiáDầu",
-    "#GiáVàng",
     "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
