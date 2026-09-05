@@ -1,96 +1,101 @@
 {
-  "date": "04/9/2026",
+  "date": "05/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews · Petrotimes",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
     "vnindex_close": "1.853,08",
     "vnindex_change": "+1,39%",
     "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 118,8 tỷ",
+    "foreign_net": "Mua ròng 118,1 tỷ",
     "foreign_dir": "buy",
-    "volume": "16.700 tỷ",
-    "top_gainer": "Nhóm Vingroup (VIC, VHM)"
+    "volume": "≈18.000 tỷ",
+    "top_gainer": "nhóm Vin, ngân hàng"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "25.605",
-      "change": "-10 VND",
+      "value": "26.255",
+      "change": "-30đ",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,6 triệu",
-      "change": "+0,81%",
-      "dir": "up"
+      "value": "147,6tr",
+      "change": "-1tr",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "95,52$",
-      "change": "+0,47%",
+      "value": "92,68$",
+      "change": "+0,8%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Báo cáo việc làm phi nông nghiệp Mỹ (NFP) tháng 8",
+  "tomorrow_watch": "Dữ liệu lạm phát PPI/CPI Mỹ tuần tới; diễn biến giá dầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index vượt 1.850 điểm nhờ nhóm Vin",
+      "headline": "VN-Index tăng mạnh, nhóm Vin và ngân hàng dẫn dắt",
       "bullets": [
-        "VN-Index tăng 25,36 điểm (+1,39%) lên 1.853,08 điểm, chủ yếu nhờ lực kéo từ nhóm cổ phiếu vốn hóa lớn.",
-        "VIC tăng 4,74%, đóng góp hơn 19 điểm; VHM tăng 2,45%, góp thêm 3 điểm vào chỉ số chung.",
-        "Khối ngoại mua ròng 118,8 tỷ đồng trên cả ba sàn, tập trung vào VIC và VHM."
+        "VN-Index đóng cửa 1.853,08 điểm, tăng 25,36 điểm (+1,39%).",
+        "Khối ngoại mua ròng nhẹ 118,1 tỷ đồng; thanh khoản ba sàn đạt gần 18.000 tỷ đồng.",
+        "Nhóm cổ phiếu VinGroup (VIC, VHM) và ngân hàng (VPB, STB) dẫn dắt đà tăng."
       ],
-      "insight": "Đà tăng của thị trường phụ thuộc nhiều vào nhóm vốn hóa lớn, cho thấy dòng tiền chưa lan tỏa đồng đều.",
-      "source": "CafeF · VnExpress · Vietstock"
+      "insight": "Đà tăng tập trung vào trụ lớn cho thấy thị trường chưa đồng thuận rộng rãi, cần thanh khoản tốt hơn.",
+      "source": "VnEconomy · Lao Động"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vốn đăng ký doanh nghiệp mới tháng 8 tăng 33,2%",
+      "headline": "Giá vàng SJC lao dốc, giảm 1 triệu đồng/lượng",
       "bullets": [
-        "Vốn đăng ký bình quân một doanh nghiệp thành lập mới tháng 8 đạt 15,6 tỷ đồng, tăng 33,2% so với tháng 7.",
-        "Dù số lượng doanh nghiệp mới giảm, tổng vốn đăng ký vẫn tăng, cho thấy sự tập trung vào các dự án quy mô lớn hơn."
+        "Giá vàng miếng SJC chốt phiên 5/9 ở 147,6 triệu đồng/lượng (bán ra).",
+        "Giảm 1 triệu đồng/lượng so với phiên trước, PNJ giảm tới 2 triệu đồng chiều mua."
       ],
-      "insight": "Sự gia tăng vốn đăng ký cho thấy niềm tin vào triển vọng kinh doanh dài hạn, hỗ trợ tăng trưởng kinh tế.",
-      "source": "Bnews"
+      "insight": "Vàng trong nước chịu áp lực điều chỉnh mạnh theo giá thế giới sau báo cáo việc làm Mỹ.",
+      "source": "VietnamBiz · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Hải quan tự động xác nhận tờ khai DNCX từ 9/9",
+      "headline": "CPI 8 tháng tăng 4,45%, áp sát mục tiêu 4,5%",
       "bullets": [
-        "Cục Hải quan sẽ triển khai chức năng tự động xác nhận tờ khai xuất nhập khẩu cho doanh nghiệp chế xuất (DNCX) từ ngày 9/9.",
-        "Chính sách mới giúp tháo gỡ vướng mắc, đẩy nhanh quy trình thủ tục hải quan cho các DNCX."
+        "CPI bình quân 8 tháng đầu năm 2026 tăng 4,45% so với cùng kỳ.",
+        "Tháng 8, CPI tăng 0,47% chủ yếu do giá xăng dầu tăng trở lại.",
+        "Bộ Tài chính đưa ra hai kịch bản lạm phát 2026 là 4,5% và 5%."
       ],
-      "insight": "Động thái này kỳ vọng cải thiện môi trường kinh doanh, thúc đẩy hoạt động xuất nhập khẩu và thu hút FDI.",
-      "source": "Petrotimes · Bnews"
+      "insight": "Dư địa kiểm soát lạm phát cuối năm còn hẹp, áp lực giá năng lượng và vận tải vẫn cao.",
+      "source": "VnEconomy · Báo Chính phủ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed phát tín hiệu giữ nguyên lãi suất, Phố Wall tăng",
+      "headline": "Kênh đào Panama giảm lưu lượng tàu do El Niño",
       "bullets": [
-        "Thống đốc Fed Christopher Waller nghiêng về giữ nguyên lãi suất tháng 9 nếu lạm phát hạ nhiệt, giúp Phố Wall tăng hơn 1%.",
-        "Xác suất Fed tăng lãi suất tháng 9 giảm từ 63,2% xuống 50,4% sau phát biểu này."
+        "Kênh đào Panama bắt đầu giảm số lượt tàu từ 36 xuống 34/ngày từ 4/9.",
+        "Số lượt tàu sẽ tiếp tục giảm xuống 32/ngày từ 15/9 do hạn hán nghiêm trọng.",
+        "Lượng mưa giảm 34% so với trung bình, ảnh hưởng 5% thương mại hàng hải toàn cầu."
       ],
-      "insight": "Tín hiệu ôn hòa từ Fed giảm bớt áp lực lãi suất, tạo tâm lý tích cực cho thị trường chứng khoán toàn cầu.",
-      "source": "Reuters · VietnamBiz · CafeF"
+      "insight": "Hạn chế này có thể gây gián đoạn chuỗi cung ứng và tăng chi phí vận tải biển toàn cầu.",
+      "source": "Báo Tuổi Trẻ · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 96 USD, lo ngại nguồn cung",
+      "headline": "Mỹ áp thuế 100% với drone Trung Quốc từ 3/9",
       "bullets": [
-        "Giá dầu Brent có thời điểm vượt 96 USD/thùng, hướng tới tuần tăng mạnh nhất từ giữa tháng 7.",
-        "Căng thẳng leo thang tại Trung Đông và lo ngại gián đoạn nguồn cung tiếp tục đẩy giá dầu lên cao."
+        "Mỹ chính thức áp thuế 100% với drone nặng trên 25kg hoặc có công nghệ hình ảnh nhiệt.",
+        "Các drone nhỏ hơn chịu thuế 25%, nhằm giảm phụ thuộc vào nguồn cung Trung Quốc.",
+        "Quyết định này vấp phải phản ứng gay gắt từ ngành sản xuất Mỹ."
       ],
-      "insight": "Giá dầu tăng cao có thể gây áp lực lên chi phí sản xuất, ảnh hưởng đến lạm phát và lợi nhuận doanh nghiệp.",
-      "source": "VOV · Bnews · Petrotimes"
+      "insight": "Động thái này tiếp tục căng thẳng thương mại Mỹ-Trung, ảnh hưởng chuỗi cung ứng công nghệ toàn cầu.",
+      "source": "Báo Quốc tế · Báo Thanh Niên"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#VNIndex",
-    "#GiáDầu",
-    "#Fed"
+    "#GiáVàng",
+    "#CPI",
+    "#PanamaCanal",
+    "#ThuếQuan"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
