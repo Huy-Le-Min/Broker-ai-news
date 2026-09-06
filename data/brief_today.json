@@ -1,89 +1,88 @@
 {
-  "date": "05/9/2026",
+  "date": "06/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnEconomy · Báo Chính phủ · Vietstock · SSI Research · Bnews · CNBC · VietnamBiz · Reuters · Eva.vn · VietNamNet",
+  "sources": "VnEconomy · CafeF · Vietstock · Reuters · CNBC · Bnews · Thanh Niên · Chợ Giá · Thời báo Tài chính Việt Nam · Dân trí",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.255",
-      "change": "-0.11%",
+      "change": "-0,55%",
       "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "148,6tr",
-      "change": "+0.13%",
-      "dir": "up"
+      "value": "147,6tr",
+      "change": "-0,74%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
       "value": "96,28$",
-      "change": "+0.8%",
+      "change": "+7,6%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường chờ đợi dữ liệu lạm phát Mỹ và diễn biến tái cơ cấu ETF trong nước.",
+  "today_watch": "Thị trường chờ đợi dữ liệu lạm phát Mỹ (CPI, PPI) tuần tới, ảnh hưởng quyết định lãi suất Fed.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FDI 8 tháng vượt 40 tỷ USD, vốn thực hiện cao nhất 5 năm",
+      "headline": "CPI tháng 8 tăng 0,47%, áp lực từ giá năng lượng",
       "bullets": [
-        "Tổng vốn FDI đăng ký vào Việt Nam 8 tháng đạt 40,63 tỷ USD, tăng 55,4% so với cùng kỳ 2025.",
-        "Vốn FDI thực hiện ước đạt 17,25 tỷ USD, mức cao nhất trong 8 tháng qua của 5 năm."
+        "Chỉ số giá tiêu dùng (CPI) tháng 8/2026 tăng 0,47% so với tháng trước, chủ yếu do nhóm giao thông tăng 4,09%.",
+        "Giá dầu diesel tăng 22,15% và xăng tăng 9,53% đã đẩy chi phí năng lượng lên cao, gây áp lực lên lạm phát."
       ],
-      "insight": "Dòng vốn ngoại mạnh mẽ cho thấy niềm tin nhà đầu tư, là động lực quan trọng cho tăng trưởng kinh tế và thị trường.",
-      "source": "VnEconomy, Báo Chính phủ"
+      "insight": "Lạm phát tăng trở lại do giá năng lượng có thể ảnh hưởng đến chính sách tiền tệ và tâm lý tiêu dùng trong nước.",
+      "source": "Finance VietStock"
     },
     {
       "cat": "Trong nước",
-      "headline": "ETF tái cơ cấu tháng 9, nhiều mã lớn chịu áp lực",
+      "headline": "TP.HCM: Hơn 43.000 doanh nghiệp rút lui 8 tháng",
       "bullets": [
-        "FTSE Vietnam Index loại 21 mã trong kỳ review bán niên, có hiệu lực từ 21/9/2026.",
-        "Fubon ETF dự kiến bán ra hàng chục triệu cổ phiếu VND, VCI; VanEck Vietnam ETF mua ròng SSB."
+        "Trong 8 tháng đầu năm 2026, TP.HCM có hơn 43.000 doanh nghiệp rút lui khỏi thị trường, tăng 24,4% so với cùng kỳ.",
+        "Cứ 10 doanh nghiệp gia nhập thì có 8 doanh nghiệp rút lui, phản ánh khó khăn cho các doanh nghiệp nhỏ và vừa."
       ],
-      "insight": "Hoạt động tái cơ cấu ETF sẽ tạo biến động ngắn hạn cho các cổ phiếu bị thêm/bớt, ảnh hưởng dòng tiền.",
-      "source": "Vietstock, SSI Research"
+      "insight": "Số lượng doanh nghiệp rút lui cao cho thấy thách thức về sức khỏe kinh tế, đặc biệt với khối doanh nghiệp vừa và nhỏ.",
+      "source": "Dân trí"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dự thảo: Dự án lớn Hà Nội có thể vay tới 52% vốn tự có ngân hàng",
+      "headline": "Giá thép xây dựng trong nước giảm nhẹ",
       "bullets": [
-        "NHNN đang lấy ý kiến dự thảo cho phép các dự án lớn tại Hà Nội vay tối đa 52% vốn tự có của ngân hàng.",
-        "Chính sách này nhằm tháo gỡ khó khăn vốn cho các dự án quan trọng, đặc biệt trong lĩnh vực bất động sản và hạ tầng."
+        "Sáng 6/9, giá thép cuộn CB240 của VNSteel giảm 50.000 đồng/tấn, xuống còn 13.600 đồng/kg.",
+        "Giá thép thanh vằn D10 CB300 của Hòa Phát cũng giảm 50.000 đồng/tấn, còn 13.850 đồng/kg."
       ],
-      "insight": "Chính sách mới có thể mở rộng nguồn vốn cho các dự án trọng điểm, hỗ trợ tăng trưởng tín dụng và thị trường BĐS.",
-      "source": "Bnews"
+      "insight": "Giá thép giảm có thể hỗ trợ chi phí đầu vào cho ngành xây dựng, nhưng cũng phản ánh nhu cầu thị trường chưa thực sự mạnh.",
+      "source": "Chợ Giá"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ giảm do việc làm tháng 8 vượt dự báo, tăng lo ngại Fed",
+      "headline": "Chứng khoán Mỹ giảm, lo ngại Fed tăng lãi suất",
       "bullets": [
-        "Thị trường Mỹ giảm điểm phiên 4/9, Dow Jones mất 0,51%, S&P 500 giảm 0,38%.",
-        "Kinh tế Mỹ tạo thêm 162.000 việc làm phi nông nghiệp tháng 8, cao gấp ba dự báo 56.000.",
-        "Xác suất Fed tăng lãi suất tháng 9 tăng lên 58,4% sau báo cáo việc làm tích cực."
+        "Phố Wall giảm điểm phiên 4/9 sau báo cáo việc làm tháng 8 của Mỹ vượt dự báo (162.000 việc làm mới).",
+        "Xác suất Fed tăng lãi suất 25 điểm cơ bản tháng 9 tăng lên 58,4% từ 49,4% trước báo cáo."
       ],
-      "insight": "Dữ liệu việc làm \"nóng\" làm tăng áp lực lên Fed, có thể khiến chính sách tiền tệ thắt chặt hơn dự kiến.",
-      "source": "CNBC, VietnamBiz"
+      "insight": "Thị trường lao động mạnh mẽ làm tăng kỳ vọng Fed thắt chặt tiền tệ, gây áp lực lên chứng khoán toàn cầu.",
+      "source": "VnEconomy · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh 7,6% tuần qua do xung đột Mỹ-Iran",
+      "headline": "Thống đốc Fed nghiêng về giữ nguyên lãi suất tháng 9",
       "bullets": [
-        "Giá dầu Brent chốt tuần tăng 7,6%, dầu WTI tăng gần 10% do căng thẳng Mỹ-Iran tái diễn.",
-        "Giá dầu diesel bán lẻ tại Mỹ lập kỷ lục mới, gây áp lực lạm phát toàn cầu."
+        "Thống đốc Fed Christopher Waller cho biết ông ủng hộ giữ nguyên lãi suất tháng 9 nếu lạm phát không bất ngờ.",
+        "Quan điểm này trái ngược với một số tín hiệu cứng rắn trước đó, cho thấy sự phân hóa trong Fed."
       ],
-      "insight": "Xung đột địa chính trị tiếp tục là yếu tố chính đẩy giá dầu, gây lo ngại lạm phát và chi phí vận chuyển.",
-      "source": "Reuters, Eva.vn"
+      "insight": "Tín hiệu ôn hòa từ một số quan chức Fed có thể giảm bớt lo ngại về chính sách thắt chặt quá mức, hỗ trợ tâm lý thị trường.",
+      "source": "Vietstock · VietnamBiz"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#FDI",
-    "#ETF",
+    "#ThịTrườngTàiChính",
+    "#Fed",
     "#GiáDầu",
-    "#Fed"
+    "#GiáVàng"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
