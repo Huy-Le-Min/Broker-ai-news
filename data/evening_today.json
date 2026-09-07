@@ -1,101 +1,100 @@
 {
-  "date": "05/9/2026",
+  "date": "07/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.853,08",
-    "vnindex_change": "+1,39%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 118,1 tỷ",
-    "foreign_dir": "buy",
-    "volume": "≈18.000 tỷ",
-    "top_gainer": "nhóm Vin, ngân hàng"
+    "vnindex_close": "1.821,64",
+    "vnindex_change": "-1,70%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 465 tỷ",
+    "foreign_dir": "sell",
+    "volume": "17.153 tỷ",
+    "top_gainer": "Dịch vụ ăn uống, Cao su"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.255",
-      "change": "-30đ",
-      "dir": "down"
+      "value": "26.075",
+      "change": "+0,08%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6tr",
-      "change": "-1tr",
+      "value": "146,5 triệu",
+      "change": "-1,1 triệu",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "92,68$",
-      "change": "+0,8%",
+      "value": "97,14$",
+      "change": "+0,43%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Dữ liệu lạm phát PPI/CPI Mỹ tuần tới; diễn biến giá dầu.",
+  "tomorrow_watch": "Thị trường tiếp tục theo dõi diễn biến dòng vốn và các báo cáo vĩ mô quốc tế.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index tăng mạnh, nhóm Vin và ngân hàng dẫn dắt",
+      "headline": "VN-Index giảm mạnh, khối ngoại bán ròng 465 tỷ đồng",
       "bullets": [
-        "VN-Index đóng cửa 1.853,08 điểm, tăng 25,36 điểm (+1,39%).",
-        "Khối ngoại mua ròng nhẹ 118,1 tỷ đồng; thanh khoản ba sàn đạt gần 18.000 tỷ đồng.",
-        "Nhóm cổ phiếu VinGroup (VIC, VHM) và ngân hàng (VPB, STB) dẫn dắt đà tăng."
+        "VN-Index kết phiên 7/9 giảm 31,44 điểm (-1,70%), đóng cửa ở 1.821,64 điểm.",
+        "Khối ngoại bán ròng 465 tỷ đồng trên HOSE, tập trung vào các mã vốn hóa lớn.",
+        "Thanh khoản khớp lệnh HOSE đạt 17.153 tỷ đồng; nhóm Dịch vụ ăn uống, Cao su dẫn dắt."
       ],
-      "insight": "Đà tăng tập trung vào trụ lớn cho thấy thị trường chưa đồng thuận rộng rãi, cần thanh khoản tốt hơn.",
-      "source": "VnEconomy · Lao Động"
+      "insight": "Áp lực chốt lời gia tăng tại vùng kháng cự mạnh khiến thị trường điều chỉnh, cần thời gian tìm điểm cân bằng.",
+      "source": "Vietstock · VnEconomy · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá vàng SJC lao dốc, giảm 1 triệu đồng/lượng",
+      "headline": "Thanh khoản VND căng thẳng, tín dụng tăng nhanh hơn huy động",
       "bullets": [
-        "Giá vàng miếng SJC chốt phiên 5/9 ở 147,6 triệu đồng/lượng (bán ra).",
-        "Giảm 1 triệu đồng/lượng so với phiên trước, PNJ giảm tới 2 triệu đồng chiều mua."
+        "Thanh khoản VND hệ thống ngân hàng vẫn căng thẳng do tín dụng tăng nhanh hơn huy động.",
+        "Nguồn vốn dịch chuyển sang kỳ hạn dài, tiền gửi ngắn hạn phụ thuộc Kho bạc Nhà nước.",
+        "Ngân hàng Nhà nước chưa có điều chỉnh chính sách rõ ràng để giải tỏa áp lực."
       ],
-      "insight": "Vàng trong nước chịu áp lực điều chỉnh mạnh theo giá thế giới sau báo cáo việc làm Mỹ.",
-      "source": "VietnamBiz · CafeF"
+      "insight": "Thanh khoản thị trường tiền tệ thắt chặt có thể ảnh hưởng đến chi phí vốn và khả năng mở rộng tín dụng.",
+      "source": "Chứng khoán Rồng Việt"
     },
     {
       "cat": "Trong nước",
-      "headline": "CPI 8 tháng tăng 4,45%, áp sát mục tiêu 4,5%",
+      "headline": "Xuất khẩu nông sản 8 tháng duy trì đà tăng trưởng tích cực",
       "bullets": [
-        "CPI bình quân 8 tháng đầu năm 2026 tăng 4,45% so với cùng kỳ.",
-        "Tháng 8, CPI tăng 0,47% chủ yếu do giá xăng dầu tăng trở lại.",
-        "Bộ Tài chính đưa ra hai kịch bản lạm phát 2026 là 4,5% và 5%."
+        "Sản lượng thủy sản tháng 8/2026 ước đạt 991,3 nghìn tấn, tăng 4,4% so với cùng kỳ.",
+        "Tính chung 8 tháng, sản lượng thủy sản tăng 3,8%; riêng tôm tăng 7,4%.",
+        "Giá cà phê tăng trong tháng 8, góp phần vào tăng trưởng xuất khẩu nông sản."
       ],
-      "insight": "Dư địa kiểm soát lạm phát cuối năm còn hẹp, áp lực giá năng lượng và vận tải vẫn cao.",
-      "source": "VnEconomy · Báo Chính phủ"
+      "insight": "Đà tăng trưởng xuất khẩu nông sản, thủy sản hỗ trợ cán cân thương mại và thu nhập nông dân.",
+      "source": "Chinhphu.vn · VnEconomy · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kênh đào Panama giảm lưu lượng tàu do El Niño",
+      "headline": "Kỳ vọng Fed tăng lãi suất cao sau dữ liệu việc làm Mỹ",
       "bullets": [
-        "Kênh đào Panama bắt đầu giảm số lượt tàu từ 36 xuống 34/ngày từ 4/9.",
-        "Số lượt tàu sẽ tiếp tục giảm xuống 32/ngày từ 15/9 do hạn hán nghiêm trọng.",
-        "Lượng mưa giảm 34% so với trung bình, ảnh hưởng 5% thương mại hàng hải toàn cầu."
+        "Nền kinh tế Mỹ tạo thêm 162.000 việc làm phi nông nghiệp tháng 8, tỷ lệ thất nghiệp giữ 4,1%.",
+        "CME FedWatch định giá khoảng 58% khả năng Fed tăng lãi suất 25 điểm cơ bản tháng 9.",
+        "Dữ liệu lạm phát Mỹ sắp tới sẽ là yếu tố quyết định cho chính sách của Fed."
       ],
-      "insight": "Hạn chế này có thể gây gián đoạn chuỗi cung ứng và tăng chi phí vận tải biển toàn cầu.",
-      "source": "Báo Tuổi Trẻ · Bnews.vn"
+      "insight": "Thị trường đang lo ngại Fed sẽ tiếp tục thắt chặt tiền tệ, tác động tiêu cực đến dòng vốn toàn cầu.",
+      "source": "VietNamNet · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ áp thuế 100% với drone Trung Quốc từ 3/9",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, ảnh hưởng tuyến đường biển",
       "bullets": [
-        "Mỹ chính thức áp thuế 100% với drone nặng trên 25kg hoặc có công nghệ hình ảnh nhiệt.",
-        "Các drone nhỏ hơn chịu thuế 25%, nhằm giảm phụ thuộc vào nguồn cung Trung Quốc.",
-        "Quyết định này vấp phải phản ứng gay gắt từ ngành sản xuất Mỹ."
+        "Giao tranh Mỹ-Iran bùng phát trở lại, mức độ quyết liệt nhất kể từ tháng 7.",
+        "Lưu lượng tàu qua eo biển Hormuz giảm mạnh, chỉ còn 4 tàu/ngày vào 1/9.",
+        "Mỹ tuyên bố EU đã gia nhập chiến dịch tăng sức ép kinh tế lên Iran."
       ],
-      "insight": "Động thái này tiếp tục căng thẳng thương mại Mỹ-Trung, ảnh hưởng chuỗi cung ứng công nghệ toàn cầu.",
-      "source": "Báo Quốc tế · Báo Thanh Niên"
+      "insight": "Xung đột địa chính trị leo thang tại Trung Đông gây lo ngại về chuỗi cung ứng và giá năng lượng toàn cầu.",
+      "source": "VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#GiáVàng",
-    "#CPI",
-    "#PanamaCanal",
-    "#ThuếQuan"
+    "#KinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
