@@ -1,88 +1,87 @@
 {
-  "date": "07/9/2026",
+  "date": "08/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Báo Mới · PetroTimes · VietnamBiz · Hanoionline · Tiền Phong · Báo Thanh tra",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.260",
-      "change": "0%",
-      "dir": "flat"
+      "value": "26.210",
+      "change": "-0,15%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6tr",
-      "change": "0%",
-      "dir": "flat"
+      "value": "146,5 tr",
+      "change": "-0,74%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "96,65$",
-      "change": "+0,37%",
+      "value": "97,31$",
+      "change": "+0,65%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường Mỹ nghỉ lễ Lao động; Trung Quốc công bố CPI, PPI tháng 8 (9/9).",
+  "today_watch": "Thị trường chờ đợi dữ liệu lạm phát Mỹ (CPI) và quyết định lãi suất ECB.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất huy động tăng, nhiều ngân hàng vượt 8%/năm",
+      "headline": "VN-Index giảm mạnh, VIC và ngân hàng chịu áp lực bán",
       "bullets": [
-        "Nhiều ngân hàng tăng lãi suất huy động, với 6 tổ chức niêm yết trên 8%/năm cho kỳ hạn 12 tháng trở lên.",
-        "ACB dẫn đầu kỳ hạn 12 tháng với 7,8%/năm; một số ngân hàng áp dụng 8,1%/năm cho 36 tháng."
+        "Phiên 7/9, VN-Index giảm 1,7% xuống 1.821,64 điểm; khối ngoại bán ròng 465 tỷ đồng trên HOSE.",
+        "Cổ phiếu VIC giảm 4,33% là tác nhân kéo giảm chỉ số lớn nhất, nhóm ngân hàng cũng chịu áp lực bán mạnh."
       ],
-      "insight": "Xu hướng tăng lãi suất huy động có thể gây áp lực lên chi phí vốn của doanh nghiệp, ảnh hưởng lợi nhuận. ",
-      "source": "CafeF, Webgia"
+      "insight": "Áp lực chốt lời gia tăng tại vùng kháng cự mạnh cho thấy rủi ro điều chỉnh ngắn hạn vẫn hiện hữu.",
+      "source": "Vietstock · Yuanta Việt Nam"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ thúc đẩy cải cách thị trường vốn, chứng khoán",
+      "headline": "Xuất nhập khẩu 8 tháng đạt kỷ lục, nhập siêu tăng mạnh",
       "bullets": [
-        "Nghị quyết Chính phủ tháng 8 yêu cầu đa dạng hóa, cải cách đồng bộ thị trường chứng khoán, tài chính Việt Nam.",
-        "Nghiên cứu cải cách quy trình hoàn thuế giá trị gia tăng đối với hàng xuất khẩu."
+        "Tổng kim ngạch xuất nhập khẩu 8 tháng năm 2026 đạt 770,14 tỷ USD, tăng 28,7% so với cùng kỳ.",
+        "Nhập khẩu tăng 35,3% (395,3 tỷ USD) nhanh hơn xuất khẩu 22,4% (374,84 tỷ USD), dẫn đến nhập siêu 20,46 tỷ USD."
       ],
-      "insight": "Định hướng này tạo nền tảng cho sự phát triển bền vững, minh bạch hơn của TTCK, thu hút vốn đầu tư. ",
-      "source": "Báo Thanh tra"
+      "insight": "Mặc dù thương mại tăng trưởng ấn tượng, nhập siêu lớn cho thấy nhu cầu đầu vào sản xuất tăng cao.",
+      "source": "Cục Hải quan · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản cuối năm phục hồi chọn lọc, ưu tiên pháp lý rõ ràng",
+      "headline": "Bất động sản: Nguồn cung tăng, thanh khoản yếu do lãi suất",
       "bullets": [
-        "Thị trường bất động sản cuối năm 2026 dự kiến phục hồi chọn lọc, dòng tiền ưu tiên dự án pháp lý rõ ràng.",
-        "Lãi suất vay mua nhà tăng, lãi thả nổi có thể lên 13-16%/năm, gây áp lực người mua."
+        "Nửa đầu năm 2026, nguồn cung sơ cấp đạt 102.500 sản phẩm, nhưng giao dịch chỉ 26.100 sản phẩm, giảm 12% so với cùng kỳ.",
+        "Tỷ lệ hấp thụ giảm còn 25,5% (năm 2025 là 47,5%), lãi suất vay mua nhà cao tiếp tục là lực cản chính."
       ],
-      "insight": "Sự phục hồi phân hóa đòi hỏi nhà đầu tư cẩn trọng, tập trung vào chất lượng tài sản và dòng tiền ổn định. ",
-      "source": "Hanoionline, Tiền Phong"
+      "insight": "Thị trường BĐS cần thêm thời gian để hấp thụ nguồn cung mới, đặc biệt khi lãi suất chưa hạ nhiệt.",
+      "source": "S&I Ratings · Dân trí"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 96 USD, căng thẳng Mỹ-Iran leo thang, OPEC+ giữ sản lượng",
+      "headline": "ECB dự kiến tăng lãi suất lần nữa, lạm phát Eurozone tăng 3.3%",
       "bullets": [
-        "Giá dầu Brent tăng lên 96,65 USD/thùng do căng thẳng Mỹ-Iran tái diễn tại eo biển Hormuz.",
-        "OPEC+ quyết định giữ nguyên chính sách sản lượng dầu trong tháng 10, hạn chế nguồn cung."
+        "Thị trường đồng thuận ECB sẽ tăng lãi suất tiền gửi 25 điểm cơ bản lên 2,50% vào ngày 10/9 tới.",
+        "Lạm phát Eurozone tháng 8/2026 vọt lên 3,3%, vượt mục tiêu 2%, chủ yếu do chi phí năng lượng tăng."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam. ",
-      "source": "Báo Mới, PetroTimes, VietnamBiz"
+      "insight": "Động thái thắt chặt của ECB nhằm bảo hiểm trước áp lực lạm phát gia tăng, đặc biệt từ giá năng lượng.",
+      "source": "Reuters · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB dự kiến tăng lãi suất 25 điểm cơ bản vào 10/9",
+      "headline": "Xác suất Fed tăng lãi suất tháng 9 lên gần 60%",
       "bullets": [
-        "Thị trường dự báo Ngân hàng Trung ương châu Âu (ECB) sẽ tăng lãi suất 0,25% vào cuộc họp ngày 10/9.",
-        "Động thái này diễn ra sau khi lạm phát khu vực Eurozone tăng, gây áp lực lên chính sách tiền tệ."
+        "Khả năng Fed tăng lãi suất tại cuộc họp 15-16/9 đã tăng lên 60% sau báo cáo việc làm Mỹ tích cực.",
+        "Thị trường đang chờ đợi dữ liệu CPI tháng 8 của Mỹ, dự kiến công bố ngày 11/9, để định hình quyết định của Fed."
       ],
-      "insight": "Việc ECB thắt chặt tiền tệ có thể ảnh hưởng đến dòng vốn toàn cầu và tâm lý nhà đầu tư quốc tế. ",
-      "source": "VietNamNet, Vietstock"
+      "insight": "Kỳ vọng lãi suất tăng cao có thể tiếp tục gây áp lực lên các tài sản rủi ro và vàng trên toàn cầu.",
+      "source": "CafeF · Investing.com"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
-    "#GiáDầu",
-    "#LãiSuất",
-    "#BấtĐộngSản"
+    "#ThịTrườngQuốcTế",
+    "#Fed",
+    "#ECB"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
