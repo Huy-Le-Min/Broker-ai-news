@@ -1,87 +1,86 @@
 {
-  "date": "08/9/2026",
+  "date": "09/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Bnews",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.210",
-      "change": "-0,15%",
-      "dir": "down"
+      "value": "26.150",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,5 tr",
-      "change": "-0,74%",
-      "dir": "down"
+      "value": "146,6tr",
+      "change": "+0,07%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "97,31$",
-      "change": "+0,65%",
+      "value": "97,92$",
+      "change": "+0,95%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường chờ đợi dữ liệu lạm phát Mỹ (CPI) và quyết định lãi suất ECB.",
+  "today_watch": "ECB họp để quyết định lãi suất, lạm phát Eurozone gây áp lực tăng.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm mạnh, VIC và ngân hàng chịu áp lực bán",
+      "headline": "PMI sản xuất Việt Nam tháng 8 tăng, nhưng xuất khẩu giảm",
       "bullets": [
-        "Phiên 7/9, VN-Index giảm 1,7% xuống 1.821,64 điểm; khối ngoại bán ròng 465 tỷ đồng trên HOSE.",
-        "Cổ phiếu VIC giảm 4,33% là tác nhân kéo giảm chỉ số lớn nhất, nhóm ngân hàng cũng chịu áp lực bán mạnh."
+        "Chỉ số PMI ngành sản xuất Việt Nam tháng 8 đạt 53,3 điểm, tăng từ 52,9 điểm tháng 7, mức cao nhất từ tháng 2.",
+        "Sản lượng và đơn đặt hàng mới tăng mạnh, nhưng đơn hàng xuất khẩu mới và việc làm giảm trở lại."
       ],
-      "insight": "Áp lực chốt lời gia tăng tại vùng kháng cự mạnh cho thấy rủi ro điều chỉnh ngắn hạn vẫn hiện hữu.",
-      "source": "Vietstock · Yuanta Việt Nam"
+      "insight": "Tăng trưởng sản xuất vẫn mạnh nhờ nội địa, nhưng rủi ro từ nhu cầu xuất khẩu yếu có thể ảnh hưởng triển vọng. ",
+      "source": "S&P Global, Cimigo"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu 8 tháng đạt kỷ lục, nhập siêu tăng mạnh",
+      "headline": "Xuất nhập khẩu 8 tháng lập kỷ lục, nhập siêu tăng mạnh",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 8 tháng năm 2026 đạt 770,14 tỷ USD, tăng 28,7% so với cùng kỳ.",
-        "Nhập khẩu tăng 35,3% (395,3 tỷ USD) nhanh hơn xuất khẩu 22,4% (374,84 tỷ USD), dẫn đến nhập siêu 20,46 tỷ USD."
+        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD, tăng 28,7% so với cùng kỳ, mức cao nhất từ trước đến nay.",
+        "Việt Nam nhập siêu 20,46 tỷ USD, đảo chiều so với mức xuất siêu 14,02 tỷ USD cùng kỳ năm trước."
       ],
-      "insight": "Mặc dù thương mại tăng trưởng ấn tượng, nhập siêu lớn cho thấy nhu cầu đầu vào sản xuất tăng cao.",
-      "source": "Cục Hải quan · VnEconomy"
+      "insight": "Dù thương mại tăng trưởng mạnh, nhập siêu lớn gây áp lực lên tỷ giá và cán cân thanh toán quốc tế. ",
+      "source": "VnEconomy, VOV"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản: Nguồn cung tăng, thanh khoản yếu do lãi suất",
+      "headline": "VN-Index hồi phục nhẹ, thanh khoản giảm sâu",
       "bullets": [
-        "Nửa đầu năm 2026, nguồn cung sơ cấp đạt 102.500 sản phẩm, nhưng giao dịch chỉ 26.100 sản phẩm, giảm 12% so với cùng kỳ.",
-        "Tỷ lệ hấp thụ giảm còn 25,5% (năm 2025 là 47,5%), lãi suất vay mua nhà cao tiếp tục là lực cản chính."
+        "VN-Index phiên 8/9 tăng 8,8 điểm (+0,48%) lên 1.830,44 điểm, được dẫn dắt bởi VIC và nhóm dầu khí.",
+        "Thanh khoản HOSE chỉ đạt gần 14.200 tỷ đồng, giảm mạnh 17% so với phiên trước, khối ngoại tiếp tục bán ròng."
       ],
-      "insight": "Thị trường BĐS cần thêm thời gian để hấp thụ nguồn cung mới, đặc biệt khi lãi suất chưa hạ nhiệt.",
-      "source": "S&I Ratings · Dân trí"
+      "insight": "Thị trường có tín hiệu hồi phục kỹ thuật nhưng dòng tiền dè dặt và áp lực bán ròng còn duy trì tâm lý thận trọng. ",
+      "source": "CafeF, Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB dự kiến tăng lãi suất lần nữa, lạm phát Eurozone tăng 3.3%",
+      "headline": "Giá dầu Brent áp sát 100 USD do căng thẳng Trung Đông",
       "bullets": [
-        "Thị trường đồng thuận ECB sẽ tăng lãi suất tiền gửi 25 điểm cơ bản lên 2,50% vào ngày 10/9 tới.",
-        "Lạm phát Eurozone tháng 8/2026 vọt lên 3,3%, vượt mục tiêu 2%, chủ yếu do chi phí năng lượng tăng."
+        "Giá dầu Brent chốt phiên 8/9 tăng 0,95% lên 97,92 USD/thùng, mức cao nhất trong 6 tuần qua.",
+        "Đà tăng do lo ngại gián đoạn nguồn cung sau các cuộc tấn công của Houthi vào Saudi Arabia."
       ],
-      "insight": "Động thái thắt chặt của ECB nhằm bảo hiểm trước áp lực lạm phát gia tăng, đặc biệt từ giá năng lượng.",
-      "source": "Reuters · CafeF"
+      "insight": "Giá dầu tăng cao sẽ gây áp lực lên lạm phát toàn cầu và chi phí sản xuất tại Việt Nam. ",
+      "source": "Reuters, Bnews, Petrotimes"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Xác suất Fed tăng lãi suất tháng 9 lên gần 60%",
+      "headline": "Lạm phát Eurozone tháng 8 tăng mạnh, ECB chịu áp lực",
       "bullets": [
-        "Khả năng Fed tăng lãi suất tại cuộc họp 15-16/9 đã tăng lên 60% sau báo cáo việc làm Mỹ tích cực.",
-        "Thị trường đang chờ đợi dữ liệu CPI tháng 8 của Mỹ, dự kiến công bố ngày 11/9, để định hình quyết định của Fed."
+        "Lạm phát Eurozone tháng 8 tăng lên 3,3% từ 2,9% tháng 7, mức cao nhất trong 3 năm.",
+        "Giá năng lượng tăng mạnh là yếu tố chính thúc đẩy lạm phát, làm tăng khả năng ECB tăng lãi suất."
       ],
-      "insight": "Kỳ vọng lãi suất tăng cao có thể tiếp tục gây áp lực lên các tài sản rủi ro và vàng trên toàn cầu.",
-      "source": "CafeF · Investing.com"
+      "insight": "Lạm phát dai dẳng tại Eurozone có thể thúc đẩy ECB thắt chặt tiền tệ, ảnh hưởng dòng vốn toàn cầu. ",
+      "source": "Investing.com, CafeF, Truyền hình Quảng Ngãi"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngQuốcTế",
-    "#Fed",
-    "#ECB"
+    "#ThịTrườngDầu",
+    "#LạmPhát"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
