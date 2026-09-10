@@ -1,86 +1,89 @@
 {
-  "date": "09/9/2026",
+  "date": "10/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · VOV · Bnews",
+  "sources": "Chính phủ · Kiểm toán nhà nước · Báo Mới · DNSE · Người Quan Sát · Dân trí · VnEconomy · CafeBiz · Investing.com · Vietstock · VietnamBiz · Năng lượng Quốc tế",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.150",
-      "change": "0%",
+      "value": "26.090",
+      "change": "±0%",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
       "value": "146,6tr",
-      "change": "+0,07%",
-      "dir": "up"
+      "change": "±0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "97,92$",
-      "change": "+0,95%",
+      "value": "101,2$",
+      "change": "+3,36%",
       "dir": "up"
     }
   ],
-  "today_watch": "ECB họp để quyết định lãi suất, lạm phát Eurozone gây áp lực tăng.",
+  "today_watch": "Liên bộ Tài chính - Công Thương điều chỉnh giá xăng dầu. ECB họp báo chính sách tiền tệ. Mỹ công bố PPI.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "PMI sản xuất Việt Nam tháng 8 tăng, nhưng xuất khẩu giảm",
+      "headline": "Chính phủ quyết liệt thúc đẩy giải ngân đầu tư công",
       "bullets": [
-        "Chỉ số PMI ngành sản xuất Việt Nam tháng 8 đạt 53,3 điểm, tăng từ 52,9 điểm tháng 7, mức cao nhất từ tháng 2.",
-        "Sản lượng và đơn đặt hàng mới tăng mạnh, nhưng đơn hàng xuất khẩu mới và việc làm giảm trở lại."
+        "Nghị quyết 262/NQ-CP yêu cầu tăng tốc giải ngân, tạo động lực tăng trưởng cuối năm 2026.",
+        "Đến cuối tháng 8, giải ngân đạt 49,8% kế hoạch, còn hơn 50% cần thực hiện."
       ],
-      "insight": "Tăng trưởng sản xuất vẫn mạnh nhờ nội địa, nhưng rủi ro từ nhu cầu xuất khẩu yếu có thể ảnh hưởng triển vọng. ",
-      "source": "S&P Global, Cimigo"
+      "insight": "Đẩy mạnh đầu tư công là động lực chính kích thích tổng cầu, hỗ trợ tăng trưởng kinh tế Việt Nam.",
+      "source": "Chính phủ, Kiểm toán nhà nước, Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu 8 tháng lập kỷ lục, nhập siêu tăng mạnh",
+      "headline": "Bất động sản: Nguồn cung tăng, thanh khoản thị trường yếu",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD, tăng 28,7% so với cùng kỳ, mức cao nhất từ trước đến nay.",
-        "Việt Nam nhập siêu 20,46 tỷ USD, đảo chiều so với mức xuất siêu 14,02 tỷ USD cùng kỳ năm trước."
+        "6 tháng đầu 2026, nguồn cung sơ cấp tăng 40% nhưng giao dịch giảm 12%.",
+        "Tỷ lệ hấp thụ giảm xuống 25,5%; lãi suất vay mua nhà vẫn cao 12-14%."
       ],
-      "insight": "Dù thương mại tăng trưởng mạnh, nhập siêu lớn gây áp lực lên tỷ giá và cán cân thanh toán quốc tế. ",
-      "source": "VnEconomy, VOV"
+      "insight": "Thanh khoản yếu và lãi suất cao tiếp tục là thách thức lớn cho thị trường bất động sản.",
+      "source": "DNSE, Người Quan Sát, Dân trí"
     },
     {
       "cat": "Trong nước",
-      "headline": "VN-Index hồi phục nhẹ, thanh khoản giảm sâu",
+      "headline": "Vốn FDI thực hiện 8 tháng đạt mức cao nhất 5 năm",
       "bullets": [
-        "VN-Index phiên 8/9 tăng 8,8 điểm (+0,48%) lên 1.830,44 điểm, được dẫn dắt bởi VIC và nhóm dầu khí.",
-        "Thanh khoản HOSE chỉ đạt gần 14.200 tỷ đồng, giảm mạnh 17% so với phiên trước, khối ngoại tiếp tục bán ròng."
+        "8 tháng đầu năm 2026, vốn FDI thực hiện đạt 17,25 tỷ USD, tăng 12% so với cùng kỳ.",
+        "Công nghiệp chế biến, chế tạo chiếm 82,6% tổng vốn FDI thực hiện."
       ],
-      "insight": "Thị trường có tín hiệu hồi phục kỹ thuật nhưng dòng tiền dè dặt và áp lực bán ròng còn duy trì tâm lý thận trọng. ",
-      "source": "CafeF, Vietstock"
+      "insight": "Dòng vốn FDI mạnh mẽ củng cố năng lực sản xuất, xuất khẩu và triển vọng tăng trưởng kinh tế.",
+      "source": "VnEconomy, Báo Điện tử Chính phủ"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent áp sát 100 USD do căng thẳng Trung Đông",
+      "headline": "Fed có thể tăng lãi suất tháng 9, thị trường đặt cược cao",
       "bullets": [
-        "Giá dầu Brent chốt phiên 8/9 tăng 0,95% lên 97,92 USD/thùng, mức cao nhất trong 6 tuần qua.",
-        "Đà tăng do lo ngại gián đoạn nguồn cung sau các cuộc tấn công của Houthi vào Saudi Arabia."
+        "UBS dự báo Fed tăng lãi suất 0,25% vào tháng 9 và tháng 12/2026.",
+        "Xác suất tăng lãi suất tháng 9 là 60,1% sau báo cáo việc làm Mỹ khả quan."
       ],
-      "insight": "Giá dầu tăng cao sẽ gây áp lực lên lạm phát toàn cầu và chi phí sản xuất tại Việt Nam. ",
-      "source": "Reuters, Bnews, Petrotimes"
+      "insight": "Khả năng Fed thắt chặt tiền tệ gây áp lực lên tỷ giá và dòng vốn toàn cầu.",
+      "source": "CafeBiz, Investing.com, Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Eurozone tháng 8 tăng mạnh, ECB chịu áp lực",
+      "headline": "Giá dầu Brent vượt 100 USD do căng thẳng Trung Đông",
       "bullets": [
-        "Lạm phát Eurozone tháng 8 tăng lên 3,3% từ 2,9% tháng 7, mức cao nhất trong 3 năm.",
-        "Giá năng lượng tăng mạnh là yếu tố chính thúc đẩy lạm phát, làm tăng khả năng ECB tăng lãi suất."
+        "Giá dầu Brent đạt 101,2 USD/thùng, tăng 3,36% sau khi vượt mốc 100 USD lần đầu trong 6 tuần.",
+        "Xung đột Mỹ-Iran leo thang, tấn công cơ sở dầu mỏ Saudi Arabia, gây lo ngại nguồn cung."
       ],
-      "insight": "Lạm phát dai dẳng tại Eurozone có thể thúc đẩy ECB thắt chặt tiền tệ, ảnh hưởng dòng vốn toàn cầu. ",
-      "source": "Investing.com, CafeF, Truyền hình Quảng Ngãi"
+      "insight": "Giá dầu tăng cao làm gia tăng áp lực lạm phát toàn cầu và chi phí sản xuất.",
+      "source": "Báo Mới, VietnamBiz, Năng lượng Quốc tế"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngDầu",
-    "#LạmPhát"
+    "#Fed",
+    "#GiáDầu",
+    "#BấtĐộngSản",
+    "#ĐầuTưCông",
+    "#FDI"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
