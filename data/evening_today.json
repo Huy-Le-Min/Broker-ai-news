@@ -1,100 +1,95 @@
 {
-  "date": "08/9/2026",
+  "date": "10/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.835,50",
-    "vnindex_change": "+0,27%",
+    "vnindex_close": "1.829,23",
+    "vnindex_change": "+0,12%",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 350 tỷ",
-    "foreign_dir": "sell",
-    "volume": "14.500 tỷ",
-    "top_gainer": "Nhóm vốn hóa lớn (VIC, FPT)"
+    "foreign_net": "Mua ròng 394 tỷ",
+    "foreign_dir": "buy",
+    "volume": "13.565 tỷ",
+    "top_gainer": "Công nghệ, Bán lẻ (FPT, DGW)"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.160",
-      "change": "0,00%",
-      "dir": "flat"
+      "value": "26.100",
+      "change": "+10 đồng",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,7tr",
-      "change": "+0,07%",
+      "value": "146,6 triệu",
+      "change": "+1,2 triệu",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "97,68$",
-      "change": "+1,45%",
+      "value": "105$",
+      "change": "+3,99%",
       "dir": "up"
     }
   ],
-  "tomorrow_watch": "Dữ liệu kinh tế quốc tế (GDP Ireland, CPI Séc); thông tin từ các ngân hàng trung ương G10",
+  "tomorrow_watch": "Dữ liệu CPI Mỹ tháng 9; cuộc họp chính sách Ngân hàng Nhật Bản.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "FTSE Russell công bố lộ trình nâng hạng TTCK Việt Nam",
+      "headline": "Chính phủ đẩy mạnh cải cách thị trường vốn",
       "bullets": [
-        "FTSE Russell chính thức bắt đầu lộ trình nâng hạng Việt Nam lên thị trường mới nổi thứ cấp từ 21/9/2026.",
-        "27 cổ phiếu Việt Nam được thêm vào danh mục FTSE Emerging All Cap Index.",
-        "Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,329% lên 0,48%."
+        "Thủ tướng chỉ đạo các bộ ngành đẩy nhanh hoàn thiện khung pháp lý cho thị trường vốn.",
+        "Tập trung vào nâng cao minh bạch, hiệu quả, và thu hút dòng vốn đầu tư bền vững."
       ],
-      "insight": "Sự kiện này kỳ vọng thu hút dòng vốn ngoại, tạo động lực mới cho thị trường chứng khoán Việt Nam.",
-      "source": "VTV.vn · Bnews.vn"
+      "insight": "Tạo nền tảng vững chắc, tăng niềm tin nhà đầu tư vào TTCK Việt Nam.",
+      "source": "VnExpress"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất công nghiệp Việt Nam tăng trưởng mạnh tháng 8",
+      "headline": "Việt Nam thúc đẩy trung tâm năng lượng tái tạo",
       "bullets": [
-        "Chỉ số sản xuất toàn ngành công nghiệp tháng 8 tăng 14,4% so với cùng kỳ 2025.",
-        "8 tháng đầu năm, chỉ số này tăng 11,9%, mức cao nhất trong nhiều năm.",
-        "PMI ngành sản xuất đạt 53,3 điểm, duy trì trên 50 điểm tháng thứ 14 liên tiếp."
+        "Chính phủ nghiên cứu mô hình trung tâm năng lượng tái tạo liên vùng.",
+        "Nhằm khai thác tiềm năng điện gió, điện mặt trời, hình thành chuỗi cung ứng xanh."
       ],
-      "insight": "Dữ liệu tích cực cho thấy kinh tế phục hồi mạnh mẽ, hỗ trợ triển vọng lợi nhuận doanh nghiệp.",
-      "source": "baotintuc.vn"
+      "insight": "Mở ra cơ hội lớn cho ngành năng lượng sạch, thu hút đầu tư xanh.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại giảm áp lực bán ròng, kỳ vọng mua ròng tháng 9",
+      "headline": "Cổ phiếu công nghệ, bán lẻ dẫn dắt thị trường",
       "bullets": [
-        "Tháng 8, khối ngoại bán ròng 1.643 tỷ đồng, thấp hơn nhiều so với bình quân 3 tháng trước.",
-        "Một số phiên cuối tháng 8 ghi nhận mua ròng, tập trung vào FPT, TCB, PNJ, VIC, HPG.",
-        "Kỳ vọng tháng 9 là tháng đầu tiên khối ngoại chuyển sang mua ròng sau chuỗi bán ròng."
+        "FPT, DGW và MWG tăng mạnh, thúc đẩy VN-Index trong phiên hôm nay.",
+        "Đà tăng nhờ thông tin Apple ra mắt sản phẩm mới và kỳ vọng KQKD tích cực."
       ],
-      "insight": "Dòng vốn ngoại có thể đảo chiều tích cực, hỗ trợ tâm lý và thanh khoản thị trường.",
-      "source": "CafeF · Vietstock · Báo Mới"
+      "insight": "Cho thấy sự phục hồi của tiêu dùng và tiềm năng tăng trưởng ngành công nghệ.",
+      "source": "Vietstock, Báo Nhân Dân"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent chạm đỉnh 6 tuần do căng thẳng Mỹ-Iran",
+      "headline": "ECB tăng lãi suất 0,25%, tín hiệu thận trọng",
       "bullets": [
-        "Giá dầu Brent kỳ hạn tăng lên 97,31 USD/thùng, mức cao nhất trong 6 tuần.",
-        "Iran tuyên bố đáp trả các cuộc tấn công của Mỹ vào cơ sở hạ tầng năng lượng.",
-        "Goldman Sachs cảnh báo dầu có thể vọt lên 120 USD/thùng nếu xung đột leo thang."
+        "Ngân hàng Trung ương châu Âu (ECB) nâng lãi suất tiền gửi lên 2,5% vào 10/9.",
+        "Tuy nhiên, ECB phát tín hiệu không cam kết trước về lộ trình tăng lãi suất tiếp theo."
       ],
-      "insight": "Căng thẳng địa chính trị đẩy giá dầu tăng, gây áp lực lạm phát và chi phí sản xuất toàn cầu.",
-      "source": "VOH · Chợ Giá · Investing.com"
+      "insight": "Giảm áp lực lạm phát nhưng cũng báo hiệu chu kỳ thắt chặt có thể chậm lại.",
+      "source": "Reuters, Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc: Xuất nhập khẩu tháng 8 tăng mạnh",
+      "headline": "Mỹ siết kiểm soát chip AI, Trung Quốc tìm cách lách",
       "bullets": [
-        "Cán cân thương mại Trung Quốc tháng 8 đạt 119,09 tỷ USD.",
-        "Xuất khẩu tăng 25% và nhập khẩu tăng 28,2% so với cùng kỳ năm trước.",
-        "Dữ liệu cho thấy sự phục hồi đáng kể trong hoạt động thương mại của Trung Quốc."
+        "Mỹ rà soát việc các công ty Trung Quốc thuê chip AI Nvidia ở nước ngoài.",
+        "Động thái nhằm ngăn Bắc Kinh tiếp cận công nghệ bán dẫn tiên tiến."
       ],
-      "insight": "Kinh tế Trung Quốc phục hồi hỗ trợ tăng trưởng toàn cầu, tác động tích cực đến xuất khẩu Việt Nam.",
-      "source": "FXStreet · TradingView"
+      "insight": "Gây áp lực lên chuỗi cung ứng công nghệ toàn cầu, ảnh hưởng ngành chip.",
+      "source": "Bloomberg, GenK"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#FTSE",
+    "#TTCK",
+    "#ECB",
     "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
