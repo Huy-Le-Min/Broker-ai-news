@@ -1,89 +1,92 @@
 {
-  "date": "10/9/2026",
+  "date": "11/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "Chính phủ · Kiểm toán nhà nước · Báo Mới · DNSE · Người Quan Sát · Dân trí · VnEconomy · CafeBiz · Investing.com · Vietstock · VietnamBiz · Năng lượng Quốc tế",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · PetroTimes · Báo Mới · Eva.vn · VietNamNet · VOV · Chinhphu.vn · Báo Lào Cai · Báo Thanh Niên",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.090",
-      "change": "±0%",
+      "change": "flat",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
       "value": "146,6tr",
-      "change": "±0%",
+      "change": "flat",
       "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "101,2$",
-      "change": "+3,36%",
+      "value": "107,6$",
+      "change": "+6.3%",
       "dir": "up"
     }
   ],
-  "today_watch": "Liên bộ Tài chính - Công Thương điều chỉnh giá xăng dầu. ECB họp báo chính sách tiền tệ. Mỹ công bố PPI.",
+  "today_watch": "Mỹ công bố dữ liệu chỉ số giá tiêu dùng (CPI) tháng 8; Ngân hàng Trung ương Nga công bố quyết định lãi suất.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ quyết liệt thúc đẩy giải ngân đầu tư công",
+      "headline": "Giải ngân đầu tư công 8 tháng đạt gần 50% kế hoạch",
       "bullets": [
-        "Nghị quyết 262/NQ-CP yêu cầu tăng tốc giải ngân, tạo động lực tăng trưởng cuối năm 2026.",
-        "Đến cuối tháng 8, giải ngân đạt 49,8% kế hoạch, còn hơn 50% cần thực hiện."
+        "Đến hết tháng 8/2026, giải ngân vốn đầu tư công đạt gần 510 nghìn tỷ đồng, gần 50% kế hoạch.",
+        "Tốc độ giải ngân tháng 8 tăng 1,2 lần tháng 7, cho thấy xu hướng tăng tốc cuối năm.",
+        "Áp lực hoàn thành 50% còn lại trong 5 tháng cuối năm vẫn rất lớn."
       ],
-      "insight": "Đẩy mạnh đầu tư công là động lực chính kích thích tổng cầu, hỗ trợ tăng trưởng kinh tế Việt Nam.",
-      "source": "Chính phủ, Kiểm toán nhà nước, Báo Mới"
+      "insight": "Dòng vốn đầu tư công tăng tốc hỗ trợ tăng trưởng kinh tế, thúc đẩy các ngành liên quan.",
+      "source": "VOV, Báo Lào Cai"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản: Nguồn cung tăng, thanh khoản thị trường yếu",
+      "headline": "CPI 8 tháng tăng 4,45%, áp sát mục tiêu kiểm soát lạm phát",
       "bullets": [
-        "6 tháng đầu 2026, nguồn cung sơ cấp tăng 40% nhưng giao dịch giảm 12%.",
-        "Tỷ lệ hấp thụ giảm xuống 25,5%; lãi suất vay mua nhà vẫn cao 12-14%."
+        "CPI bình quân 8 tháng đầu năm 2026 tăng 4,45% so với cùng kỳ, sát mục tiêu 4,5%.",
+        "Tháng 8, CPI tăng 0,47% chủ yếu do giá xăng dầu và chi phí vận chuyển.",
+        "Bộ Tài chính đưa ra hai kịch bản lạm phát năm 2026: 4,5% và 5%."
       ],
-      "insight": "Thanh khoản yếu và lãi suất cao tiếp tục là thách thức lớn cho thị trường bất động sản.",
-      "source": "DNSE, Người Quan Sát, Dân trí"
+      "insight": "Áp lực lạm phát cuối năm vẫn hiện hữu, đòi hỏi chính sách tiền tệ thận trọng.",
+      "source": "VnEconomy, CafeF, Chinhphu.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Vốn FDI thực hiện 8 tháng đạt mức cao nhất 5 năm",
+      "headline": "Xuất nhập khẩu 8 tháng đạt kỷ lục, nhập siêu 20,46 tỷ USD",
       "bullets": [
-        "8 tháng đầu năm 2026, vốn FDI thực hiện đạt 17,25 tỷ USD, tăng 12% so với cùng kỳ.",
-        "Công nghiệp chế biến, chế tạo chiếm 82,6% tổng vốn FDI thực hiện."
+        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt kỷ lục 770,14 tỷ USD, tăng 28,7%.",
+        "Nhập khẩu tăng 35,3% (395,3 tỷ USD), nhanh hơn xuất khẩu tăng 22,4% (374,8 tỷ USD).",
+        "Cán cân thương mại nhập siêu 20,46 tỷ USD, chủ yếu máy vi tính, linh kiện."
       ],
-      "insight": "Dòng vốn FDI mạnh mẽ củng cố năng lực sản xuất, xuất khẩu và triển vọng tăng trưởng kinh tế.",
-      "source": "VnEconomy, Báo Điện tử Chính phủ"
+      "insight": "Kim ngạch thương mại tăng phản ánh phục hồi sản xuất, nhưng nhập siêu lớn cần theo dõi.",
+      "source": "VnEconomy, VOV, Báo Thanh Niên"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed có thể tăng lãi suất tháng 9, thị trường đặt cược cao",
+      "headline": "Dầu Brent vượt 107 USD/thùng, căng thẳng Trung Đông leo thang",
       "bullets": [
-        "UBS dự báo Fed tăng lãi suất 0,25% vào tháng 9 và tháng 12/2026.",
-        "Xác suất tăng lãi suất tháng 9 là 60,1% sau báo cáo việc làm Mỹ khả quan."
+        "Giá dầu Brent tăng 6,3% lên 107,6 USD/thùng sáng 11/9, cao nhất từ tháng 5.",
+        "Các cuộc tấn công vận tải biển tại Hormuz gia tăng, gây lo ngại gián đoạn nguồn cung.",
+        "Lực lượng Houthi kiểm soát cảng Mocha (Yemen), đe dọa tuyến Biển Đỏ."
       ],
-      "insight": "Khả năng Fed thắt chặt tiền tệ gây áp lực lên tỷ giá và dòng vốn toàn cầu.",
-      "source": "CafeBiz, Investing.com, Vietstock"
+      "insight": "Giá dầu tăng mạnh có thể đẩy lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
+      "source": "PetroTimes, Báo Mới, Eva.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent vượt 100 USD do căng thẳng Trung Đông",
+      "headline": "PPI Mỹ tháng 8 tăng mạnh, củng cố kỳ vọng Fed tăng lãi suất",
       "bullets": [
-        "Giá dầu Brent đạt 101,2 USD/thùng, tăng 3,36% sau khi vượt mốc 100 USD lần đầu trong 6 tuần.",
-        "Xung đột Mỹ-Iran leo thang, tấn công cơ sở dầu mỏ Saudi Arabia, gây lo ngại nguồn cung."
+        "Chỉ số giá sản xuất (PPI) Mỹ tháng 8 tăng 0,4% so với tháng trước, 5,4% so với cùng kỳ.",
+        "Lạm phát bán buôn cao hơn dự kiến làm tăng khả năng Fed nâng lãi suất 0,25% tháng 9.",
+        "Lợi suất trái phiếu Mỹ 10 năm gần 4,94%, gây áp lực lên vàng và tài sản rủi ro."
       ],
-      "insight": "Giá dầu tăng cao làm gia tăng áp lực lạm phát toàn cầu và chi phí sản xuất.",
-      "source": "Báo Mới, VietnamBiz, Năng lượng Quốc tế"
+      "insight": "Dữ liệu PPI củng cố quan điểm Fed tiếp tục thắt chặt, tạo áp lực lên dòng vốn toàn cầu.",
+      "source": "VietNamNet"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#Fed",
     "#GiáDầu",
-    "#BấtĐộngSản",
-    "#ĐầuTưCông",
-    "#FDI"
+    "#LạmPhát",
+    "#ĐầuTưCông"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
