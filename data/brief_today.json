@@ -1,92 +1,89 @@
 {
-  "date": "11/9/2026",
+  "date": "12/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · PetroTimes · Báo Mới · Eva.vn · VietNamNet · VOV · Chinhphu.vn · Báo Lào Cai · Báo Thanh Niên",
+  "sources": "VnEconomy · Báo Mới · VietNamNet · VOV · Bnews.vn · Znews",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.090",
-      "change": "flat",
-      "dir": "flat"
+      "value": "26.110",
+      "change": "-0.04%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6tr",
-      "change": "flat",
-      "dir": "flat"
+      "value": "145,4tr",
+      "change": "-0.83%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "107,6$",
-      "change": "+6.3%",
-      "dir": "up"
+      "value": "104.6$",
+      "change": "-2.81%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Mỹ công bố dữ liệu chỉ số giá tiêu dùng (CPI) tháng 8; Ngân hàng Trung ương Nga công bố quyết định lãi suất.",
+  "today_watch": "Thị trường theo dõi diễn biến Trung Đông; chờ quyết định lãi suất Fed tuần tới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công 8 tháng đạt gần 50% kế hoạch",
+      "headline": "Chính phủ đẩy mạnh giải ngân đầu tư công, ban hành Nghị quyết mới",
       "bullets": [
-        "Đến hết tháng 8/2026, giải ngân vốn đầu tư công đạt gần 510 nghìn tỷ đồng, gần 50% kế hoạch.",
-        "Tốc độ giải ngân tháng 8 tăng 1,2 lần tháng 7, cho thấy xu hướng tăng tốc cuối năm.",
-        "Áp lực hoàn thành 50% còn lại trong 5 tháng cuối năm vẫn rất lớn."
+        "Chính phủ ban hành Nghị quyết 262/NQ-CP ngày 5/9/2026, yêu cầu tăng tốc giải ngân đầu tư công những tháng cuối năm.",
+        "Bộ Xây dựng họp ngày 11/9, đốc thúc các chủ đầu tư đẩy nhanh tiến độ, lấy giá trị giải ngân làm thước đo.",
+        "Đến 3/9, cả nước giải ngân 509.557,5 tỷ đồng (49,8% kế hoạch); Hà Tĩnh đạt 68,1%, Hà Nội đạt 56,1% kế hoạch."
       ],
-      "insight": "Dòng vốn đầu tư công tăng tốc hỗ trợ tăng trưởng kinh tế, thúc đẩy các ngành liên quan.",
-      "source": "VOV, Báo Lào Cai"
+      "insight": "Nỗ lực giải ngân vốn đầu tư công sẽ là động lực chính thúc đẩy tăng trưởng kinh tế và hấp thụ vốn thị trường.",
+      "source": "Chinhphu.vn · VnEconomy · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "CPI 8 tháng tăng 4,45%, áp sát mục tiêu kiểm soát lạm phát",
+      "headline": "Ủy ban Cạnh tranh Quốc gia rà soát chính sách giá, phí của Grab",
       "bullets": [
-        "CPI bình quân 8 tháng đầu năm 2026 tăng 4,45% so với cùng kỳ, sát mục tiêu 4,5%.",
-        "Tháng 8, CPI tăng 0,47% chủ yếu do giá xăng dầu và chi phí vận chuyển.",
-        "Bộ Tài chính đưa ra hai kịch bản lạm phát năm 2026: 4,5% và 5%."
+        "Ủy ban Cạnh tranh Quốc gia yêu cầu Grab cung cấp thông tin về giá cước, phí và chiết khấu áp dụng cho khách hàng, tài xế.",
+        "Động thái này diễn ra sau khi nhận được nhiều phản ánh, kiến nghị từ đối tác tài xế của Grab."
       ],
-      "insight": "Áp lực lạm phát cuối năm vẫn hiện hữu, đòi hỏi chính sách tiền tệ thận trọng.",
-      "source": "VnEconomy, CafeF, Chinhphu.vn"
+      "insight": "Việc rà soát có thể ảnh hưởng đến mô hình kinh doanh của các nền tảng công nghệ và giá dịch vụ vận tải.",
+      "source": "VietNamNet · Bnews.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu 8 tháng đạt kỷ lục, nhập siêu 20,46 tỷ USD",
+      "headline": "Việt Nam và Pháp tăng cường hợp tác tài chính, thúc đẩy kinh tế",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt kỷ lục 770,14 tỷ USD, tăng 28,7%.",
-        "Nhập khẩu tăng 35,3% (395,3 tỷ USD), nhanh hơn xuất khẩu tăng 22,4% (374,8 tỷ USD).",
-        "Cán cân thương mại nhập siêu 20,46 tỷ USD, chủ yếu máy vi tính, linh kiện."
+        "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Pháp, chứng kiến ký kết 2 văn kiện hợp tác tài chính trị giá hơn 41 triệu EUR.",
+        "Các văn kiện này dành cho dự án của tỉnh Điện Biên, sử dụng vốn vay và viện trợ từ Cơ quan Phát triển Pháp (AFD)."
       ],
-      "insight": "Kim ngạch thương mại tăng phản ánh phục hồi sản xuất, nhưng nhập siêu lớn cần theo dõi.",
-      "source": "VnEconomy, VOV, Báo Thanh Niên"
+      "insight": "Quan hệ hợp tác quốc tế được củng cố, mở ra cơ hội thu hút vốn FDI và phát triển hạ tầng cho Việt Nam.",
+      "source": "Chinhphu.vn · Bnews.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent vượt 107 USD/thùng, căng thẳng Trung Đông leo thang",
+      "headline": "Giá dầu Brent giảm mạnh do tin đàm phán, rủi ro Trung Đông vẫn cao",
       "bullets": [
-        "Giá dầu Brent tăng 6,3% lên 107,6 USD/thùng sáng 11/9, cao nhất từ tháng 5.",
-        "Các cuộc tấn công vận tải biển tại Hormuz gia tăng, gây lo ngại gián đoạn nguồn cung.",
-        "Lực lượng Houthi kiểm soát cảng Mocha (Yemen), đe dọa tuyến Biển Đỏ."
+        "Giá dầu Brent giảm về 104-104,6 USD/thùng sáng 12/9, giảm khoảng 2,8-3,6 USD so với phiên trước.",
+        "Sự giảm giá do thông tin đàm phán duy trì vận chuyển qua eo biển Hormuz, nhưng xung đột vẫn tiềm ẩn."
       ],
-      "insight": "Giá dầu tăng mạnh có thể đẩy lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận chuyển.",
-      "source": "PetroTimes, Báo Mới, Eva.vn"
+      "insight": "Giá dầu hạ nhiệt tạm thời giúp giảm áp lực lạm phát, nhưng bất ổn địa chính trị vẫn là yếu tố rủi ro lớn.",
+      "source": "Báo Mới · VietNamNet · VOV"
     },
     {
       "cat": "Quốc tế",
-      "headline": "PPI Mỹ tháng 8 tăng mạnh, củng cố kỳ vọng Fed tăng lãi suất",
+      "headline": "Lạm phát lõi Mỹ cao hơn dự báo, củng cố kỳ vọng Fed tăng lãi suất",
       "bullets": [
-        "Chỉ số giá sản xuất (PPI) Mỹ tháng 8 tăng 0,4% so với tháng trước, 5,4% so với cùng kỳ.",
-        "Lạm phát bán buôn cao hơn dự kiến làm tăng khả năng Fed nâng lãi suất 0,25% tháng 9.",
-        "Lợi suất trái phiếu Mỹ 10 năm gần 4,94%, gây áp lực lên vàng và tài sản rủi ro."
+        "CPI lõi tháng 8 của Mỹ tăng 0,3% so với tháng trước, cao hơn mức dự báo 0,2%.",
+        "Số liệu này củng cố kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) sẽ nâng lãi suất tại cuộc họp tuần tới."
       ],
-      "insight": "Dữ liệu PPI củng cố quan điểm Fed tiếp tục thắt chặt, tạo áp lực lên dòng vốn toàn cầu.",
-      "source": "VietNamNet"
+      "insight": "Kỳ vọng lãi suất Fed tăng cao có thể gây áp lực lên tỷ giá USD/VND và dòng vốn đầu tư vào thị trường mới nổi.",
+      "source": "VietNamNet · Báo Mới · danviet"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
+    "#ĐầuTưCông",
     "#GiáDầu",
-    "#LạmPhát",
-    "#ĐầuTưCông"
+    "#Fed",
+    "#Grab"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
