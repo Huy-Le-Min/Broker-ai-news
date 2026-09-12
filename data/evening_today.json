@@ -1,95 +1,95 @@
 {
-  "date": "10/9/2026",
+  "date": "12/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.829,23",
-    "vnindex_change": "+0,12%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 394 tỷ",
-    "foreign_dir": "buy",
-    "volume": "13.565 tỷ",
-    "top_gainer": "Công nghệ, Bán lẻ (FPT, DGW)"
+    "vnindex_close": "1.795,21",
+    "vnindex_change": "-34,02 điểm (-1,86%)",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng 846 tỷ",
+    "foreign_dir": "sell",
+    "volume": "≈16.961 tỷ",
+    "top_gainer": "Dầu khí, một số mã y tế"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.100",
-      "change": "+10 đồng",
-      "dir": "up"
+      "value": "26.110",
+      "change": "-0,04%",
+      "dir": "down"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6 triệu",
-      "change": "+1,2 triệu",
+      "value": "146 tr. đồng/lượng",
+      "change": "+1,11%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "105$",
-      "change": "+3,99%",
-      "dir": "up"
+      "value": "104,61$",
+      "change": "-2,8%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Dữ liệu CPI Mỹ tháng 9; cuộc họp chính sách Ngân hàng Nhật Bản.",
+  "tomorrow_watch": "Theo dõi diễn biến thị trường quốc tế, đặc biệt thông tin về lạm phát và lãi suất.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đẩy mạnh cải cách thị trường vốn",
+      "headline": "Big4 hạ điều kiện hưởng lãi suất 8%/năm",
       "bullets": [
-        "Thủ tướng chỉ đạo các bộ ngành đẩy nhanh hoàn thiện khung pháp lý cho thị trường vốn.",
-        "Tập trung vào nâng cao minh bạch, hiệu quả, và thu hút dòng vốn đầu tư bền vững."
+        "Một ngân hàng Big4 áp dụng lãi suất huy động 8%/năm cho kỳ hạn 6 tháng.",
+        "Điều kiện nhận mức lãi suất này giảm từ 1 tỷ đồng xuống 100 triệu đồng."
       ],
-      "insight": "Tạo nền tảng vững chắc, tăng niềm tin nhà đầu tư vào TTCK Việt Nam.",
-      "source": "VnExpress"
+      "insight": "Động thái này có thể thu hút dòng tiền gửi, tạo áp lực cạnh tranh lãi suất toàn hệ thống.",
+      "source": "VietNamNet"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam thúc đẩy trung tâm năng lượng tái tạo",
+      "headline": "Lao động quý I khởi sắc, thiếu nhân lực chất lượng",
       "bullets": [
-        "Chính phủ nghiên cứu mô hình trung tâm năng lượng tái tạo liên vùng.",
-        "Nhằm khai thác tiềm năng điện gió, điện mặt trời, hình thành chuỗi cung ứng xanh."
+        "Thị trường lao động quý I/2026 ổn định, số người có việc làm tăng 300.000 người.",
+        "Nhu cầu tuyển dụng tập trung nhân sự có chuyên môn, kỹ năng phù hợp công nghệ."
       ],
-      "insight": "Mở ra cơ hội lớn cho ngành năng lượng sạch, thu hút đầu tư xanh.",
-      "source": "VnEconomy"
+      "insight": "Việc thiếu hụt nhân lực chất lượng cao có thể ảnh hưởng đến năng suất và tăng trưởng kinh tế.",
+      "source": "DigiSource · VOV"
     },
     {
       "cat": "Trong nước",
-      "headline": "Cổ phiếu công nghệ, bán lẻ dẫn dắt thị trường",
+      "headline": "Xuất khẩu nông sản bứt phá, sầu riêng dẫn sóng",
       "bullets": [
-        "FPT, DGW và MWG tăng mạnh, thúc đẩy VN-Index trong phiên hôm nay.",
-        "Đà tăng nhờ thông tin Apple ra mắt sản phẩm mới và kỳ vọng KQKD tích cực."
+        "Xuất khẩu nông lâm thủy sản 8 tháng đạt gần 49,31 tỷ USD, tăng 7% so với 2025.",
+        "Sầu riêng đạt 1,47 tỷ USD trong 7 tháng, Ấn Độ mở cửa nhập khẩu từ tháng 7/2026."
       ],
-      "insight": "Cho thấy sự phục hồi của tiêu dùng và tiềm năng tăng trưởng ngành công nghệ.",
-      "source": "Vietstock, Báo Nhân Dân"
+      "insight": "Tăng trưởng xuất khẩu nông sản, đặc biệt trái cây, hỗ trợ cán cân thương mại và nông dân.",
+      "source": "Bộ Nông nghiệp & Môi trường · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB tăng lãi suất 0,25%, tín hiệu thận trọng",
+      "headline": "Dầu Brent giảm mạnh, đàm phán Iran tác động",
       "bullets": [
-        "Ngân hàng Trung ương châu Âu (ECB) nâng lãi suất tiền gửi lên 2,5% vào 10/9.",
-        "Tuy nhiên, ECB phát tín hiệu không cam kết trước về lộ trình tăng lãi suất tiếp theo."
+        "Giá dầu Brent giảm 2,8% xuống 104,61 USD/thùng trong phiên 11/9.",
+        "Thông tin đàm phán tạm thời với Iran về eo biển Hormuz làm giảm lo ngại nguồn cung."
       ],
-      "insight": "Giảm áp lực lạm phát nhưng cũng báo hiệu chu kỳ thắt chặt có thể chậm lại.",
-      "source": "Reuters, Bnews.vn"
+      "insight": "Diễn biến giá dầu phản ánh sự nhạy cảm của thị trường với tin tức địa chính trị.",
+      "source": "Báo Lao Động · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Mỹ siết kiểm soát chip AI, Trung Quốc tìm cách lách",
+      "headline": "Chứng khoán châu Á giảm mạnh vì lạm phát",
       "bullets": [
-        "Mỹ rà soát việc các công ty Trung Quốc thuê chip AI Nvidia ở nước ngoài.",
-        "Động thái nhằm ngăn Bắc Kinh tiếp cận công nghệ bán dẫn tiên tiến."
+        "Thị trường chứng khoán châu Á đồng loạt giảm điểm trong phiên hôm nay.",
+        "Lo ngại lạm phát và khả năng Fed tăng lãi suất là nguyên nhân chính."
       ],
-      "insight": "Gây áp lực lên chuỗi cung ứng công nghệ toàn cầu, ảnh hưởng ngành chip.",
-      "source": "Bloomberg, GenK"
+      "insight": "Tâm lý thận trọng toàn cầu ảnh hưởng trực tiếp đến thị trường chứng khoán khu vực.",
+      "source": "Báo Mới · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
+    "#Vietcap",
     "#VNIndex",
-    "#TTCK",
-    "#ECB",
+    "#GiáVàng",
     "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
