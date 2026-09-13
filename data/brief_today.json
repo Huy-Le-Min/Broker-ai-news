@@ -1,89 +1,88 @@
 {
-  "date": "12/9/2026",
+  "date": "13/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnEconomy · Báo Mới · VietNamNet · VOV · Bnews.vn · Znews",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lao Động · Báo Mới · Tuổi Trẻ",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.110",
-      "change": "-0.04%",
-      "dir": "down"
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "145,4tr",
-      "change": "-0.83%",
-      "dir": "down"
+      "value": "146,00 tr",
+      "change": "+0,41%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "104.6$",
-      "change": "-2.81%",
+      "value": "104,6$",
+      "change": "-2,8%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường theo dõi diễn biến Trung Đông; chờ quyết định lãi suất Fed tuần tới.",
+  "today_watch": "Thị trường theo dõi dữ liệu kinh tế Mỹ và động thái Fed về lãi suất tuần tới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ đẩy mạnh giải ngân đầu tư công, ban hành Nghị quyết mới",
+      "headline": "Lãi suất liên ngân hàng qua đêm thấp, NHNN hút ròng thanh khoản.",
       "bullets": [
-        "Chính phủ ban hành Nghị quyết 262/NQ-CP ngày 5/9/2026, yêu cầu tăng tốc giải ngân đầu tư công những tháng cuối năm.",
-        "Bộ Xây dựng họp ngày 11/9, đốc thúc các chủ đầu tư đẩy nhanh tiến độ, lấy giá trị giải ngân làm thước đo.",
-        "Đến 3/9, cả nước giải ngân 509.557,5 tỷ đồng (49,8% kế hoạch); Hà Tĩnh đạt 68,1%, Hà Nội đạt 56,1% kế hoạch."
+        "Lãi suất bình quân liên ngân hàng qua đêm bằng VND duy trì ở mức 1,5%/năm trong phiên gần nhất.",
+        "Ngân hàng Nhà nước hút ròng gần 2.600 tỉ đồng khỏi hệ thống qua kênh cầm cố, với tổng khối lượng lưu hành đạt 252.649 tỉ đồng."
       ],
-      "insight": "Nỗ lực giải ngân vốn đầu tư công sẽ là động lực chính thúc đẩy tăng trưởng kinh tế và hấp thụ vốn thị trường.",
-      "source": "Chinhphu.vn · VnEconomy · Báo Mới"
+      "insight": "Mặt bằng lãi suất thấp và động thái hút ròng cho thấy thanh khoản hệ thống dồi dào, nhưng NHNN thận trọng điều tiết.",
+      "source": "Tuổi Trẻ"
     },
     {
       "cat": "Trong nước",
-      "headline": "Ủy ban Cạnh tranh Quốc gia rà soát chính sách giá, phí của Grab",
+      "headline": "Giá vàng SJC giảm mạnh 1,6 triệu đồng/lượng sau một tuần biến động.",
       "bullets": [
-        "Ủy ban Cạnh tranh Quốc gia yêu cầu Grab cung cấp thông tin về giá cước, phí và chiết khấu áp dụng cho khách hàng, tài xế.",
-        "Động thái này diễn ra sau khi nhận được nhiều phản ánh, kiến nghị từ đối tác tài xế của Grab."
+        "Giá vàng miếng SJC niêm yết 143-146 triệu đồng/lượng (mua-bán), tăng 600.000 đồng/lượng so với sáng qua.",
+        "Tuy nhiên, tính chung cả tuần, giá vàng SJC đã giảm 1,6 triệu đồng/lượng, vàng nhẫn giảm sâu hơn."
       ],
-      "insight": "Việc rà soát có thể ảnh hưởng đến mô hình kinh doanh của các nền tảng công nghệ và giá dịch vụ vận tải.",
-      "source": "VietNamNet · Bnews.vn"
+      "insight": "Giá vàng trong nước chịu áp lực từ diễn biến thế giới và kỳ vọng Fed tăng lãi suất, ảnh hưởng tâm lý nhà đầu tư.",
+      "source": "VOV · Báo Mới · Kenh14"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam và Pháp tăng cường hợp tác tài chính, thúc đẩy kinh tế",
+      "headline": "Thị trường bất động sản Hà Nội: Đất nền giảm 14% trong quý III/2026.",
       "bullets": [
-        "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Pháp, chứng kiến ký kết 2 văn kiện hợp tác tài chính trị giá hơn 41 triệu EUR.",
-        "Các văn kiện này dành cho dự án của tỉnh Điện Biên, sử dụng vốn vay và viện trợ từ Cơ quan Phát triển Pháp (AFD)."
+        "Giá rao bán đất nền tại Hà Nội giảm 14%, từ 81 triệu đồng/m² xuống 70 triệu đồng/m² trong quý III/2026.",
+        "Thanh khoản thị trường chung cư, nhà mặt phố, biệt thự cũng chậm lại, với lượng tin đăng và mức độ quan tâm giảm."
       ],
-      "insight": "Quan hệ hợp tác quốc tế được củng cố, mở ra cơ hội thu hút vốn FDI và phát triển hạ tầng cho Việt Nam.",
-      "source": "Chinhphu.vn · Bnews.vn"
+      "insight": "Sự điều chỉnh mạnh của đất nền cho thấy áp lực thanh khoản và chi phí vốn cao tiếp tục đè nặng lên thị trường BĐS.",
+      "source": "Báo Lao Động"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm mạnh do tin đàm phán, rủi ro Trung Đông vẫn cao",
+      "headline": "Dầu Brent giảm mạnh xuống 104 USD/thùng do tin đàm phán Iran.",
       "bullets": [
-        "Giá dầu Brent giảm về 104-104,6 USD/thùng sáng 12/9, giảm khoảng 2,8-3,6 USD so với phiên trước.",
-        "Sự giảm giá do thông tin đàm phán duy trì vận chuyển qua eo biển Hormuz, nhưng xung đột vẫn tiềm ẩn."
+        "Giá dầu Brent giảm 2,8% xuống 104,61 USD/thùng; dầu WTI về 100 USD/thùng.",
+        "Thông tin về nỗ lực thúc đẩy thỏa thuận tạm thời với Iran nhằm duy trì vận chuyển qua eo biển Hormuz gây áp lực giảm giá."
       ],
-      "insight": "Giá dầu hạ nhiệt tạm thời giúp giảm áp lực lạm phát, nhưng bất ổn địa chính trị vẫn là yếu tố rủi ro lớn.",
-      "source": "Báo Mới · VietNamNet · VOV"
+      "insight": "Giá dầu hạ nhiệt có thể giảm bớt lo ngại lạm phát toàn cầu, nhưng rủi ro địa chính trị Trung Đông vẫn tiềm ẩn.",
+      "source": "Báo Mới · VOV · Bongdaplus"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát lõi Mỹ cao hơn dự báo, củng cố kỳ vọng Fed tăng lãi suất",
+      "headline": "Chứng khoán Mỹ hồi phục; Lạm phát lõi cao củng cố kỳ vọng Fed tăng lãi suất.",
       "bullets": [
-        "CPI lõi tháng 8 của Mỹ tăng 0,3% so với tháng trước, cao hơn mức dự báo 0,2%.",
-        "Số liệu này củng cố kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) sẽ nâng lãi suất tại cuộc họp tuần tới."
+        "Dow Jones tăng 509 điểm (+0,98%), S&P 500 và Nasdaq Composite cũng tăng điểm sau 4 phiên giảm liên tiếp.",
+        "CPI lõi tháng 8 của Mỹ tăng 0,3% so với tháng trước, cao hơn dự báo, củng cố xác suất Fed tăng lãi suất gần 90% tuần tới."
       ],
-      "insight": "Kỳ vọng lãi suất Fed tăng cao có thể gây áp lực lên tỷ giá USD/VND và dòng vốn đầu tư vào thị trường mới nổi.",
-      "source": "VietNamNet · Báo Mới · danviet"
+      "insight": "Thị trường Mỹ phản ứng tích cực với giá dầu hạ, nhưng áp lực lạm phát dai dẳng vẫn là yếu tố rủi ro cho chính sách tiền tệ.",
+      "source": "Vietstock · Investing.com · Kenh14"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ĐầuTưCông",
+    "#ThịTrườngTàiChính",
     "#GiáDầu",
-    "#Fed",
-    "#Grab"
+    "#GiáVàng",
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
