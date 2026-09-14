@@ -1,95 +1,96 @@
 {
-  "date": "13/9/2026",
+  "date": "14/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.250,35",
-    "vnindex_change": "+0,71%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 350 tỷ",
+    "vnindex_close": "1.788,23",
+    "vnindex_change": "-0,39%",
+    "vnindex_dir": "down",
+    "foreign_net": "Mua ròng 825 tỷ",
     "foreign_dir": "buy",
-    "volume": "22.500 tỷ",
-    "top_gainer": "Ngân hàng, Bất động sản"
+    "volume": "≈664 triệu đơn vị",
+    "top_gainer": "Ngân hàng, Dầu khí"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "25.923",
-      "change": "+0,01%",
+      "value": "25.933",
+      "change": "+0,26%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,00 triệu",
-      "change": "+0,5%",
-      "dir": "up"
+      "value": "145,60tr",
+      "change": "giảm",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "104,47$",
-      "change": "-2,49%",
-      "dir": "down"
+      "value": "107$",
+      "change": "tăng",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Mỹ công bố dữ liệu CPI tháng 9; ECB họp chính sách tiền tệ.",
+  "tomorrow_watch": "Kết quả họp FOMC của Fed (15-16/9) và dữ liệu kinh tế Mỹ.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN ban hành Thông tư mới về quản lý rủi ro tín dụng",
+      "headline": "VN-Index giằng co quanh 1.788 điểm, khối ngoại mua ròng.",
       "bullets": [
-        "Thông tư 0X/2026/TT-NHNN siết chặt quy định phân loại nợ, trích lập dự phòng rủi ro.",
-        "Mục tiêu nâng cao chất lượng tài sản, tăng cường khả năng chống chịu hệ thống ngân hàng."
+        "Phiên 14/9, VN-Index đóng cửa 1.788,23 điểm (-0,39%), dự báo giằng co quanh 1.775-1.780 điểm trong phiên 15/9.",
+        "Khối ngoại mua ròng 825 tỷ đồng trên HOSE; thanh khoản HOSE đạt gần 664 triệu đơn vị."
       ],
-      "insight": "Quy định mới có thể ảnh hưởng lợi nhuận ngắn hạn ngân hàng, nhưng giúp hệ thống vững mạnh hơn.",
-      "source": "Ngân hàng Nhà nước"
+      "insight": "Thị trường tiếp tục phân hóa, chờ đợi tín hiệu rõ ràng hơn từ dòng tiền và tin tức vĩ mô.",
+      "source": "VnEconomy · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Sản xuất công nghiệp tháng 8 tăng mạnh, vượt kỳ vọng",
+      "headline": "FDI 8 tháng đạt kỷ lục 40,63 tỷ USD, tăng 55,4%.",
       "bullets": [
-        "Chỉ số IIP tháng 8/2026 ước tăng 9,2% so với cùng kỳ, cao hơn mức dự báo 7,5%.",
-        "Ngành chế biến, chế tạo là động lực chính, tăng 11,5% nhờ đơn hàng xuất khẩu phục hồi."
+        "Tổng vốn FDI đăng ký vào Việt Nam 8 tháng đầu 2026 đạt 40,63 tỷ USD, tăng 55,4% so cùng kỳ.",
+        "Vốn thực hiện đạt 17,25 tỷ USD, cao nhất 5 năm qua, tập trung vào chế biến, chế tạo."
       ],
-      "insight": "Tín hiệu tích cực cho tăng trưởng GDP quý III, hỗ trợ nhóm cổ phiếu sản xuất, xuất khẩu.",
-      "source": "Tổng cục Thống kê"
+      "insight": "Dòng vốn chất lượng cao vào công nghệ, bán dẫn củng cố vị thế sản xuất của Việt Nam.",
+      "source": "Báo Công Thương · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ phê duyệt Đề án phát triển hạ tầng logistics",
+      "headline": "SSI Research dự báo GDP quý III tăng 8,7-9,3%.",
       "bullets": [
-        "Đề án đặt mục tiêu giảm chi phí logistics xuống 16% GDP vào năm 2030, tăng năng lực cạnh tranh.",
-        "Ưu tiên đầu tư vào các trung tâm logistics lớn, kết nối cảng biển, sân bay, đường bộ."
+        "SSI Research dự báo GDP Việt Nam quý III/2026 tăng 8,7-9,3% nhờ sản xuất, xuất nhập khẩu.",
+        "Sản xuất công nghiệp 8 tháng tăng 11,9%; tổng kim ngạch xuất nhập khẩu đạt 770,14 tỷ USD."
       ],
-      "insight": "Hỗ trợ doanh nghiệp xuất nhập khẩu, vận tải và khu công nghiệp, giảm gánh nặng chi phí.",
-      "source": "Bộ Kế hoạch và Đầu tư"
+      "insight": "Triển vọng tăng trưởng kinh tế tích cực hỗ trợ tâm lý nhà đầu tư và dòng tiền.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed hé lộ lộ trình giảm lãi suất sớm hơn dự kiến",
+      "headline": "Goldman Sachs dự báo Fed tăng lãi suất 0,25% tháng 9.",
       "bullets": [
-        "Biên bản họp tháng 9 cho thấy một số thành viên Fed ủng hộ cắt giảm lãi suất vào đầu năm 2027.",
-        "Lý do là lạm phát có dấu hiệu hạ nhiệt bền vững và thị trường lao động ổn định."
+        "Goldman Sachs đảo ngược dự báo, kỳ vọng Fed tăng 0,25% lãi suất tại cuộc họp tháng 9/2026.",
+        "Thị trường đang định giá 87% khả năng tăng lãi suất sau dữ liệu lạm phát cao hơn dự kiến."
       ],
-      "insight": "Thông tin tích cực cho thị trường chứng khoán toàn cầu, có thể thúc đẩy dòng vốn ngoại vào VN.",
-      "source": "Reuters"
+      "insight": "Quyết định của Fed sẽ tác động mạnh đến tỷ giá, dòng vốn và tâm lý thị trường toàn cầu.",
+      "source": "Bnews · Investing.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc tung gói kích thích tiêu dùng quy mô lớn",
+      "headline": "Tesla thành lập công ty con 3 triệu USD tại Việt Nam.",
       "bullets": [
-        "Chính phủ Trung Quốc công bố chương trình hỗ trợ tiêu dùng 500 tỷ NDT, tập trung ô tô, điện tử.",
-        "Mục tiêu nhằm thúc đẩy nhu cầu nội địa, đối phó với áp lực giảm tốc kinh tế."
+        "Tesla đã thành lập công ty con với vốn 3 triệu USD tại Việt Nam, sau Starlink.",
+        "Công ty sẽ hoạt động trong lĩnh vực bán ô tô điện, trạm sạc, và dịch vụ liên quan."
       ],
-      "insight": "Kích thích nhu cầu hàng hóa, có lợi cho các doanh nghiệp xuất khẩu của Việt Nam sang Trung Quốc.",
-      "source": "Bloomberg"
+      "insight": "Sự hiện diện của Tesla thúc đẩy ngành xe điện, thu hút thêm đầu tư công nghệ cao.",
+      "source": "VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
     "#VNIndex",
-    "#KinhTe"
+    "#FDI",
+    "#Fed",
+    "#Tesla"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
