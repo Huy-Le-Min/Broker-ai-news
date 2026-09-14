@@ -1,88 +1,88 @@
 {
-  "date": "13/9/2026",
+  "date": "14/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lao Động · Báo Mới · Tuổi Trẻ",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Thanh Niên · Báo Đầu Tư · Người Quan Sát · LuatVietnam",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.110",
-      "change": "0%",
+      "change": "0,0%",
       "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,00 tr",
-      "change": "+0,41%",
-      "dir": "up"
+      "value": "146 triệu",
+      "change": "0,0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "104,6$",
-      "change": "-2,8%",
-      "dir": "down"
+      "value": "107,7$",
+      "change": "+2,93%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Thị trường theo dõi dữ liệu kinh tế Mỹ và động thái Fed về lãi suất tuần tới.",
+  "today_watch": "Diễn biến cuộc họp Fed (15-16/9) và kỳ vọng lãi suất.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất liên ngân hàng qua đêm thấp, NHNN hút ròng thanh khoản.",
+      "headline": "VN-Index giảm sâu, khối ngoại bán ròng",
       "bullets": [
-        "Lãi suất bình quân liên ngân hàng qua đêm bằng VND duy trì ở mức 1,5%/năm trong phiên gần nhất.",
-        "Ngân hàng Nhà nước hút ròng gần 2.600 tỉ đồng khỏi hệ thống qua kênh cầm cố, với tổng khối lượng lưu hành đạt 252.649 tỉ đồng."
+        "VN-Index mất mốc 1.800 điểm, giảm 1,86% trong phiên cuối tuần trước.",
+        "Khối ngoại bán ròng hơn 1.600 tỷ đồng tuần qua, tập trung vào VHM và STB."
       ],
-      "insight": "Mặt bằng lãi suất thấp và động thái hút ròng cho thấy thanh khoản hệ thống dồi dào, nhưng NHNN thận trọng điều tiết.",
-      "source": "Tuổi Trẻ"
+      "insight": "Áp lực bán gia tăng cho thấy tâm lý thận trọng, thị trường cần thời gian cân bằng.",
+      "source": "Người Quan Sát · Nguoiduatin"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá vàng SJC giảm mạnh 1,6 triệu đồng/lượng sau một tuần biến động.",
+      "headline": "Việt Nam sắp nâng hạng thị trường",
       "bullets": [
-        "Giá vàng miếng SJC niêm yết 143-146 triệu đồng/lượng (mua-bán), tăng 600.000 đồng/lượng so với sáng qua.",
-        "Tuy nhiên, tính chung cả tuần, giá vàng SJC đã giảm 1,6 triệu đồng/lượng, vàng nhẫn giảm sâu hơn."
+        "FTSE Russell dự kiến nâng hạng Việt Nam lên thị trường mới nổi thứ cấp từ 21/9/2026.",
+        "Sự kiện này kỳ vọng thu hút thêm dòng vốn ngoại vào thị trường chứng khoán Việt Nam."
       ],
-      "insight": "Giá vàng trong nước chịu áp lực từ diễn biến thế giới và kỳ vọng Fed tăng lãi suất, ảnh hưởng tâm lý nhà đầu tư.",
-      "source": "VOV · Báo Mới · Kenh14"
+      "insight": "Nâng hạng thị trường là động lực quan trọng cải thiện dòng vốn ngoại và định giá cổ phiếu.",
+      "source": "CafeF · Nguoiduatin"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thị trường bất động sản Hà Nội: Đất nền giảm 14% trong quý III/2026.",
+      "headline": "Hà Nội đặt mục tiêu FDI lớn",
       "bullets": [
-        "Giá rao bán đất nền tại Hà Nội giảm 14%, từ 81 triệu đồng/m² xuống 70 triệu đồng/m² trong quý III/2026.",
-        "Thanh khoản thị trường chung cư, nhà mặt phố, biệt thự cũng chậm lại, với lượng tin đăng và mức độ quan tâm giảm."
+        "Hà Nội đặt mục tiêu thu hút 25 tỷ USD FDI giai đoạn 2026-2030.",
+        "Mục tiêu nhằm thúc đẩy công nghệ, nhân lực và năng lực cạnh tranh doanh nghiệp."
       ],
-      "insight": "Sự điều chỉnh mạnh của đất nền cho thấy áp lực thanh khoản và chi phí vốn cao tiếp tục đè nặng lên thị trường BĐS.",
-      "source": "Báo Lao Động"
+      "insight": "Mục tiêu FDI lớn là động lực dài hạn cho tăng trưởng kinh tế và phát triển công nghiệp Thủ đô.",
+      "source": "Báo Đầu Tư"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent giảm mạnh xuống 104 USD/thùng do tin đàm phán Iran.",
+      "headline": "Fed đối mặt áp lực tăng lãi suất",
       "bullets": [
-        "Giá dầu Brent giảm 2,8% xuống 104,61 USD/thùng; dầu WTI về 100 USD/thùng.",
-        "Thông tin về nỗ lực thúc đẩy thỏa thuận tạm thời với Iran nhằm duy trì vận chuyển qua eo biển Hormuz gây áp lực giảm giá."
+        "Thị trường đặt cược 87-90% khả năng Fed tăng lãi suất 0,25 điểm cơ bản tại cuộc họp 15-16/9.",
+        "Lạm phát lõi và giá năng lượng cao củng cố kỳ vọng Fed duy trì chính sách thắt chặt."
       ],
-      "insight": "Giá dầu hạ nhiệt có thể giảm bớt lo ngại lạm phát toàn cầu, nhưng rủi ro địa chính trị Trung Đông vẫn tiềm ẩn.",
-      "source": "Báo Mới · VOV · Bongdaplus"
+      "insight": "Quyết định của Fed sẽ tác động mạnh tỷ giá, dòng vốn toàn cầu và tâm lý nhà đầu tư.",
+      "source": "Báo Mới · VietNamNet · VTV.vn · 24H · Người Quan Sát"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ hồi phục; Lạm phát lõi cao củng cố kỳ vọng Fed tăng lãi suất.",
+      "headline": "Dầu Brent tiếp tục tăng mạnh, vượt 107 USD",
       "bullets": [
-        "Dow Jones tăng 509 điểm (+0,98%), S&P 500 và Nasdaq Composite cũng tăng điểm sau 4 phiên giảm liên tiếp.",
-        "CPI lõi tháng 8 của Mỹ tăng 0,3% so với tháng trước, cao hơn dự báo, củng cố xác suất Fed tăng lãi suất gần 90% tuần tới."
+        "Giá dầu Brent tăng 2,93% lên 107,7 USD/thùng, sau các cuộc tấn công mới tại Trung Đông.",
+        "Căng thẳng địa chính trị leo thang làm gia tăng lo ngại về gián đoạn nguồn cung dầu toàn cầu."
       ],
-      "insight": "Thị trường Mỹ phản ứng tích cực với giá dầu hạ, nhưng áp lực lạm phát dai dẳng vẫn là yếu tố rủi ro cho chính sách tiền tệ.",
-      "source": "Vietstock · Investing.com · Kenh14"
+      "insight": "Giá dầu tăng cao gây áp lực lạm phát, tăng chi phí sản xuất và hỗ trợ nhóm cổ phiếu dầu khí.",
+      "source": "Báo Thanh Niên · PetroTimes · Oilprice"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
+    "#Vietcap",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
-    "#GiáDầu",
-    "#GiáVàng",
-    "#BấtĐộngSản"
+    "#ThịTrườngDầu",
+    "#Fed",
+    "#FTSE"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
