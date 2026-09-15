@@ -1,88 +1,87 @@
 {
-  "date": "14/9/2026",
+  "date": "15/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Thanh Niên · Báo Đầu Tư · Người Quan Sát · LuatVietnam",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chợ Giá · 24H · PetroTimes · Báo Mới · VOV · TheStreet · TechProfit · VietnamBiz",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.110",
-      "change": "0,0%",
-      "dir": "flat"
+      "value": "26.248",
+      "change": "+0,23%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146 triệu",
-      "change": "0,0%",
-      "dir": "flat"
+      "value": "145,6tr",
+      "change": "-0,27%",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "107,7$",
-      "change": "+2,93%",
+      "value": "106,66$",
+      "change": "+0,93%",
       "dir": "up"
     }
   ],
-  "today_watch": "Diễn biến cuộc họp Fed (15-16/9) và kỳ vọng lãi suất.",
+  "today_watch": "Thị trường chờ đợi quyết định lãi suất của Fed vào giữa tuần này.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm sâu, khối ngoại bán ròng",
+      "headline": "VN-Index giảm điểm, khối ngoại mua ròng mạnh",
       "bullets": [
-        "VN-Index mất mốc 1.800 điểm, giảm 1,86% trong phiên cuối tuần trước.",
-        "Khối ngoại bán ròng hơn 1.600 tỷ đồng tuần qua, tập trung vào VHM và STB."
+        "Phiên 14/9, VN-Index giảm 6,98 điểm (-0,39%) xuống 1.788,23 điểm, áp lực bán gia tăng trên diện rộng.",
+        "Tuy nhiên, khối ngoại đảo chiều mua ròng hơn 812 tỷ đồng trên HoSE, tập trung vào một số mã vốn hóa lớn."
       ],
-      "insight": "Áp lực bán gia tăng cho thấy tâm lý thận trọng, thị trường cần thời gian cân bằng.",
-      "source": "Người Quan Sát · Nguoiduatin"
+      "insight": "Dòng tiền ngoại trở lại mua ròng có thể là điểm tựa giúp thị trường cân bằng hơn trong bối cảnh điều chỉnh.",
+      "source": "CafeF · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam sắp nâng hạng thị trường",
+      "headline": "Tỷ giá USD/VND tăng, đạt mức cao nhất hai tuần",
       "bullets": [
-        "FTSE Russell dự kiến nâng hạng Việt Nam lên thị trường mới nổi thứ cấp từ 21/9/2026.",
-        "Sự kiện này kỳ vọng thu hút thêm dòng vốn ngoại vào thị trường chứng khoán Việt Nam."
+        "Sáng 15/9, tỷ giá trung tâm tăng 11 đồng lên 25.607 VND/USD.",
+        "Giá bán USD tại các ngân hàng thương mại lớn như Techcombank lên 26.248 VND/USD, tăng 60-70 đồng so với phiên trước."
       ],
-      "insight": "Nâng hạng thị trường là động lực quan trọng cải thiện dòng vốn ngoại và định giá cổ phiếu.",
-      "source": "CafeF · Nguoiduatin"
+      "insight": "Đồng USD mạnh lên gây áp lực lên tỷ giá trong nước, ảnh hưởng chi phí nhập khẩu và dòng vốn ngoại.",
+      "source": "VOV · Chợ Giá"
     },
     {
       "cat": "Trong nước",
-      "headline": "Hà Nội đặt mục tiêu FDI lớn",
+      "headline": "Giá vàng SJC giảm mạnh, thế giới lao dốc",
       "bullets": [
-        "Hà Nội đặt mục tiêu thu hút 25 tỷ USD FDI giai đoạn 2026-2030.",
-        "Mục tiêu nhằm thúc đẩy công nghệ, nhân lực và năng lực cạnh tranh doanh nghiệp."
+        "Sáng 15/9, vàng SJC giảm 400.000 đồng/lượng, niêm yết 142,6 - 145,6 triệu đồng/lượng (mua – bán).",
+        "Giá vàng thế giới giảm xuống 4.292-4.299 USD/ounce do kỳ vọng Fed tăng lãi suất và lợi suất trái phiếu tăng."
       ],
-      "insight": "Mục tiêu FDI lớn là động lực dài hạn cho tăng trưởng kinh tế và phát triển công nghiệp Thủ đô.",
-      "source": "Báo Đầu Tư"
+      "insight": "Giá vàng giảm phản ánh tâm lý thị trường lo ngại chính sách tiền tệ thắt chặt, có thể ảnh hưởng tâm lý nhà đầu tư.",
+      "source": "24H · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed đối mặt áp lực tăng lãi suất",
+      "headline": "Lạm phát Mỹ tăng, Fed khả năng cao tăng lãi suất",
       "bullets": [
-        "Thị trường đặt cược 87-90% khả năng Fed tăng lãi suất 0,25 điểm cơ bản tại cuộc họp 15-16/9.",
-        "Lạm phát lõi và giá năng lượng cao củng cố kỳ vọng Fed duy trì chính sách thắt chặt."
+        "CPI Mỹ tháng 8 tăng 0,4% (tổng thể) và 0,3% (lõi), cao hơn dự báo, duy trì lạm phát hàng năm 3,4%.",
+        "Thị trường đang định giá khoảng 87-90% khả năng Fed tăng lãi suất 25 điểm cơ bản tại cuộc họp tuần này."
       ],
-      "insight": "Quyết định của Fed sẽ tác động mạnh tỷ giá, dòng vốn toàn cầu và tâm lý nhà đầu tư.",
-      "source": "Báo Mới · VietNamNet · VTV.vn · 24H · Người Quan Sát"
+      "insight": "Kỳ vọng Fed thắt chặt tiền tệ củng cố đồng USD, tạo áp lực lên các tài sản rủi ro và thị trường mới nổi.",
+      "source": "VOV · Dân Trí · Investing.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent tiếp tục tăng mạnh, vượt 107 USD",
+      "headline": "Dầu Brent tăng mạnh, áp sát mốc 110 USD/thùng",
       "bullets": [
-        "Giá dầu Brent tăng 2,93% lên 107,7 USD/thùng, sau các cuộc tấn công mới tại Trung Đông.",
-        "Căng thẳng địa chính trị leo thang làm gia tăng lo ngại về gián đoạn nguồn cung dầu toàn cầu."
+        "Giá dầu Brent chốt phiên 14/9 tăng lên 105,68 USD/thùng, có thời điểm chạm 108,65 USD/thùng.",
+        "Căng thẳng leo thang tại Trung Đông và các cuộc tấn công vào cơ sở hạ tầng năng lượng Ả Rập Xê-út gây lo ngại nguồn cung."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát, tăng chi phí sản xuất và hỗ trợ nhóm cổ phiếu dầu khí.",
-      "source": "Báo Thanh Niên · PetroTimes · Oilprice"
+      "insight": "Giá dầu tăng cao duy trì rủi ro lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
+      "source": "PetroTimes · Vietstock · VietnamBiz"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#Vietcap",
     "#KinhTếViệtNam",
-    "#ThịTrườngDầu",
+    "#ThịTrườngTàiChính",
     "#Fed",
-    "#FTSE"
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
