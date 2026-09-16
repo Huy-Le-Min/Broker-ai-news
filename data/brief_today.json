@@ -1,87 +1,87 @@
 {
-  "date": "15/9/2026",
+  "date": "16/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chợ Giá · 24H · PetroTimes · Báo Mới · VOV · TheStreet · TechProfit · VietnamBiz",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chợ Giá · Ngôi sao · VOV · Báo Mới · Dân Việt · Lao Động",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.248",
-      "change": "+0,23%",
+      "value": "26.180",
+      "change": "+0.27%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "145,6tr",
-      "change": "-0,27%",
+      "value": "145,3tr",
+      "change": "-0.21%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "106,66$",
-      "change": "+0,93%",
+      "value": "108,8$",
+      "change": "+2.9%",
       "dir": "up"
     }
   ],
-  "today_watch": "Thị trường chờ đợi quyết định lãi suất của Fed vào giữa tuần này.",
+  "today_watch": "Fed công bố quyết định lãi suất; theo dõi diễn biến giá dầu thế giới.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm điểm, khối ngoại mua ròng mạnh",
+      "headline": "BĐS Việt Nam vào Top 10 minh bạch nhất toàn cầu",
       "bullets": [
-        "Phiên 14/9, VN-Index giảm 6,98 điểm (-0,39%) xuống 1.788,23 điểm, áp lực bán gia tăng trên diện rộng.",
-        "Tuy nhiên, khối ngoại đảo chiều mua ròng hơn 812 tỷ đồng trên HoSE, tập trung vào một số mã vốn hóa lớn."
+        "Việt Nam xếp 50/88 thị trường trong Chỉ số Minh bạch Bất động sản Toàn cầu (GRETI) 2026 của JLL.",
+        "Đồng thời, Việt Nam nằm trong Top 10 thị trường cải thiện mạnh nhất thế giới giai đoạn 2024-2026."
       ],
-      "insight": "Dòng tiền ngoại trở lại mua ròng có thể là điểm tựa giúp thị trường cân bằng hơn trong bối cảnh điều chỉnh.",
-      "source": "CafeF · Báo Mới"
+      "insight": "Cải thiện minh bạch giúp thu hút vốn đầu tư nước ngoài, tăng niềm tin thị trường bất động sản.",
+      "source": "CafeLand · SOHA · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tỷ giá USD/VND tăng, đạt mức cao nhất hai tuần",
+      "headline": "Lãi suất huy động một số ngân hàng đạt 8-9.4%/năm",
       "bullets": [
-        "Sáng 15/9, tỷ giá trung tâm tăng 11 đồng lên 25.607 VND/USD.",
-        "Giá bán USD tại các ngân hàng thương mại lớn như Techcombank lên 26.248 VND/USD, tăng 60-70 đồng so với phiên trước."
+        "Một số ngân hàng áp dụng lãi suất huy động kỳ hạn 6-12 tháng từ 8%/năm.",
+        "Cake by VPBank thậm chí có thể lên tới 9.2-9.4%/năm với điều kiện ưu đãi cho khách hàng."
       ],
-      "insight": "Đồng USD mạnh lên gây áp lực lên tỷ giá trong nước, ảnh hưởng chi phí nhập khẩu và dòng vốn ngoại.",
-      "source": "VOV · Chợ Giá"
+      "insight": "Lãi suất huy động cao tạo áp lực lên chi phí vốn ngân hàng, ảnh hưởng lợi nhuận và tín dụng.",
+      "source": "Kenh14 · Báo Mới · Lao Động"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá vàng SJC giảm mạnh, thế giới lao dốc",
+      "headline": "8 tháng, Việt Nam nhập siêu 20.46 tỷ USD",
       "bullets": [
-        "Sáng 15/9, vàng SJC giảm 400.000 đồng/lượng, niêm yết 142,6 - 145,6 triệu đồng/lượng (mua – bán).",
-        "Giá vàng thế giới giảm xuống 4.292-4.299 USD/ounce do kỳ vọng Fed tăng lãi suất và lợi suất trái phiếu tăng."
+        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD, nhập siêu 20,46 tỷ USD.",
+        "Nhập khẩu tăng 35,3% lên 395,3 tỷ USD, chủ yếu là máy móc, linh kiện điện tử phục vụ sản xuất."
       ],
-      "insight": "Giá vàng giảm phản ánh tâm lý thị trường lo ngại chính sách tiền tệ thắt chặt, có thể ảnh hưởng tâm lý nhà đầu tư.",
-      "source": "24H · CafeF"
+      "insight": "Nhập siêu lớn phản ánh nhu cầu nguyên vật liệu tăng, nhưng cần cân bằng để ổn định tỷ giá.",
+      "source": "Nhịp sống kinh doanh · Investing.com · Nhadautu.vn"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Lạm phát Mỹ tăng, Fed khả năng cao tăng lãi suất",
+      "headline": "Fed dự kiến tăng lãi suất 0.25% vào 16/9",
       "bullets": [
-        "CPI Mỹ tháng 8 tăng 0,4% (tổng thể) và 0,3% (lõi), cao hơn dự báo, duy trì lạm phát hàng năm 3,4%.",
-        "Thị trường đang định giá khoảng 87-90% khả năng Fed tăng lãi suất 25 điểm cơ bản tại cuộc họp tuần này."
+        "Thị trường đặt cược 92-95% khả năng Fed tăng lãi suất 0.25% tại cuộc họp 15-16/9.",
+        "Quyết định này do lạm phát dai dẳng và lợi suất trái phiếu Mỹ tăng cao kỷ lục từ 2007."
       ],
-      "insight": "Kỳ vọng Fed thắt chặt tiền tệ củng cố đồng USD, tạo áp lực lên các tài sản rủi ro và thị trường mới nổi.",
-      "source": "VOV · Dân Trí · Investing.com"
+      "insight": "Fed thắt chặt chính sách sẽ gây áp lực lên tỷ giá USD/VND và dòng vốn đầu tư toàn cầu.",
+      "source": "24H · Báo Mới · Người quan sát · Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent tăng mạnh, áp sát mốc 110 USD/thùng",
+      "headline": "Giá dầu Brent tăng mạnh, vượt 108 USD/thùng",
       "bullets": [
-        "Giá dầu Brent chốt phiên 14/9 tăng lên 105,68 USD/thùng, có thời điểm chạm 108,65 USD/thùng.",
-        "Căng thẳng leo thang tại Trung Đông và các cuộc tấn công vào cơ sở hạ tầng năng lượng Ả Rập Xê-út gây lo ngại nguồn cung."
+        "Giá dầu Brent đạt 108,8 USD/thùng, tăng 2.9% sau phiên giao dịch 15/9.",
+        "Lo ngại gián đoạn nguồn cung từ Saudi Arabia do các cuộc tấn công của Houthi thúc đẩy giá."
       ],
-      "insight": "Giá dầu tăng cao duy trì rủi ro lạm phát toàn cầu, ảnh hưởng chi phí sản xuất và vận tải tại Việt Nam.",
-      "source": "PetroTimes · Vietstock · VietnamBiz"
+      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng trực tiếp đến chi phí sản xuất Việt Nam.",
+      "source": "Ngôi sao · Báo Lao Động · VOV · Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính",
     "#Fed",
-    "#GiáDầu"
+    "#GiáDầu",
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
