@@ -1,78 +1,80 @@
 {
-  "date": "16/9/2026",
+  "date": "17/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Chợ Giá · Ngôi sao · VOV · Báo Mới · Dân Việt · Lao Động",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Lao Động · Báo Mới · VOV · Cục Thống kê · Công ty Chứng khoán BIDV (BSC)",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.180",
-      "change": "+0.27%",
+      "value": "26.264",
+      "change": "+0,73%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "145,3tr",
-      "change": "-0.21%",
-      "dir": "down"
+      "value": "146,5 tr",
+      "change": "±0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "108,8$",
-      "change": "+2.9%",
-      "dir": "up"
+      "value": "107$",
+      "change": "-2,7%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Fed công bố quyết định lãi suất; theo dõi diễn biến giá dầu thế giới.",
+  "today_watch": "Thị trường theo dõi phản ứng sau Fed tăng lãi suất và tín hiệu chính sách tiếp theo.",
   "items": [
     {
-      "cat": "Trong nước",
-      "headline": "BĐS Việt Nam vào Top 10 minh bạch nhất toàn cầu",
+      "cat": "Quốc tế",
+      "headline": "Fed tăng lãi suất 0,25%, lần đầu sau 3 năm",
       "bullets": [
-        "Việt Nam xếp 50/88 thị trường trong Chỉ số Minh bạch Bất động sản Toàn cầu (GRETI) 2026 của JLL.",
-        "Đồng thời, Việt Nam nằm trong Top 10 thị trường cải thiện mạnh nhất thế giới giai đoạn 2024-2026."
+        "Cục Dự trữ Liên bang Mỹ (Fed) nâng lãi suất quỹ liên bang thêm 0,25 điểm phần trăm, lên biên độ 3,75-4,00% ngày 16/9.",
+        "Đây là lần tăng lãi suất đầu tiên của Fed sau hơn 3 năm, nhằm kiềm chế lạm phát vẫn ở mức cao.",
+        "Đa số quan chức Fed dự báo có thể cần thêm ít nhất một đợt tăng lãi suất nữa trong năm 2026."
       ],
-      "insight": "Cải thiện minh bạch giúp thu hút vốn đầu tư nước ngoài, tăng niềm tin thị trường bất động sản.",
-      "source": "CafeLand · SOHA · Báo Mới"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "Lãi suất huy động một số ngân hàng đạt 8-9.4%/năm",
-      "bullets": [
-        "Một số ngân hàng áp dụng lãi suất huy động kỳ hạn 6-12 tháng từ 8%/năm.",
-        "Cake by VPBank thậm chí có thể lên tới 9.2-9.4%/năm với điều kiện ưu đãi cho khách hàng."
-      ],
-      "insight": "Lãi suất huy động cao tạo áp lực lên chi phí vốn ngân hàng, ảnh hưởng lợi nhuận và tín dụng.",
-      "source": "Kenh14 · Báo Mới · Lao Động"
-    },
-    {
-      "cat": "Trong nước",
-      "headline": "8 tháng, Việt Nam nhập siêu 20.46 tỷ USD",
-      "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu 8 tháng đạt 770,14 tỷ USD, nhập siêu 20,46 tỷ USD.",
-        "Nhập khẩu tăng 35,3% lên 395,3 tỷ USD, chủ yếu là máy móc, linh kiện điện tử phục vụ sản xuất."
-      ],
-      "insight": "Nhập siêu lớn phản ánh nhu cầu nguyên vật liệu tăng, nhưng cần cân bằng để ổn định tỷ giá.",
-      "source": "Nhịp sống kinh doanh · Investing.com · Nhadautu.vn"
+      "insight": "Quyết định này củng cố sức mạnh đồng USD, gây áp lực lên tỷ giá và dòng vốn tại các thị trường mới nổi.",
+      "source": "Reuters · CNBC · Báo Lao Động"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed dự kiến tăng lãi suất 0.25% vào 16/9",
+      "headline": "Kinh tế Trung Quốc tháng 8 phân hóa: Công nghiệp mạnh, tiêu dùng yếu",
       "bullets": [
-        "Thị trường đặt cược 92-95% khả năng Fed tăng lãi suất 0.25% tại cuộc họp 15-16/9.",
-        "Quyết định này do lạm phát dai dẳng và lợi suất trái phiếu Mỹ tăng cao kỷ lục từ 2007."
+        "Sản lượng công nghiệp tháng 8 tăng 5,2% so với cùng kỳ, vượt dự báo nhờ đầu tư AI và công nghệ cao.",
+        "Doanh số bán lẻ chỉ tăng 0,4%, thấp hơn dự báo 0,8%, cho thấy nhu cầu tiêu dùng nội địa còn yếu.",
+        "Đầu tư tài sản cố định giảm 7,2% trong 8 tháng đầu năm, đặc biệt bất động sản suy yếu kéo dài."
       ],
-      "insight": "Fed thắt chặt chính sách sẽ gây áp lực lên tỷ giá USD/VND và dòng vốn đầu tư toàn cầu.",
-      "source": "24H · Báo Mới · Người quan sát · Reuters"
+      "insight": "Sự mất cân bằng này có thể ảnh hưởng đến xuất khẩu Việt Nam và chuỗi cung ứng toàn cầu.",
+      "source": "VnEconomy · Báo Mới · Reuters"
     },
     {
-      "cat": "Quốc tế",
-      "headline": "Giá dầu Brent tăng mạnh, vượt 108 USD/thùng",
+      "cat": "Trong nước",
+      "headline": "FDI Việt Nam 8 tháng đạt kỷ lục 40,63 tỷ USD, tăng 55,4%",
       "bullets": [
-        "Giá dầu Brent đạt 108,8 USD/thùng, tăng 2.9% sau phiên giao dịch 15/9.",
-        "Lo ngại gián đoạn nguồn cung từ Saudi Arabia do các cuộc tấn công của Houthi thúc đẩy giá."
+        "Vốn FDI đăng ký 8 tháng đầu năm 2026 đạt 40,63 tỷ USD, tăng 55,4% so với cùng kỳ năm trước.",
+        "Vốn FDI thực hiện đạt 17,25 tỷ USD, tăng 12,01%, tiếp tục hỗ trợ sản xuất và xuất khẩu."
       ],
-      "insight": "Giá dầu tăng cao gây áp lực lạm phát toàn cầu, ảnh hưởng trực tiếp đến chi phí sản xuất Việt Nam.",
-      "source": "Ngôi sao · Báo Lao Động · VOV · Báo Mới"
+      "insight": "Dòng vốn FDI mạnh mẽ là động lực tăng trưởng quan trọng, củng cố niềm tin nhà đầu tư vào kinh tế Việt Nam.",
+      "source": "Công ty Chứng khoán BIDV (BSC) · VnEconomy"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Xuất nhập khẩu 8 tháng kỷ lục, nhập siêu 20,46 tỷ USD",
+      "bullets": [
+        "Tổng kim ngạch xuất nhập khẩu 8 tháng đầu năm 2026 đạt 770,14 tỷ USD, mức cao nhất từ trước đến nay.",
+        "Cán cân thương mại nhập siêu 20,46 tỷ USD do tốc độ nhập khẩu tăng nhanh hơn xuất khẩu."
+      ],
+      "insight": "Nhập siêu lớn có thể gây áp lực lên tỷ giá và cần theo dõi sát diễn biến cán cân thương mại cuối năm.",
+      "source": "VnEconomy · VOV · Cục Thống kê"
+    },
+    {
+      "cat": "Trong nước",
+      "headline": "Sản xuất công nghiệp 8 tháng tăng 11,9%, PMI tháng 8 đạt 53,3 điểm",
+      "bullets": [
+        "Chỉ số sản xuất công nghiệp (IIP) 8 tháng đầu năm 2026 tăng 11,9% so với cùng kỳ.",
+        "Chỉ số PMI tháng 8 đạt 53,3 điểm, đánh dấu tháng thứ 14 liên tiếp trên ngưỡng 50 điểm."
+      ],
+      "insight": "Đà tăng trưởng sản xuất ổn định cho thấy khả năng phục hồi kinh tế mạnh mẽ, hỗ trợ tăng trưởng GDP.",
+      "source": "Công ty Chứng khoán BIDV (BSC)"
     }
   ],
   "hashtags": [
@@ -80,8 +82,7 @@
     "#ChứngKhoán",
     "#KinhTếViệtNam",
     "#Fed",
-    "#GiáDầu",
-    "#BấtĐộngSản"
+    "#TrungQuốc"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
