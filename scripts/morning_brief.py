@@ -182,7 +182,8 @@ def cover(data):
     return img
 
 
-def detail(data, idx):
+def detail(data, idx, total=None):
+    total = total or len(data["items"]) + 1
     it = data["items"][idx]
     img, d = new_slide()
     header(d, data["date"], right=f"TIN {idx + 1}/{len(data['items'])}")
@@ -224,11 +225,136 @@ def detail(data, idx):
         for ln in lines:
             d.text((PAD + 20, yy), ln, font=font(sz), fill=INK)
             yy += sz + 8
-    footer(d, data, page_hint=f"{idx + 2}/{len(data['items']) + 1}")
+    footer(d, data, page_hint=f"{idx + 2}/{total}")
     return img
 
 
-def caption(data):
+def _rating_color(r):
+    r = (r or "").upper()
+    if any(k in r for k in ("MUA", "KHẢ QUAN")) and "KÉM" not in r:
+        return (15, 110, 86)
+    if any(k in r for k in ("BÁN", "KÉM")):
+        return (163, 45, 45)
+    return MUTED
+
+
+def _broker_elements(broker):
+    """Chuỗi phần tử để dàn trang: ('h2',tiêu đề) | ('bullet',text) | ('thead',) | ('srow',(...))."""
+    els = []
+    mk = (broker.get("market") or [])[:4]
+    if mk:
+        els.append(("h2", "THỊ TRƯỜNG"))
+        for m in mk:
+            tgt = f" · mục tiêu {m['target_vnindex']}" if m.get("target_vnindex") else ""
+            hz = f" ({m['horizon']})" if m.get("horizon") else ""
+            els.append(("bullet", f"{m.get('house','')}: {m.get('view','')}{tgt}{hz}. {m.get('summary','')}".strip()))
+    stocks = sorted(broker.get("stocks") or [], key=lambda s: 0 if s.get("in_universe") else 1)
+    if stocks:
+        els.append(("h2", "KHUYẾN NGHỊ CỔ PHIẾU"))
+        if any(s.get("in_universe") for s in stocks):
+            els.append(("note", "mã trong danh mục / watchlist của bạn"))
+        els.append(("thead", None))
+        for s in stocks[:9]:
+            tp = s.get("target_price") or "-"
+            up = f" ({s['upside']})" if s.get("upside") else ""
+            els.append(("srow", (str(s.get("ticker", "?")), str(s.get("house", "")),
+                                  str(s.get("rating", "")), f"{tp}{up}", s.get("in_universe"))))
+    mac = (broker.get("macro") or [])[:4]
+    if mac:
+        els.append(("h2", "VĨ MÔ"))
+        for m in mac:
+            fc = f" — {m['forecast']}" if m.get("forecast") else ""
+            els.append(("bullet", f"{m.get('topic','')} · {m.get('house','')}: {m.get('view','')}{fc}"))
+    fcs = (broker.get("forecasts") or [])[:4]
+    if fcs:
+        els.append(("h2", "DỰ BÁO TƯƠNG LAI"))
+        for f in fcs:
+            hz = f" ({f['horizon']})" if f.get("horizon") else ""
+            els.append(("bullet", f"{f.get('item','')}: {f.get('value','')}{hz} — {f.get('house','')}"))
+    return els
+
+
+def render_broker(news_data, broker, start_no, total):
+    """Dàn 'Góc nhìn CTCK' ra 1..N trang (tự sang trang khi vượt FOOTER_TOP)."""
+    els = _broker_elements(broker)
+    if not els:
+        return []
+    fdata = {"sources": "Tổng hợp báo cáo CTCK/quỹ (SSI, Vietcap, TCBS, VNDIRECT, MBS, HSC, "
+                        "VDSC, KBSV, ACBS, BSC, Mirae Asset, Dragon Capital, VinaCapital...)",
+             "disclaimer": news_data.get("disclaimer",
+                        "Tự động tổng hợp từ báo cáo công khai, mang tính tham khảo, không phải khuyến nghị mua/bán.")}
+    date = news_data.get("date", "")
+    cx = (PAD, PAD + 120, PAD + 400, PAD + 640)
+    pages = []
+
+    def newpage():
+        img, d = new_slide()
+        header(d, date, right="GÓC NHÌN CTCK")
+        d.text((PAD, 196), "GÓC NHÌN CÔNG TY CHỨNG KHOÁN", font=font(38, True), fill=INK)
+        return img, d, 264
+
+    def hint():
+        return f"{start_no + len(pages)}/{total}"
+
+    img, d, y = newpage()
+    for kind, payload in els:
+        if kind == "h2":
+            if y + 60 > FOOTER_TOP:
+                footer(d, fdata, page_hint=hint()); pages.append(img); img, d, y = newpage()
+            d.rectangle([PAD, y + 6, PAD + 8, y + 34], fill=BLUE)
+            d.text((PAD + 20, y), payload, font=font(30, True), fill=BLUE); y += 54
+        elif kind == "note":
+            if y + 34 > FOOTER_TOP:
+                footer(d, fdata, page_hint=hint()); pages.append(img); img, d, y = newpage()
+            d.ellipse([cx[0] + 2, y + 6, cx[0] + 14, y + 18], fill=BLUE)
+            d.text((cx[0] + 24, y), "= " + payload, font=font(20), fill=MUTED)
+            y += 34
+        elif kind == "thead":
+            if y + 44 > FOOTER_TOP:
+                footer(d, fdata, page_hint=hint()); pages.append(img); img, d, y = newpage()
+            fh = font(22, True)
+            d.text((cx[0] + 24, y), "Mã", font=fh, fill=MUTED)
+            d.text((cx[1], y), "CTCK", font=fh, fill=MUTED)
+            d.text((cx[2], y), "Khuyến nghị", font=fh, fill=MUTED)
+            d.text((cx[3], y), "Giá MT (upside)", font=fh, fill=MUTED)
+            y += 34; d.line([PAD, y, W - PAD, y], fill=LIGHT, width=2); y += 12
+        elif kind == "srow":
+            tk, hs, rt, tp, inu = payload
+            if y + 42 > FOOTER_TOP:
+                footer(d, fdata, page_hint=hint()); pages.append(img); img, d, y = newpage()
+            if inu:
+                d.ellipse([cx[0] + 2, y + 9, cx[0] + 15, y + 22], fill=BLUE)
+            d.text((cx[0] + 24, y), tk, font=font(26, True), fill=INK)
+            d.text((cx[1], y), hs[:16], font=font(26), fill=INK)
+            d.text((cx[2], y), rt[:14], font=font(26, True), fill=_rating_color(rt))
+            d.text((cx[3], y), tp[:22], font=font(26), fill=INK)
+            y += 42
+        elif kind == "bullet":
+            fb = font(28)
+            lines = wrap(d, payload, fb, W - 2 * PAD - 36)
+            if y + len(lines) * 40 + 14 > FOOTER_TOP:
+                footer(d, fdata, page_hint=hint()); pages.append(img); img, d, y = newpage()
+                lines = wrap(d, payload, fb, W - 2 * PAD - 36)
+            d.ellipse([PAD + 2, y + 11, PAD + 13, y + 22], fill=BLUE)
+            for ln in lines:
+                d.text((PAD + 30, y), ln, font=fb, fill=INK); y += 40
+            y += 14
+    footer(d, fdata, page_hint=hint()); pages.append(img)
+    return pages
+
+
+def load_broker():
+    p = os.path.join(ROOT, "data", "broker_reports.json")
+    if not os.path.exists(p):
+        return None
+    try:
+        bj = json.load(open(p, encoding="utf-8"))
+    except Exception:
+        return None
+    return bj if any(bj.get(k) for k in ("market", "stocks", "macro", "forecasts")) else None
+
+
+def caption(data, broker=None):
     L = [f"📌 {data['title'].upper()} ({data['date']})"]
     snaps = data.get("snapshot", [])
     if snaps:
@@ -245,6 +371,15 @@ def caption(data):
             L.append(f"   → {it['insight']}")
     if data.get("today_watch"):
         L += ["", "⏰ Hôm nay chú ý: " + data["today_watch"]]
+    if broker:
+        L += ["", "🏦 GÓC NHÌN CTCK:"]
+        for m in (broker.get("market") or [])[:2]:
+            tgt = f", mục tiêu {m['target_vnindex']}" if m.get("target_vnindex") else ""
+            L.append(f"   • Thị trường ({m.get('house','')}): {m.get('view','')}{tgt}")
+        for s in (broker.get("stocks") or [])[:5]:
+            tp = s.get("target_price") or "-"
+            up = f" ({s['upside']})" if s.get("upside") else ""
+            L.append(f"   • {s.get('ticker','')} — {s.get('house','')}: {s.get('rating','')} (MT {tp}{up})")
     L += ["", " ".join(data["hashtags"]), "", "Nguồn: " + data["sources"], data["disclaimer"]]
     return "\n".join(L)
 
@@ -263,17 +398,29 @@ def generate(data_path):
     daydir = os.path.join(OUT, folder)
     os.makedirs(daydir, exist_ok=True)
     pre = EDITION["prefix"]
+    n = len(data["items"])
+
+    # Trang "Góc nhìn CTCK" (nếu có data): render 1 lần để đếm rồi tính tổng số trang
+    broker = load_broker()
+    bpages = render_broker(data, broker, start_no=n + 2, total=0) if broker else []
+    total = 1 + n + len(bpages)
+
     paths = []
     cv = os.path.join(daydir, f"{pre}_{tag}_p1.png")
     cover(data).save(cv)
     paths.append(cv)
-    for i in range(len(data["items"])):
+    for i in range(n):
         pp = os.path.join(daydir, f"{pre}_{tag}_p{i + 2}.png")
-        detail(data, i).save(pp)
+        detail(data, i, total=total).save(pp)
         paths.append(pp)
+    if broker:
+        for k, img in enumerate(render_broker(data, broker, start_no=n + 2, total=total)):
+            pp = os.path.join(daydir, f"{pre}_{tag}_p{n + 2 + k}.png")
+            img.save(pp)
+            paths.append(pp)
     cap = os.path.join(daydir, f"{pre}_{tag}_caption.txt")
     with open(cap, "w", encoding="utf-8") as f:
-        f.write(caption(data))
+        f.write(caption(data, broker))
     print(f"Đã xuất {len(paths)} trang ảnh:")
     for p_ in paths:
         print("  -", p_)
