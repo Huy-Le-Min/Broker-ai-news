@@ -52,6 +52,11 @@ jobs:
       - name: Tuyển tin (Claude API + web search)
         run: python scripts/cloud_curate.py ${{ steps.ed.outputs.edition }}
 
+      - name: Gom báo cáo CTCK / quỹ (chỉ bản sáng)
+        if: steps.ed.outputs.edition == 'morning'
+        continue-on-error: true
+        run: python scripts/broker_reports.py
+
       - name: Dựng ảnh bản tin
         run: |
           if [ "${{ steps.ed.outputs.edition }}" = "evening" ]; then
