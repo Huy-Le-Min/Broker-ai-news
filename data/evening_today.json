@@ -1,101 +1,94 @@
 {
-  "date": "17/9/2026",
+  "date": "18/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.822,77",
-    "vnindex_change": "+0,70%",
+    "vnindex_close": "1.828,50",
+    "vnindex_change": "+3,20 điểm (+0,17%)",
     "vnindex_dir": "up",
-    "foreign_net": "Bán ròng 382 tỷ đồng",
-    "foreign_dir": "sell",
-    "volume": "18.008 tỷ",
-    "top_gainer": "Ngân hàng, Chứng khoán"
+    "foreign_net": "Mua ròng 450 tỷ",
+    "foreign_dir": "buy",
+    "volume": "24.500 tỷ",
+    "top_gainer": "Ngân hàng, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "25.964",
-      "change": "N/A",
-      "dir": "flat"
+      "value": "26.020",
+      "change": "+0,03%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "145,80 tr đ/lượng",
-      "change": "N/A",
-      "dir": "flat"
+      "value": "76,80 triệu",
+      "change": "+0,26%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "103,75$",
-      "change": "N/A",
-      "dir": "flat"
+      "value": "105,10$",
+      "change": "+0,27%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "FTSE GEIS chính thức có hiệu lực từ 21/9/2026, thu hút dòng vốn ngoại.",
+  "tomorrow_watch": "Việt Nam chính thức nâng hạng thị trường mới nổi FTSE Russell (21/9).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam chính thức gia nhập chỉ số FTSE GEIS",
+      "headline": "Chính phủ ban hành Nghị định về Công ty Quản lý tài sản",
       "bullets": [
-        "Hội nghị đánh dấu sự kiện được tổ chức ngày 18/9 tại Hà Nội bởi Bộ Tài chính và FTSE Russell.",
-        "Việc nâng hạng từ cận biên lên mới nổi thứ cấp có hiệu lực từ 21/9/2026.",
-        "Sự kiện củng cố niềm tin nhà đầu tư, tạo nền tảng phát triển TTCK đến 2030."
+        "Nghị định 359/2026/NĐ-CP được ban hành ngày 17/9/2026, quy định về thành lập, hoạt động của Công ty Quản lý tài sản.",
+        "Mục tiêu xử lý nợ xấu, thúc đẩy tăng trưởng tín dụng, với vốn điều lệ 5.000 tỷ đồng."
       ],
-      "insight": "Dấu mốc quan trọng thu hút dòng vốn ngoại, nâng cao vị thế TTCK Việt Nam trên bản đồ toàn cầu.",
-      "source": "Người Quan Sát · TBTCO"
+      "insight": "Giúp khơi thông dòng vốn, giảm rủi ro hệ thống ngân hàng, hỗ trợ tăng trưởng tín dụng.",
+      "source": "Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "ETF ngoại dự kiến mua ròng 240 triệu USD vào TTCK Việt Nam",
+      "headline": "Giải ngân đầu tư công 8 tháng tăng mạnh, Hà Nội dẫn đầu",
       "bullets": [
-        "Các quỹ mô phỏng chỉ số FTSE dự kiến giải ngân đợt đầu 240,49 triệu USD vào 27 cổ phiếu Việt Nam ngày 18/9.",
-        "Tổng mua ròng của ETF ngoại trong tuần 14-18/9 ước đạt 245,92 triệu USD.",
-        "VPB, VHM, MCH, FPT, MSN là các mã được mua ròng nhiều nhất."
+        "8 tháng đầu năm 2026, giải ngân đầu tư công đạt 445.500 tỷ đồng, tăng 18,4% so với cùng kỳ.",
+        "Hà Nội và TP.HCM ghi nhận tốc độ giải ngân tăng lần lượt 77,3% và 23,8%."
       ],
-      "insight": "Dòng tiền ngoại tích cực hỗ trợ thị trường, đặc biệt nhóm vốn hóa lớn trước kỳ nâng hạng.",
-      "source": "SSI · Vietnam+"
+      "insight": "Tốc độ giải ngân cải thiện, đặc biệt ở các đô thị lớn, thúc đẩy tăng trưởng kinh tế.",
+      "source": "Báo cáo BSC"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bộ Xây dựng tham vấn chính sách giao thông xanh, xử phạt BĐS",
+      "headline": "Doanh nghiệp BĐS tái cấu trúc tài sản, xoay sở dòng tiền",
       "bullets": [
-        "Hội nghị tham vấn chính sách về giao thông xanh, hạ tầng điện cho xe điện.",
-        "Lưu ý xử phạt vi phạm xây dựng, kinh doanh bất động sản đến 1 tỷ đồng.",
-        "Nhấn mạnh việc xác định đúng hành vi, thời hiệu, thẩm quyền xử phạt."
+        "Nhiều doanh nghiệp địa ốc đang cơ cấu lại danh mục tài sản, chuyển nhượng dự án để giảm áp lực tài chính.",
+        "Áp lực trái phiếu đáo hạn cuối năm khiến dòng vốn mới vào BĐS ngày càng phân hóa."
       ],
-      "insight": "Các chính sách mới có thể tác động đến ngành xây dựng, bất động sản và phát triển hạ tầng xanh.",
-      "source": "Bộ Công Thương · TTXVN"
+      "insight": "Phản ánh khó khăn thanh khoản, thúc đẩy thị trường minh bạch và phát triển bền vững hơn.",
+      "source": "Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed tăng lãi suất lần đầu sau 3 năm, phát tín hiệu cứng rắn",
+      "headline": "Hàn Quốc gia hạn giảm thuế nhiên liệu đến cuối tháng 11",
       "bullets": [
-        "Fed nâng lãi suất quỹ liên bang thêm 25 điểm cơ bản lên 3,75%-4,00%.",
-        "Chủ tịch Fed Kevin Warsh phát tín hiệu cứng rắn về khả năng tiếp tục thắt chặt chính sách.",
-        "Quyết định này kéo chứng khoán Mỹ đi xuống, lợi suất trái phiếu 10 năm lên 5%."
+        "Bộ Tài chính Hàn Quốc kéo dài chương trình giảm thuế nhiên liệu thêm 2 tháng, đến hết tháng 11/2026.",
+        "Quyết định nhằm giảm gánh nặng chi phí cho người dân trong bối cảnh căng thẳng Trung Đông."
       ],
-      "insight": "Chính sách tiền tệ thắt chặt của Fed gây áp lực lên tài sản rủi ro toàn cầu và tỷ giá USD/VND.",
-      "source": "Reuters · Báo Lao Động · VnEconomy"
+      "insight": "Giúp ổn định giá cả, hỗ trợ tiêu dùng, giảm áp lực lạm phát từ giá năng lượng.",
+      "source": "Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc tháng 8: Đầu tư, tiêu dùng tiếp tục yếu",
+      "headline": "Trung Quốc yêu cầu ổn định nguồn cung than, giá than tăng cao",
       "bullets": [
-        "Doanh số bán lẻ tháng 8 tăng 0,4%, thấp hơn dự báo và tháng trước.",
-        "Đầu tư tài sản cố định giảm 7,2% trong 8 tháng đầu năm, mức giảm sâu nhất từ 4/2020.",
-        "Sản lượng công nghiệp tháng 8 tăng 5,2%, cho thấy sự phân hóa trong nền kinh tế."
+        "Chính phủ Trung Quốc yêu cầu doanh nghiệp khai thác ổn định sản xuất do giá than tăng vọt.",
+        "Giá than giao ngay đạt mức cao nhất gần 3 năm, ảnh hưởng an ninh năng lượng."
       ],
-      "insight": "Nhu cầu nội địa yếu kéo dài có thể thúc đẩy Bắc Kinh tung thêm các gói kích thích kinh tế.",
-      "source": "Baoquocte.vn · Bloomberg News"
+      "insight": "Cho thấy áp lực lạm phát năng lượng toàn cầu, tác động đến chi phí sản xuất.",
+      "source": "Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#TTCKViệtNam",
-    "#FTSEGEIS",
-    "#Fed",
-    "#KinhTếTrungQuốc"
+    "#KinhTếViệtNam",
+    "#ThịTrườngTàiChính"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
