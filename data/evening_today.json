@@ -1,94 +1,95 @@
 {
-  "date": "18/9/2026",
+  "date": "19/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.828,50",
-    "vnindex_change": "+3,20 điểm (+0,17%)",
+    "vnindex_close": "1.818,77",
+    "vnindex_change": "+0,17%",
     "vnindex_dir": "up",
     "foreign_net": "Mua ròng 450 tỷ",
     "foreign_dir": "buy",
-    "volume": "24.500 tỷ",
-    "top_gainer": "Ngân hàng, Bất động sản"
+    "volume": "24.000 tỷ",
+    "top_gainer": "Ngân hàng, Công nghệ"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.020",
-      "change": "+0,03%",
+      "value": "26.190",
+      "change": "+80 đồng",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "76,80 triệu",
-      "change": "+0,26%",
+      "value": "147,6 triệu",
+      "change": "+600.000 đồng",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "105,10$",
-      "change": "+0,27%",
-      "dir": "up"
+      "value": "103,19$",
+      "change": "-1,56%",
+      "dir": "down"
     }
   ],
-  "tomorrow_watch": "Việt Nam chính thức nâng hạng thị trường mới nổi FTSE Russell (21/9).",
+  "tomorrow_watch": "Việt Nam chính thức nâng hạng thị trường bởi FTSE Russell.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Chính phủ ban hành Nghị định về Công ty Quản lý tài sản",
+      "headline": "NHNN tăng tính độc lập điều hành chính sách tiền tệ",
       "bullets": [
-        "Nghị định 359/2026/NĐ-CP được ban hành ngày 17/9/2026, quy định về thành lập, hoạt động của Công ty Quản lý tài sản.",
-        "Mục tiêu xử lý nợ xấu, thúc đẩy tăng trưởng tín dụng, với vốn điều lệ 5.000 tỷ đồng."
+        "Chính phủ phê duyệt Đề án hiện đại hóa hệ thống ngân hàng, tăng tính độc lập của NHNN.",
+        "Đề án chuyển điều hành chính sách tiền tệ từ khối lượng sang giá, dùng công cụ gián tiếp."
       ],
-      "insight": "Giúp khơi thông dòng vốn, giảm rủi ro hệ thống ngân hàng, hỗ trợ tăng trưởng tín dụng.",
-      "source": "Chính phủ"
+      "insight": "Thay đổi này giúp NHNN chủ động, linh hoạt hơn, góp phần ổn định vĩ mô và kiểm soát lạm phát.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công 8 tháng tăng mạnh, Hà Nội dẫn đầu",
+      "headline": "Dư nợ tín dụng toàn nền kinh tế đạt gần 21 triệu tỷ",
       "bullets": [
-        "8 tháng đầu năm 2026, giải ngân đầu tư công đạt 445.500 tỷ đồng, tăng 18,4% so với cùng kỳ.",
-        "Hà Nội và TP.HCM ghi nhận tốc độ giải ngân tăng lần lượt 77,3% và 23,8%."
+        "Đến 28/8, dư nợ tín dụng toàn nền kinh tế tăng 10,24% so với cuối năm 2025.",
+        "Dư nợ DNNVV đạt hơn 4,1 triệu tỷ đồng, tăng 12,37%, chiếm 20% tổng dư nợ."
       ],
-      "insight": "Tốc độ giải ngân cải thiện, đặc biệt ở các đô thị lớn, thúc đẩy tăng trưởng kinh tế.",
-      "source": "Báo cáo BSC"
+      "insight": "Tăng trưởng tín dụng ổn định, đặc biệt hỗ trợ DNNVV, thúc đẩy phục hồi kinh tế.",
+      "source": "Dân trí"
     },
     {
       "cat": "Trong nước",
-      "headline": "Doanh nghiệp BĐS tái cấu trúc tài sản, xoay sở dòng tiền",
+      "headline": "Khối ngoại mua ròng mạnh 2.600 tỷ đồng tuần trước nâng hạng",
       "bullets": [
-        "Nhiều doanh nghiệp địa ốc đang cơ cấu lại danh mục tài sản, chuyển nhượng dự án để giảm áp lực tài chính.",
-        "Áp lực trái phiếu đáo hạn cuối năm khiến dòng vốn mới vào BĐS ngày càng phân hóa."
+        "Tuần 14-18/9, khối ngoại mua ròng 2.613 tỷ đồng, trong đó 2.659 tỷ đồng trên HoSE.",
+        "FPT, HDB, BSR, MCH, SSB, MBB, VCB được mua ròng mạnh, trước thời điểm nâng hạng."
       ],
-      "insight": "Phản ánh khó khăn thanh khoản, thúc đẩy thị trường minh bạch và phát triển bền vững hơn.",
-      "source": "Thời báo Tài chính Việt Nam"
+      "insight": "Dòng vốn ngoại tích cực là tín hiệu tốt, hỗ trợ tâm lý thị trường trước nâng hạng.",
+      "source": "CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Hàn Quốc gia hạn giảm thuế nhiên liệu đến cuối tháng 11",
+      "headline": "Fed và BoJ đồng loạt tăng lãi suất 0,25%, thị trường phản ứng tích cực",
       "bullets": [
-        "Bộ Tài chính Hàn Quốc kéo dài chương trình giảm thuế nhiên liệu thêm 2 tháng, đến hết tháng 11/2026.",
-        "Quyết định nhằm giảm gánh nặng chi phí cho người dân trong bối cảnh căng thẳng Trung Đông."
+        "Fed tăng lãi suất 0,25% lên 3,75-4% vào 16/9, lần đầu sau 3 năm. BoJ cũng tăng 0,25%.",
+        "Thị trường đã dự đoán, giải tỏa tâm lý chờ đợi, tạo nhịp tăng ngắn hạn."
       ],
-      "insight": "Giúp ổn định giá cả, hỗ trợ tiêu dùng, giảm áp lực lạm phát từ giá năng lượng.",
-      "source": "Báo Mới"
+      "insight": "Quyết định đồng bộ từ các NHTW lớn đã được dự báo, giúp thị trường hấp thụ thông tin tốt.",
+      "source": "Znews · Thời báo Tài chính Việt Nam"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Trung Quốc yêu cầu ổn định nguồn cung than, giá than tăng cao",
+      "headline": "Giá dầu Brent giảm mạnh về 103,19 USD/thùng",
       "bullets": [
-        "Chính phủ Trung Quốc yêu cầu doanh nghiệp khai thác ổn định sản xuất do giá than tăng vọt.",
-        "Giá than giao ngay đạt mức cao nhất gần 3 năm, ảnh hưởng an ninh năng lượng."
+        "Giá dầu Brent giảm 1,56% xuống 103,19 USD/thùng cuối tuần trước.",
+        "Nguyên nhân do Trung Quốc đề nghị Iran kiềm chế Houthi, Saudi Arabia tăng cung."
       ],
-      "insight": "Cho thấy áp lực lạm phát năng lượng toàn cầu, tác động đến chi phí sản xuất.",
-      "source": "Báo Mới"
+      "insight": "Giá dầu giảm giúp giảm áp lực lạm phát toàn cầu và chi phí đầu vào cho doanh nghiệp.",
+      "source": "Báo Lao Động · VOV"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#KinhTếViệtNam",
-    "#ThịTrườngTàiChính"
+    "#Vietcap",
+    "#VNIndex",
+    "#TinTứcKinhTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
