@@ -1,92 +1,87 @@
 {
-  "date": "18/9/2026",
+  "date": "19/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Dân trí · Báo Mới · VOV · Báo Hà Nội Mới · Ngôi sao · Eva.vn · PetroTimes · VietnamBiz · Simplize · SJC · Webgia.com · ECB",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Tin Tức TTXVN · Báo Công Luận · ECB",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.205",
-      "change": "-0,03%",
-      "dir": "down"
+      "value": "26.210",
+      "change": "+0,1%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "145,8tr",
-      "change": "-0,7tr",
-      "dir": "down"
+      "value": "147,6tr",
+      "change": "+1,2%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "103,92$",
-      "change": "-0,86%",
+      "value": "103,17$",
+      "change": "-1,6%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường chứng khoán Việt Nam tiếp tục theo dõi diễn biến sau quyết định lãi suất của Fed và ECB; chuẩn bị cho sự kiện nâng hạng FTSE Russell vào 21/9.",
+  "today_watch": "Thị trường phản ứng với nâng hạng FTSE; dòng tiền ETF cơ cấu danh mục.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index vượt 1.820 điểm, dòng tiền tài chính dẫn dắt.",
+      "headline": "VN-Index giảm mạnh cuối phiên do ETF cơ cấu danh mục",
       "bullets": [
-        "Phiên 17/9, VN-Index tăng 12,66 điểm (+0,7%) lên 1.822,77 điểm.",
-        "Thanh khoản HoSE đạt gần 18.000 tỷ đồng, tăng 21% so với phiên trước.",
-        "Cổ phiếu ngân hàng và chứng khoán giao dịch tích cực, thu hút dòng tiền."
+        "Phiên 18/9, VN-Index giảm 7,11 điểm (-0,39%) xuống 1.815,66 điểm, bất ngờ quay đầu giảm trong 15 phút cuối phiên ATC.",
+        "Hoạt động tái cơ cấu danh mục của các quỹ ETF lớn trước thềm nâng hạng thị trường đã gây biến động mạnh ở nhiều cổ phiếu."
       ],
-      "insight": "Dòng tiền trở lại nhóm tài chính củng cố tâm lý, hỗ trợ xu hướng tăng của thị trường.",
-      "source": "CafeF, Báo Mới"
+      "insight": "Biến động kỹ thuật ngắn hạn do cơ cấu quỹ có thể tạo cơ hội cho nhà đầu tư dài hạn.",
+      "source": "Vietstock, Báo Công Luận"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thị trường BĐS quý III phân hóa, đất nền điều chỉnh.",
+      "headline": "Việt Nam chính thức nâng hạng thị trường từ 21/9",
       "bullets": [
-        "Thị trường BĐS quý III/2026 điều chỉnh, tốc độ tăng giá chậm lại rõ rệt.",
-        "Giá căn hộ chung cư tăng 8,4% (9 tháng), đất nền dự án chỉ tăng 0,2%.",
-        "Đất nền dự án giảm 1,2% so với tháng 6, là phân khúc duy nhất biến động âm quý III."
+        "Việt Nam sẽ chính thức mang trạng thái thị trường mới nổi thứ cấp theo FTSE Russell từ ngày 21/9/2026.",
+        "Bộ trưởng Tài chính nhấn mạnh nâng hạng là động lực thúc đẩy bước tiến mới cho thị trường chứng khoán."
       ],
-      "insight": "Sự phân hóa cho thấy nhà đầu tư thận trọng hơn, dòng tiền tìm đến giá trị thực.",
-      "source": "CafeF, Báo Hà Nội Mới"
+      "insight": "Sự kiện này củng cố vị thế thị trường, kỳ vọng thu hút dòng vốn ngoại mạnh mẽ hơn.",
+      "source": "Báo Tin Tức TTXVN, Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN loại tín dụng khách sạn khỏi dư nợ BĐS.",
+      "headline": "Tín dụng DNNVV tăng trưởng nhanh hơn mặt bằng chung",
       "bullets": [
-        "Từ 1/1 đến 31/12, dư nợ tăng thêm cho khách sạn, khu nghỉ dưỡng không tính vào BĐS.",
-        "Chính sách nhằm tạo điều kiện cấp tín dụng cho các loại hình BĐS phù hợp."
+        "Đến 28/8/2026, dư nợ tín dụng nền kinh tế tăng 10,24% so với cuối 2025, đạt gần 20,5 triệu tỷ đồng.",
+        "Tín dụng cho DNNVV tăng 12,4%, chiếm khoảng 20% tổng dư nợ, cho thấy dòng vốn chảy vào khu vực này."
       ],
-      "insight": "Quyết định này giúp giảm áp lực tín dụng BĐS, hỗ trợ phục hồi ngành du lịch, khách sạn.",
-      "source": "Dân trí"
+      "insight": "Dòng vốn tích cực vào DNNVV hỗ trợ tăng trưởng kinh tế, giảm rủi ro tập trung tín dụng.",
+      "source": "Báo Tin Tức TTXVN, Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed tăng lãi suất 0,25%, dự kiến thêm đợt nữa.",
+      "headline": "Fed tăng lãi suất lần đầu sau 3 năm, lên 3,75-4%",
       "bullets": [
-        "Fed nâng lãi suất quỹ liên bang lên 3,75-4%, dự báo cần ít nhất một đợt tăng nữa năm 2026.",
-        "Lạm phát Mỹ tháng 8 là 3,4% (tổng thể) và 2,4% (lõi), vẫn cao hơn mục tiêu 2%."
+        "Fed tăng lãi suất thêm 0,25 điểm phần trăm, đưa lãi suất mục tiêu lên 3,75-4%, lần đầu từ 2023.",
+        "Thông điệp cứng rắn cho thấy Fed để ngỏ khả năng tăng lãi suất thêm một lần nữa trong năm 2026."
       ],
-      "insight": "Chính sách thắt chặt tiếp diễn của Fed gây áp lực lên dòng vốn toàn cầu và tỷ giá.",
-      "source": "VOV, VietNamNet, Báo Mới"
+      "insight": "Quyết định của Fed gây áp lực lên tỷ giá và chi phí vốn toàn cầu, ảnh hưởng gián tiếp đến VN.",
+      "source": "CafeF, Reuters"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB tăng lãi suất 0,25%, lạm phát Eurozone vẫn cao.",
+      "headline": "ECB tăng lãi suất 0,25%, lạm phát Eurozone vẫn cao",
       "bullets": [
-        "ECB tăng 3 lãi suất chủ chốt thêm 25 điểm cơ bản, hiệu lực từ 16/9.",
-        "Lãi suất tiền gửi đạt 2,50%; lạm phát Eurozone tháng 8 là 3,3%, vượt mục tiêu 2%."
+        "ECB nâng lãi suất thêm 0,25 điểm phần trăm lên 2,5% vào ngày 10/9, lần thứ hai trong năm 2026.",
+        "Dự báo lạm phát Eurozone trung bình 3,0% năm 2026, cao hơn mục tiêu 2% do xung đột Trung Đông."
       ],
-      "insight": "Lạm phát dai dẳng buộc ECB tiếp tục thắt chặt, ảnh hưởng tăng trưởng kinh tế khu vực.",
-      "source": "ECB, Vietstock, VOV"
+      "insight": "Chính sách thắt chặt của ECB tiếp tục duy trì, tiềm ẩn rủi ro suy thoái và ảnh hưởng thương mại.",
+      "source": "ECB, Vietstock"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#KinhTế",
-    "#ĐầuTư",
-    "#TàiChính",
+    "#KinhTếViệtNam",
     "#Fed",
     "#ECB",
-    "#BấtĐộngSản",
-    "#ĐầuTưCông"
+    "#NângHạngThịTrường"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
