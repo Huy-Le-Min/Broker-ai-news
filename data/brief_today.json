@@ -1,87 +1,90 @@
 {
-  "date": "19/9/2026",
+  "date": "20/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Báo Tin Tức TTXVN · Báo Công Luận · ECB",
+  "sources": "VnEconomy · Báo Lao Động · Baodautu.vn · VTV.vn · CafeF · Vietstock · Kiplinger · VOV · Báo Mới · Thanh Niên",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.210",
-      "change": "+0,1%",
+      "change": "+0,38%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
       "value": "147,6tr",
-      "change": "+1,2%",
+      "change": "+1,09%",
       "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "103,17$",
-      "change": "-1,6%",
+      "value": "103,9$",
+      "change": "-0,91%",
       "dir": "down"
     }
   ],
-  "today_watch": "Thị trường phản ứng với nâng hạng FTSE; dòng tiền ETF cơ cấu danh mục.",
+  "today_watch": "Việt Nam chính thức nâng hạng thị trường từ 21/9 (ngày mai).",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm mạnh cuối phiên do ETF cơ cấu danh mục",
+      "headline": "Xuất nhập khẩu Việt Nam vượt 825 tỷ USD, nhập siêu nới rộng",
       "bullets": [
-        "Phiên 18/9, VN-Index giảm 7,11 điểm (-0,39%) xuống 1.815,66 điểm, bất ngờ quay đầu giảm trong 15 phút cuối phiên ATC.",
-        "Hoạt động tái cơ cấu danh mục của các quỹ ETF lớn trước thềm nâng hạng thị trường đã gây biến động mạnh ở nhiều cổ phiếu."
+        "Tổng kim ngạch xuất nhập khẩu đạt hơn 825 tỷ USD tính đến giữa tháng 9/2026.",
+        "Nhập siêu nới rộng lên 23,5 tỷ USD, tăng 2,82 tỷ USD so với cuối tháng 8."
       ],
-      "insight": "Biến động kỹ thuật ngắn hạn do cơ cấu quỹ có thể tạo cơ hội cho nhà đầu tư dài hạn.",
-      "source": "Vietstock, Báo Công Luận"
+      "insight": "Nhập siêu lớn cho thấy nhu cầu nhập khẩu nguyên liệu, máy móc phục vụ sản xuất tăng, cần theo dõi cán cân thương mại.",
+      "source": "Baodautu.vn · VTV.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam chính thức nâng hạng thị trường từ 21/9",
+      "headline": "Giải ngân đầu tư công đạt 51,2% kế hoạch đến 10/9",
       "bullets": [
-        "Việt Nam sẽ chính thức mang trạng thái thị trường mới nổi thứ cấp theo FTSE Russell từ ngày 21/9/2026.",
-        "Bộ trưởng Tài chính nhấn mạnh nâng hạng là động lực thúc đẩy bước tiến mới cho thị trường chứng khoán."
+        "Đến 10/9/2026, giải ngân đầu tư công đạt 523.813,6 tỷ đồng, hoàn thành 51,2% kế hoạch Thủ tướng giao.",
+        "Trong tuần đầu tháng 9, giải ngân thêm 10.508,9 tỷ đồng, cho thấy nỗ lực tăng tốc."
       ],
-      "insight": "Sự kiện này củng cố vị thế thị trường, kỳ vọng thu hút dòng vốn ngoại mạnh mẽ hơn.",
-      "source": "Báo Tin Tức TTXVN, Báo Mới"
+      "insight": "Tăng tốc giải ngân cuối năm thúc đẩy tăng trưởng, hỗ trợ các ngành vật liệu, xây dựng và hạ tầng.",
+      "source": "Thời báo Tài chính Việt Nam · Vietstock"
     },
     {
       "cat": "Trong nước",
-      "headline": "Tín dụng DNNVV tăng trưởng nhanh hơn mặt bằng chung",
+      "headline": "Giá chung cư chững lại, đất nền điều chỉnh sâu hơn",
       "bullets": [
-        "Đến 28/8/2026, dư nợ tín dụng nền kinh tế tăng 10,24% so với cuối 2025, đạt gần 20,5 triệu tỷ đồng.",
-        "Tín dụng cho DNNVV tăng 12,4%, chiếm khoảng 20% tổng dư nợ, cho thấy dòng vốn chảy vào khu vực này."
+        "Giá chung cư tăng 8,4% từ đầu năm nhưng tốc độ chậm lại rõ rệt từ tháng 5/2026.",
+        "Giá đất nền dự án giảm 1,2% so với tháng 6, chỉ tăng 0,2% so với đầu năm."
       ],
-      "insight": "Dòng vốn tích cực vào DNNVV hỗ trợ tăng trưởng kinh tế, giảm rủi ro tập trung tín dụng.",
-      "source": "Báo Tin Tức TTXVN, Báo Mới"
+      "insight": "Thị trường BĐS phân hóa mạnh, áp lực lãi suất khiến thanh khoản khó khăn hơn, nhà đầu tư thận trọng.",
+      "source": "Báo Lao Động · CafeBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed tăng lãi suất lần đầu sau 3 năm, lên 3,75-4%",
+      "headline": "Fed tăng lãi suất, lợi suất trái phiếu Mỹ vượt 5%",
       "bullets": [
-        "Fed tăng lãi suất thêm 0,25 điểm phần trăm, đưa lãi suất mục tiêu lên 3,75-4%, lần đầu từ 2023.",
-        "Thông điệp cứng rắn cho thấy Fed để ngỏ khả năng tăng lãi suất thêm một lần nữa trong năm 2026."
+        "Fed nâng lãi suất 0,25% lên 3,75-4% ngày 16/9, phát tín hiệu tiếp tục thắt chặt.",
+        "Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 10 năm vượt 5%, cao nhất từ 2023."
       ],
-      "insight": "Quyết định của Fed gây áp lực lên tỷ giá và chi phí vốn toàn cầu, ảnh hưởng gián tiếp đến VN.",
-      "source": "CafeF, Reuters"
+      "insight": "Quyết định của Fed duy trì áp lực lên tỷ giá và dòng vốn ngoại, ảnh hưởng định giá tài sản toàn cầu.",
+      "source": "Kiplinger · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB tăng lãi suất 0,25%, lạm phát Eurozone vẫn cao",
+      "headline": "ECB tiếp tục tăng lãi suất, lạm phát Eurozone vẫn cao",
       "bullets": [
-        "ECB nâng lãi suất thêm 0,25 điểm phần trăm lên 2,5% vào ngày 10/9, lần thứ hai trong năm 2026.",
-        "Dự báo lạm phát Eurozone trung bình 3,0% năm 2026, cao hơn mục tiêu 2% do xung đột Trung Đông."
+        "ECB tăng lãi suất lần thứ hai năm nay tại cuộc họp 9-10/9, duy trì chính sách thắt chặt.",
+        "Lạm phát Eurozone dự kiến vẫn trên 3% năm 2026, tăng trưởng kinh tế giảm tốc."
       ],
-      "insight": "Chính sách thắt chặt của ECB tiếp tục duy trì, tiềm ẩn rủi ro suy thoái và ảnh hưởng thương mại.",
-      "source": "ECB, Vietstock"
+      "insight": "Chính sách tiền tệ thắt chặt của ECB góp phần vào xu hướng lãi suất toàn cầu, ảnh hưởng dòng vốn.",
+      "source": "VnEconomy · European Central Bank"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
+    "#Vietcap",
     "#KinhTếViệtNam",
     "#Fed",
     "#ECB",
-    "#NângHạngThịTrường"
+    "#BấtĐộngSản",
+    "#ĐầuTưCông",
+    "#XuấtNhậpKhẩu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
