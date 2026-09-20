@@ -1,95 +1,97 @@
 {
-  "date": "19/9/2026",
+  "date": "20/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · BNEWS · VietnamPlus · VnEconomy · Báo Lao Động · Eva.vn · vietnam media · Báo Thanh Niên · Chinhphu.vn",
   "session": {
-    "vnindex_close": "1.818,77",
-    "vnindex_change": "+0,17%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 450 tỷ",
+    "vnindex_close": "1.815,66",
+    "vnindex_change": "-0,39%",
+    "vnindex_dir": "down",
+    "foreign_net": "Mua ròng 1.217,3 tỷ",
     "foreign_dir": "buy",
-    "volume": "24.000 tỷ",
-    "top_gainer": "Ngân hàng, Công nghệ"
+    "volume": "25.926 tỷ",
+    "top_gainer": "Ngân hàng, FPT"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.190",
-      "change": "+80 đồng",
+      "value": "26.210",
+      "change": "+0,38%",
       "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6 triệu",
-      "change": "+600.000 đồng",
-      "dir": "up"
+      "value": "147,6tr",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "103,19$",
-      "change": "-1,56%",
+      "value": "103,9$",
+      "change": "-0,91%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Việt Nam chính thức nâng hạng thị trường bởi FTSE Russell.",
+  "tomorrow_watch": "Việt Nam chính thức bước vào lộ trình nâng hạng thị trường chứng khoán FTSE Russell.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "NHNN tăng tính độc lập điều hành chính sách tiền tệ",
+      "headline": "Việt Nam chính thức nâng hạng FTSE Russell",
       "bullets": [
-        "Chính phủ phê duyệt Đề án hiện đại hóa hệ thống ngân hàng, tăng tính độc lập của NHNN.",
-        "Đề án chuyển điều hành chính sách tiền tệ từ khối lượng sang giá, dùng công cụ gián tiếp."
+        "Từ 21/9, TTCK Việt Nam chính thức chuyển lên thị trường mới nổi thứ cấp theo FTSE Russell.",
+        "Quá trình nâng hạng sẽ diễn ra 4 đợt trong 12 tháng, bắt đầu với 10% tỷ trọng khả dụng."
       ],
-      "insight": "Thay đổi này giúp NHNN chủ động, linh hoạt hơn, góp phần ổn định vĩ mô và kiểm soát lạm phát.",
-      "source": "VnEconomy"
+      "insight": "Dòng vốn ngoại sẽ dần tăng, thúc đẩy cải cách thị trường và thu hút đầu tư.",
+      "source": "VietnamPlus · Chinhphu.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Dư nợ tín dụng toàn nền kinh tế đạt gần 21 triệu tỷ",
+      "headline": "Khối ngoại mua ròng mạnh phiên cuối tuần",
       "bullets": [
-        "Đến 28/8, dư nợ tín dụng toàn nền kinh tế tăng 10,24% so với cuối năm 2025.",
-        "Dư nợ DNNVV đạt hơn 4,1 triệu tỷ đồng, tăng 12,37%, chiếm 20% tổng dư nợ."
+        "Nhà đầu tư nước ngoài mua ròng 1.217,3 tỷ đồng trong phiên 18/9.",
+        "Dòng tiền tập trung vào nhóm ngân hàng, công nghệ như FPT, HDB, SSB."
       ],
-      "insight": "Tăng trưởng tín dụng ổn định, đặc biệt hỗ trợ DNNVV, thúc đẩy phục hồi kinh tế.",
-      "source": "Dân trí"
+      "insight": "Dòng tiền ngoại đang tái cơ cấu danh mục, chọn lọc cổ phiếu hưởng lợi từ nâng hạng.",
+      "source": "VnEconomy · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại mua ròng mạnh 2.600 tỷ đồng tuần trước nâng hạng",
+      "headline": "TP.HCM thúc đẩy Trung tâm Tài chính quốc tế",
       "bullets": [
-        "Tuần 14-18/9, khối ngoại mua ròng 2.613 tỷ đồng, trong đó 2.659 tỷ đồng trên HoSE.",
-        "FPT, HDB, BSR, MCH, SSB, MBB, VCB được mua ròng mạnh, trước thời điểm nâng hạng."
+        "TP.HCM đang đẩy mạnh xây dựng các công trình văn phòng quy mô lớn.",
+        "Việt Nam hợp tác với Anh phát triển Trung tâm Tài chính quốc tế tại TP.HCM và Đà Nẵng."
       ],
-      "insight": "Dòng vốn ngoại tích cực là tín hiệu tốt, hỗ trợ tâm lý thị trường trước nâng hạng.",
-      "source": "CafeF"
+      "insight": "Hứa hẹn thu hút định chế tài chính, doanh nghiệp quốc tế, nâng tầm vị thế.",
+      "source": "vietnam media · VietnamPlus"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed và BoJ đồng loạt tăng lãi suất 0,25%, thị trường phản ứng tích cực",
+      "headline": "Kinh tế Trung Quốc phân hóa sâu sắc",
       "bullets": [
-        "Fed tăng lãi suất 0,25% lên 3,75-4% vào 16/9, lần đầu sau 3 năm. BoJ cũng tăng 0,25%.",
-        "Thị trường đã dự đoán, giải tỏa tâm lý chờ đợi, tạo nhịp tăng ngắn hạn."
+        "Sản xuất công nghiệp tháng 8 tăng 5,2%, nhờ công nghệ cao và xuất khẩu.",
+        "Doanh số bán lẻ chỉ tăng 0,4%; đầu tư tài sản cố định giảm 7,2% (8 tháng)."
       ],
-      "insight": "Quyết định đồng bộ từ các NHTW lớn đã được dự báo, giúp thị trường hấp thụ thông tin tốt.",
-      "source": "Znews · Thời báo Tài chính Việt Nam"
+      "insight": "Sự mất cân bằng này ảnh hưởng chuỗi cung ứng, xuất khẩu toàn cầu.",
+      "source": "BNEWS · VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm mạnh về 103,19 USD/thùng",
+      "headline": "Giá dầu Brent giảm, nguồn cung ổn định",
       "bullets": [
-        "Giá dầu Brent giảm 1,56% xuống 103,19 USD/thùng cuối tuần trước.",
-        "Nguyên nhân do Trung Quốc đề nghị Iran kiềm chế Houthi, Saudi Arabia tăng cung."
+        "Giá dầu Brent giảm về 103,9 USD/thùng, sau khi đạt 104,87 USD/thùng hôm 19/9.",
+        "Trung Quốc đề nghị Iran kiềm chế Houthi, Saudi Arabia tăng chào bán dầu."
       ],
-      "insight": "Giá dầu giảm giúp giảm áp lực lạm phát toàn cầu và chi phí đầu vào cho doanh nghiệp.",
-      "source": "Báo Lao Động · VOV"
+      "insight": "Giảm áp lực lạm phát toàn cầu, hỗ trợ chi phí vận chuyển và sản xuất.",
+      "source": "Eva.vn · Báo Lao Động"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#Vietcap",
-    "#VNIndex",
-    "#TinTứcKinhTế"
+    "#NângHạngThịTrường",
+    "#DầuBrent",
+    "#KinhTếTrungQuốc",
+    "#TPHCM"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
