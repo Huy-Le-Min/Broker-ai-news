@@ -1,97 +1,101 @@
 {
-  "date": "20/9/2026",
+  "date": "21/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · BNEWS · VietnamPlus · VnEconomy · Báo Lao Động · Eva.vn · vietnam media · Báo Thanh Niên · Chinhphu.vn",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Investing.com · Thanh Niên · VnEconomy · Thời báo Ngân hàng",
   "session": {
-    "vnindex_close": "1.815,66",
-    "vnindex_change": "-0,39%",
+    "vnindex_close": "1.799,67",
+    "vnindex_change": "-0,88%",
     "vnindex_dir": "down",
-    "foreign_net": "Mua ròng 1.217,3 tỷ",
-    "foreign_dir": "buy",
-    "volume": "25.926 tỷ",
-    "top_gainer": "Ngân hàng, FPT"
+    "foreign_net": "Bán ròng gần 700 tỷ đồng",
+    "foreign_dir": "sell",
+    "volume": "17.317 tỷ",
+    "top_gainer": "Dầu khí, Công nghệ, Nguyên vật liệu"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.210",
-      "change": "+0,38%",
-      "dir": "up"
-    },
-    {
-      "label": "Vàng SJC",
-      "value": "147,6tr",
-      "change": "0%",
+      "change": "flat",
       "dir": "flat"
     },
     {
+      "label": "Vàng SJC",
+      "value": "146,6 triệu",
+      "change": "-0,68%",
+      "dir": "down"
+    },
+    {
       "label": "Dầu Brent",
-      "value": "103,9$",
-      "change": "-0,91%",
+      "value": "102$",
+      "change": "-1,5%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Việt Nam chính thức bước vào lộ trình nâng hạng thị trường chứng khoán FTSE Russell.",
+  "tomorrow_watch": "Thị trường chờ phản ứng tiếp theo của dòng vốn ngoại và diễn biến địa chính trị.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam chính thức nâng hạng FTSE Russell",
+      "headline": "VN-Index giảm mạnh sau nâng hạng FTSE",
       "bullets": [
-        "Từ 21/9, TTCK Việt Nam chính thức chuyển lên thị trường mới nổi thứ cấp theo FTSE Russell.",
-        "Quá trình nâng hạng sẽ diễn ra 4 đợt trong 12 tháng, bắt đầu với 10% tỷ trọng khả dụng."
+        "VN-Index giảm 15,99 điểm (-0,88%) xuống 1.799,67 điểm trong phiên 21/9.",
+        "Thanh khoản HOSE đạt 17.317 tỷ đồng, cho thấy dòng tiền còn dè dặt.",
+        "Áp lực bán mạnh từ nhóm vốn hóa lớn, đặc biệt Vingroup."
       ],
-      "insight": "Dòng vốn ngoại sẽ dần tăng, thúc đẩy cải cách thị trường và thu hút đầu tư.",
-      "source": "VietnamPlus · Chinhphu.vn"
+      "insight": "Phản ứng 'tin ra là bán' cho thấy thị trường cần thời gian hấp thụ kỳ vọng nâng hạng.",
+      "source": "Vietstock · CafeF · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại mua ròng mạnh phiên cuối tuần",
+      "headline": "Khối ngoại bán ròng gần 700 tỷ đồng",
       "bullets": [
-        "Nhà đầu tư nước ngoài mua ròng 1.217,3 tỷ đồng trong phiên 18/9.",
-        "Dòng tiền tập trung vào nhóm ngân hàng, công nghệ như FPT, HDB, SSB."
+        "Khối ngoại bán ròng 663 tỷ đồng trên HOSE và 14 tỷ đồng trên HNX phiên 21/9.",
+        "Động thái này đảo chiều sau tuần mua ròng hơn 2.600 tỷ đồng trước đó.",
+        "Tập trung bán các mã vốn hóa lớn như VHM, VIC, FPT, SSI."
       ],
-      "insight": "Dòng tiền ngoại đang tái cơ cấu danh mục, chọn lọc cổ phiếu hưởng lợi từ nâng hạng.",
-      "source": "VnEconomy · CafeF"
+      "insight": "Dòng vốn ngoại đảo chiều gây áp lực lên nhóm cổ phiếu trụ, ảnh hưởng tâm lý thị trường.",
+      "source": "Vietstock · CafeF · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "TP.HCM thúc đẩy Trung tâm Tài chính quốc tế",
+      "headline": "NHNN nới lỏng tín dụng BĐS du lịch",
       "bullets": [
-        "TP.HCM đang đẩy mạnh xây dựng các công trình văn phòng quy mô lớn.",
-        "Việt Nam hợp tác với Anh phát triển Trung tâm Tài chính quốc tế tại TP.HCM và Đà Nẵng."
+        "NHNN loại trừ dư nợ tăng thêm khách sạn, khu nghỉ dưỡng khỏi tín dụng BĐS năm 2026.",
+        "Chính sách nhằm tạo điều kiện cấp tín dụng cho các loại hình phù hợp.",
+        "Động thái này có hiệu lực từ 1/1/2026 đến hết 31/12/2026."
       ],
-      "insight": "Hứa hẹn thu hút định chế tài chính, doanh nghiệp quốc tế, nâng tầm vị thế.",
-      "source": "vietnam media · VietnamPlus"
+      "insight": "Hỗ trợ dòng vốn cho phân khúc du lịch, nghỉ dưỡng, thúc đẩy phục hồi ngành.",
+      "source": "VnEconomy · Thời báo Ngân hàng"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc phân hóa sâu sắc",
+      "headline": "Quan chức Fed tiếp tục tín hiệu tăng lãi suất",
       "bullets": [
-        "Sản xuất công nghiệp tháng 8 tăng 5,2%, nhờ công nghệ cao và xuất khẩu.",
-        "Doanh số bán lẻ chỉ tăng 0,4%; đầu tư tài sản cố định giảm 7,2% (8 tháng)."
+        "Chủ tịch Fed St. Louis Musalem cho rằng cần tăng lãi suất thêm để kiềm chế lạm phát.",
+        "Lạm phát vẫn cao do nhu cầu mạnh và giá hàng hóa ngoài dầu mỏ tăng.",
+        "Dự báo còn thêm một đợt tăng lãi suất trong năm 2026."
       ],
-      "insight": "Sự mất cân bằng này ảnh hưởng chuỗi cung ứng, xuất khẩu toàn cầu.",
-      "source": "BNEWS · VnEconomy"
+      "insight": "Tín hiệu diều hâu từ Fed duy trì áp lực lên tỷ giá và chi phí vốn toàn cầu.",
+      "source": "Investing.com · Reuters · Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Giá dầu Brent giảm, nguồn cung ổn định",
+      "headline": "Căng thẳng Trung Đông đẩy giá dầu biến động",
       "bullets": [
-        "Giá dầu Brent giảm về 103,9 USD/thùng, sau khi đạt 104,87 USD/thùng hôm 19/9.",
-        "Trung Quốc đề nghị Iran kiềm chế Houthi, Saudi Arabia tăng chào bán dầu."
+        "Giá dầu Brent giao dịch quanh 102 USD/thùng, giảm 1,5% sáng 21/9.",
+        "Căng thẳng leo thang tại Trung Đông và Nga-Ukraine gây rủi ro nguồn cung.",
+        "Các chuyên gia dự báo giá dầu có thể biến động khó lường tuần này."
       ],
-      "insight": "Giảm áp lực lạm phát toàn cầu, hỗ trợ chi phí vận chuyển và sản xuất.",
-      "source": "Eva.vn · Báo Lao Động"
+      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố chính chi phối diễn biến giá dầu thế giới.",
+      "source": "Thanh Niên · Reuters"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#Vietcap",
-    "#NângHạngThịTrường",
-    "#DầuBrent",
-    "#KinhTếTrungQuốc",
-    "#TPHCM"
+    "#VNIndex",
+    "#Fed",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
