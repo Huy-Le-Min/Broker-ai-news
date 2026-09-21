@@ -1,90 +1,88 @@
 {
-  "date": "20/9/2026",
+  "date": "21/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnEconomy · Báo Lao Động · Baodautu.vn · VTV.vn · CafeF · Vietstock · Kiplinger · VOV · Báo Mới · Thanh Niên",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · VOV · LuatVietnam",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.210",
-      "change": "+0,38%",
-      "dir": "up"
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
       "value": "147,6tr",
-      "change": "+1,09%",
-      "dir": "up"
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "103,9$",
-      "change": "-0,91%",
-      "dir": "down"
+      "value": "104,68$",
+      "change": "+0,78%",
+      "dir": "up"
     }
   ],
-  "today_watch": "Việt Nam chính thức nâng hạng thị trường từ 21/9 (ngày mai).",
+  "today_watch": "Hôm nay, thị trường phản ứng với nâng hạng FTSE và diễn biến giá dầu.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Xuất nhập khẩu Việt Nam vượt 825 tỷ USD, nhập siêu nới rộng",
+      "headline": "USD chợ đen đảo chiều, thấp hơn ngân hàng chiều bán.",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu đạt hơn 825 tỷ USD tính đến giữa tháng 9/2026.",
-        "Nhập siêu nới rộng lên 23,5 tỷ USD, tăng 2,82 tỷ USD so với cuối tháng 8."
+        "Chiều bán ra USD chợ đen thấp hơn ngân hàng 270-290 đồng/USD.",
+        "Chiều mua vào USD chợ đen cao hơn ngân hàng 80-90 đồng/USD.",
+        "Hiện tượng hiếm, phản ánh tâm lý đầu cơ ngoại tệ giảm mạnh."
       ],
-      "insight": "Nhập siêu lớn cho thấy nhu cầu nhập khẩu nguyên liệu, máy móc phục vụ sản xuất tăng, cần theo dõi cán cân thương mại.",
-      "source": "Baodautu.vn · VTV.vn"
+      "insight": "Cho thấy niềm tin vào VND phục hồi, giảm áp lực tỷ giá.",
+      "source": "Bnews.vn · VOV"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giải ngân đầu tư công đạt 51,2% kế hoạch đến 10/9",
+      "headline": "Lãi suất chứng chỉ tiền gửi tăng vọt, lên 9%/năm.",
       "bullets": [
-        "Đến 10/9/2026, giải ngân đầu tư công đạt 523.813,6 tỷ đồng, hoàn thành 51,2% kế hoạch Thủ tướng giao.",
-        "Trong tuần đầu tháng 9, giải ngân thêm 10.508,9 tỷ đồng, cho thấy nỗ lực tăng tốc."
+        "Một số ngân hàng niêm yết chứng chỉ tiền gửi tới 9%/năm.",
+        "Mức lãi suất này cao hơn đáng kể so với tiết kiệm thông thường."
       ],
-      "insight": "Tăng tốc giải ngân cuối năm thúc đẩy tăng trưởng, hỗ trợ các ngành vật liệu, xây dựng và hạ tầng.",
-      "source": "Thời báo Tài chính Việt Nam · Vietstock"
+      "insight": "Hút vốn từ kênh tiết kiệm, tạo cạnh tranh lãi suất liên ngân hàng.",
+      "source": "Dân Việt"
     },
     {
       "cat": "Trong nước",
-      "headline": "Giá chung cư chững lại, đất nền điều chỉnh sâu hơn",
+      "headline": "Việt Nam chính thức nâng hạng thị trường FTSE Russell.",
       "bullets": [
-        "Giá chung cư tăng 8,4% từ đầu năm nhưng tốc độ chậm lại rõ rệt từ tháng 5/2026.",
-        "Giá đất nền dự án giảm 1,2% so với tháng 6, chỉ tăng 0,2% so với đầu năm."
+        "Từ 21/9, TTCK Việt Nam chính thức vào nhóm mới nổi thứ cấp.",
+        "Kỳ vọng thu hút 7-9 tỷ USD vốn ngoại trong 1-2 năm tới.",
+        "Dòng vốn thụ động dự kiến đạt 2-3 tỷ USD từ các quỹ ETF."
       ],
-      "insight": "Thị trường BĐS phân hóa mạnh, áp lực lãi suất khiến thanh khoản khó khăn hơn, nhà đầu tư thận trọng.",
-      "source": "Báo Lao Động · CafeBiz"
+      "insight": "Mở ra cơ hội lớn thu hút vốn ngoại, tăng thanh khoản thị trường.",
+      "source": "CafeF · VTV4 · Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed tăng lãi suất, lợi suất trái phiếu Mỹ vượt 5%",
+      "headline": "Dầu Brent tăng mạnh do căng thẳng Trung Đông, Nga.",
       "bullets": [
-        "Fed nâng lãi suất 0,25% lên 3,75-4% ngày 16/9, phát tín hiệu tiếp tục thắt chặt.",
-        "Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 10 năm vượt 5%, cao nhất từ 2023."
+        "Giá dầu Brent tăng 0,78% lên 104,68 USD/thùng sáng 21/9.",
+        "Căng thẳng Trung Đông, tấn công nhà máy lọc dầu Nga đẩy giá."
       ],
-      "insight": "Quyết định của Fed duy trì áp lực lên tỷ giá và dòng vốn ngoại, ảnh hưởng định giá tài sản toàn cầu.",
-      "source": "Kiplinger · VnEconomy"
+      "insight": "Tăng giá năng lượng toàn cầu, gây áp lực lạm phát và chi phí sản xuất.",
+      "source": "VOV · VietnamBiz"
     },
     {
       "cat": "Quốc tế",
-      "headline": "ECB tiếp tục tăng lãi suất, lạm phát Eurozone vẫn cao",
+      "headline": "Chứng khoán Mỹ phân hóa, Dow Jones giảm tuần thứ 3.",
       "bullets": [
-        "ECB tăng lãi suất lần thứ hai năm nay tại cuộc họp 9-10/9, duy trì chính sách thắt chặt.",
-        "Lạm phát Eurozone dự kiến vẫn trên 3% năm 2026, tăng trưởng kinh tế giảm tốc."
+        "Dow Jones giảm 1,7% tuần qua, ghi nhận tuần giảm thứ ba liên tiếp.",
+        "S&P 500 giảm 0,1%, Nasdaq tăng 0,7%; lợi suất trái phiếu Mỹ tăng."
       ],
-      "insight": "Chính sách tiền tệ thắt chặt của ECB góp phần vào xu hướng lãi suất toàn cầu, ảnh hưởng dòng vốn.",
-      "source": "VnEconomy · European Central Bank"
+      "insight": "Tâm lý thận trọng có thể lan sang thị trường châu Á và Việt Nam.",
+      "source": "VnEconomy · Người quan sát"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#KinhTếViệtNam",
-    "#Fed",
-    "#ECB",
-    "#BấtĐộngSản",
-    "#ĐầuTưCông",
-    "#XuấtNhậpKhẩu"
+    "#TTCKViệtNam",
+    "#VĩMô",
+    "#QuốcTế"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
