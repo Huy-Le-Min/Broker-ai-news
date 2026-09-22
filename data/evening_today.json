@@ -1,101 +1,103 @@
 {
-  "date": "21/9/2026",
+  "date": "22/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Investing.com · Thanh Niên · VnEconomy · Thời báo Ngân hàng",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · LuatVietnam · MoneyF · hanoimoi.com · Báo Mới · Vinanet · Chinhphu.vn · Cục Hải quan · CBRE · Bloomberg",
   "session": {
-    "vnindex_close": "1.799,67",
-    "vnindex_change": "-0,88%",
-    "vnindex_dir": "down",
-    "foreign_net": "Bán ròng gần 700 tỷ đồng",
-    "foreign_dir": "sell",
-    "volume": "17.317 tỷ",
-    "top_gainer": "Dầu khí, Công nghệ, Nguyên vật liệu"
+    "vnindex_close": "1.816,93",
+    "vnindex_change": "+0,96%",
+    "vnindex_dir": "up",
+    "foreign_net": "Mua ròng 350 tỷ",
+    "foreign_dir": "buy",
+    "volume": "18.500 tỷ",
+    "top_gainer": "VIC, MSN, Bất động sản"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.210",
-      "change": "flat",
-      "dir": "flat"
+      "change": "+0,04%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6 triệu",
-      "change": "-0,68%",
+      "value": "144,9 triệu",
+      "change": "-1,17%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "102$",
-      "change": "-1,5%",
+      "value": "100,3$",
+      "change": "-3,4%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Thị trường chờ phản ứng tiếp theo của dòng vốn ngoại và diễn biến địa chính trị.",
+  "tomorrow_watch": "Tiếp tục theo dõi phản ứng thị trường với chính sách Fed và dữ liệu lạm phát Mỹ.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index giảm mạnh sau nâng hạng FTSE",
+      "headline": "Đề xuất mới hỗ trợ SME: Miễn thuế, giảm thuê đất, tăng vốn.",
       "bullets": [
-        "VN-Index giảm 15,99 điểm (-0,88%) xuống 1.799,67 điểm trong phiên 21/9.",
-        "Thanh khoản HOSE đạt 17.317 tỷ đồng, cho thấy dòng tiền còn dè dặt.",
-        "Áp lực bán mạnh từ nhóm vốn hóa lớn, đặc biệt Vingroup."
+        "Dự thảo Luật Phát triển DNNVV 2026 nâng tiêu chí vốn từ 100 tỷ lên 150 tỷ đồng.",
+        "Đề xuất miễn thuế TNDN 3 năm cho SME mới thành lập, hỗ trợ lãi suất 2% dự án xanh.",
+        "Giảm tối thiểu 30% tiền thuê đất trong 5 năm đầu cho doanh nghiệp nhỏ và vừa."
       ],
-      "insight": "Phản ứng 'tin ra là bán' cho thấy thị trường cần thời gian hấp thụ kỳ vọng nâng hạng.",
-      "source": "Vietstock · CafeF · VnEconomy"
+      "insight": "Chính sách mới kỳ vọng thúc đẩy tăng trưởng khu vực tư nhân, cải thiện môi trường kinh doanh.",
+      "source": "LuatVietnam · Chinhphu.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Khối ngoại bán ròng gần 700 tỷ đồng",
+      "headline": "Bất động sản quý III: Thanh khoản ấm, giá thứ cấp giảm.",
       "bullets": [
-        "Khối ngoại bán ròng 663 tỷ đồng trên HOSE và 14 tỷ đồng trên HNX phiên 21/9.",
-        "Động thái này đảo chiều sau tuần mua ròng hơn 2.600 tỷ đồng trước đó.",
-        "Tập trung bán các mã vốn hóa lớn như VHM, VIC, FPT, SSI."
+        "Thanh khoản thị trường bất động sản có dấu hiệu hồi phục tích cực hơn trong quý III/2026.",
+        "Giá thứ cấp đã giảm 10-20%, nhiều doanh nghiệp điều chỉnh chính sách giá.",
+        "Nguồn cung nhà ở dịch chuyển mạnh sang các khu vực vệ tinh, hưởng lợi từ hạ tầng."
       ],
-      "insight": "Dòng vốn ngoại đảo chiều gây áp lực lên nhóm cổ phiếu trụ, ảnh hưởng tâm lý thị trường.",
-      "source": "Vietstock · CafeF · VnEconomy"
+      "insight": "Thị trường đang tái cấu trúc, hướng tới giá trị thực và bền vững hơn.",
+      "source": "MoneyF · hanoimoi.com · CBRE"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN nới lỏng tín dụng BĐS du lịch",
+      "headline": "Nhập siêu 2,8 tỷ USD nửa đầu tháng 9, xuất khẩu chậm lại.",
       "bullets": [
-        "NHNN loại trừ dư nợ tăng thêm khách sạn, khu nghỉ dưỡng khỏi tín dụng BĐS năm 2026.",
-        "Chính sách nhằm tạo điều kiện cấp tín dụng cho các loại hình phù hợp.",
-        "Động thái này có hiệu lực từ 1/1/2026 đến hết 31/12/2026."
+        "Nửa đầu tháng 9/2026, nhập khẩu tăng 7,16%, gần gấp ba tốc độ tăng 2,4% của xuất khẩu.",
+        "Cán cân thương mại thâm hụt 2,82 tỷ USD trong kỳ, tạo sức ép ngắn hạn.",
+        "Xuất khẩu chủ yếu nhờ máy vi tính, sản phẩm điện tử, linh kiện tăng 30,62%."
       ],
-      "insight": "Hỗ trợ dòng vốn cho phân khúc du lịch, nghỉ dưỡng, thúc đẩy phục hồi ngành.",
-      "source": "VnEconomy · Thời báo Ngân hàng"
+      "insight": "Nhập siêu gia tăng cho thấy nhu cầu sản xuất phục hồi nhưng cần cân đối cán cân thanh toán.",
+      "source": "Báo Mới · Cục Hải quan"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Quan chức Fed tiếp tục tín hiệu tăng lãi suất",
+      "headline": "Kinh tế Trung Quốc tháng 8: Công nghiệp tăng, tiêu dùng yếu.",
       "bullets": [
-        "Chủ tịch Fed St. Louis Musalem cho rằng cần tăng lãi suất thêm để kiềm chế lạm phát.",
-        "Lạm phát vẫn cao do nhu cầu mạnh và giá hàng hóa ngoài dầu mỏ tăng.",
-        "Dự báo còn thêm một đợt tăng lãi suất trong năm 2026."
+        "Sản lượng công nghiệp tháng 8 tăng 5,2%, vượt dự báo nhờ đầu tư AI và công nghệ cao.",
+        "Doanh số bán lẻ chỉ tăng 0,4%, chậm lại so với tháng 7, đầu tư tài sản cố định giảm 7,2%.",
+        "Mất cân đối giữa sản xuất và tiêu dùng nội địa tiếp tục gia tăng."
       ],
-      "insight": "Tín hiệu diều hâu từ Fed duy trì áp lực lên tỷ giá và chi phí vốn toàn cầu.",
-      "source": "Investing.com · Reuters · Vietstock"
+      "insight": "Sự phục hồi không đồng đều có thể thúc đẩy Bắc Kinh tung thêm kích thích.",
+      "source": "Vinanet · Báo Mới · Bloomberg"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Căng thẳng Trung Đông đẩy giá dầu biến động",
+      "headline": "Fed tăng lãi suất lần đầu sau 3 năm, Trump kêu gọi giảm.",
       "bullets": [
-        "Giá dầu Brent giao dịch quanh 102 USD/thùng, giảm 1,5% sáng 21/9.",
-        "Căng thẳng leo thang tại Trung Đông và Nga-Ukraine gây rủi ro nguồn cung.",
-        "Các chuyên gia dự báo giá dầu có thể biến động khó lường tuần này."
+        "Fed tăng lãi suất quỹ liên bang 0,25 điểm phần trăm lên 3,75-4% vào ngày 16/9.",
+        "Chủ tịch Fed Kevin Warsh bảo vệ quyết định do lạm phát cao kéo dài.",
+        "Tổng thống Trump bày tỏ mong muốn Fed cắt giảm lãi suất xuống 1% hoặc thấp hơn."
       ],
-      "insight": "Rủi ro địa chính trị tiếp tục là yếu tố chính chi phối diễn biến giá dầu thế giới.",
-      "source": "Thanh Niên · Reuters"
+      "insight": "Áp lực chính trị lên Fed có thể gia tăng, tạo bất ổn cho chính sách tiền tệ.",
+      "source": "Chinhphu.vn · VnEconomy"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
     "#Vietcap",
-    "#VNIndex",
-    "#Fed",
-    "#GiáDầu"
+    "#SME",
+    "#BấtĐộngSản",
+    "#ThươngMại",
+    "#KinhTếTrungQuốc",
+    "#Fed"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
