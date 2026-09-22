@@ -1,88 +1,87 @@
 {
-  "date": "21/9/2026",
+  "date": "22/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Bnews.vn · VOV · LuatVietnam",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews · Thời báo Tài chính Việt Nam · Báo Thanh Niên · Báo Dân trí · Ngoisao.vn · Báo Lâm Đồng · VietNamNet · PetroTimes",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.210",
-      "change": "0%",
-      "dir": "flat"
+      "change": "+10đ",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "147,6tr",
-      "change": "0%",
-      "dir": "flat"
+      "value": "146,6tr",
+      "change": "-1,0tr/lượng",
+      "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "104,68$",
-      "change": "+0,78%",
-      "dir": "up"
+      "value": "100,3$",
+      "change": "-3,4%",
+      "dir": "down"
     }
   ],
-  "today_watch": "Hôm nay, thị trường phản ứng với nâng hạng FTSE và diễn biến giá dầu.",
+  "today_watch": "Lễ trao Giải thưởng Quỹ đầu tư chứng khoán Việt Nam (VFA 2026) diễn ra tại TP.HCM.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "USD chợ đen đảo chiều, thấp hơn ngân hàng chiều bán.",
+      "headline": "VN-Index mất mốc 1.800 điểm ngay sau nâng hạng FTSE",
       "bullets": [
-        "Chiều bán ra USD chợ đen thấp hơn ngân hàng 270-290 đồng/USD.",
-        "Chiều mua vào USD chợ đen cao hơn ngân hàng 80-90 đồng/USD.",
-        "Hiện tượng hiếm, phản ánh tâm lý đầu cơ ngoại tệ giảm mạnh."
+        "Phiên 21/9, VN-Index giảm 15,99 điểm (-0,88%) xuống 1.799,67 điểm, mất mốc 1.800 điểm.",
+        "Khối ngoại bán ròng 664,19 tỷ đồng trên HoSE, tập trung VHM, VIC, FPT."
       ],
-      "insight": "Cho thấy niềm tin vào VND phục hồi, giảm áp lực tỷ giá.",
-      "source": "Bnews.vn · VOV"
+      "insight": "Áp lực chốt lời và dòng vốn ngoại thận trọng có thể kéo dài, ảnh hưởng tâm lý thị trường.",
+      "source": "Thời báo Tài chính Việt Nam · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lãi suất chứng chỉ tiền gửi tăng vọt, lên 9%/năm.",
+      "headline": "NHNN hoán đổi 2 tỷ USD, bơm thanh khoản cho ngân hàng",
       "bullets": [
-        "Một số ngân hàng niêm yết chứng chỉ tiền gửi tới 9%/năm.",
-        "Mức lãi suất này cao hơn đáng kể so với tiết kiệm thông thường."
+        "NHNN thông báo hoán đổi ngoại tệ kỳ hạn 7 ngày với TCTD, tổng khối lượng tối đa 2 tỷ USD.",
+        "Động thái này có thể cung ứng khoảng 48.812 tỷ đồng VND cho hệ thống ngân hàng."
       ],
-      "insight": "Hút vốn từ kênh tiết kiệm, tạo cạnh tranh lãi suất liên ngân hàng.",
-      "source": "Dân Việt"
+      "insight": "Giúp ổn định thanh khoản hệ thống, giảm áp lực lãi suất liên ngân hàng ngắn hạn.",
+      "source": "Báo Thanh Niên · CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Việt Nam chính thức nâng hạng thị trường FTSE Russell.",
+      "headline": "Nhập siêu Việt Nam đạt kỷ lục 23,5 tỷ USD đến giữa tháng 9",
       "bullets": [
-        "Từ 21/9, TTCK Việt Nam chính thức vào nhóm mới nổi thứ cấp.",
-        "Kỳ vọng thu hút 7-9 tỷ USD vốn ngoại trong 1-2 năm tới.",
-        "Dòng vốn thụ động dự kiến đạt 2-3 tỷ USD từ các quỹ ETF."
+        "Tổng kim ngạch xuất nhập khẩu đến 15/9 vượt 825 tỷ USD, nhập siêu lũy kế 23,5 tỷ USD.",
+        "Nhập siêu tăng thêm 2,8 tỷ USD chỉ trong 15 ngày đầu tháng 9."
       ],
-      "insight": "Mở ra cơ hội lớn thu hút vốn ngoại, tăng thanh khoản thị trường.",
-      "source": "CafeF · VTV4 · Báo Mới"
+      "insight": "Nhập siêu lớn gây áp lực lên cán cân thanh toán, có thể ảnh hưởng tỷ giá hối đoái.",
+      "source": "Báo Thanh Niên · Báo Dân trí · CafeF"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent tăng mạnh do căng thẳng Trung Đông, Nga.",
+      "headline": "Dầu Brent giảm mạnh dưới 101 USD/thùng, thấp nhất 12 ngày",
       "bullets": [
-        "Giá dầu Brent tăng 0,78% lên 104,68 USD/thùng sáng 21/9.",
-        "Căng thẳng Trung Đông, tấn công nhà máy lọc dầu Nga đẩy giá."
+        "Chốt phiên 21/9, dầu Brent giảm 3,4% xuống 100,34 USD/thùng, thấp nhất từ 9/9.",
+        "Kỳ vọng đàm phán Mỹ-Iran và nguồn cung Saudi Arabia phục hồi gây áp lực giảm giá."
       ],
-      "insight": "Tăng giá năng lượng toàn cầu, gây áp lực lạm phát và chi phí sản xuất.",
-      "source": "VOV · VietnamBiz"
+      "insight": "Giá dầu giảm hỗ trợ giảm chi phí sản xuất, giảm áp lực lạm phát toàn cầu.",
+      "source": "Reuters · Bnews · VietNamNet"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ phân hóa, Dow Jones giảm tuần thứ 3.",
+      "headline": "Chứng khoán Mỹ tăng mạnh, Nasdaq lập kỷ lục nhờ AI",
       "bullets": [
-        "Dow Jones giảm 1,7% tuần qua, ghi nhận tuần giảm thứ ba liên tiếp.",
-        "S&P 500 giảm 0,1%, Nasdaq tăng 0,7%; lợi suất trái phiếu Mỹ tăng."
+        "Phiên 21/9, Nasdaq tăng 2,26% lên kỷ lục 27.122,09 điểm; S&P 500 tăng 1,49%.",
+        "Cổ phiếu công nghệ và bán dẫn liên quan AI tăng vọt, Intel +12,2%, AMD +10%, Meta +11,4%."
       ],
-      "insight": "Tâm lý thận trọng có thể lan sang thị trường châu Á và Việt Nam.",
-      "source": "VnEconomy · Người quan sát"
+      "insight": "Tâm lý tích cực từ nhóm công nghệ Mỹ có thể lan tỏa, thúc đẩy dòng vốn rủi ro.",
+      "source": "Bnews · Vietstock"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
-    "#TTCKViệtNam",
-    "#VĩMô",
-    "#QuốcTế"
+    "#KinhTếViệtNam",
+    "#ThịTrườngQuốcTế",
+    "#GiáDầu",
+    "#NhậpSiêu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
