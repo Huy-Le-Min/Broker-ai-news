@@ -1,103 +1,97 @@
 {
-  "date": "22/9/2026",
+  "date": "23/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · LuatVietnam · MoneyF · hanoimoi.com · Báo Mới · Vinanet · Chinhphu.vn · Cục Hải quan · CBRE · Bloomberg",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.816,93",
-    "vnindex_change": "+0,96%",
-    "vnindex_dir": "up",
-    "foreign_net": "Mua ròng 350 tỷ",
-    "foreign_dir": "buy",
-    "volume": "18.500 tỷ",
-    "top_gainer": "VIC, MSN, Bất động sản"
+    "vnindex_close": "1.801,65",
+    "vnindex_change": "-0,84%",
+    "vnindex_dir": "down",
+    "foreign_net": "Bán ròng hơn 1.000 tỷ",
+    "foreign_dir": "sell",
+    "volume": "481 triệu",
+    "top_gainer": "Nhóm Truyền thông"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.210",
-      "change": "+0,04%",
-      "dir": "up"
+      "value": "Ổn định",
+      "change": "0%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,9 triệu",
-      "change": "-1,17%",
+      "value": "144,9 tr",
+      "change": "-1,16%",
       "dir": "down"
     },
     {
       "label": "Dầu Brent",
-      "value": "100,3$",
-      "change": "-3,4%",
+      "value": "99,25$",
+      "change": "-1,09%",
       "dir": "down"
     }
   ],
-  "tomorrow_watch": "Tiếp tục theo dõi phản ứng thị trường với chính sách Fed và dữ liệu lạm phát Mỹ.",
+  "tomorrow_watch": "Diễn biến thị trường quốc tế, chính sách tiền tệ",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "Đề xuất mới hỗ trợ SME: Miễn thuế, giảm thuê đất, tăng vốn.",
+      "headline": "IMF nâng dự báo GDP Việt Nam lên 8,2%",
       "bullets": [
-        "Dự thảo Luật Phát triển DNNVV 2026 nâng tiêu chí vốn từ 100 tỷ lên 150 tỷ đồng.",
-        "Đề xuất miễn thuế TNDN 3 năm cho SME mới thành lập, hỗ trợ lãi suất 2% dự án xanh.",
-        "Giảm tối thiểu 30% tiền thuê đất trong 5 năm đầu cho doanh nghiệp nhỏ và vừa."
+        "IMF nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 8,2%, tăng 1,1% so với dự báo tháng 4.",
+        "Kinh tế vĩ mô ổn định, xuất nhập khẩu 8 tháng tăng 28,7%, FDI đạt kỷ lục."
       ],
-      "insight": "Chính sách mới kỳ vọng thúc đẩy tăng trưởng khu vực tư nhân, cải thiện môi trường kinh doanh.",
-      "source": "LuatVietnam · Chinhphu.vn"
+      "insight": "Dự báo tích cực củng cố niềm tin, thu hút dòng vốn đầu tư vào Việt Nam.",
+      "source": "Báo Lâm Đồng · Báo Mới"
     },
     {
       "cat": "Trong nước",
-      "headline": "Bất động sản quý III: Thanh khoản ấm, giá thứ cấp giảm.",
+      "headline": "Thị trường trái phiếu doanh nghiệp sôi động",
       "bullets": [
-        "Thanh khoản thị trường bất động sản có dấu hiệu hồi phục tích cực hơn trong quý III/2026.",
-        "Giá thứ cấp đã giảm 10-20%, nhiều doanh nghiệp điều chỉnh chính sách giá.",
-        "Nguồn cung nhà ở dịch chuyển mạnh sang các khu vực vệ tinh, hưởng lợi từ hạ tầng."
+        "Hơn 10.000 tỷ đồng trái phiếu phát hành tuần 14-18/9, chủ yếu BĐS và ngân hàng.",
+        "Lãi suất bình quân 9,5%/năm, riêng BĐS duy trì mức 10,5% trong 8 tháng 2026."
       ],
-      "insight": "Thị trường đang tái cấu trúc, hướng tới giá trị thực và bền vững hơn.",
-      "source": "MoneyF · hanoimoi.com · CBRE"
+      "insight": "Dòng vốn tiếp tục tìm kiếm cơ hội, nhưng rủi ro lãi suất cao cần lưu ý.",
+      "source": "Thời báo Tài chính · VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu 2,8 tỷ USD nửa đầu tháng 9, xuất khẩu chậm lại.",
+      "headline": "NHNN tăng độc lập điều hành chính sách tiền tệ",
       "bullets": [
-        "Nửa đầu tháng 9/2026, nhập khẩu tăng 7,16%, gần gấp ba tốc độ tăng 2,4% của xuất khẩu.",
-        "Cán cân thương mại thâm hụt 2,82 tỷ USD trong kỳ, tạo sức ép ngắn hạn.",
-        "Xuất khẩu chủ yếu nhờ máy vi tính, sản phẩm điện tử, linh kiện tăng 30,62%."
+        "Chính phủ phê duyệt đề án tăng tính độc lập của NHNN giai đoạn 2026-2030.",
+        "Chuyển từ điều hành theo khối lượng sang chủ yếu theo giá, dùng công cụ gián tiếp."
       ],
-      "insight": "Nhập siêu gia tăng cho thấy nhu cầu sản xuất phục hồi nhưng cần cân đối cán cân thanh toán.",
-      "source": "Báo Mới · Cục Hải quan"
+      "insight": "Định hướng mới giúp chính sách tiền tệ linh hoạt, hiệu quả hơn trong dài hạn.",
+      "source": "VnEconomy"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc tháng 8: Công nghiệp tăng, tiêu dùng yếu.",
+      "headline": "Chứng khoán Mỹ phân hóa, Nasdaq lập đỉnh",
       "bullets": [
-        "Sản lượng công nghiệp tháng 8 tăng 5,2%, vượt dự báo nhờ đầu tư AI và công nghệ cao.",
-        "Doanh số bán lẻ chỉ tăng 0,4%, chậm lại so với tháng 7, đầu tư tài sản cố định giảm 7,2%.",
-        "Mất cân đối giữa sản xuất và tiêu dùng nội địa tiếp tục gia tăng."
+        "Nasdaq tăng 0,45% lập đỉnh mới nhờ cổ phiếu AI; S&P 500 đi ngang, Dow Jones giảm 0,36%.",
+        "Sự phân hóa cho thấy dòng tiền tập trung vào công nghệ thay vì tăng đồng đều."
       ],
-      "insight": "Sự phục hồi không đồng đều có thể thúc đẩy Bắc Kinh tung thêm kích thích.",
-      "source": "Vinanet · Báo Mới · Bloomberg"
+      "insight": "Dòng tiền toàn cầu tiếp tục ưu tiên công nghệ AI, tạo sức hút riêng biệt.",
+      "source": "Reuters · Doanh nhân & Công lý"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Fed tăng lãi suất lần đầu sau 3 năm, Trump kêu gọi giảm.",
+      "headline": "Kinh tế Trung Quốc tháng 8: Sản xuất tăng",
       "bullets": [
-        "Fed tăng lãi suất quỹ liên bang 0,25 điểm phần trăm lên 3,75-4% vào ngày 16/9.",
-        "Chủ tịch Fed Kevin Warsh bảo vệ quyết định do lạm phát cao kéo dài.",
-        "Tổng thống Trump bày tỏ mong muốn Fed cắt giảm lãi suất xuống 1% hoặc thấp hơn."
+        "Sản lượng công nghiệp tháng 8 tăng 5,2%; đầu tư tài sản cố định giảm 7,2%.",
+        "Doanh số bán lẻ chỉ tăng 0,4%, cho thấy nhu cầu nội địa vẫn còn yếu."
       ],
-      "insight": "Áp lực chính trị lên Fed có thể gia tăng, tạo bất ổn cho chính sách tiền tệ.",
-      "source": "Chinhphu.vn · VnEconomy"
+      "insight": "Kinh tế Trung Quốc đối mặt thách thức, cần thêm kích thích để phục hồi bền vững.",
+      "source": "Báo Mới · Bloomberg"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#Vietcap",
-    "#SME",
+    "#KinhTếVN",
+    "#ChínhSáchTiềnTệ",
+    "#ThịTrườngTráiPhiếu",
     "#BấtĐộngSản",
-    "#ThươngMại",
-    "#KinhTếTrungQuốc",
-    "#Fed"
+    "#KinhTếThếGiới"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
