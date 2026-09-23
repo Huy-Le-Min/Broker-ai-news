@@ -1,87 +1,86 @@
 {
-  "date": "22/9/2026",
+  "date": "23/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews · Thời báo Tài chính Việt Nam · Báo Thanh Niên · Báo Dân trí · Ngoisao.vn · Báo Lâm Đồng · VietNamNet · PetroTimes",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · Eva.vn · VietnamFinance · Báo Thanh Niên · Báo Mới · Bongdaplus · Investing.com · Báo Quân Đội Nhân Dân",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
       "value": "26.210",
-      "change": "+10đ",
-      "dir": "up"
+      "change": "0,00%",
+      "dir": "flat"
     },
     {
       "label": "Vàng SJC",
-      "value": "146,6tr",
-      "change": "-1,0tr/lượng",
-      "dir": "down"
+      "value": "145,5tr",
+      "change": "+0,41%",
+      "dir": "up"
     },
     {
       "label": "Dầu Brent",
-      "value": "100,3$",
-      "change": "-3,4%",
+      "value": "99,25$",
+      "change": "-1,09%",
       "dir": "down"
     }
   ],
-  "today_watch": "Lễ trao Giải thưởng Quỹ đầu tư chứng khoán Việt Nam (VFA 2026) diễn ra tại TP.HCM.",
+  "today_watch": "6 doanh nghiệp giao dịch cổ phiếu số lượng lớn, có thể tạo biến động.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index mất mốc 1.800 điểm ngay sau nâng hạng FTSE",
+      "headline": "VN-Index hồi phục, khối ngoại mua ròng 63 tỷ đồng",
       "bullets": [
-        "Phiên 21/9, VN-Index giảm 15,99 điểm (-0,88%) xuống 1.799,67 điểm, mất mốc 1.800 điểm.",
-        "Khối ngoại bán ròng 664,19 tỷ đồng trên HoSE, tập trung VHM, VIC, FPT."
+        "VN-Index tăng 17,26 điểm lên 1.816,93 điểm phiên 22/9, song thanh khoản giảm sâu 28% so với trung bình 20 phiên.",
+        "Đà tăng chủ yếu nhờ VIC, VHM; khối ngoại mua ròng 63 tỷ đồng trên HoSE."
       ],
-      "insight": "Áp lực chốt lời và dòng vốn ngoại thận trọng có thể kéo dài, ảnh hưởng tâm lý thị trường.",
-      "source": "Thời báo Tài chính Việt Nam · Báo Mới"
+      "insight": "Thị trường có tín hiệu tích cực từ chỉ số và dòng vốn ngoại, nhưng thanh khoản thấp cho thấy tâm lý thận trọng.",
+      "source": "Báo Mới, VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN hoán đổi 2 tỷ USD, bơm thanh khoản cho ngân hàng",
+      "headline": "Lạm phát 8 tháng sát mục tiêu 4,5%; Bộ Tài chính cảnh báo rủi ro",
       "bullets": [
-        "NHNN thông báo hoán đổi ngoại tệ kỳ hạn 7 ngày với TCTD, tổng khối lượng tối đa 2 tỷ USD.",
-        "Động thái này có thể cung ứng khoảng 48.812 tỷ đồng VND cho hệ thống ngân hàng."
+        "CPI bình quân 8 tháng đầu năm 2026 tăng 4,45%, tiến sát mục tiêu 4,5% của Quốc hội.",
+        "Bộ Tài chính đưa ra hai kịch bản lạm phát 2026 (4,5% và 5%), cảnh báo áp lực từ giá năng lượng và đầu tư công."
       ],
-      "insight": "Giúp ổn định thanh khoản hệ thống, giảm áp lực lãi suất liên ngân hàng ngắn hạn.",
-      "source": "Báo Thanh Niên · CafeF"
+      "insight": "Áp lực lạm phát cuối năm vẫn cao, có thể thúc đẩy chính sách tiền tệ thận trọng hơn.",
+      "source": "VnEconomy, VietnamFinance, CafeF"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu Việt Nam đạt kỷ lục 23,5 tỷ USD đến giữa tháng 9",
+      "headline": "Nhập siêu tích lũy 23,5 tỷ USD; nhập khẩu tăng gấp 3 xuất khẩu",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu đến 15/9 vượt 825 tỷ USD, nhập siêu lũy kế 23,5 tỷ USD.",
-        "Nhập siêu tăng thêm 2,8 tỷ USD chỉ trong 15 ngày đầu tháng 9."
+        "Tổng kim ngạch xuất nhập khẩu đạt 825 tỷ USD đến 15/9, nhập siêu lũy kế 23,5 tỷ USD.",
+        "Nửa đầu tháng 9, nhập khẩu tăng 7,16%, gần gấp ba tốc độ tăng 2,4% của xuất khẩu."
       ],
-      "insight": "Nhập siêu lớn gây áp lực lên cán cân thanh toán, có thể ảnh hưởng tỷ giá hối đoái.",
-      "source": "Báo Thanh Niên · Báo Dân trí · CafeF"
+      "insight": "Nhập siêu lớn và tốc độ nhập khẩu tăng nhanh hơn xuất khẩu gây áp lực lên tỷ giá và cán cân thanh toán.",
+      "source": "Báo Thanh Niên, Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent giảm mạnh dưới 101 USD/thùng, thấp nhất 12 ngày",
+      "headline": "Nasdaq lập kỷ lục phiên thứ hai; cổ phiếu AI dẫn dắt đà tăng",
       "bullets": [
-        "Chốt phiên 21/9, dầu Brent giảm 3,4% xuống 100,34 USD/thùng, thấp nhất từ 9/9.",
-        "Kỳ vọng đàm phán Mỹ-Iran và nguồn cung Saudi Arabia phục hồi gây áp lực giảm giá."
+        "Nasdaq Composite tăng 0,45% lên 27.244,28 điểm, lập kỷ lục đóng cửa phiên 22/9.",
+        "Đà tăng được dẫn dắt bởi cổ phiếu chip Micron Technology và các mã liên quan AI."
       ],
-      "insight": "Giá dầu giảm hỗ trợ giảm chi phí sản xuất, giảm áp lực lạm phát toàn cầu.",
-      "source": "Reuters · Bnews · VietNamNet"
+      "insight": "Tâm lý tích cực từ nhóm công nghệ và AI toàn cầu có thể lan tỏa, hỗ trợ thị trường Việt Nam.",
+      "source": "Bnews.vn, VnEconomy, Investing.com"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ tăng mạnh, Nasdaq lập kỷ lục nhờ AI",
+      "headline": "Dầu Brent dưới 100 USD; kỳ vọng đàm phán Mỹ-Iran",
       "bullets": [
-        "Phiên 21/9, Nasdaq tăng 2,26% lên kỷ lục 27.122,09 điểm; S&P 500 tăng 1,49%.",
-        "Cổ phiếu công nghệ và bán dẫn liên quan AI tăng vọt, Intel +12,2%, AMD +10%, Meta +11,4%."
+        "Giá dầu Brent giảm xuống 99,25 USD/thùng, mất mốc 100 USD do nguồn cung Saudi Arabia cải thiện.",
+        "Kỳ vọng đàm phán Mỹ-Iran có thể giảm căng thẳng Trung Đông, dù Trump nói thỏa thuận sau bầu cử."
       ],
-      "insight": "Tâm lý tích cực từ nhóm công nghệ Mỹ có thể lan tỏa, thúc đẩy dòng vốn rủi ro.",
-      "source": "Bnews · Vietstock"
+      "insight": "Giá dầu giảm là yếu tố tích cực cho kinh tế Việt Nam, nhưng địa chính trị vẫn tiềm ẩn rủi ro.",
+      "source": "Eva.vn, VietNamNet, Báo Mới, Bongdaplus"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngQuốcTế",
-    "#GiáDầu",
-    "#NhậpSiêu"
+    "#ThịTrườngDầu",
+    "#LạmPhát"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
