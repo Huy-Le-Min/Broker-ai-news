@@ -1,97 +1,95 @@
 {
-  "date": "23/9/2026",
+  "date": "24/9/2026",
   "title": "Điểm lại phiên · tin cuối ngày",
   "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC",
   "session": {
-    "vnindex_close": "1.801,65",
-    "vnindex_change": "-0,84%",
+    "vnindex_close": "1.775,09",
+    "vnindex_change": "-1,47%",
     "vnindex_dir": "down",
-    "foreign_net": "Bán ròng hơn 1.000 tỷ",
+    "foreign_net": "Bán ròng 918 tỷ",
     "foreign_dir": "sell",
-    "volume": "481 triệu",
-    "top_gainer": "Nhóm Truyền thông"
+    "volume": "≈516 triệu",
+    "top_gainer": "Truyền thông, Hóa chất, Thực phẩm & Đồ uống"
   },
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "Ổn định",
-      "change": "0%",
-      "dir": "flat"
+      "value": "25.850",
+      "change": "...",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
-      "value": "144,9 tr",
-      "change": "-1,16%",
-      "dir": "down"
+      "value": "144,9tr",
+      "change": "...",
+      "dir": "flat"
     },
     {
       "label": "Dầu Brent",
-      "value": "99,25$",
-      "change": "-1,09%",
-      "dir": "down"
+      "value": "103,31$",
+      "change": "+4,83%",
+      "dir": "up"
     }
   ],
-  "tomorrow_watch": "Diễn biến thị trường quốc tế, chính sách tiền tệ",
+  "tomorrow_watch": "Diễn biến thị trường toàn cầu, giá hàng hóa.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "IMF nâng dự báo GDP Việt Nam lên 8,2%",
+      "headline": "ADB nâng dự báo GDP Việt Nam, cảnh báo rủi ro tín dụng.",
       "bullets": [
-        "IMF nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 8,2%, tăng 1,1% so với dự báo tháng 4.",
-        "Kinh tế vĩ mô ổn định, xuất nhập khẩu 8 tháng tăng 28,7%, FDI đạt kỷ lục."
+        "ADB nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,8% (từ 7,2%), lạm phát 4,3%.",
+        "Cảnh báo tổng dư nợ tín dụng ngân hàng tương đương 145% GDP cuối 2025, tiềm ẩn rủi ro."
       ],
-      "insight": "Dự báo tích cực củng cố niềm tin, thu hút dòng vốn đầu tư vào Việt Nam.",
-      "source": "Báo Lâm Đồng · Báo Mới"
+      "insight": "Tăng trưởng tích cực nhưng cần thận trọng quản lý rủi ro tín dụng để đảm bảo ổn định tài chính.",
+      "source": "ADB, VnEconomy, Báo Chính phủ"
     },
     {
       "cat": "Trong nước",
-      "headline": "Thị trường trái phiếu doanh nghiệp sôi động",
+      "headline": "Bất động sản phân hóa mạnh, giá đất nền giảm sâu.",
       "bullets": [
-        "Hơn 10.000 tỷ đồng trái phiếu phát hành tuần 14-18/9, chủ yếu BĐS và ngân hàng.",
-        "Lãi suất bình quân 9,5%/năm, riêng BĐS duy trì mức 10,5% trong 8 tháng 2026."
+        "Giá thứ cấp tại nhiều dự án giảm hàng trăm triệu đồng, đất nền vùng ven Hà Nội cắt lỗ.",
+        "Thị trường đang chuyển từ 'giá kỳ vọng' sang 'giá trị thực', thanh khoản chịu áp lực."
       ],
-      "insight": "Dòng vốn tiếp tục tìm kiếm cơ hội, nhưng rủi ro lãi suất cao cần lưu ý.",
-      "source": "Thời báo Tài chính · VnEconomy"
+      "insight": "Dòng tiền đang thận trọng, nhà đầu tư cần đánh giá kỹ giá trị thực của tài sản.",
+      "source": "Biggee.vn, Vietstock, VnEconomy, Báo Thanh Niên"
     },
     {
       "cat": "Trong nước",
-      "headline": "NHNN tăng độc lập điều hành chính sách tiền tệ",
+      "headline": "Giải ngân đầu tư công đạt 52,9%, TP.HCM đặt mục tiêu cao.",
       "bullets": [
-        "Chính phủ phê duyệt đề án tăng tính độc lập của NHNN giai đoạn 2026-2030.",
-        "Chuyển từ điều hành theo khối lượng sang chủ yếu theo giá, dùng công cụ gián tiếp."
+        "Đến 17/9/2026, giải ngân đầu tư công cả nước đạt 540.597 tỷ đồng, 52,9% kế hoạch.",
+        "TP.HCM phấn đấu đạt 70% giải ngân vốn đầu tư công vào cuối quý III/2026."
       ],
-      "insight": "Định hướng mới giúp chính sách tiền tệ linh hoạt, hiệu quả hơn trong dài hạn.",
-      "source": "VnEconomy"
+      "insight": "Đẩy mạnh đầu tư công cuối năm sẽ là động lực quan trọng thúc đẩy tăng trưởng kinh tế.",
+      "source": "Bộ Tài chính, Chinhphu.vn, Báo Đấu thầu"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Chứng khoán Mỹ phân hóa, Nasdaq lập đỉnh",
+      "headline": "Fed tăng lãi suất 25 điểm, DXY vượt 100 điểm.",
       "bullets": [
-        "Nasdaq tăng 0,45% lập đỉnh mới nhờ cổ phiếu AI; S&P 500 đi ngang, Dow Jones giảm 0,36%.",
-        "Sự phân hóa cho thấy dòng tiền tập trung vào công nghệ thay vì tăng đồng đều."
+        "Fed tăng lãi suất thêm 25 điểm cơ bản, đưa mục tiêu lên 3,75%–4,00% tháng 9/2026.",
+        "Chỉ số DXY tăng mạnh, vượt mốc 100 điểm sau quyết định của Fed."
       ],
-      "insight": "Dòng tiền toàn cầu tiếp tục ưu tiên công nghệ AI, tạo sức hút riêng biệt.",
-      "source": "Reuters · Doanh nhân & Công lý"
+      "insight": "Chính sách thắt chặt của Fed gây áp lực lên tỷ giá và chi phí vốn toàn cầu.",
+      "source": "CafeF, Vietstock"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Kinh tế Trung Quốc tháng 8: Sản xuất tăng",
+      "headline": "Kinh tế Trung Quốc mất cân bằng, tiêu dùng yếu.",
       "bullets": [
-        "Sản lượng công nghiệp tháng 8 tăng 5,2%; đầu tư tài sản cố định giảm 7,2%.",
-        "Doanh số bán lẻ chỉ tăng 0,4%, cho thấy nhu cầu nội địa vẫn còn yếu."
+        "Tháng 8/2026, doanh số bán lẻ tăng 0,4%, đầu tư tài sản cố định giảm 7,2%.",
+        "Sản lượng công nghiệp tăng 5,2%, nhưng nhu cầu nội địa vẫn còn yếu."
       ],
-      "insight": "Kinh tế Trung Quốc đối mặt thách thức, cần thêm kích thích để phục hồi bền vững.",
-      "source": "Báo Mới · Bloomberg"
+      "insight": "Sự phục hồi không đồng đều có thể đòi hỏi thêm các biện pháp kích thích từ Bắc Kinh.",
+      "source": "Cục Thống kê Quốc gia Trung Quốc, Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinTối",
     "#ChứngKhoán",
-    "#KinhTếVN",
-    "#ChínhSáchTiềnTệ",
-    "#ThịTrườngTráiPhiếu",
-    "#BấtĐộngSản",
-    "#KinhTếThếGiới"
+    "#KinhTếViệtNam",
+    "#Fed",
+    "#BấtĐộngSản"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
