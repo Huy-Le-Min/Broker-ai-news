@@ -1,13 +1,13 @@
 {
-  "date": "23/9/2026",
+  "date": "24/9/2026",
   "title": "5 tin cần biết sáng nay",
-  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics · Bnews.vn · Eva.vn · VietnamFinance · Báo Thanh Niên · Báo Mới · Bongdaplus · Investing.com · Báo Quân Đội Nhân Dân",
+  "sources": "VnExpress · CafeF · Vietstock · Reuters · CNBC · Trading Economics",
   "snapshot": [
     {
       "label": "Tỷ giá USD/VND",
-      "value": "26.210",
-      "change": "0,00%",
-      "dir": "flat"
+      "value": "26.190",
+      "change": "+0,04%",
+      "dir": "up"
     },
     {
       "label": "Vàng SJC",
@@ -17,70 +17,75 @@
     },
     {
       "label": "Dầu Brent",
-      "value": "99,25$",
-      "change": "-1,09%",
-      "dir": "down"
+      "value": "103,31$",
+      "change": "+4,83%",
+      "dir": "up"
     }
   ],
-  "today_watch": "6 doanh nghiệp giao dịch cổ phiếu số lượng lớn, có thể tạo biến động.",
+  "today_watch": "Diễn biến dòng vốn ngoại, giá dầu thế giới và các chính sách vĩ mô.",
   "items": [
     {
       "cat": "Trong nước",
-      "headline": "VN-Index hồi phục, khối ngoại mua ròng 63 tỷ đồng",
+      "headline": "VN-Index giảm mạnh, khối ngoại bán ròng kỷ lục",
       "bullets": [
-        "VN-Index tăng 17,26 điểm lên 1.816,93 điểm phiên 22/9, song thanh khoản giảm sâu 28% so với trung bình 20 phiên.",
-        "Đà tăng chủ yếu nhờ VIC, VHM; khối ngoại mua ròng 63 tỷ đồng trên HoSE."
+        "Phiên 23/9, VN-Index giảm 15,28 điểm (-0,84%) xuống 1.801,65 điểm.",
+        "Khối ngoại bán ròng hơn 1.050 tỷ đồng trên HoSE, cao nhất 3 tuần qua.",
+        "Áp lực bán tập trung vào các mã ngân hàng như VPB, ACB, VHM, TCB."
       ],
-      "insight": "Thị trường có tín hiệu tích cực từ chỉ số và dòng vốn ngoại, nhưng thanh khoản thấp cho thấy tâm lý thận trọng.",
-      "source": "Báo Mới, VnEconomy"
+      "insight": "Dòng vốn ngoại rút ròng mạnh gây áp lực lớn lên tâm lý thị trường và các cổ phiếu vốn hóa lớn.",
+      "source": "CafeF, Vietstock, VnEconomy"
     },
     {
       "cat": "Trong nước",
-      "headline": "Lạm phát 8 tháng sát mục tiêu 4,5%; Bộ Tài chính cảnh báo rủi ro",
+      "headline": "Thị trường bất động sản quý III: Giá thứ cấp giảm sâu",
       "bullets": [
-        "CPI bình quân 8 tháng đầu năm 2026 tăng 4,45%, tiến sát mục tiêu 4,5% của Quốc hội.",
-        "Bộ Tài chính đưa ra hai kịch bản lạm phát 2026 (4,5% và 5%), cảnh báo áp lực từ giá năng lượng và đầu tư công."
+        "Thanh khoản thị trường bất động sản quý III/2026 có dấu hiệu cải thiện.",
+        "Giá bất động sản thứ cấp đã giảm 10-20% so với đỉnh.",
+        "Giá nhà mặt phố Hà Nội giảm 2%, nhà riêng giảm 1% so với quý I."
       ],
-      "insight": "Áp lực lạm phát cuối năm vẫn cao, có thể thúc đẩy chính sách tiền tệ thận trọng hơn.",
-      "source": "VnEconomy, VietnamFinance, CafeF"
+      "insight": "Thị trường đang tái cân bằng, người mua chú trọng giá trị thực và khả năng tạo dòng tiền.",
+      "source": "MoneyF, Batdongsan.com.vn"
     },
     {
       "cat": "Trong nước",
-      "headline": "Nhập siêu tích lũy 23,5 tỷ USD; nhập khẩu tăng gấp 3 xuất khẩu",
+      "headline": "Giá thép trong nước giằng co, chờ điều chỉnh",
       "bullets": [
-        "Tổng kim ngạch xuất nhập khẩu đạt 825 tỷ USD đến 15/9, nhập siêu lũy kế 23,5 tỷ USD.",
-        "Nửa đầu tháng 9, nhập khẩu tăng 7,16%, gần gấp ba tốc độ tăng 2,4% của xuất khẩu."
+        "Giá thép xây dựng trong nước ghi nhận giằng co, một số thương hiệu điều chỉnh giảm.",
+        "Thép Hòa Phát CB240 niêm yết 14.850 đồng/kg ngày 24/9.",
+        "Gián đoạn nguồn cung tại Brazil và nhu cầu yếu Trung Quốc ảnh hưởng giá."
       ],
-      "insight": "Nhập siêu lớn và tốc độ nhập khẩu tăng nhanh hơn xuất khẩu gây áp lực lên tỷ giá và cán cân thanh toán.",
-      "source": "Báo Thanh Niên, Báo Mới"
+      "insight": "Giá thép biến động cho thấy ngành xây dựng vẫn đối mặt nhiều thách thức về chi phí nguyên liệu.",
+      "source": "SteelOnline.vn, Báo Mới"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Nasdaq lập kỷ lục phiên thứ hai; cổ phiếu AI dẫn dắt đà tăng",
+      "headline": "Kinh tế Trung Quốc: Công nghiệp công nghệ cao tăng trưởng mạnh",
       "bullets": [
-        "Nasdaq Composite tăng 0,45% lên 27.244,28 điểm, lập kỷ lục đóng cửa phiên 22/9.",
-        "Đà tăng được dẫn dắt bởi cổ phiếu chip Micron Technology và các mã liên quan AI."
+        "Doanh thu ngành công nghệ cao Trung Quốc tăng 15,7% trong 8 tháng đầu năm 2026.",
+        "Sản xuất mạch tích hợp AI tăng 67,7%, thiết bị xe thông minh tăng 38,8%.",
+        "Lãi suất cho vay (LPR) 1 năm và 5 năm tháng 9 giữ nguyên 3,0% và 3,5%."
       ],
-      "insight": "Tâm lý tích cực từ nhóm công nghệ và AI toàn cầu có thể lan tỏa, hỗ trợ thị trường Việt Nam.",
-      "source": "Bnews.vn, VnEconomy, Investing.com"
+      "insight": "Tăng trưởng công nghệ cao và chính sách tiền tệ ổn định hỗ trợ đà phục hồi kinh tế Trung Quốc.",
+      "source": "KuCoin, State Taxation Administration"
     },
     {
       "cat": "Quốc tế",
-      "headline": "Dầu Brent dưới 100 USD; kỳ vọng đàm phán Mỹ-Iran",
+      "headline": "Căng thẳng Mỹ-Iran leo thang, đẩy giá dầu Brent vượt 103 USD",
       "bullets": [
-        "Giá dầu Brent giảm xuống 99,25 USD/thùng, mất mốc 100 USD do nguồn cung Saudi Arabia cải thiện.",
-        "Kỳ vọng đàm phán Mỹ-Iran có thể giảm căng thẳng Trung Đông, dù Trump nói thỏa thuận sau bầu cử."
+        "Giá dầu Brent tăng mạnh 4,83% lên 103,31 USD/thùng sáng 24/9.",
+        "Tổng thống Iran tuyên bố không đầu hàng Mỹ, sau cảnh báo của Tổng thống Trump.",
+        "Căng thẳng địa chính trị tại Trung Đông tiếp tục gây lo ngại về nguồn cung."
       ],
-      "insight": "Giá dầu giảm là yếu tố tích cực cho kinh tế Việt Nam, nhưng địa chính trị vẫn tiềm ẩn rủi ro.",
-      "source": "Eva.vn, VietNamNet, Báo Mới, Bongdaplus"
+      "insight": "Rủi ro địa chính trị gia tăng đẩy giá dầu lên cao, có thể ảnh hưởng lạm phát toàn cầu.",
+      "source": "Reuters, VietnamBiz, Báo Mới"
     }
   ],
   "hashtags": [
     "#BảnTinSáng",
     "#ChứngKhoán",
     "#KinhTếViệtNam",
-    "#ThịTrườngDầu",
-    "#LạmPhát"
+    "#ThịTrườngQuốcTế",
+    "#GiáDầu"
   ],
   "disclaimer": "Tự động tổng hợp từ nguồn công khai, mang tính tham khảo, không phải khuyến nghị mua/bán."
 }
